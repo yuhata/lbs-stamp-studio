@@ -473,3 +473,41 @@ body {
   cursor: pointer;
   font-size: 13px;
 }
+
+/* === NG Tags === */
+.ng-tag { padding: 4px 10px; border: 1px solid var(--border); border-radius: 12px; background: none; color: var(--text-muted); font-size: 12px; cursor: pointer; transition: all 0.15s; }
+.ng-tag:hover { border-color: var(--accent-red); color: var(--accent-red); }
+.ng-tag.selected { background: rgba(239, 83, 80, 0.2); border-color: var(--accent-red); color: var(--accent-red); }
+.ng-count-badge { position: absolute; top: 8px; left: 8px; padding: 2px 6px; border-radius: 8px; font-size: 10px; font-weight: 600; background: var(--accent-red); color: #fff; }
+.ng-log { padding: 24px; }
+.ng-summary { display: flex; gap: 12px; margin-bottom: 24px; flex-wrap: wrap; }
+.ng-summary-card { padding: 14px 20px; background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px; text-align: center; min-width: 90px; transition: all 0.2s; }
+.ng-summary-card:hover { border-color: var(--accent); }
+.ng-summary-card.active { background: var(--bg-hover); }
+.ng-summary-card[data-highlight] { border-color: var(--accent); }
+.ng-summary-number { font-size: 24px; font-weight: 700; }
+.ng-summary-label { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
+.ng-prompt-suggestions { background: rgba(255, 107, 53, 0.08); border: 1px solid rgba(255, 107, 53, 0.25); border-radius: 10px; padding: 16px 20px; margin-bottom: 24px; }
+.ng-prompt-suggestions h3 { font-size: 15px; color: var(--accent); margin-bottom: 4px; }
+.ng-prompt-desc { font-size: 12px; color: var(--text-muted); margin-bottom: 12px; }
+.ng-suggestion-row { padding: 8px 0; border-bottom: 1px solid rgba(255, 107, 53, 0.1); }
+.ng-suggestion-row:last-child { border-bottom: none; }
+.ng-suggestion-reason { font-size: 13px; color: var(--text); }
+.ng-suggestion-count { display: inline-block; background: var(--accent-red); color: #fff; padding: 1px 6px; border-radius: 8px; font-size: 11px; margin-right: 8px; }
+.ng-suggestion-hint { font-size: 12px; color: var(--accent); margin-top: 4px; padding-left: 16px; }
+.ng-ranking { margin-bottom: 24px; }
+.ng-ranking h3 { font-size: 15px; margin-bottom: 12px; }
+.ng-rank-row { display: flex; align-items: center; gap: 10px; margin-bottom: 6px; }
+.ng-rank-bar-wrapper { width: 120px; height: 18px; background: var(--bg-card); border-radius: 4px; overflow: hidden; flex-shrink: 0; }
+.ng-rank-bar { height: 100%; border-radius: 4px; transition: width 0.3s; }
+.ng-rank-label { font-size: 13px; color: var(--text); flex: 1; }
+.ng-rank-count { font-size: 13px; color: var(--text-muted); font-weight: 600; }
+.ng-log-list h3 { font-size: 15px; }
+.ng-log-entry { padding: 10px 14px; background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; margin-bottom: 8px; }
+.ng-log-entry-header { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.ng-category-tag { padding: 2px 8px; border-radius: 8px; font-size: 10px; font-weight: 600; color: #fff; }
+.ng-log-reason { font-size: 13px; color: var(--text); font-weight: 600; }
+.ng-log-spot { font-size: 11px; color: var(--text-muted); }
+.ng-log-date { font-size: 11px; color: var(--text-muted); margin-left: auto; }
+.ng-log-note { font-size: 12px; color: var(--text-muted); margin-top: 4px; padding-left: 4px; }
+.ng-log-hint { font-size: 11px; color: var(--accent); margin-top: 4px; padding-left: 4px; }
