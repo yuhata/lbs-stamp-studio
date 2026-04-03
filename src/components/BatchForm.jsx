@@ -21,6 +21,33 @@ export default function BatchForm({ stamps, setStamps }) {
   const [count, setCount] = useState(10)
   const [generating, setGenerating] = useState(false)
 
+  const DEFAULT_PROMPT = `Japanese station stamp — a rubber ink impression.
+No letters, kanji, kana, numbers, dates, labels, or symbols — anywhere in the image.
+{SPOT_NAME} is a SHAPE REFERENCE only. Render its silhouette. NEVER write its name.
+
+--- STAMP FORMAT ---
+CIRCULAR ink stamp, fills ~90% canvas height. Flat off-white background (#FFFFFF) outside circle.
+NO rectangular frames. NOT a postage stamp. Ink impression has slightly uneven pressure.
+
+--- INSIDE THE STAMP ---
+Street View perspective of {SPOT_NAME}. Street leads eye to landmark in background.
+Landmark silhouette fills ~45–55% of the circle. Wide breathing space inside.
+
+--- INK TEXTURE ---
+Subtle rubber-stamp ink effect inside the circle only. Gentle ink bleed at edges.
+Mostly even ink pressure. Any grain strictly within the stamp boundary.
+
+--- COLOR ---
+Use 2–4 ink colors from: {PALETTE}.
+Colors appear as absorbed ink, slightly muted and desaturated.
+
+--- VISUAL STYLE ---
+Flat graphic shapes, geometric simplification, NO gradients.
+Strong silhouette, Showa-era retro illustration. NO photorealism. Flat off-white background.
+Image size: 512x512 pixels.`
+
+  const [promptTemplate, setPromptTemplate] = useState(DEFAULT_PROMPT)
+
   const handleGenerate = async () => {
     if (!spotName.trim()) return
     setGenerating(true)
@@ -115,19 +142,25 @@ export default function BatchForm({ stamps, setStamps }) {
       </div>
 
       <div className="form-group">
-        <label>プロンプトテンプレート（読み取り専用）</label>
+        <label>プロンプトテンプレート（編集可能）</label>
+        <div style={{ fontSize: 11, color: 'var(--text-muted)', marginBottom: 6 }}>
+          変数: {'{SPOT_NAME}'} → スポット名 / {'{PALETTE}'} → パレット / {'{STYLE}'} → 構図スタイル
+        </div>
         <textarea
-          rows={6}
-          readOnly
-          style={{ fontSize: 11, opacity: 0.7 }}
-          value={`Japanese station stamp — a rubber ink impression.
-Subject silhouette: ${spotName || '{SPOT_NAME}'}
-Palette: ${palette.join(', ')}
-Style: ${style}
-
-No letters, kanji, kana, numbers, dates, labels, or symbols anywhere.
-CIRCULAR ink stamp, Showa-era retro illustration, flat graphic shapes.`}
+          rows={14}
+          style={{ fontSize: 12, lineHeight: 1.5 }}
+          value={promptTemplate}
+          onChange={e => setPromptTemplate(e.target.value)}
         />
+        <div style={{ display: 'flex', gap: 8, marginTop: 8 }}>
+          <button
+            className="filter-btn"
+            onClick={() => setPromptTemplate(DEFAULT_PROMPT)}
+          >デフォルトに戻す</button>
+          <span style={{ fontSize: 11, color: 'var(--text-muted)', alignSelf: 'center' }}>
+            プレビュー: {'{SPOT_NAME}'} → {spotName || '(未入力)'} / {'{PALETTE}'} → {palette.join(', ')}
+          </span>
+        </div>
       </div>
 
       <button
