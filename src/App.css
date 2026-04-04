@@ -551,3 +551,17 @@ body {
 .popup-view-btn { width: 100%; padding: 6px; background: var(--accent); border: none; border-radius: 6px; color: #fff; font-size: 12px; cursor: pointer; }
 .popup-view-btn:hover { opacity: 0.9; }
 .custom-marker { background: none !important; border: none !important; }
+
+/* === Map Layer Controls === */
+.map-layer-controls { display: flex; gap: 8px; padding: 10px 16px; background: var(--bg-card); border-bottom: 1px solid var(--border); align-items: center; flex-wrap: wrap; z-index: 10; position: relative; }
+.map-layer-btn { padding: 4px 12px; border: 1px solid var(--border); border-radius: 14px; background: none; color: var(--text-muted); font-size: 12px; cursor: pointer; transition: all 0.2s; display: flex; align-items: center; gap: 6px; }
+.map-layer-btn:hover { border-color: var(--accent); color: var(--text); }
+.map-layer-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+.map-layer-count { background: rgba(255,255,255,0.15); padding: 1px 6px; border-radius: 8px; font-size: 10px; }
+.map-layer-btn.active .map-layer-count { background: rgba(255,255,255,0.25); }
+.map-total { font-size: 12px; color: var(--accent); margin-left: auto; }
+.popup-type-badge { padding: 1px 6px; border-radius: 6px; font-size: 10px; font-weight: 600; color: #fff; margin-right: 6px; }
+.popup-type-badge.landmark { background: var(--accent); }
+.popup-type-badge.shrine { background: #E65100; }
+.popup-type-badge.temple { background: #4E342E; }
+.popup-type-badge.station { background: #1565C0; }

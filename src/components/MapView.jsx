@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
@@ -15,8 +15,20 @@ const AREA_COLORS = {
   shinjuku: '#BF360C',
 }
 
-// エリア別のカスタムマーカーアイコン
-function createIcon(area, hasApproved) {
+const CATEGORY_ICONS = {
+  shrine: { emoji: '⛩', color: '#E65100' },
+  temple: { emoji: '🏛', color: '#4E342E' },
+  station: { emoji: '🚉', color: '#1565C0' },
+}
+
+const LAYER_OPTIONS = [
+  { id: 'landmarks', label: 'ランドマーク' },
+  { id: 'shrine', label: '神社' },
+  { id: 'temple', label: '寺院' },
+  { id: 'station', label: '駅' },
+]
+
+function createLandmarkIcon(area, hasApproved) {
   const color = AREA_COLORS[area] || '#ff6b35'
   const ring = hasApproved ? '#4caf50' : '#888'
   return L.divIcon({
@@ -33,20 +45,50 @@ function createIcon(area, hasApproved) {
   })
 }
 
+function createDataSpotIcon(category) {
+  const cfg = CATEGORY_ICONS[category] || { emoji: '📍', color: '#888' }
+  return L.divIcon({
+    className: 'custom-marker',
+    html: `<div style="
+      width:22px;height:22px;border-radius:50%;
+      background:${cfg.color};
+      border:2px solid rgba(255,255,255,0.3);
+      box-shadow:0 1px 4px rgba(0,0,0,0.3);
+      display:flex;align-items:center;justify-content:center;
+      font-size:12px;
+    ">${cfg.emoji}</div>`,
+    iconSize: [22, 22],
+    iconAnchor: [11, 11],
+    popupAnchor: [0, -12],
+  })
+}
+
 export default function MapView({ stamps, updateStamp, onSelectSpot }) {
-  // スポットごとに集約
-  const spots = useMemo(() => {
+  const [dataPOIs, setDataPOIs] = useState([])
+  const [visibleLayers, setVisibleLayers] = useState(['landmarks', 'shrine', 'station'])
+
+  useEffect(() => {
+    fetch(import.meta.env.BASE_URL + 'stamps/pilot_pois.json')
+      .then(r => r.json())
+      .then(setDataPOIs)
+      .catch(() => setDataPOIs([]))
+  }, [])
+
+  const toggleLayer = (id) => {
+    setVisibleLayers(prev =>
+      prev.includes(id) ? prev.filter(l => l !== id) : [...prev, id]
+    )
+  }
+
+  // ランドマークスポット（既存スタンプ候補）
+  const landmarkSpots = useMemo(() => {
     const map = {}
     stamps.forEach(s => {
       if (!s.lat || !s.lng) return
       if (!map[s.spotId]) {
         map[s.spotId] = {
-          spotId: s.spotId,
-          spotName: s.spotName,
-          area: s.area,
-          lat: s.lat,
-          lng: s.lng,
-          stamps: [],
+          spotId: s.spotId, spotName: s.spotName, area: s.area,
+          lat: s.lat, lng: s.lng, stamps: [], type: 'landmark',
         }
       }
       map[s.spotId].stamps.push(s)
@@ -54,54 +96,101 @@ export default function MapView({ stamps, updateStamp, onSelectSpot }) {
     return Object.values(map)
   }, [stamps])
 
-  // 地図の中心（全スポットの中央）
+  // 地図の中心
   const center = useMemo(() => {
-    if (spots.length === 0) return [35.68, 139.75]
-    const avgLat = spots.reduce((sum, s) => sum + s.lat, 0) / spots.length
-    const avgLng = spots.reduce((sum, s) => sum + s.lng, 0) / spots.length
+    if (landmarkSpots.length === 0) return [35.68, 139.75]
+    const avgLat = landmarkSpots.reduce((sum, s) => sum + s.lat, 0) / landmarkSpots.length
+    const avgLng = landmarkSpots.reduce((sum, s) => sum + s.lng, 0) / landmarkSpots.length
     return [avgLat, avgLng]
-  }, [spots])
+  }, [landmarkSpots])
+
+  // 統計
+  const stats = {
+    landmarks: landmarkSpots.length,
+    shrine: dataPOIs.filter(p => p.category === 'shrine').length,
+    temple: dataPOIs.filter(p => p.category === 'temple').length,
+    station: dataPOIs.filter(p => p.category === 'station').length,
+  }
 
   return (
     <div className="map-view">
+      {/* レイヤー切り替え */}
+      <div className="map-layer-controls">
+        {LAYER_OPTIONS.map(opt => (
+          <button
+            key={opt.id}
+            className={`map-layer-btn ${visibleLayers.includes(opt.id) ? 'active' : ''}`}
+            onClick={() => toggleLayer(opt.id)}
+          >
+            {opt.label}
+            <span className="map-layer-count">{stats[opt.id] || 0}</span>
+          </button>
+        ))}
+        <span className="map-total">
+          合計: {Object.entries(stats).filter(([k]) => visibleLayers.includes(k)).reduce((sum, [, v]) => sum + v, 0)} POI
+        </span>
+      </div>
+
       <MapContainer center={center} zoom={12} className="stamp-map">
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>'
           url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
         />
-        {spots.map(spot => {
-          const approved = spot.stamps.filter(s => s.status === 'approved')
-          const total = spot.stamps.length
-          const icon = createIcon(spot.area, approved.length > 0)
 
+        {/* ランドマークスポット */}
+        {visibleLayers.includes('landmarks') && landmarkSpots.map(spot => {
+          const approved = spot.stamps.filter(s => s.status === 'approved')
+          const icon = createLandmarkIcon(spot.area, approved.length > 0)
           return (
-            <Marker key={spot.spotId} position={[spot.lat, spot.lng]} icon={icon}>
+            <Marker key={`lm-${spot.spotId}`} position={[spot.lat, spot.lng]} icon={icon}>
               <Popup className="stamp-popup">
                 <div className="popup-content">
                   <div className="popup-header">
+                    <span className="popup-type-badge landmark">ランドマーク</span>
                     <strong>{spot.spotName}</strong>
                     <span className="popup-area">{AREA_LABELS[spot.area]}</span>
                   </div>
                   <div className="popup-stats">
-                    {total}候補 / <span style={{ color: '#4caf50' }}>{approved.length}承認</span>
+                    {spot.stamps.length}候補 / <span style={{ color: '#4caf50' }}>{approved.length}承認</span>
                   </div>
                   <div className="popup-stamps">
                     {spot.stamps.slice(0, 4).map(s => (
-                      <div
-                        key={s.id}
-                        className={`popup-stamp-thumb ${s.status}`}
-                        onClick={() => onSelectSpot(spot.spotId)}
-                      >
+                      <div key={s.id} className={`popup-stamp-thumb ${s.status}`}
+                        onClick={() => onSelectSpot(spot.spotId)}>
                         <img src={`${import.meta.env.BASE_URL}${s.path}`} alt="" />
                       </div>
                     ))}
                   </div>
-                  <button
-                    className="popup-view-btn"
-                    onClick={() => onSelectSpot(spot.spotId)}
-                  >
+                  <button className="popup-view-btn" onClick={() => onSelectSpot(spot.spotId)}>
                     ギャラリーで見る
                   </button>
+                </div>
+              </Popup>
+            </Marker>
+          )
+        })}
+
+        {/* データスポット（神社・寺院・駅） */}
+        {dataPOIs.filter(p => visibleLayers.includes(p.category)).map(poi => {
+          const icon = createDataSpotIcon(poi.category)
+          const catLabel = { shrine: '神社', temple: '寺院', station: '駅' }[poi.category]
+          return (
+            <Marker key={`ds-${poi.osm_id}`} position={[poi.lat, poi.lng]} icon={icon}>
+              <Popup className="stamp-popup">
+                <div className="popup-content">
+                  <div className="popup-header">
+                    <span className={`popup-type-badge ${poi.category}`}>{catLabel}</span>
+                    <strong>{poi.name}</strong>
+                  </div>
+                  {poi.name_en && (
+                    <div style={{ fontSize: 11, color: '#888', marginTop: 2 }}>{poi.name_en}</div>
+                  )}
+                  <div style={{ fontSize: 12, color: '#666', marginTop: 6 }}>
+                    データスポット（テンプレートスタンプ）
+                  </div>
+                  <div style={{ fontSize: 11, color: '#555', marginTop: 4 }}>
+                    {poi.lat.toFixed(4)}, {poi.lng.toFixed(4)}
+                  </div>
                 </div>
               </Popup>
             </Marker>
