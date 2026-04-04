@@ -94,7 +94,7 @@ async function queryOverpass(query, retries = 3) {
 
 async function fetchPrefecture(prefId, pref) {
   const query = `
-    [out:json][timeout:120];
+    [out:json][timeout:180];
     (
       node["amenity"="place_of_worship"]["religion"="shinto"](${pref.bbox});
       way["amenity"="place_of_worship"]["religion"="shinto"](${pref.bbox});
@@ -102,6 +102,23 @@ async function fetchPrefecture(prefId, pref) {
       way["amenity"="place_of_worship"]["religion"="buddhist"](${pref.bbox});
       node["railway"="station"](${pref.bbox});
       node["railway"="halt"](${pref.bbox});
+      node["historic"="castle"](${pref.bbox});
+      way["historic"="castle"](${pref.bbox});
+      relation["historic"="castle"](${pref.bbox});
+      node["man_made"="lighthouse"](${pref.bbox});
+      way["man_made"="lighthouse"](${pref.bbox});
+      node["highway"="rest_area"](${pref.bbox});
+      way["highway"="rest_area"](${pref.bbox});
+      node["amenity"="public_bath"](${pref.bbox});
+      way["amenity"="public_bath"](${pref.bbox});
+      node["leisure"="hot_spring"](${pref.bbox});
+      way["leisure"="hot_spring"](${pref.bbox});
+      node["tourism"="museum"](${pref.bbox});
+      way["tourism"="museum"](${pref.bbox});
+      node["tourism"="zoo"](${pref.bbox});
+      way["tourism"="zoo"](${pref.bbox});
+      node["tourism"="aquarium"](${pref.bbox});
+      way["tourism"="aquarium"](${pref.bbox});
     );
     out center;
   `;
@@ -117,6 +134,12 @@ async function fetchPrefecture(prefId, pref) {
     if (el.tags?.railway) category = 'station';
     else if (el.tags?.religion === 'shinto') category = 'shrine';
     else if (el.tags?.religion === 'buddhist') category = 'temple';
+    else if (el.tags?.historic === 'castle') category = 'castle';
+    else if (el.tags?.man_made === 'lighthouse') category = 'lighthouse';
+    else if (el.tags?.highway === 'rest_area') category = 'rest_area';
+    else if (el.tags?.amenity === 'public_bath' || el.tags?.leisure === 'hot_spring') category = 'onsen';
+    else if (el.tags?.tourism === 'museum') category = 'museum';
+    else if (el.tags?.tourism === 'zoo' || el.tags?.tourism === 'aquarium') category = 'zoo';
     else return null;
 
     return {
@@ -142,9 +165,12 @@ async function main() {
   console.log(`=== 全国POI取得 (${targets.length}都道府県) ===\n`);
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 
+  const CATEGORIES = ['shrine', 'temple', 'station', 'castle', 'lighthouse', 'rest_area', 'onsen', 'museum', 'zoo'];
+  const CAT_LABELS = { shrine: '神社', temple: '寺院', station: '駅', castle: '城', lighthouse: '灯台', rest_area: '道の駅', onsen: '温泉', museum: '美術館', zoo: '動物園' };
   const summary = [];
   let totalPOIs = 0;
-  let totalShrines = 0, totalTemples = 0, totalStations = 0;
+  const totalByCategory = {};
+  CATEGORIES.forEach(c => totalByCategory[c] = 0);
 
   for (let i = 0; i < targets.length; i++) {
     const [prefId, pref] = targets[i];
@@ -154,32 +180,43 @@ async function main() {
     const outPath = path.join(OUTPUT_DIR, `${prefId}.json`);
     if (fs.existsSync(outPath)) {
       const existing = JSON.parse(fs.readFileSync(outPath));
-      const s = existing.filter(p => p.category === 'shrine').length;
-      const t = existing.filter(p => p.category === 'temple').length;
-      const st = existing.filter(p => p.category === 'station').length;
-      console.log(`${progress} ${pref.label}: スキップ（既存 ${existing.length}件: 神社${s}/寺${t}/駅${st}）`);
-      summary.push({ prefId, label: pref.label, total: existing.length, shrines: s, temples: t, stations: st });
-      totalPOIs += existing.length;
-      totalShrines += s; totalTemples += t; totalStations += st;
-      continue;
+      // 新カテゴリが含まれていない古いファイルは再取得
+      const hasNewCategories = existing.some(p => ['castle', 'lighthouse', 'rest_area', 'onsen', 'museum', 'zoo'].includes(p.category));
+      if (hasNewCategories || existing.length === 0) {
+        const counts = {};
+        CATEGORIES.forEach(c => counts[c] = existing.filter(p => p.category === c).length);
+        const countStr = CATEGORIES.filter(c => counts[c] > 0).map(c => `${CAT_LABELS[c]}${counts[c]}`).join('/');
+        console.log(`${progress} ${pref.label}: スキップ（既存 ${existing.length}件: ${countStr}）`);
+        const entry = { prefId, label: pref.label, total: existing.length };
+        CATEGORIES.forEach(c => { entry[c] = counts[c]; totalByCategory[c] += counts[c]; });
+        summary.push(entry);
+        totalPOIs += existing.length;
+        continue;
+      }
+      // 古いファイル（新カテゴリなし）は削除して再取得
+      console.log(`${progress} ${pref.label}: 新カテゴリ追加のため再取得...`);
+      fs.unlinkSync(outPath);
     }
 
     try {
       console.log(`${progress} ${pref.label}: 取得中...`);
       const pois = await fetchPrefecture(prefId, pref);
-      const shrines = pois.filter(p => p.category === 'shrine').length;
-      const temples = pois.filter(p => p.category === 'temple').length;
-      const stations = pois.filter(p => p.category === 'station').length;
+      const counts = {};
+      CATEGORIES.forEach(c => counts[c] = pois.filter(p => p.category === c).length);
+      const countStr = CATEGORIES.filter(c => counts[c] > 0).map(c => `${CAT_LABELS[c]}${counts[c]}`).join('/');
 
       fs.writeFileSync(outPath, JSON.stringify(pois, null, 2));
-      console.log(`  ✅ ${pois.length}件 (神社${shrines}/寺${temples}/駅${stations}) → ${outPath}`);
+      console.log(`  ✅ ${pois.length}件 (${countStr}) → ${outPath}`);
 
-      summary.push({ prefId, label: pref.label, total: pois.length, shrines, temples, stations });
+      const entry = { prefId, label: pref.label, total: pois.length };
+      CATEGORIES.forEach(c => { entry[c] = counts[c]; totalByCategory[c] += counts[c]; });
+      summary.push(entry);
       totalPOIs += pois.length;
-      totalShrines += shrines; totalTemples += temples; totalStations += stations;
     } catch (e) {
       console.log(`  ❌ ${pref.label}: ${e.message}`);
-      summary.push({ prefId, label: pref.label, total: 0, shrines: 0, temples: 0, stations: 0, error: e.message });
+      const entry = { prefId, label: pref.label, total: 0, error: e.message };
+      CATEGORIES.forEach(c => entry[c] = 0);
+      summary.push(entry);
     }
 
     // レート制限対策
@@ -190,23 +227,27 @@ async function main() {
 
   // サマリー表示
   console.log('\n=== 全国サマリー ===\n');
-  console.log('都道府県        | 神社  | 寺院  | 駅    | 合計');
-  console.log('--------------- | ----- | ----- | ----- | -----');
+  const catHeader = CATEGORIES.map(c => CAT_LABELS[c].padStart(5)).join(' | ');
+  console.log(`都道府県     | ${catHeader} | 合計`);
+  console.log('-'.repeat(12) + ' | ' + CATEGORIES.map(() => '-----').join(' | ') + ' | -----');
   summary.forEach(s => {
-    const name = (s.label + '　　　').slice(0, 8);
-    console.log(`${name} | ${String(s.shrines).padStart(5)} | ${String(s.temples).padStart(5)} | ${String(s.stations).padStart(5)} | ${String(s.total).padStart(5)}${s.error ? ' ❌' : ''}`);
+    const name = (s.label + '　　　').slice(0, 6);
+    const vals = CATEGORIES.map(c => String(s[c] || 0).padStart(5)).join(' | ');
+    console.log(`${name} | ${vals} | ${String(s.total).padStart(5)}${s.error ? ' ❌' : ''}`);
   });
-  console.log(`${'合計'.padEnd(8)} | ${String(totalShrines).padStart(5)} | ${String(totalTemples).padStart(5)} | ${String(totalStations).padStart(5)} | ${String(totalPOIs).padStart(5)}`);
+  const totalVals = CATEGORIES.map(c => String(totalByCategory[c]).padStart(5)).join(' | ');
+  console.log(`${'合計'.padEnd(6)} | ${totalVals} | ${String(totalPOIs).padStart(5)}`);
 
   // サマリーJSON
   const summaryData = {
     generatedAt: new Date().toISOString(),
-    totalPOIs, totalShrines, totalTemples, totalStations,
+    totalPOIs, totalByCategory,
     prefectures: summary,
   };
   fs.writeFileSync(path.join(OUTPUT_DIR, 'summary.json'), JSON.stringify(summaryData, null, 2));
   console.log(`\n📁 ${OUTPUT_DIR}/summary.json`);
-  console.log(`\n✅ 完了: 全${totalPOIs}件 (神社${totalShrines}/寺${totalTemples}/駅${totalStations})`);
+  const totalStr = CATEGORIES.filter(c => totalByCategory[c] > 0).map(c => `${CAT_LABELS[c]}${totalByCategory[c]}`).join('/');
+  console.log(`\n✅ 完了: 全${totalPOIs}件 (${totalStr})`);
 }
 
 main().catch(console.error);

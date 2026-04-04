@@ -1,0 +1,31 @@
+{
+  "generatedAt": "2026-04-04T00:38:20.004Z",
+  "totalPOIs": 7153,
+  "totalByCategory": {
+    "shrine": 2307,
+    "temple": 2769,
+    "station": 981,
+    "castle": 25,
+    "lighthouse": 5,
+    "rest_area": 65,
+    "onsen": 390,
+    "museum": 577,
+    "zoo": 34
+  },
+  "prefectures": [
+    {
+      "prefId": "tokyo",
+      "label": "東京都",
+      "total": 7153,
+      "shrine": 2307,
+      "temple": 2769,
+      "station": 981,
+      "castle": 25,
+      "lighthouse": 5,
+      "rest_area": 65,
+      "onsen": 390,
+      "museum": 577,
+      "zoo": 34
+    }
+  ]
+}
