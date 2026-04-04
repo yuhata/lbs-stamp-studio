@@ -2387,6 +2387,28 @@
     "data_source": "osm"
   },
   {
+    "name": "秋乃宮博物館",
+    "name_en": "Akinomiya Museum",
+    "lat": 38.9601409,
+    "lng": 140.5301006,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 863048026,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "釜石市立鉄の歴史館",
+    "name_en": "Iron and Steel History Museum",
+    "lat": 39.2554974,
+    "lng": 141.8940577,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1127676921,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "釜石大観音",
     "name_en": "Kamaishi Dai-kannon Temple",
     "lat": 39.2566277,
@@ -2405,6 +2427,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 1224964207,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.0047801,
+    "lng": 140.8464389,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 1277960488,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2431,6 +2464,17 @@
     "data_source": "osm"
   },
   {
+    "name": "気仙大工左官伝承館",
+    "name_en": "",
+    "lat": 39.010801,
+    "lng": 141.6921905,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1281006509,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "慈恩禅寺",
     "name_en": "",
     "lat": 38.9588851,
@@ -2442,6 +2486,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.1887645,
+    "lng": 140.1889068,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 1308375828,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "北野神社",
     "name_en": "",
     "lat": 39.8337812,
@@ -2449,6 +2504,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 1395508722,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅にしめ (Nishime Rest Area)",
+    "name_en": "Nishime Rest Area",
+    "lat": 39.3628739,
+    "lng": 140.0148696,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 1403325977,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2471,6 +2537,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 1797106285,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鶴の湯",
+    "name_en": "",
+    "lat": 39.275839,
+    "lng": 141.882075,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 1801368473,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2541,6 +2618,61 @@
     "data_source": "osm"
   },
   {
+    "name": "盛岡城 (Morioka-jō)",
+    "name_en": "",
+    "lat": 39.7001247,
+    "lng": 141.1502054,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 1945044787,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田県立近代美術館 (Akita Museum of Modern Art)",
+    "name_en": "Akita Museum of Modern Art",
+    "lat": 39.2924778,
+    "lng": 140.5475726,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 2163503387,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯",
+    "name_en": "",
+    "lat": 38.744539,
+    "lng": 140.719127,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 2290060752,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯めぐり広場 手湯",
+    "name_en": "",
+    "lat": 38.7431214,
+    "lng": 140.7171206,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 2290064455,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "滝の湯",
+    "name_en": "Taki no Yu",
+    "lat": 38.7415436,
+    "lng": 140.7178562,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 2290111025,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "温泉神社",
     "name_en": "",
     "lat": 38.7408037,
@@ -2548,6 +2680,50 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 2290245402,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ぽっぽの足湯",
+    "name_en": "",
+    "lat": 38.743184,
+    "lng": 140.7160605,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 2290259198,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ほっとパーク足湯",
+    "name_en": "",
+    "lat": 38.7426396,
+    "lng": 140.7162472,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 2290280538,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯",
+    "name_en": "",
+    "lat": 38.74447,
+    "lng": 140.718012,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 2290735004,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯",
+    "name_en": "",
+    "lat": 38.748221,
+    "lng": 140.727135,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 2290739395,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2563,6 +2739,17 @@
     "data_source": "osm"
   },
   {
+    "name": "奥州市埋蔵文化財調査センター",
+    "name_en": "",
+    "lat": 39.1763722,
+    "lng": 141.135444,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 2428108170,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.8479204,
@@ -2570,6 +2757,39 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 2462226994,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "胆沢城",
+    "name_en": "",
+    "lat": 39.1797206,
+    "lng": 141.135224,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 2493490831,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "九戸城",
+    "name_en": "",
+    "lat": 40.2673982,
+    "lng": 141.3034652,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 2494978395,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高水寺城",
+    "name_en": "",
+    "lat": 39.5651699,
+    "lng": 141.1730243,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 2494981196,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2607,6 +2827,17 @@
     "data_source": "osm"
   },
   {
+    "name": "秋田城跡",
+    "name_en": "",
+    "lat": 39.7403081,
+    "lng": 140.0792214,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 2501411119,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "愛宕神社",
     "name_en": "Atago Shrine",
     "lat": 39.3252741,
@@ -2614,6 +2845,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 2559603336,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "遠野市立博物館",
+    "name_en": "Tono Municipal Museum",
+    "lat": 39.3277638,
+    "lng": 141.5289336,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 2559699879,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2629,6 +2871,28 @@
     "data_source": "osm"
   },
   {
+    "name": "かくのだて温泉",
+    "name_en": "Kakunodate Onsen",
+    "lat": 39.5925725,
+    "lng": 140.5629423,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 2598309169,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "古城山城跡",
+    "name_en": "",
+    "lat": 39.6047474,
+    "lng": 140.5609195,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 2598309170,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.7446621,
@@ -2636,6 +2900,39 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 2621419923,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮沢賢治記念館",
+    "name_en": "Miyazawa Kenji Museum",
+    "lat": 39.3991065,
+    "lng": 141.1624332,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 2706119458,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮沢賢治イーハトーブ館",
+    "name_en": "Miyazawa Kenji Ihatov Museum",
+    "lat": 39.3969556,
+    "lng": 141.1645761,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 2706119481,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮沢賢治童話村",
+    "name_en": "",
+    "lat": 39.3981398,
+    "lng": 141.1689989,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 2706119527,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2651,6 +2948,17 @@
     "data_source": "osm"
   },
   {
+    "name": "みちのく民俗村",
+    "name_en": "",
+    "lat": 39.2698932,
+    "lng": 141.1292261,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 2706219580,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "気仙沼",
     "name_en": "Kesennuma",
     "lat": 38.909879,
@@ -2658,6 +2966,50 @@
     "category": "station",
     "prefecture": "iwate",
     "osm_id": 2729956033,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "奥州宇宙遊学館",
+    "name_en": "",
+    "lat": 39.1350567,
+    "lng": 141.1324975,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 2735395727,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "木村榮記念館",
+    "name_en": "",
+    "lat": 39.135605,
+    "lng": 141.1326738,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 2735410065,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "昭和の想い出博物館　レトロ館",
+    "name_en": "",
+    "lat": 40.1899164,
+    "lng": 141.7648139,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 2839198403,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ブルーホール",
+    "name_en": "photo gallery bluehole",
+    "lat": 39.8973676,
+    "lng": 140.0770734,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 2847995017,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2691,6 +3043,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 2956356862,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "国見温泉",
+    "name_en": "",
+    "lat": 39.7273334,
+    "lng": 140.7929429,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 2964285770,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3036,6 +3399,39 @@
     "data_source": "osm"
   },
   {
+    "name": "やすらぎ駐車帯",
+    "name_en": "",
+    "lat": 40.2914001,
+    "lng": 141.0408904,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 3239616779,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "花巻新渡戸記念館",
+    "name_en": "",
+    "lat": 39.389289,
+    "lng": 141.161157,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 3438493794,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "羅須地人協会",
+    "name_en": "",
+    "lat": 39.4403406,
+    "lng": 141.1410754,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 3438639993,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "松園寺",
     "name_en": "",
     "lat": 39.7465674,
@@ -3043,6 +3439,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 3596823825,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本荘郷土資料館",
+    "name_en": "Honjo Museum",
+    "lat": 39.3984459,
+    "lng": 140.0490404,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 3611520435,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3058,6 +3465,17 @@
     "data_source": "osm"
   },
   {
+    "name": "陸前大島灯台",
+    "name_en": "",
+    "lat": 38.8305865,
+    "lng": 141.6245401,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 3663139078,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "曹洞宗 東月山 西光寺",
     "name_en": "",
     "lat": 38.8452481,
@@ -3065,6 +3483,39 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 3663139530,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.8534321,
+    "lng": 141.6262436,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 3663139657,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.884601,
+    "lng": 141.6195282,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 3663140754,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "シャークミュージアム",
+    "name_en": "",
+    "lat": 38.9000998,
+    "lng": 141.5792178,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 3666892545,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3157,6 +3608,17 @@
     "data_source": "osm"
   },
   {
+    "name": "入道埼灯台",
+    "name_en": "",
+    "lat": 40.0050922,
+    "lng": 139.7017071,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 3756878551,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "新山神社",
     "name_en": "Shinzan Shrine",
     "lat": 39.405276,
@@ -3164,6 +3626,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 3767648962,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "船川原パーキング",
+    "name_en": "",
+    "lat": 39.0285586,
+    "lng": 141.704295,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 3790833853,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3487,6 +3960,28 @@
     "data_source": "osm"
   },
   {
+    "name": "内藤秀因水彩画記念館",
+    "name_en": "Naito Shuin Memorial Museum of Watercolors",
+    "lat": 38.8487163,
+    "lng": 139.9044402,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 4079646818,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8034455,
+    "lng": 140.7975041,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 4148430256,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "久保田",
     "name_en": "Kubota",
     "lat": 39.2959524,
@@ -3509,6 +4004,39 @@
     "data_source": "osm"
   },
   {
+    "name": "梅の湯",
+    "name_en": "",
+    "lat": 39.7059958,
+    "lng": 141.1394212,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 4266355287,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.1843142,
+    "lng": 139.5515969,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 4269822360,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.1847187,
+    "lng": 139.5481789,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 4269822365,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "圓福院",
     "name_en": "",
     "lat": 39.1902221,
@@ -3516,6 +4044,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 4269822383,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "飛島灯台",
+    "name_en": "",
+    "lat": 39.2000851,
+    "lng": 139.5562643,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 4269823005,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3707,6 +4246,39 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.7958412,
+    "lng": 140.7688419,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 4535362661,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.80485,
+    "lng": 140.7795053,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 4535362806,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8007612,
+    "lng": 140.7947224,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 4535410684,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "若草神社",
     "name_en": "",
     "lat": 38.773597,
@@ -3718,6 +4290,17 @@
     "data_source": "osm"
   },
   {
+    "name": "秋田市立千秋美術館",
+    "name_en": "",
+    "lat": 39.7172596,
+    "lng": 140.1243828,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 4568671983,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.7279285,
@@ -3725,6 +4308,39 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 4580637806,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "かんぽの宿一関",
+    "name_en": "",
+    "lat": 38.9428032,
+    "lng": 141.0650782,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 4586821207,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いつくし園",
+    "name_en": "",
+    "lat": 38.9445478,
+    "lng": 141.0433845,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 4586821221,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "渓泉閣",
+    "name_en": "",
+    "lat": 38.9442771,
+    "lng": 141.045254,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 4586821222,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3791,6 +4407,28 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 4586997131,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩手サファリパーク",
+    "name_en": "",
+    "lat": 38.810509,
+    "lng": 141.2594353,
+    "category": "zoo",
+    "prefecture": "iwate",
+    "osm_id": 4601402442,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "舘ヶ森アーク牧場",
+    "name_en": "",
+    "lat": 38.8187379,
+    "lng": 141.2739442,
+    "category": "zoo",
+    "prefecture": "iwate",
+    "osm_id": 4601405867,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3883,6 +4521,17 @@
     "data_source": "osm"
   },
   {
+    "name": "栗原市立金成歴史民俗資料館",
+    "name_en": "",
+    "lat": 38.811183,
+    "lng": 141.0738606,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 4671565299,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "道祖神社",
     "name_en": "",
     "lat": 38.7679137,
@@ -3949,6 +4598,17 @@
     "data_source": "osm"
   },
   {
+    "name": "細倉鉱山資料館",
+    "name_en": "",
+    "lat": 38.8026096,
+    "lng": 140.8985365,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 4674346992,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "皇太神社",
     "name_en": "",
     "lat": 38.768304,
@@ -3978,6 +4638,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 4674346996,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "一迫埋蔵文化財センター",
+    "name_en": "",
+    "lat": 38.7420174,
+    "lng": 140.9472149,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 4674356893,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山王考古館",
+    "name_en": "",
+    "lat": 38.7403729,
+    "lng": 140.9484234,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 4674358091,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4044,6 +4726,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 4676445091,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鳴子温泉;早稲田桟敷湯",
+    "name_en": "Naruko Waseda Sajiki Yu",
+    "lat": 38.7436838,
+    "lng": 140.7174681,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 4676445093,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4235,6 +4928,17 @@
     "data_source": "osm"
   },
   {
+    "name": "友の湯",
+    "name_en": "Tomo no Yu",
+    "lat": 38.906565,
+    "lng": 141.5632089,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 4782509826,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "青龍禅寺",
     "name_en": "",
     "lat": 38.9065231,
@@ -4308,6 +5012,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 4796454736,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩手県立平泉世界遺産ガイダンスセンター",
+    "name_en": "",
+    "lat": 38.9922676,
+    "lng": 141.1207298,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 4819252204,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4455,6 +5170,17 @@
     "data_source": "osm"
   },
   {
+    "name": "石と賢治のミュージアム",
+    "name_en": "",
+    "lat": 38.9787383,
+    "lng": 141.238544,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 4833663292,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "生田",
     "name_en": "Shoden",
     "lat": 39.6120115,
@@ -4495,6 +5221,28 @@
     "category": "station",
     "prefecture": "iwate",
     "osm_id": 4837893136,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.9359338,
+    "lng": 141.7166109,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 4907182091,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "奥奥八九郎温泉",
+    "name_en": "",
+    "lat": 40.4079014,
+    "lng": 140.7551714,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 4916963622,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4627,6 +5375,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 5013577423,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新庄城址",
+    "name_en": "",
+    "lat": 38.7658169,
+    "lng": 140.2935961,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 5013577439,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4928,6 +5687,17 @@
     "data_source": "osm"
   },
   {
+    "name": "真室川町立歴史民俗資料館",
+    "name_en": "",
+    "lat": 38.8575901,
+    "lng": 140.2502281,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5019614128,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "妙倉寺",
     "name_en": "",
     "lat": 38.8578638,
@@ -5001,6 +5771,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 5021640231,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "真室川町ふるさと伝承館",
+    "name_en": "",
+    "lat": 38.9395759,
+    "lng": 140.1797721,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5021640234,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5698,6 +6479,17 @@
     "data_source": "osm"
   },
   {
+    "name": "酒田市立資料館",
+    "name_en": "",
+    "lat": 38.9152097,
+    "lng": 139.8417672,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5024056804,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "薬師神社",
     "name_en": "",
     "lat": 38.9910958,
@@ -5775,6 +6567,17 @@
     "data_source": "osm"
   },
   {
+    "name": "旧鐙屋",
+    "name_en": "Abumiya",
+    "lat": 38.9152629,
+    "lng": 139.8371927,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5024073039,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "湯殿山神社",
     "name_en": "",
     "lat": 38.9226371,
@@ -5808,6 +6611,17 @@
     "data_source": "osm"
   },
   {
+    "name": "木造六角灯台",
+    "name_en": "",
+    "lat": 38.9186985,
+    "lng": 139.8274687,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 5024075423,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "秋葉神社",
     "name_en": "",
     "lat": 38.9125995,
@@ -5837,6 +6651,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 5026244725,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山王くらぶ（料亭跡）",
+    "name_en": "Sanno Club",
+    "lat": 38.9184686,
+    "lng": 139.8322174,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5026244731,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5881,6 +6706,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 5026244832,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "相馬樓",
+    "name_en": "Somaro",
+    "lat": 38.9194709,
+    "lng": 139.833401,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5026244866,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6057,6 +6893,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 5026251922,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本間美術館",
+    "name_en": "Homma Museum",
+    "lat": 38.9234743,
+    "lng": 139.8419988,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5026257021,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6255,6 +7102,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 5031705647,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "酒田市美術館",
+    "name_en": "Sakata City Museum of Art",
+    "lat": 38.8930827,
+    "lng": 139.8158552,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5031740124,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6919,6 +7777,28 @@
     "data_source": "osm"
   },
   {
+    "name": "酒の民俗文化博物館",
+    "name_en": "",
+    "lat": 38.9312365,
+    "lng": 141.1324766,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5050189351,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いちのせき文学の蔵",
+    "name_en": "",
+    "lat": 38.9311693,
+    "lng": 141.1325585,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5050196932,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "塚沢八雲神社",
     "name_en": "",
     "lat": 38.9461932,
@@ -6937,6 +7817,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 5075201213,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平泉文化館",
+    "name_en": "",
+    "lat": 38.9990492,
+    "lng": 141.1083022,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5091098548,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "貝の沢温泉",
+    "name_en": "Kainosawaonsen",
+    "lat": 39.7210673,
+    "lng": 140.2608995,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 5095192835,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7194,6 +8096,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.4252901,
+    "lng": 140.6561541,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 5144071825,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "薬師神社",
     "name_en": "",
     "lat": 38.873012,
@@ -7234,6 +8147,50 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 5144456524,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵探訪館",
+    "name_en": "",
+    "lat": 38.8778734,
+    "lng": 139.8112419,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5144478722,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.1378187,
+    "lng": 140.9994489,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 5146318821,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.4830389,
+    "lng": 141.1414313,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 5147554423,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.830473,
+    "lng": 141.0825716,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 5151430123,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7300,6 +8257,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 5158472223,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧沼田家武家住宅",
+    "name_en": "",
+    "lat": 38.9290955,
+    "lng": 141.1321126,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5158476422,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7788,6 +8756,17 @@
     "data_source": "osm"
   },
   {
+    "name": "矢島城址",
+    "name_en": "",
+    "lat": 39.2299834,
+    "lng": 140.1334493,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 5179425331,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白山神社",
     "name_en": "",
     "lat": 39.2227166,
@@ -7806,6 +8785,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 5179439926,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大内歴史民俗資料館",
+    "name_en": "",
+    "lat": 39.4440163,
+    "lng": 140.096533,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5181041440,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8074,6 +9064,17 @@
     "data_source": "osm"
   },
   {
+    "name": "岩崎城址",
+    "name_en": "",
+    "lat": 39.2056283,
+    "lng": 140.5134259,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 5201541523,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三吉神社",
     "name_en": "",
     "lat": 39.1703486,
@@ -8283,6 +9284,17 @@
     "data_source": "osm"
   },
   {
+    "name": "湊城跡",
+    "name_en": "",
+    "lat": 39.7573907,
+    "lng": 140.0713604,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 5289408026,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "氏巻大龍王龍神社",
     "name_en": "",
     "lat": 39.7601831,
@@ -8415,6 +9427,17 @@
     "data_source": "osm"
   },
   {
+    "name": "陸中弁天埼灯台",
+    "name_en": "",
+    "lat": 39.9471163,
+    "lng": 141.9599971,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 5368179718,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "菅原神社",
     "name_en": "",
     "lat": 39.3562153,
@@ -8422,6 +9445,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 5373759098,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小袖港北防波堤灯台",
+    "name_en": "",
+    "lat": 40.1698947,
+    "lng": 141.8487015,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 5392919483,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8602,6 +9636,17 @@
     "data_source": "osm"
   },
   {
+    "name": "平和懐堂",
+    "name_en": "",
+    "lat": 39.279366,
+    "lng": 141.12321,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5436825035,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "若宮八幡宮",
     "name_en": "",
     "lat": 39.2812139,
@@ -8620,6 +9665,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 5436937731,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.4021548,
+    "lng": 141.7186922,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 5437210522,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8653,6 +9709,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 5439295726,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "七区まち博物館",
+    "name_en": "",
+    "lat": 39.2890132,
+    "lng": 141.1124895,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5442164936,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8763,6 +9830,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 5447542457,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平良ヶ崎城跡",
+    "name_en": "",
+    "lat": 40.4126151,
+    "lng": 141.2772335,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 5447544648,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8954,6 +10032,17 @@
     "data_source": "osm"
   },
   {
+    "name": "陸中黒埼灯台",
+    "name_en": "",
+    "lat": 40.0070943,
+    "lng": 141.9355997,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 5488756791,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三嶋神社",
     "name_en": "",
     "lat": 39.8703391,
@@ -9119,6 +10208,17 @@
     "data_source": "osm"
   },
   {
+    "name": "潟上市 昭和歴史民俗資料館",
+    "name_en": "",
+    "lat": 39.8625975,
+    "lng": 140.0682405,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5498130424,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "玄心寺",
     "name_en": "",
     "lat": 39.7042123,
@@ -9137,6 +10237,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 5589613851,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "灯台資料館展示室",
+    "name_en": "",
+    "lat": 40.0049008,
+    "lng": 139.7016814,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5595683266,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9801,6 +10912,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大沢温泉旅館",
+    "name_en": "",
+    "lat": 38.9873164,
+    "lng": 141.1007248,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 5698213112,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大沢山神社",
     "name_en": "",
     "lat": 38.9870358,
@@ -10087,6 +11209,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高野長英記念館",
+    "name_en": "",
+    "lat": 39.1359414,
+    "lng": 141.1409614,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5745133223,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "伯済寺",
     "name_en": "",
     "lat": 39.1352976,
@@ -10160,6 +11293,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 5759910531,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "斎藤實記念館",
+    "name_en": "",
+    "lat": 39.1445036,
+    "lng": 141.13455,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5759958428,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10670,6 +11814,28 @@
     "data_source": "osm"
   },
   {
+    "name": "地域資料館 島のミュージアム 澗",
+    "name_en": "Shima museum NIMA",
+    "lat": 39.1895815,
+    "lng": 139.549217,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 5923665303,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "飛島南灯台",
+    "name_en": "",
+    "lat": 39.1858903,
+    "lng": 139.5412159,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 5925680415,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "開運稲荷神社",
     "name_en": "",
     "lat": 38.9120615,
@@ -10853,6 +12019,17 @@
     "category": "station",
     "prefecture": "iwate",
     "osm_id": 6111888835,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "横手市増田まんが美術館",
+    "name_en": "Yokote Masuda Manga Museum",
+    "lat": 39.2045713,
+    "lng": 140.5504976,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 6117731383,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11165,6 +12342,17 @@
     "data_source": "osm"
   },
   {
+    "name": "にしめ湯っ娘ランド",
+    "name_en": "",
+    "lat": 39.3631803,
+    "lng": 140.0141918,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 6310689143,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "寺",
     "name_en": "",
     "lat": 38.86163,
@@ -11231,6 +12419,17 @@
     "data_source": "osm"
   },
   {
+    "name": "久慈市立三船十段記念館",
+    "name_en": "",
+    "lat": 40.1879939,
+    "lng": 141.7590769,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 6416374045,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "室根神社",
     "name_en": "",
     "lat": 38.9717415,
@@ -11238,6 +12437,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 6438173875,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯沢市リフレッシュ交流センター;ほっと館",
+    "name_en": "",
+    "lat": 39.049232,
+    "lng": 140.4163394,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 6448934108,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "光が丘公園プール",
+    "name_en": "",
+    "lat": 38.9350229,
+    "lng": 139.829185,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 6449240083,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11253,6 +12474,50 @@
     "data_source": "osm"
   },
   {
+    "name": "鹿角市大湯温泉保養センター;湯都里",
+    "name_en": "",
+    "lat": 40.2964006,
+    "lng": 140.8232691,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 6532270391,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "クウィンス森吉",
+    "name_en": "",
+    "lat": 40.0613239,
+    "lng": 140.4175889,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 6533296039,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "展望温泉 眺海の湯",
+    "name_en": "",
+    "lat": 39.2202669,
+    "lng": 139.9001828,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 6534594866,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅;雫石あねっこ",
+    "name_en": "",
+    "lat": 39.7067738,
+    "lng": 140.8745487,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 6534898934,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "水天宮",
     "name_en": "",
     "lat": 38.9319251,
@@ -11264,6 +12529,39 @@
     "data_source": "osm"
   },
   {
+    "name": "芦東山記念館",
+    "name_en": "",
+    "lat": 39.0204182,
+    "lng": 141.3453925,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 6580027253,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.3518379,
+    "lng": 141.9232522,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 6611455824,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大槌港灯台",
+    "name_en": "",
+    "lat": 39.3477197,
+    "lng": 141.9310293,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 6611455827,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "水天宮",
     "name_en": "",
     "lat": 39.4606641,
@@ -11271,6 +12569,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 6611565036,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "川尻温泉;ほっとゆだ",
+    "name_en": "",
+    "lat": 39.3146203,
+    "lng": 140.776094,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 6632803574,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11304,6 +12613,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 6657644206,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鯨と海の科学館",
+    "name_en": "",
+    "lat": 39.4365907,
+    "lng": 141.9756505,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 6681136897,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11396,6 +12716,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8050894,
+    "lng": 140.7805314,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 6813373050,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8055123,
+    "lng": 140.7805372,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 6813373078,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "浄土宗 杉山本念寺",
     "name_en": "",
     "lat": 39.7253657,
@@ -11436,6 +12778,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 6915946624,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "浜泉荘",
+    "name_en": "",
+    "lat": 38.7835052,
+    "lng": 139.754227,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 6917398462,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11693,6 +13046,17 @@
     "data_source": "osm"
   },
   {
+    "name": "階上町 民俗資料収集館",
+    "name_en": "",
+    "lat": 40.4514701,
+    "lng": 141.6140081,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 7027488904,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "祠",
     "name_en": "",
     "lat": 39.785518,
@@ -11700,6 +13064,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 7028476474,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "五城目城",
+    "name_en": "",
+    "lat": 39.9569306,
+    "lng": 140.1261106,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 7035209470,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11825,6 +13200,17 @@
     "data_source": "osm"
   },
   {
+    "name": "郷土資料室",
+    "name_en": "",
+    "lat": 39.3863889,
+    "lng": 140.0533805,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 7059761598,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白神不動尊",
     "name_en": "",
     "lat": 39.9452861,
@@ -11843,6 +13229,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 7072381185,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "一本松温泉　一本松たっこの湯",
+    "name_en": "",
+    "lat": 39.8009686,
+    "lng": 140.8176343,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 7109234774,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11968,6 +13365,17 @@
     "data_source": "osm"
   },
   {
+    "name": "新月パーキング",
+    "name_en": "",
+    "lat": 38.9162521,
+    "lng": 141.5214036,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 7171010570,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "御崎神社",
     "name_en": "",
     "lat": 38.8611009,
@@ -11975,6 +13383,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 7171040345,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "氷の水族館",
+    "name_en": "",
+    "lat": 38.9002477,
+    "lng": 141.5792441,
+    "category": "zoo",
+    "prefecture": "iwate",
+    "osm_id": 7181952802,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12063,6 +13482,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 7185936755,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "むかしがたり館 (羽後町民話伝承館)",
+    "name_en": "",
+    "lat": 39.1904668,
+    "lng": 140.4475466,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 7185939541,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12309,6 +13739,17 @@
     "data_source": "osm"
   },
   {
+    "name": "本堂城跡",
+    "name_en": "",
+    "lat": 39.4782341,
+    "lng": 140.5618684,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 7232625182,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鎌川八幡神社",
     "name_en": "",
     "lat": 39.6430262,
@@ -12386,6 +13827,17 @@
     "data_source": "osm"
   },
   {
+    "name": "美郷町歴史民俗資料館・佐々木毅記念室",
+    "name_en": "Misato Museum of History and Folklore;Takeshi Sasaki Memorial Room",
+    "lat": 39.4346999,
+    "lng": 140.5635596,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 7235324132,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.4309937,
@@ -12452,6 +13904,17 @@
     "data_source": "osm"
   },
   {
+    "name": "餅の館",
+    "name_en": "",
+    "lat": 39.4739699,
+    "lng": 140.5363336,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 7236593587,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "堀見内神社",
     "name_en": "",
     "lat": 39.4801669,
@@ -12481,6 +13944,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 7236708717,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "脇本城跡",
+    "name_en": "",
+    "lat": 39.9021813,
+    "lng": 139.8892311,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 7236789113,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12529,6 +14003,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ひない温泉比内のゆ",
+    "name_en": "",
+    "lat": 40.2282843,
+    "lng": 140.5724322,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 7238189072,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "土花貝塚",
     "name_en": "",
     "lat": 39.3520048,
@@ -12569,6 +14054,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 7245311386,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鶴亀の湯(男湯)",
+    "name_en": "",
+    "lat": 38.8990703,
+    "lng": 141.5805647,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 7247164856,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鶴亀の湯(女湯)",
+    "name_en": "",
+    "lat": 38.8991037,
+    "lng": 141.5804145,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 7247164857,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12771,6 +14278,72 @@
     "data_source": "osm"
   },
   {
+    "name": "大船渡港珊琥島南灯台",
+    "name_en": "",
+    "lat": 39.0351275,
+    "lng": 141.7268342,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 7291354213,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.3501195,
+    "lng": 141.9952172,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 7291794574,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.4535883,
+    "lng": 141.9627407,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 7291797818,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.4657479,
+    "lng": 141.9582456,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 7291797821,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "陸中大島灯台",
+    "name_en": "",
+    "lat": 39.3998381,
+    "lng": 141.9972342,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 7291797873,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.2180978,
+    "lng": 141.8343852,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 7293582710,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "赤岩港",
     "name_en": "Akaiwaminato",
     "lat": 38.8849441,
@@ -12789,6 +14362,17 @@
     "category": "station",
     "prefecture": "iwate",
     "osm_id": 7294155763,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Michinoku Onsen",
+    "name_en": "",
+    "lat": 39.8726991,
+    "lng": 140.9246242,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 7294210242,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13035,6 +14619,50 @@
     "data_source": "osm"
   },
   {
+    "name": "鎌鼬美術館",
+    "name_en": "",
+    "lat": 39.2053835,
+    "lng": 140.3119233,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 7417001784,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "マタギ資料館",
+    "name_en": "",
+    "lat": 39.9212437,
+    "lng": 140.5369386,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 7418414782,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "打当温泉 マタギの湯",
+    "name_en": "",
+    "lat": 39.9211072,
+    "lng": 140.5363333,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 7418414783,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "打当温泉共同湯",
+    "name_en": "",
+    "lat": 39.9214895,
+    "lng": 140.5371967,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 7418414784,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.5246788,
@@ -13048,11 +14676,44 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 39.3991692,
+    "lng": 140.0338746,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 7419480379,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 40.0394715,
     "lng": 140.4477152,
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 7424323442,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.0538386,
+    "lng": 140.5812127,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 7424323723,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "森吉山野生鳥獣センター",
+    "name_en": "",
+    "lat": 39.98831,
+    "lng": 140.614169,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 7424323734,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13075,6 +14736,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 7425122386,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.1880162,
+    "lng": 140.8221677,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 7425333212,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13200,6 +14872,17 @@
     "data_source": "osm"
   },
   {
+    "name": "山下太郎記念館",
+    "name_en": "",
+    "lat": 39.3425592,
+    "lng": 140.4272703,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 7434422180,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 40.0446794,
@@ -13218,6 +14901,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 7436384802,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田県環境と文化のむら",
+    "name_en": "",
+    "lat": 39.9302132,
+    "lng": 140.1187937,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 7440170115,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東北石油 豊川油田 展示室",
+    "name_en": "",
+    "lat": 39.8554357,
+    "lng": 140.0790506,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 7441336738,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13321,6 +15026,17 @@
     "data_source": "osm"
   },
   {
+    "name": "東兵衛温泉",
+    "name_en": "",
+    "lat": 39.6907201,
+    "lng": 140.4100335,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 7466947620,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.1906089,
@@ -13383,6 +15099,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 7475398089,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8588672,
+    "lng": 139.8195934,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 7500318316,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13563,6 +15290,17 @@
     "data_source": "osm"
   },
   {
+    "name": "岩井埼灯台",
+    "name_en": "",
+    "lat": 38.8283852,
+    "lng": 141.6033692,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 7594055713,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.9754223,
@@ -13662,6 +15400,50 @@
     "data_source": "osm"
   },
   {
+    "name": "新鳩ノ湯温泉",
+    "name_en": "",
+    "lat": 39.9105907,
+    "lng": 140.6976249,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 7615163631,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "見張りの湯",
+    "name_en": "",
+    "lat": 39.9262832,
+    "lng": 140.7827477,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 7615169937,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩盤浴",
+    "name_en": "",
+    "lat": 39.9621057,
+    "lng": 140.728898,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 7615424234,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水の博物館",
+    "name_en": "",
+    "lat": 39.4229486,
+    "lng": 140.5485224,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 7617599070,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "海蔵寺",
     "name_en": "",
     "lat": 38.850444,
@@ -13684,6 +15466,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.6400154,
+    "lng": 141.9757632,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 7657992922,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "久慈琥珀博物館",
+    "name_en": "",
+    "lat": 40.1696259,
+    "lng": 141.7245699,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 7660225036,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "祓川神社",
     "name_en": "Haraikawa Shrine",
     "lat": 39.1280038,
@@ -13691,6 +15495,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 7669521366,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9661499,
+    "lng": 139.7462053,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 7687918594,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13959,6 +15774,17 @@
     "data_source": "osm"
   },
   {
+    "name": "北上市立博物館 和賀分館",
+    "name_en": "",
+    "lat": 39.3066232,
+    "lng": 140.9793326,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 7774563484,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "洞林寺",
     "name_en": "Dorinji",
     "lat": 38.7650666,
@@ -14032,6 +15858,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 7777523942,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.4094047,
+    "lng": 141.9777694,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 7779698798,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14465,6 +16302,17 @@
     "data_source": "osm"
   },
   {
+    "name": "秋田犬ステーション",
+    "name_en": "",
+    "lat": 39.7170717,
+    "lng": 140.1218278,
+    "category": "zoo",
+    "prefecture": "iwate",
+    "osm_id": 7868757246,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.7484046,
@@ -14747,6 +16595,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 8040116073,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9472201,
+    "lng": 139.7008556,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 8042038740,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15356,6 +17215,17 @@
     "data_source": "osm"
   },
   {
+    "name": "東日本大震災津波伝承館",
+    "name_en": "Iwate Tsunami Memorial Museum",
+    "lat": 39.0073097,
+    "lng": 141.6273093,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 8244615853,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "正一位発展稲荷神社",
     "name_en": "",
     "lat": 39.7162739,
@@ -15730,6 +17600,17 @@
     "data_source": "osm"
   },
   {
+    "name": "富城跡",
+    "name_en": "",
+    "lat": 38.7828183,
+    "lng": 141.0415668,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 8333998622,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白山神社",
     "name_en": "Hakusan Jinja",
     "lat": 38.7847287,
@@ -15792,6 +17673,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 8334000020,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊治城跡",
+    "name_en": "",
+    "lat": 38.7648427,
+    "lng": 141.0383047,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 8334003017,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16071,6 +17963,17 @@
     "data_source": "osm"
   },
   {
+    "name": "若柳城跡",
+    "name_en": "",
+    "lat": 38.7754586,
+    "lng": 141.114043,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 8347875618,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 38.7751294,
@@ -16199,6 +18102,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 8357081618,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あーと硝子 Casa Vaso",
+    "name_en": "",
+    "lat": 38.7581455,
+    "lng": 141.1684908,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 8357081720,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16654,6 +18568,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.0380436,
+    "lng": 141.727758,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 8519329235,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "才ノ神神社",
     "name_en": "",
     "lat": 39.1778043,
@@ -16705,6 +18630,17 @@
     "category": "station",
     "prefecture": "iwate",
     "osm_id": 8553017642,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "久保田城跡",
+    "name_en": "",
+    "lat": 39.721897,
+    "lng": 140.1237623,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 8553116272,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16782,6 +18718,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 8617712741,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9415653,
+    "lng": 140.8614766,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 8639099266,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17127,6 +19074,17 @@
     "data_source": "osm"
   },
   {
+    "name": "詩人 梶原しげよギャラリー",
+    "name_en": "",
+    "lat": 38.9024105,
+    "lng": 141.6383095,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 8663646518,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "早馬神社奥社",
     "name_en": "",
     "lat": 38.8952119,
@@ -17200,6 +19158,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 8663677121,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松楯城跡",
+    "name_en": "",
+    "lat": 38.9303575,
+    "lng": 141.5790416,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 8663679519,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17589,6 +19558,17 @@
     "data_source": "osm"
   },
   {
+    "name": "岩泉町歴史民俗資料館",
+    "name_en": "",
+    "lat": 39.8736992,
+    "lng": 141.6505885,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 8834251622,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 40.3045337,
@@ -17629,6 +19609,39 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 8834840587,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "盛岡てがみ館",
+    "name_en": "",
+    "lat": 39.7000854,
+    "lng": 141.1546811,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 8853823349,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8943074,
+    "lng": 140.9742704,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 8889094546,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Matsukawa Onsen",
+    "name_en": "",
+    "lat": 39.8715402,
+    "lng": 140.9260002,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 8889127397,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17772,6 +19785,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 8977359672,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.1702198,
+    "lng": 140.609627,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 8982696441,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18480,6 +20504,17 @@
     "data_source": "osm"
   },
   {
+    "name": "要害城跡",
+    "name_en": "",
+    "lat": 38.8937708,
+    "lng": 141.1284833,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 9279473298,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.4710901,
@@ -19063,6 +21098,17 @@
     "data_source": "osm"
   },
   {
+    "name": "千厩酒のくら交流施設",
+    "name_en": "",
+    "lat": 38.9189836,
+    "lng": 141.3335292,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 9348376524,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.1329438,
@@ -19448,6 +21494,17 @@
     "data_source": "osm"
   },
   {
+    "name": "猛禽類保護センター 鳥海イヌワシみらい館",
+    "name_en": "",
+    "lat": 39.0327359,
+    "lng": 140.029937,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 9483061604,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "山神社",
     "name_en": "",
     "lat": 40.1757863,
@@ -19459,6 +21516,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.6547028,
+    "lng": 142.0248932,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 9644610718,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.6010549,
+    "lng": 141.9540312,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 9644610720,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "田代山白髭神社",
     "name_en": "",
     "lat": 40.3169208,
@@ -19466,6 +21545,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 9651151612,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.1064464,
+    "lng": 141.9177671,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 9655744568,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.4767298,
+    "lng": 142.0109757,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 9658499016,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -19745,6 +21846,17 @@
     "data_source": "osm"
   },
   {
+    "name": "的場館跡",
+    "name_en": "",
+    "lat": 38.8979511,
+    "lng": 141.1235289,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 9946263315,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "新山神社",
     "name_en": "",
     "lat": 39.3401874,
@@ -19778,6 +21890,17 @@
     "data_source": "osm"
   },
   {
+    "name": "みんなのひろば くぅ",
+    "name_en": "",
+    "lat": 39.6119619,
+    "lng": 140.2197799,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 9999304123,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "城野岡三十三観音",
     "name_en": "",
     "lat": 39.3104508,
@@ -19785,6 +21908,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 9999465560,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上黒沢城跡",
+    "name_en": "",
+    "lat": 38.9162725,
+    "lng": 141.0863131,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 10035822182,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -19829,6 +21963,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 10083285984,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大日湯",
+    "name_en": "",
+    "lat": 38.9794006,
+    "lng": 140.7700075,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 10089461261,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -19987,6 +22132,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.3304635,
+    "lng": 141.9427814,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 10580883521,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "Uka Shrine",
     "name_en": "",
     "lat": 39.1438348,
@@ -20027,6 +22183,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 10683526226,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "工芸展示館",
+    "name_en": "Craft Exhibition Hall",
+    "lat": 39.2930165,
+    "lng": 140.546441,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 10720493540,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "もりおか町家物語館",
+    "name_en": "",
+    "lat": 39.6911912,
+    "lng": 141.1576109,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 10740679918,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20350,6 +22528,28 @@
     "data_source": "osm"
   },
   {
+    "name": "Kitakamisanchi Museum of Folklore 宮古市北上山地民俗資料館",
+    "name_en": "",
+    "lat": 39.6001704,
+    "lng": 141.680258,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 10946321822,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.5300582,
+    "lng": 141.66331,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 10959589704,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "Daienji 大圓寺",
     "name_en": "",
     "lat": 39.5141233,
@@ -20537,6 +22737,39 @@
     "data_source": "osm"
   },
   {
+    "name": "朝日館跡",
+    "name_en": "",
+    "lat": 38.8544244,
+    "lng": 141.178093,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 11019564408,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "歴史民俗資料コーナー",
+    "name_en": "",
+    "lat": 40.2160927,
+    "lng": 140.2595526,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 11078755658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Sakiyama Shell Mound Jomon-no-mori Museum 崎山貝塚縄文の森ミュージアム",
+    "name_en": "",
+    "lat": 39.6742106,
+    "lng": 141.9597396,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 11169447940,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鹿島神社",
     "name_en": "",
     "lat": 38.7682845,
@@ -20544,6 +22777,39 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 11224692258,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雄物川民家苑木戸五郎兵衛村",
+    "name_en": "",
+    "lat": 39.2982401,
+    "lng": 140.4327054,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 11359797231,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "盛南温泉　開運の湯",
+    "name_en": "",
+    "lat": 39.6925697,
+    "lng": 141.1338635,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 11420453292,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雪の里情報館",
+    "name_en": "",
+    "lat": 38.7708939,
+    "lng": 140.2972388,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 11434504710,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20724,6 +22990,17 @@
     "data_source": "osm"
   },
   {
+    "name": "花火伝統文化継承資料館はなび・アム",
+    "name_en": "",
+    "lat": 39.4597629,
+    "lng": 140.4803709,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 11848735693,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "法泉寺",
     "name_en": "",
     "lat": 39.7172994,
@@ -20742,6 +23019,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 12050647042,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "横手駅前温泉ゆうゆうプラザ",
+    "name_en": "",
+    "lat": 39.308556,
+    "lng": 140.5614112,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 12050647043,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.3537863,
+    "lng": 141.5969013,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 12055264357,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20812,6 +23111,28 @@
     "data_source": "osm"
   },
   {
+    "name": "遠野城下町資料館（要予約）",
+    "name_en": "Tono Castle Shitamachi Museum",
+    "lat": 39.3304944,
+    "lng": 141.5289673,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 12095659386,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "遠野まちなか・ドキ・土器館",
+    "name_en": "Dokidoki Pottery Museum",
+    "lat": 39.3298061,
+    "lng": 141.5257176,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 12096611307,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大宮神社・岩手山神社",
     "name_en": "",
     "lat": 39.916613,
@@ -20823,6 +23144,17 @@
     "data_source": "osm"
   },
   {
+    "name": "髙橋茶舗座敷蔵",
+    "name_en": "",
+    "lat": 39.2023131,
+    "lng": 140.5457226,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 12246225917,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "駒形神社",
     "name_en": "",
     "lat": 39.9153281,
@@ -20830,6 +23162,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 12269959003,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.4119633,
+    "lng": 141.7184543,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 12278156601,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.0053421,
+    "lng": 141.9348196,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 12284707801,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20944,6 +23298,17 @@
     "data_source": "osm"
   },
   {
+    "name": "郷土文化保存伝習施設 ふる里館",
+    "name_en": "",
+    "lat": 39.1791846,
+    "lng": 140.6543554,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 12875233714,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 40.2157527,
@@ -20951,6 +23316,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 12904035624,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "陸中真埼灯台",
+    "name_en": "Masaki Lighthouse",
+    "lat": 39.7509375,
+    "lng": 141.9993601,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 12977758338,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21197,6 +23573,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ゆめりあ鉄道ギャラリー",
+    "name_en": "",
+    "lat": 38.7631359,
+    "lng": 140.3054531,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 13411689758,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "皇大神社",
     "name_en": "",
     "lat": 38.7604339,
@@ -21226,6 +23613,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 13441833465,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "夏油高原温泉 兎森の湯",
+    "name_en": "",
+    "lat": 39.237968,
+    "lng": 140.9059256,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 13506242851,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21362,6 +23760,28 @@
     "data_source": "osm"
   },
   {
+    "name": "宮古市老人憩の家;小田代山荘",
+    "name_en": "",
+    "lat": 39.7207442,
+    "lng": 141.9301918,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 117020328,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "釜石市郷土資料館",
+    "name_en": "",
+    "lat": 39.2744408,
+    "lng": 141.869547,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 155244845,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八雲神社",
     "name_en": "",
     "lat": 39.2709511,
@@ -21417,6 +23837,17 @@
     "data_source": "osm"
   },
   {
+    "name": "平泉温泉 悠久の湯",
+    "name_en": "",
+    "lat": 38.9909651,
+    "lng": 141.110808,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 160311040,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "山門",
     "name_en": "",
     "lat": 38.9872285,
@@ -21424,6 +23855,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 160311103,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "毛通寺宝物館",
+    "name_en": "Mōtsū Temple Treasure Museum",
+    "lat": 38.9869038,
+    "lng": 141.1087678,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 160311126,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21472,6 +23914,17 @@
     "data_source": "osm"
   },
   {
+    "name": "栗橋ふるさと伝承館",
+    "name_en": "",
+    "lat": 39.3590636,
+    "lng": 141.773286,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 168152274,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "瀧澤神社",
     "name_en": "",
     "lat": 39.3580245,
@@ -21490,6 +23943,28 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 168856628,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆっこ盛岡",
+    "name_en": "",
+    "lat": 39.7335492,
+    "lng": 141.1236022,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 174766945,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "おふろランド北上",
+    "name_en": "",
+    "lat": 39.2949832,
+    "lng": 141.0926391,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 175223362,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21571,6 +24046,39 @@
     "data_source": "osm"
   },
   {
+    "name": "古墳ノゆ",
+    "name_en": "",
+    "lat": 40.1814323,
+    "lng": 141.7918277,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 232208900,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "土門拳記念館",
+    "name_en": "Ken Domon Museum of Photography",
+    "lat": 38.8913443,
+    "lng": 139.8237225,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 236402665,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大森山動物園",
+    "name_en": "",
+    "lat": 39.6711903,
+    "lng": 140.0750875,
+    "category": "zoo",
+    "prefecture": "iwate",
+    "osm_id": 238017346,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "法華寺",
     "name_en": "",
     "lat": 39.344207,
@@ -21582,6 +24090,226 @@
     "data_source": "osm"
   },
   {
+    "name": "滝沢市埋蔵文化財センター",
+    "name_en": "",
+    "lat": 39.7806409,
+    "lng": 141.0978343,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 239997504,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "御所野縄文博物館",
+    "name_en": "",
+    "lat": 40.1974917,
+    "lng": 141.3103987,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 240000368,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "軽井沢温泉",
+    "name_en": "",
+    "lat": 40.2164641,
+    "lng": 140.6438447,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 242170122,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田県埋蔵文化財センター",
+    "name_en": "Akita Archaeological Center",
+    "lat": 39.4646272,
+    "lng": 140.5484168,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 242683448,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大湯ストーンサークル館",
+    "name_en": "",
+    "lat": 40.274012,
+    "lng": 140.8064448,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 245391534,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田県立博物館",
+    "name_en": "Akita Prefectural Museum",
+    "lat": 39.8173386,
+    "lng": 140.0659993,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 245392656,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "花巻市博物館",
+    "name_en": "",
+    "lat": 39.3994372,
+    "lng": 141.1685045,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 245393263,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高村光太郎紀念館（花巻歴史民俗資料館）",
+    "name_en": "",
+    "lat": 39.3880916,
+    "lng": 141.0058791,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 245393938,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "石川啄木記念館",
+    "name_en": "",
+    "lat": 39.8460483,
+    "lng": 141.1711796,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 245394664,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "一関市博物館",
+    "name_en": "",
+    "lat": 38.9466673,
+    "lng": 141.0517299,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 245395408,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩手県立博物館",
+    "name_en": "",
+    "lat": 39.7554654,
+    "lng": 141.1539926,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 245395442,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三戸町立歴史民俗資料館・三戸城温故館",
+    "name_en": "",
+    "lat": 40.3809932,
+    "lng": 141.2638973,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 245399145,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "遠野ふるさと村",
+    "name_en": "Tōno Furusato Village",
+    "lat": 39.3960269,
+    "lng": 141.5404281,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 249358775,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新潮社記念文学館",
+    "name_en": "",
+    "lat": 39.5928775,
+    "lng": 140.5655625,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 253970106,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平福記念美術館",
+    "name_en": "Hirahuku Memorial Art Museum",
+    "lat": 39.6019413,
+    "lng": 140.5601866,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 253970113,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大村美術館",
+    "name_en": "",
+    "lat": 39.599204,
+    "lng": 140.563019,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 253970115,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ANA Crowne Plaza Appi Kogen Onsen",
+    "name_en": "ANA Crowne Plaza Appi Kogen Onsen",
+    "lat": 40.0023854,
+    "lng": 140.969065,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 261303582,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "安比温泉白樺の湯",
+    "name_en": "Shirakaba Onsen",
+    "lat": 40.0000684,
+    "lng": 140.9741282,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 261525399,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "サトウハチロー記念館 叱られ坊主",
+    "name_en": "",
+    "lat": 39.2728626,
+    "lng": 141.127842,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 264972823,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "北上市立博物館",
+    "name_en": "",
+    "lat": 39.2713514,
+    "lng": 141.1304437,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 264972826,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "全良寺",
     "name_en": "Zenryoh-ji temple",
     "lat": 39.7258882,
@@ -21589,6 +24317,72 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 266469929,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "奥州市伝統産業会館 キューポラの館",
+    "name_en": "",
+    "lat": 39.1443745,
+    "lng": 141.1877923,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 268196459,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "黄桜温泉 湯楽里",
+    "name_en": "",
+    "lat": 39.301632,
+    "lng": 140.2849688,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 279126436,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "思い出の潟分校(旧田沢湖町立生保内小学校潟分校)",
+    "name_en": "",
+    "lat": 39.6969719,
+    "lng": 140.6728147,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 279356305,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仙北市役所　西木山の幸資料館",
+    "name_en": "",
+    "lat": 39.7173218,
+    "lng": 140.6280152,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 279358418,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天王温泉くらら",
+    "name_en": "",
+    "lat": 39.8570404,
+    "lng": 140.009092,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 280764622,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八森温泉;;ゆりんこ",
+    "name_en": "",
+    "lat": 38.966429,
+    "lng": 139.9457911,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 285624124,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21626,6 +24420,17 @@
     "data_source": "osm"
   },
   {
+    "name": "岩城温泉 港の湯",
+    "name_en": "",
+    "lat": 39.5429984,
+    "lng": 140.0529777,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 293391838,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鶴潟神社",
     "name_en": "",
     "lat": 39.5409952,
@@ -21637,6 +24442,116 @@
     "data_source": "osm"
   },
   {
+    "name": "白瀬南極探検隊記念館",
+    "name_en": "",
+    "lat": 39.2681834,
+    "lng": 139.9253852,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 293479515,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "フェライト子ども科学館",
+    "name_en": "Children's Ferrite & Science Museum",
+    "lat": 39.2848569,
+    "lng": 139.9610723,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 293480826,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大潟村干拓博物館",
+    "name_en": "Polder Museum of Ogata Village",
+    "lat": 40.0160707,
+    "lng": 139.9513946,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 293490350,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "植物園",
+    "name_en": "",
+    "lat": 40.0146711,
+    "lng": 139.9622911,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 293493480,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "男鹿水族館 GAO",
+    "name_en": "Oga Aquarium GAO",
+    "lat": 39.9422905,
+    "lng": 139.7046184,
+    "category": "zoo",
+    "prefecture": "iwate",
+    "osm_id": 293606115,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "錦秋湖温泉穴ゆっこ",
+    "name_en": "Anayukko (Kinshuko Hot Spring)",
+    "lat": 39.2965439,
+    "lng": 140.8366711,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 293711762,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯川温泉「四季彩の宿・ふる里」",
+    "name_en": "",
+    "lat": 39.2883345,
+    "lng": 140.7696873,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 293717800,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "海洋センター",
+    "name_en": "",
+    "lat": 38.9145484,
+    "lng": 139.8294453,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 293812438,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "内陸線資料館",
+    "name_en": "",
+    "lat": 40.0003313,
+    "lng": 140.40181,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 294609253,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "沼館温泉会館 ぬまだてのゆっこ",
+    "name_en": "",
+    "lat": 40.2851144,
+    "lng": 140.5400869,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 295246579,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "和楽堂",
     "name_en": "",
     "lat": 39.4624576,
@@ -21644,6 +24559,50 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 295321342,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "クアドーム;ザ・ブーン",
+    "name_en": "Theboon",
+    "lat": 39.7948461,
+    "lng": 140.2230388,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 295632268,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仁別森林博物館",
+    "name_en": "Nibetsu Forest Museum",
+    "lat": 39.8032818,
+    "lng": 140.2626169,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 295647911,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "機関車庫",
+    "name_en": "",
+    "lat": 40.3243498,
+    "lng": 140.7452212,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 297486003,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小坂駅舎",
+    "name_en": "",
+    "lat": 40.3238167,
+    "lng": 140.745587,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 297486007,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21710,6 +24669,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 370068010,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大滝山温泉;神の湯",
+    "name_en": "",
+    "lat": 39.7813609,
+    "lng": 140.1480518,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 375770121,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21791,6 +24761,17 @@
     "data_source": "osm"
   },
   {
+    "name": "曲屋",
+    "name_en": "",
+    "lat": 39.4349815,
+    "lng": 140.44008,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 386726543,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "北野神社",
     "name_en": "Kitano shrine",
     "lat": 39.435822,
@@ -21802,6 +24783,17 @@
     "data_source": "osm"
   },
   {
+    "name": "秋田県立農業科学館",
+    "name_en": "Akita Prefectural Museum of Agricultural Science",
+    "lat": 39.4368097,
+    "lng": 140.4389802,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 386728145,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "南陽寺",
     "name_en": "",
     "lat": 39.4846029,
@@ -21809,6 +24801,61 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 386893481,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "黒崎温泉保養センター",
+    "name_en": "",
+    "lat": 38.9522501,
+    "lng": 141.7233023,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 387041181,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "なの花温泉;田田",
+    "name_en": "Nanohana Hot Spring - Denden",
+    "lat": 38.7836782,
+    "lng": 139.8469245,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 387273867,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩手県立美術館",
+    "name_en": "Iwate Museum of Art",
+    "lat": 39.6932492,
+    "lng": 141.1245805,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 390957902,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "盛岡市先人記念館",
+    "name_en": "",
+    "lat": 39.6939792,
+    "lng": 141.1266403,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 390957906,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "盛岡市こども科学館",
+    "name_en": "",
+    "lat": 39.6940239,
+    "lng": 141.1299612,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 390961015,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21857,6 +24904,28 @@
     "data_source": "osm"
   },
   {
+    "name": "ポルダー潟の湯",
+    "name_en": "",
+    "lat": 40.0270283,
+    "lng": 139.9544517,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 405631305,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゼロダテアートセンター",
+    "name_en": "Zero Date Art Center",
+    "lat": 40.2714219,
+    "lng": 140.5589951,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 410407665,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "仁叟寺",
     "name_en": "",
     "lat": 40.2744563,
@@ -21864,6 +24933,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 413232625,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鹿角市 先人顕彰館",
+    "name_en": "",
+    "lat": 40.2732415,
+    "lng": 140.7702445,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 413232626,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21978,6 +25058,17 @@
     "data_source": "osm"
   },
   {
+    "name": "東田川文化記念館",
+    "name_en": "Higashitagawa Cultural Center",
+    "lat": 38.7661605,
+    "lng": 139.9025839,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 418456494,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "種耕院",
     "name_en": "",
     "lat": 38.7644663,
@@ -22055,6 +25146,72 @@
     "data_source": "osm"
   },
   {
+    "name": "羽後町 歴史民俗資料館",
+    "name_en": "",
+    "lat": 39.1981319,
+    "lng": 140.4011628,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 426576830,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧長谷山邸",
+    "name_en": "",
+    "lat": 39.2054541,
+    "lng": 140.3117977,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 426576837,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "むかしがたり館 (羽後町民話伝承館)",
+    "name_en": "",
+    "lat": 39.1904677,
+    "lng": 140.4475389,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 426576844,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "五輪坂温泉としとらんど",
+    "name_en": "",
+    "lat": 39.2172394,
+    "lng": 140.395866,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 426576867,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "かわい木の博物館",
+    "name_en": "",
+    "lat": 39.6483496,
+    "lng": 141.5897808,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 428811120,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "来田保養センター",
+    "name_en": "",
+    "lat": 40.2169333,
+    "lng": 141.3525576,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 429618261,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "小枝八幡宮",
     "name_en": "",
     "lat": 40.2275666,
@@ -22099,6 +25256,83 @@
     "data_source": "osm"
   },
   {
+    "name": "天台の湯",
+    "name_en": "",
+    "lat": 40.1981796,
+    "lng": 141.0907275,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 433263677,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅はしかみ",
+    "name_en": "Michinoeki Hashikami",
+    "lat": 40.4584426,
+    "lng": 141.6082766,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 436644889,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯瀬ふれあいセンター",
+    "name_en": "",
+    "lat": 40.1231284,
+    "lng": 140.8368822,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 437094096,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "奥中山高原温泉;朝朱の湯",
+    "name_en": "",
+    "lat": 40.0810179,
+    "lng": 141.1902161,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 437240176,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八幡平温泉;ゆらら",
+    "name_en": "",
+    "lat": 39.9803568,
+    "lng": 140.8013423,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 438261048,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯沢市リフレッシュ交流センター;ほっと館",
+    "name_en": "",
+    "lat": 39.0491512,
+    "lng": 140.4161618,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 439267657,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大太鼓の館",
+    "name_en": "",
+    "lat": 40.2510747,
+    "lng": 140.3760961,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 439879750,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "石船神社",
     "name_en": "",
     "lat": 38.8267798,
@@ -22106,6 +25340,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 441454712,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "折爪SA (上り)",
+    "name_en": "Oritsume SA",
+    "lat": 40.2970974,
+    "lng": 141.4238324,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 443127908,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22121,6 +25366,72 @@
     "data_source": "osm"
   },
   {
+    "name": "北秋田市阿仁郷土文化保存伝承館",
+    "name_en": "",
+    "lat": 39.9989037,
+    "lng": 140.4018062,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 444437469,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "北秋田市阿仁異人館",
+    "name_en": "",
+    "lat": 39.9991651,
+    "lng": 140.4018694,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 444437470,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "田沢湖クニマス未来館",
+    "name_en": "",
+    "lat": 39.7001791,
+    "lng": 140.6629266,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 446785311,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小坂鉱山事務所",
+    "name_en": "",
+    "lat": 40.3285837,
+    "lng": 140.7442476,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 449152083,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小坂町立総合博物館・郷土館",
+    "name_en": "",
+    "lat": 40.3237324,
+    "lng": 140.7409534,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 449153685,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小坂町立総合博物館・郷土館",
+    "name_en": "",
+    "lat": 40.3236153,
+    "lng": 140.740553,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 449153686,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "滝の沢神社",
     "name_en": "",
     "lat": 40.3198763,
@@ -22128,6 +25439,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 450184870,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "環境省白神山地世界遺産センター・藤里館",
+    "name_en": "",
+    "lat": 40.3089827,
+    "lng": 140.2871946,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 450185776,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "藤里町歴史民俗資料館",
+    "name_en": "",
+    "lat": 40.3073581,
+    "lng": 140.2906718,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 450185780,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22187,6 +25520,61 @@
     "data_source": "osm"
   },
   {
+    "name": "秋田温泉さとみ温泉センター;りらっくす",
+    "name_en": "",
+    "lat": 39.7485234,
+    "lng": 140.1312281,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 456603590,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "アルパこまくさ",
+    "name_en": "",
+    "lat": 39.7771077,
+    "lng": 140.7639906,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 457377725,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田市立佐竹資料館",
+    "name_en": "Satake Historical Museum",
+    "lat": 39.7198647,
+    "lng": 140.124768,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 461359313,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田県立美術館",
+    "name_en": "Akita Museum of Art",
+    "lat": 39.7174099,
+    "lng": 140.121533,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 461361664,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田大学大学院国際資源学研究科附属鉱業博物館",
+    "name_en": "Mining Museum of Akita University",
+    "lat": 39.7291829,
+    "lng": 140.1365972,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 461649476,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "長寿寺",
     "name_en": "",
     "lat": 38.906452,
@@ -22194,6 +25582,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 462464628,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8831225,
+    "lng": 139.7412149,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 462715813,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22227,6 +25626,28 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 463062978,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田市民俗芸能伝承館",
+    "name_en": "Akita Folklore and Performing Arts Museum",
+    "lat": 39.7203664,
+    "lng": 140.1169838,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 463211300,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧金子家住宅",
+    "name_en": "Former Kaneko family residence",
+    "lat": 39.7202322,
+    "lng": 140.1170054,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 463216615,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22282,6 +25703,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 464456065,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "もりおか歴史文化館",
+    "name_en": "",
+    "lat": 39.7010303,
+    "lng": 141.1526065,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 464456072,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22440,6 +25872,17 @@
     "data_source": "osm"
   },
   {
+    "name": "イチノセキ温泉 願叶乃湯",
+    "name_en": "",
+    "lat": 38.9390014,
+    "lng": 141.1556614,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 479659438,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鹿嶋神社",
     "name_en": "",
     "lat": 39.7143402,
@@ -22447,6 +25890,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 482474761,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伝承館 潟上パークセンター",
+    "name_en": "",
+    "lat": 39.8553231,
+    "lng": 140.0087722,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 482791073,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22506,6 +25960,17 @@
     "data_source": "osm"
   },
   {
+    "name": "雄物川郷土史料館",
+    "name_en": "Omonogawa Local Museum",
+    "lat": 39.2976012,
+    "lng": 140.4315573,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 498693107,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "天保無縁塚",
     "name_en": "",
     "lat": 39.326185,
@@ -22513,6 +25978,61 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 498745346,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "讃衡蔵",
+    "name_en": "",
+    "lat": 39.0014377,
+    "lng": 141.1005905,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 499283952,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鬼の館",
+    "name_en": "",
+    "lat": 39.2756397,
+    "lng": 141.0455251,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 509832390,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "もりおか歴史文化館",
+    "name_en": "",
+    "lat": 39.7006895,
+    "lng": 141.1524336,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 514415268,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "キリストの里伝承館",
+    "name_en": "",
+    "lat": 40.4535826,
+    "lng": 141.148117,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 515633905,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "不動温泉;百万石",
+    "name_en": "",
+    "lat": 39.598759,
+    "lng": 141.0905548,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 520771108,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22550,6 +26070,17 @@
     "data_source": "osm"
   },
   {
+    "name": "桃の湯",
+    "name_en": "",
+    "lat": 38.950419,
+    "lng": 141.1070117,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 528637932,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "法眼寺",
     "name_en": "Hogenji",
     "lat": 38.7658413,
@@ -22579,6 +26110,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 533987566,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "原敬記念館",
+    "name_en": "Hara Kei Memorial Museum",
+    "lat": 39.6873455,
+    "lng": 141.1288647,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 534253798,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22616,6 +26158,17 @@
     "data_source": "osm"
   },
   {
+    "name": "平泉文化遺産センター",
+    "name_en": "",
+    "lat": 38.9929303,
+    "lng": 141.111127,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 542362422,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "地主稲荷神社",
     "name_en": "",
     "lat": 39.7079771,
@@ -22649,6 +26202,17 @@
     "data_source": "osm"
   },
   {
+    "name": "桜温泉;さくらさくら",
+    "name_en": "Sakura Onsen",
+    "lat": 39.706443,
+    "lng": 140.1519542,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 542700641,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白馬寺",
     "name_en": "",
     "lat": 39.7300997,
@@ -22656,6 +26220,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 544309274,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "花と緑と安らぎの湯;東和温泉",
+    "name_en": "",
+    "lat": 39.383289,
+    "lng": 141.2225942,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 544717483,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22715,6 +26290,28 @@
     "data_source": "osm"
   },
   {
+    "name": "日本現代詩歌文学館",
+    "name_en": "",
+    "lat": 39.2929529,
+    "lng": 141.1145381,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 545852593,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鳥越健康ランド",
+    "name_en": "",
+    "lat": 40.2162503,
+    "lng": 141.3081597,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 546266475,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "稲荷神社",
     "name_en": "",
     "lat": 40.2004273,
@@ -22722,6 +26319,39 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 547543207,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "住田町民俗資料館",
+    "name_en": "",
+    "lat": 39.1977511,
+    "lng": 141.5882144,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 550053534,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田県立博物館　分館　旧奈良家住宅",
+    "name_en": "",
+    "lat": 39.8232641,
+    "lng": 140.065242,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 554913754,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊勢堂岱縄文館",
+    "name_en": "",
+    "lat": 40.202024,
+    "lng": 140.3508273,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 557614180,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22759,6 +26389,17 @@
     "data_source": "osm"
   },
   {
+    "name": "南郷歴史民俗資料館",
+    "name_en": "",
+    "lat": 40.4142998,
+    "lng": 141.4868364,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 558665548,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "高山神社",
     "name_en": "",
     "lat": 40.4232851,
@@ -22777,6 +26418,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 559086809,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小岩井農場重要文化財ギャラリー",
+    "name_en": "",
+    "lat": 39.7515829,
+    "lng": 141.0195545,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 559112019,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22825,6 +26477,28 @@
     "data_source": "osm"
   },
   {
+    "name": "階上町大峠やすらぎの駐車帯",
+    "name_en": "",
+    "lat": 40.430127,
+    "lng": 141.5217829,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 562389705,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "紙風船館",
+    "name_en": "",
+    "lat": 39.8155907,
+    "lng": 140.5840752,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 563594621,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "愛宕神社",
     "name_en": "",
     "lat": 38.9548672,
@@ -22869,6 +26543,17 @@
     "data_source": "osm"
   },
   {
+    "name": "久慈地下水族科学館もぐらんぴあ",
+    "name_en": "",
+    "lat": 40.2212625,
+    "lng": 141.8156996,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 569024711,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.7798122,
@@ -22898,6 +26583,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 574880286,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玉乃湯",
+    "name_en": "",
+    "lat": 39.0644822,
+    "lng": 141.6305681,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 576965379,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -23155,6 +26851,28 @@
     "data_source": "osm"
   },
   {
+    "name": "こけし館",
+    "name_en": "Kokeshi Museum",
+    "lat": 40.2935866,
+    "lng": 140.8267296,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 591532567,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "すもう湯",
+    "name_en": "",
+    "lat": 40.2965339,
+    "lng": 140.8274263,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 591532570,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.3132784,
@@ -23217,6 +26935,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 596153228,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "横手Embroidery美術館",
+    "name_en": "",
+    "lat": 39.3105281,
+    "lng": 140.5692289,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 596153250,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -23364,6 +27093,39 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.176002,
+    "lng": 141.0905038,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 617830227,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雀館温泉;こま温泉浴場",
+    "name_en": "",
+    "lat": 40.3738895,
+    "lng": 141.2408565,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 618545298,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三戸町立歴史民俗資料館",
+    "name_en": "Sannohe Town History Museum",
+    "lat": 40.381104,
+    "lng": 141.2644637,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 618545450,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "糠部神社",
     "name_en": "",
     "lat": 40.3816376,
@@ -23371,6 +27133,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 618545459,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "庄内町ギャラリー温泉;町湯",
+    "name_en": "",
+    "lat": 38.8420204,
+    "lng": 139.9054144,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 620522728,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "悠々の杜温泉;アイアイひらた",
+    "name_en": "",
+    "lat": 38.8988363,
+    "lng": 139.9454188,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 620523090,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -23474,6 +27258,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.4514138,
+    "lng": 141.6818999,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 625060407,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "駒形神社",
     "name_en": "",
     "lat": 39.4091407,
@@ -23536,6 +27331,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 628274605,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本間家本邸",
+    "name_en": "",
+    "lat": 38.9146635,
+    "lng": 139.83944,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 628274617,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -23960,11 +27766,55 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 38.934909,
+    "lng": 140.830979,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 644780528,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山脈ハウス",
+    "name_en": "",
+    "lat": 38.9344118,
+    "lng": 140.8328563,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 644780530,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "駒の湯温泉",
+    "name_en": "",
+    "lat": 38.9385401,
+    "lng": 140.8366568,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 644780545,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 39.3361589,
     "lng": 141.532385,
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 648091241,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "踊鹿温泉;天の湯",
+    "name_en": "",
+    "lat": 39.3335283,
+    "lng": 141.5580877,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 648758148,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24013,6 +27863,28 @@
     "data_source": "osm"
   },
   {
+    "name": "八森;湯っこランド",
+    "name_en": "",
+    "lat": 40.3836261,
+    "lng": 139.9894802,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 672718288,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆたろう",
+    "name_en": "",
+    "lat": 40.1947179,
+    "lng": 140.7809125,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 672904373,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 39.1372161,
@@ -24020,6 +27892,50 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 673014029,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯屋処まつばら",
+    "name_en": "",
+    "lat": 39.0244353,
+    "lng": 141.6894143,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 673879442,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "フォックスバーデン;スパドーム",
+    "name_en": "",
+    "lat": 39.7357307,
+    "lng": 141.0906245,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 673884725,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "喜盛の湯",
+    "name_en": "",
+    "lat": 39.6786116,
+    "lng": 141.1516079,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 673887110,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "しみずの湯",
+    "name_en": "",
+    "lat": 38.7695681,
+    "lng": 140.3072014,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 673901075,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24112,6 +28028,17 @@
     "data_source": "osm"
   },
   {
+    "name": "いのちをつなぐ未来館",
+    "name_en": "Tsunami Memorial Hall",
+    "lat": 39.3273662,
+    "lng": 141.8875364,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 679917427,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "石応禅寺",
     "name_en": "Sekiozenji",
     "lat": 39.276133,
@@ -24189,6 +28116,545 @@
     "data_source": "osm"
   },
   {
+    "name": "鳥海温泉保養センター;あぽん西浜",
+    "name_en": "",
+    "lat": 39.0660999,
+    "lng": 139.8747348,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 683725624,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "にかほ市老人憩の家;午ノ浜温泉",
+    "name_en": "",
+    "lat": 39.2868554,
+    "lng": 139.9429451,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 683729759,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "かしわ温泉",
+    "name_en": "",
+    "lat": 39.3307656,
+    "lng": 140.0313521,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 683732705,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "由利の里交流センター;ゆりえもん",
+    "name_en": "",
+    "lat": 39.3168367,
+    "lng": 140.1115502,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 683747798,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鶴舞温泉",
+    "name_en": "",
+    "lat": 39.3818857,
+    "lng": 140.0470963,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 683753404,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ぱいんすぱ新山",
+    "name_en": "",
+    "lat": 39.4031772,
+    "lng": 140.025426,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 683808567,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高齢者コミュニティーセンター;伝兵衛湯荘",
+    "name_en": "",
+    "lat": 39.5008153,
+    "lng": 140.084739,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 683837460,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福祉健康;新屋温泉",
+    "name_en": "",
+    "lat": 39.6828616,
+    "lng": 140.0893138,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 683838020,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "夕陽温泉WAO",
+    "name_en": "",
+    "lat": 40.0373581,
+    "lng": 139.9242808,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 683840845,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "森岳温泉;ゆうぱる",
+    "name_en": "",
+    "lat": 40.0884359,
+    "lng": 140.0884732,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 683844518,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "船沢温泉",
+    "name_en": "",
+    "lat": 40.1688957,
+    "lng": 140.0421604,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 683845387,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高齢者ふれあい交流施設;ゆっちゃん",
+    "name_en": "",
+    "lat": 40.2087669,
+    "lng": 140.2386279,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 683860456,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "久吉たけのこ温泉",
+    "name_en": "",
+    "lat": 40.4452101,
+    "lng": 140.6486981,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 684133205,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "温浴ランドおが;なまはげのゆっこ",
+    "name_en": "",
+    "lat": 39.9516383,
+    "lng": 139.7537683,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 684178427,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水沢世代交流福祉館",
+    "name_en": "",
+    "lat": 39.6104938,
+    "lng": 140.4290146,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 684187751,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "余熱利用健康増進センター;ゆぴあす",
+    "name_en": "",
+    "lat": 39.7646349,
+    "lng": 141.1820958,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685188531,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ラ・フランス温泉館",
+    "name_en": "",
+    "lat": 39.5736022,
+    "lng": 141.0829255,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685193415,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "綿帽子温泉;あずみの湯",
+    "name_en": "",
+    "lat": 40.0248739,
+    "lng": 140.979991,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685196299,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "フロンティアの湯",
+    "name_en": "",
+    "lat": 40.0257346,
+    "lng": 140.9790861,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685196339,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八幡平温泉館;森乃湯",
+    "name_en": "",
+    "lat": 39.8979193,
+    "lng": 140.9739019,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685203194,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "おらほの温泉",
+    "name_en": "",
+    "lat": 39.8961809,
+    "lng": 141.090929,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685204745,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "焼走りの湯",
+    "name_en": "",
+    "lat": 39.8746343,
+    "lng": 141.0416906,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685206049,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "毛馬内七滝温泉",
+    "name_en": "",
+    "lat": 40.2822178,
+    "lng": 140.7678258,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685208591,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中野温泉 大館市高齢者生産活動施設",
+    "name_en": "",
+    "lat": 40.1756724,
+    "lng": 140.605496,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685216786,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ひない温泉;比内のゆ",
+    "name_en": "",
+    "lat": 40.2282757,
+    "lng": 140.5724649,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685222622,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "二井田市民集会所;ハチ公荘",
+    "name_en": "",
+    "lat": 40.2259397,
+    "lng": 140.5639595,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685235539,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大館東台温泉 東の湯",
+    "name_en": "",
+    "lat": 40.2706471,
+    "lng": 140.5738152,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685236459,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "露天とガーデンの温泉 ほうおう庭",
+    "name_en": "",
+    "lat": 40.2798706,
+    "lng": 140.5786533,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685238065,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長瀞温泉",
+    "name_en": "",
+    "lat": 40.2814219,
+    "lng": 140.5183055,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685263453,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長寿の湯",
+    "name_en": "",
+    "lat": 40.1777986,
+    "lng": 140.4846551,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685272867,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯の岱温泉",
+    "name_en": "",
+    "lat": 40.1757767,
+    "lng": 140.4765373,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685273623,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆう林館",
+    "name_en": "",
+    "lat": 39.3364572,
+    "lng": 140.7837209,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685329462,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "丑の湯",
+    "name_en": "",
+    "lat": 39.3439589,
+    "lng": 140.7725088,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685329685,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "槻沢温泉 砂ゆっこ",
+    "name_en": "",
+    "lat": 39.3568215,
+    "lng": 140.7699692,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685329843,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "老人憩の家 福寿荘",
+    "name_en": "",
+    "lat": 39.2797589,
+    "lng": 140.7225894,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685335070,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯田温泉郷巣郷温泉;峠の湯",
+    "name_en": "",
+    "lat": 39.2782849,
+    "lng": 140.7213737,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685335121,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仙北市民浴場 東風の湯",
+    "name_en": "",
+    "lat": 39.7059744,
+    "lng": 140.7309882,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685336001,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "国見温泉町営;国見山荘",
+    "name_en": "",
+    "lat": 39.7249354,
+    "lng": 140.7962098,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685336185,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水沢石田温泉",
+    "name_en": "",
+    "lat": 39.1454997,
+    "lng": 141.1167956,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685694321,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "胆沢川温泉 さくらの湯",
+    "name_en": "",
+    "lat": 39.1643823,
+    "lng": 141.0904563,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685695482,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "金成延年閣",
+    "name_en": "",
+    "lat": 38.8312614,
+    "lng": 141.0844879,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685831613,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "舞鶴の湯",
+    "name_en": "",
+    "lat": 39.0300124,
+    "lng": 141.1086649,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685835071,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "JAいわて花巻;グリーンホーム落合",
+    "name_en": "",
+    "lat": 39.4215376,
+    "lng": 141.0865076,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685878944,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ひまわり温泉;ぎんがの湯",
+    "name_en": "",
+    "lat": 39.4736942,
+    "lng": 141.0966126,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685882331,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "浄法寺冷泉;海上の湯",
+    "name_en": "",
+    "lat": 40.1693159,
+    "lng": 141.1368019,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685895938,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "富山温泉;沢丿湯",
+    "name_en": "",
+    "lat": 39.1109883,
+    "lng": 141.7217404,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685934922,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "しゃくなげの湯っこ;五葉温泉",
+    "name_en": "",
+    "lat": 39.1624045,
+    "lng": 141.7150727,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685990047,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "夏虫のお湯っこ",
+    "name_en": "",
+    "lat": 39.1387065,
+    "lng": 141.781199,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 685990376,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋の宮山荘",
+    "name_en": "",
+    "lat": 38.9557218,
+    "lng": 140.5417272,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 686588043,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "萬雄寺",
     "name_en": "",
     "lat": 39.7011976,
@@ -24196,6 +28662,61 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 687729230,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "瀬峯坂温泉;宝珠の湯",
+    "name_en": "",
+    "lat": 39.2426016,
+    "lng": 141.0009021,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 687779612,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "金ヶ崎温泉;駒子の湯",
+    "name_en": "",
+    "lat": 39.1885197,
+    "lng": 141.0036612,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 687782809,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "国見平温泉;はごろもの湯",
+    "name_en": "",
+    "lat": 39.0794661,
+    "lng": 140.9986441,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 687784707,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "黒滝温泉;のぞみの湯",
+    "name_en": "",
+    "lat": 39.0086004,
+    "lng": 140.9807962,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 687787886,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "真湯温泉センター;交流館",
+    "name_en": "",
+    "lat": 39.0047345,
+    "lng": 140.8559113,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 687789733,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24222,6 +28743,61 @@
     "data_source": "osm"
   },
   {
+    "name": "神室温泉;ホットハウス;カムロ",
+    "name_en": "",
+    "lat": 38.9171065,
+    "lng": 140.3929667,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 687886811,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "老人福祉センター;緑風荘",
+    "name_en": "",
+    "lat": 39.1612353,
+    "lng": 140.5440537,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 687887704,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大滝温泉;湯夢湯夢の湯",
+    "name_en": "",
+    "lat": 40.2115249,
+    "lng": 140.6468579,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 688332968,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "金沢温泉",
+    "name_en": "",
+    "lat": 40.183194,
+    "lng": 140.3516523,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 688341767,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上小阿仁村役場コミュニティセンター;山ふじ温泉",
+    "name_en": "",
+    "lat": 40.0224093,
+    "lng": 140.3124278,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 688349229,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宝珠院",
     "name_en": "",
     "lat": 39.2701421,
@@ -24229,6 +28805,237 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 688586557,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大湯温泉;いずみの湯",
+    "name_en": "",
+    "lat": 40.2949801,
+    "lng": 140.8316919,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 695645455,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "四十八瀧温泉;大館市立老人福祉センター",
+    "name_en": "",
+    "lat": 40.2958743,
+    "lng": 140.6369438,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 695760200,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "釈迦内温泉",
+    "name_en": "",
+    "lat": 40.3079768,
+    "lng": 140.5703046,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 695760436,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮田温泉保養所",
+    "name_en": "",
+    "lat": 40.176782,
+    "lng": 141.2329648,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 695823542,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "七時雨温泉;西根老人憩の家",
+    "name_en": "",
+    "lat": 40.0301615,
+    "lng": 141.1086308,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 695827056,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩手町老人福祉センター;黒石温泉;玉ぶき荘",
+    "name_en": "",
+    "lat": 39.9988917,
+    "lng": 141.1554354,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 695827900,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "網張温泉館;薬師の湯",
+    "name_en": "",
+    "lat": 39.8217276,
+    "lng": 140.9407586,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 695839526,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "網張温泉;ありね山荘",
+    "name_en": "",
+    "lat": 39.8148735,
+    "lng": 140.9348392,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 695840047,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "スーパー健康ランド;華のゆ",
+    "name_en": "",
+    "lat": 39.7129442,
+    "lng": 140.1176502,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 695893868,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "おおの温泉;健康の湯",
+    "name_en": "",
+    "lat": 40.2793597,
+    "lng": 141.6658133,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 695916640,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "閉伊川オートキャンプ場",
+    "name_en": "",
+    "lat": 39.6162184,
+    "lng": 141.793873,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 695918557,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "うみねこ温泉;湯らっくす",
+    "name_en": "",
+    "lat": 39.4645635,
+    "lng": 141.9520819,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 695920839,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "清養園保養センター",
+    "name_en": "",
+    "lat": 39.321612,
+    "lng": 141.4748968,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 695922343,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "気仙沼ほっこり湯",
+    "name_en": "",
+    "lat": 38.8555269,
+    "lng": 141.5792301,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 695929420,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "精華の湯",
+    "name_en": "",
+    "lat": 39.4535359,
+    "lng": 141.0550202,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 695938707,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いきいきランド;ぽんぽ館",
+    "name_en": "",
+    "lat": 38.7834403,
+    "lng": 140.1836788,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 696320165,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大堀温泉 おらだずの宿;りんどう",
+    "name_en": "",
+    "lat": 38.7531711,
+    "lng": 140.4703483,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 696327089,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "前森温泉;清流",
+    "name_en": "",
+    "lat": 38.7790868,
+    "lng": 140.5318644,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 696330645,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吹上高原;すぱ鬼首の湯",
+    "name_en": "",
+    "lat": 38.801913,
+    "lng": 140.6658755,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 696665059,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.9793004,
+    "lng": 140.7701189,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 697899841,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふれあいゆう星館",
+    "name_en": "",
+    "lat": 39.3701569,
+    "lng": 140.7233349,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 705915439,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24262,6 +29069,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 706913532,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あきた文学資料館",
+    "name_en": "",
+    "lat": 39.7133594,
+    "lng": 140.124348,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 707560606,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24332,6 +29150,17 @@
     "data_source": "osm"
   },
   {
+    "name": "盛岡山車資料館",
+    "name_en": "",
+    "lat": 39.6950147,
+    "lng": 141.1620021,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 708212490,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大黒・恵比寿神社",
     "name_en": "",
     "lat": 39.6959891,
@@ -24372,6 +29201,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 708349971,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "修身館",
+    "name_en": "",
+    "lat": 39.3849421,
+    "lng": 140.0473621,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 708390196,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本丸の館",
+    "name_en": "",
+    "lat": 39.3852263,
+    "lng": 140.0473574,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 708390197,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24640,6 +29491,17 @@
     "data_source": "osm"
   },
   {
+    "name": "明治橋際の御蔵（下町資料館）",
+    "name_en": "",
+    "lat": 39.6917912,
+    "lng": 141.1538883,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 717473583,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大龍寺",
     "name_en": "",
     "lat": 38.7472534,
@@ -24658,6 +29520,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 721060226,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田犬会館",
+    "name_en": "Akitainu Kaikan",
+    "lat": 40.2731863,
+    "lng": 140.5640254,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 729440119,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24691,6 +29564,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 732376248,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "久慈市歴史民俗資料室",
+    "name_en": "",
+    "lat": 40.1725186,
+    "lng": 141.759871,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 732487913,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24794,6 +29678,17 @@
     "data_source": "osm"
   },
   {
+    "name": "網張温泉",
+    "name_en": "",
+    "lat": 39.8220347,
+    "lng": 140.9369428,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 737877697,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.6250828,
@@ -24849,6 +29744,17 @@
     "data_source": "osm"
   },
   {
+    "name": "くまくま園",
+    "name_en": "",
+    "lat": 39.9138262,
+    "lng": 140.5359721,
+    "category": "zoo",
+    "prefecture": "iwate",
+    "osm_id": 738827950,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "笹立不動",
     "name_en": "",
     "lat": 38.778477,
@@ -24867,6 +29773,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 739518720,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白沢休憩所",
+    "name_en": "",
+    "lat": 40.3694019,
+    "lng": 140.8682225,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 739518769,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24937,6 +29854,39 @@
     "data_source": "osm"
   },
   {
+    "name": "沢内バーデン",
+    "name_en": "",
+    "lat": 39.3943556,
+    "lng": 140.7712156,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 741801380,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "無料足湯",
+    "name_en": "",
+    "lat": 39.3444045,
+    "lng": 140.7715473,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 741802412,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "無料足湯",
+    "name_en": "",
+    "lat": 39.3143623,
+    "lng": 140.7764879,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 741802413,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "松尾神社",
     "name_en": "",
     "lat": 38.7466571,
@@ -24999,6 +29949,39 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 743762767,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "エナジアムパーク",
+    "name_en": "",
+    "lat": 40.1910751,
+    "lng": 139.9962166,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 743814683,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "エナジアムパーク",
+    "name_en": "",
+    "lat": 40.1909778,
+    "lng": 139.9961723,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 743814684,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "エナジアムパーク",
+    "name_en": "",
+    "lat": 40.1910648,
+    "lng": 139.9959303,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 743814685,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25190,6 +30173,28 @@
     "data_source": "osm"
   },
   {
+    "name": "赤れんが郷土館（旧秋田銀行本店本館）",
+    "name_en": "",
+    "lat": 39.7167196,
+    "lng": 140.1157685,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 748909188,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "勝平得之記念館",
+    "name_en": "",
+    "lat": 39.7167424,
+    "lng": 140.1154838,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 748909189,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三吉神社総本宮",
     "name_en": "",
     "lat": 39.7261477,
@@ -25355,6 +30360,17 @@
     "data_source": "osm"
   },
   {
+    "name": "めんこい美術館",
+    "name_en": "",
+    "lat": 39.1448776,
+    "lng": 141.1542369,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 751032071,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 40.4412145,
@@ -25366,6 +30382,17 @@
     "data_source": "osm"
   },
   {
+    "name": "石井梅蔵記念館",
+    "name_en": "",
+    "lat": 38.8493242,
+    "lng": 139.8798596,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 751346227,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "機織神明社",
     "name_en": "",
     "lat": 40.190558,
@@ -25373,6 +30400,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 751583787,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "井坂記念館",
+    "name_en": "",
+    "lat": 40.2109368,
+    "lng": 140.0358538,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 751590718,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25472,6 +30510,28 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 752143347,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9569563,
+    "lng": 140.1261495,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 752910768,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "漢方薬温泉　静療館",
+    "name_en": "",
+    "lat": 40.2363455,
+    "lng": 140.0131733,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 753007827,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25610,6 +30670,28 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 39.9080758,
+    "lng": 139.733115,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 756250756,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "はまなす温泉",
+    "name_en": "",
+    "lat": 40.235003,
+    "lng": 140.013932,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 757315567,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 40.428538,
     "lng": 140.4088345,
     "category": "shrine",
@@ -25685,6 +30767,17 @@
     "data_source": "osm"
   },
   {
+    "name": "気仙沼市東日本大震災遺構・伝承館",
+    "name_en": "Kesennuma City Memorial Museum",
+    "lat": 38.8314364,
+    "lng": 141.591458,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 761169347,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.8312496,
@@ -25707,6 +30800,17 @@
     "data_source": "osm"
   },
   {
+    "name": "リアス・アーク美術館",
+    "name_en": "Rias Ark Museum of Art",
+    "lat": 38.8810431,
+    "lng": 141.5499119,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 761761293,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "北野神社",
     "name_en": "",
     "lat": 38.9089557,
@@ -25720,11 +30824,110 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 39.2741183,
+    "lng": 140.7193735,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 761930650,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.2759263,
+    "lng": 140.7189697,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 761930658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "巣郷温泉 静山荘",
+    "name_en": "",
+    "lat": 39.2758341,
+    "lng": 140.7188387,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 761930661,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "巣郷温泉（湯田温泉峡）",
+    "name_en": "",
+    "lat": 39.2754999,
+    "lng": 140.7195691,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 761930667,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "巣郷温泉（湯田温泉峡）",
+    "name_en": "",
+    "lat": 39.2755833,
+    "lng": 140.719469,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 761930669,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 39.0273577,
     "lng": 140.6421901,
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 762188586,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯",
+    "name_en": "",
+    "lat": 39.0133209,
+    "lng": 140.6591615,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 762188591,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.0056529,
+    "lng": 140.6640673,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 762192633,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "TDK 歴史みらい館",
+    "name_en": "",
+    "lat": 39.2916587,
+    "lng": 139.9573041,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 762774112,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "珠玉の湯 薬師堂温泉",
+    "name_en": "",
+    "lat": 39.1727447,
+    "lng": 141.1392764,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 762987183,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25747,6 +30950,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 763125323,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.7012764,
+    "lng": 140.7430561,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 763156435,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25971,6 +31185,17 @@
     "data_source": "osm"
   },
   {
+    "name": "刑務所作業品展示場",
+    "name_en": "",
+    "lat": 39.709428,
+    "lng": 140.0983786,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 766411370,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "地主稲荷神社",
     "name_en": "",
     "lat": 39.7588918,
@@ -25978,6 +31203,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 766592476,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "土崎みなと歴史伝承館",
+    "name_en": "Tsuchizaki Minato Port Area Historical Museam",
+    "lat": 39.7562954,
+    "lng": 140.0669195,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 766598484,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26202,6 +31438,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.9065782,
+    "lng": 141.5631383,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 768704360,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "講法院",
     "name_en": "",
     "lat": 38.9075674,
@@ -26220,6 +31467,50 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 770609116,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐藤多三郎家",
+    "name_en": "House of Tasaburou",
+    "lat": 39.2032614,
+    "lng": 140.5463596,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 770615955,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧松浦家住宅",
+    "name_en": "former Matsuura",
+    "lat": 39.2033474,
+    "lng": 140.5462457,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 770615956,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐藤又六家",
+    "name_en": "House of Mataroku",
+    "lat": 39.2033675,
+    "lng": 140.5455382,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 770618740,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐藤養助 漆蔵資料館",
+    "name_en": "",
+    "lat": 39.2052055,
+    "lng": 140.5450326,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 770618816,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26323,6 +31614,17 @@
     "data_source": "osm"
   },
   {
+    "name": "雄勝郡会議事堂記念館",
+    "name_en": "",
+    "lat": 39.1646345,
+    "lng": 140.4933016,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 770965910,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "稲荷神社",
     "name_en": "",
     "lat": 40.3735986,
@@ -26352,6 +31654,39 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 771012017,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8627896,
+    "lng": 139.7636634,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 772598366,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8625711,
+    "lng": 139.76216,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 772598367,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鉱山資料館",
+    "name_en": "",
+    "lat": 40.1861636,
+    "lng": 140.7476693,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 772666168,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26433,6 +31768,28 @@
     "data_source": "osm"
   },
   {
+    "name": "Design Shop 秋田贔屓",
+    "name_en": "",
+    "lat": 39.7191794,
+    "lng": 140.1179887,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 774888907,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "川端角のレトロ博物館",
+    "name_en": "",
+    "lat": 39.7188254,
+    "lng": 140.1182078,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 774888912,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.7144609,
@@ -26451,6 +31808,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 774940132,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.6138615,
+    "lng": 140.5994749,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 774994485,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26532,6 +31900,39 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.0595579,
+    "lng": 141.7216277,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 775436840,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.7022043,
+    "lng": 140.7613534,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 775660449,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.7322508,
+    "lng": 140.6986867,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 775662702,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 39.1586906,
@@ -26561,6 +31962,39 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 775720798,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.4988212,
+    "lng": 140.0872742,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 775720811,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "サンセットビュー",
+    "name_en": "",
+    "lat": 39.3236334,
+    "lng": 139.9872293,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 775979819,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.8020274,
+    "lng": 141.5379512,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 776727675,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26840,6 +32274,17 @@
     "data_source": "osm"
   },
   {
+    "name": "井川町歴史民俗資料館",
+    "name_en": "",
+    "lat": 39.9145043,
+    "lng": 140.0816133,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 782602368,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "広誓寺",
     "name_en": "",
     "lat": 39.393473,
@@ -27082,6 +32527,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8718845,
+    "lng": 139.7446317,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 792126125,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "門前駐車場",
+    "name_en": "",
+    "lat": 39.8646219,
+    "lng": 139.7543361,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 792126126,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "明池山長福院",
     "name_en": "",
     "lat": 40.0008246,
@@ -27117,11 +32584,66 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 39.9211207,
+    "lng": 140.5363408,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 793357659,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9212578,
+    "lng": 140.5369545,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 793357660,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9215354,
+    "lng": 140.5371573,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 793357661,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 39.9031187,
     "lng": 140.4493807,
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 793365884,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三川道路公園",
+    "name_en": "",
+    "lat": 39.4246167,
+    "lng": 140.0272212,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 793489864,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9883225,
+    "lng": 140.6141789,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 793705458,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -27236,6 +32758,28 @@
     "data_source": "osm"
   },
   {
+    "name": "秋田県環境と文化のむら",
+    "name_en": "",
+    "lat": 39.9302221,
+    "lng": 140.1187908,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 795483283,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東北石油 豊川油田 展示室",
+    "name_en": "",
+    "lat": 39.8554324,
+    "lng": 140.0790435,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 795583965,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.80861,
@@ -27258,6 +32802,17 @@
     "data_source": "osm"
   },
   {
+    "name": "横手城",
+    "name_en": "Yokote Castle",
+    "lat": 39.3210627,
+    "lng": 140.5692211,
+    "category": "castle",
+    "prefecture": "iwate",
+    "osm_id": 796370106,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "善宝寺",
     "name_en": "Zenpoji",
     "lat": 38.772437,
@@ -27269,6 +32824,28 @@
     "data_source": "osm"
   },
   {
+    "name": "史料館たてつ",
+    "name_en": "",
+    "lat": 39.5940401,
+    "lng": 140.5625857,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 797047638,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐竹歴史文化博物館",
+    "name_en": "",
+    "lat": 39.5989887,
+    "lng": 140.5603797,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 797116800,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.902313,
@@ -27276,6 +32853,28 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 797877747,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大葛金山 ふるさと館",
+    "name_en": "",
+    "lat": 40.126398,
+    "lng": 140.6771591,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 798415376,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大葛温泉",
+    "name_en": "",
+    "lat": 40.1280568,
+    "lng": 140.6788484,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 798415388,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -27540,6 +33139,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 804620785,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荒埼灯台",
+    "name_en": "Arasaki Lighthouse",
+    "lat": 38.762526,
+    "lng": 139.7239553,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 804906045,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28138,6 +33748,17 @@
     "data_source": "osm"
   },
   {
+    "name": "郷土文化保存伝習施設",
+    "name_en": "",
+    "lat": 39.1821642,
+    "lng": 139.9428385,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 810491346,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.1818174,
@@ -28145,6 +33766,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 810491349,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝物殿",
+    "name_en": "",
+    "lat": 39.1820665,
+    "lng": 139.9433446,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 810491363,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "忠猫神社",
+    "name_en": "",
+    "lat": 39.2608278,
+    "lng": 140.4904194,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 810493062,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28233,6 +33876,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 810630089,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "なまはげ館",
+    "name_en": "Namahage Museum",
+    "lat": 39.9292299,
+    "lng": 139.7665832,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 810700577,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "男鹿真山伝承館",
+    "name_en": "",
+    "lat": 39.9288853,
+    "lng": 139.7665757,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 810700578,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28402,6 +34067,17 @@
     "data_source": "osm"
   },
   {
+    "name": "鹿折金山資料館",
+    "name_en": "",
+    "lat": 38.9754025,
+    "lng": 141.5595345,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 813046162,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "旧黒澤家 氏神堂",
     "name_en": "",
     "lat": 39.7014805,
@@ -28523,6 +34199,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9865389,
+    "lng": 140.4057634,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 813427165,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "荒瀬神社",
     "name_en": "",
     "lat": 39.9822018,
@@ -28552,6 +34239,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 814053878,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "出羽伝承館（大内公民館図書室）",
+    "name_en": "",
+    "lat": 39.4426671,
+    "lng": 140.0905931,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 814130436,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ぽぽろっこ",
+    "name_en": "",
+    "lat": 39.4434734,
+    "lng": 140.0904253,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 814130444,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28666,6 +34375,28 @@
     "data_source": "osm"
   },
   {
+    "name": "荒瀬共同浴場",
+    "name_en": "",
+    "lat": 40.2973284,
+    "lng": 140.8368769,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 814941636,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.2977838,
+    "lng": 140.8375178,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 814941643,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "薬師神社",
     "name_en": "",
     "lat": 40.2921062,
@@ -28673,6 +34404,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 814962095,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "下の湯共同浴場",
+    "name_en": "",
+    "lat": 40.2921891,
+    "lng": 140.8217011,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 814962107,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28739,6 +34481,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 815153406,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鹿角市歴史民族資料館",
+    "name_en": "",
+    "lat": 40.1907459,
+    "lng": 140.7919918,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 815162885,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -29634,6 +35387,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.890215,
+    "lng": 139.7394734,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 822884882,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宇賀神社",
     "name_en": "",
     "lat": 39.9696534,
@@ -30037,6 +35801,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 825363463,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福田獅子舞伝承館",
+    "name_en": "",
+    "lat": 40.1494445,
+    "lng": 140.3168676,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 825364901,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -30470,6 +36245,17 @@
     "data_source": "osm"
   },
   {
+    "name": "胡桃館遺跡出土品収蔵庫",
+    "name_en": "",
+    "lat": 40.2357693,
+    "lng": 140.3569753,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 829496718,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "斗和多神社",
     "name_en": "",
     "lat": 40.2409149,
@@ -30477,6 +36263,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 829657414,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.2184332,
+    "lng": 140.2409867,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 829699806,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -30648,6 +36445,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 40.2130547,
+    "lng": 140.3035077,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 830719595,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 40.2160504,
     "lng": 140.2890737,
     "category": "shrine",
@@ -30734,6 +36542,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.2136004,
+    "lng": 140.2205434,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 831739699,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "七村稲荷神社",
     "name_en": "",
     "lat": 40.1056787,
@@ -30785,6 +36604,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 832251624,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.2202101,
+    "lng": 140.1825042,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 832271455,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -30983,6 +36813,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 832833129,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.0494504,
+    "lng": 140.4268861,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 832833177,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -31229,6 +37070,28 @@
     "data_source": "osm"
   },
   {
+    "name": "みちくさ広場",
+    "name_en": "",
+    "lat": 39.1102458,
+    "lng": 140.719424,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 833195217,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.1124893,
+    "lng": 140.7181477,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 833196668,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "椿川山神社",
     "name_en": "",
     "lat": 39.1254339,
@@ -31412,6 +37275,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 833804837,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あかしや荘",
+    "name_en": "",
+    "lat": 40.3363199,
+    "lng": 140.7361443,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 833804852,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -31955,6 +37829,17 @@
     "data_source": "osm"
   },
   {
+    "name": "渡辺家",
+    "name_en": "",
+    "lat": 40.149749,
+    "lng": 140.7780477,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 834725089,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 40.1590168,
@@ -32197,6 +38082,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大湯温泉",
+    "name_en": "",
+    "lat": 40.2950261,
+    "lng": 140.8330919,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 835235144,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "浅間神社",
     "name_en": "",
     "lat": 40.270071,
@@ -32248,6 +38144,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 835319188,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上の湯浴場",
+    "name_en": "",
+    "lat": 40.2951571,
+    "lng": 140.8320739,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 835322893,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "共同温泉 川原の湯浴場",
+    "name_en": "",
+    "lat": 40.2937875,
+    "lng": 140.8209205,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 835408104,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -33035,6 +38953,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 40.2385414,
+    "lng": 140.8075956,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 836492519,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 40.2471354,
     "lng": 140.7420377,
     "category": "shrine",
@@ -33117,6 +39046,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 836740100,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.2938538,
+    "lng": 140.8266604,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 836961905,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -33935,6 +39875,28 @@
     "data_source": "osm"
   },
   {
+    "name": "西和賀町立川村美術館",
+    "name_en": "",
+    "lat": 39.3137305,
+    "lng": 140.7782088,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 839072241,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西和賀町 歴史民俗資料館",
+    "name_en": "",
+    "lat": 39.3135755,
+    "lng": 140.7780317,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 839072242,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.2659188,
@@ -34078,6 +40040,17 @@
     "data_source": "osm"
   },
   {
+    "name": "あいのり",
+    "name_en": "",
+    "lat": 40.4266691,
+    "lng": 140.6345102,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 839645745,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.3050285,
@@ -34111,6 +40084,17 @@
     "data_source": "osm"
   },
   {
+    "name": "共同温泉 桜の湯",
+    "name_en": "",
+    "lat": 40.2135917,
+    "lng": 140.6406883,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 839841937,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大瀧薬師神社",
     "name_en": "",
     "lat": 40.2129094,
@@ -34122,6 +40106,17 @@
     "data_source": "osm"
   },
   {
+    "name": "鶴癒の足湯",
+    "name_en": "",
+    "lat": 40.2130805,
+    "lng": 140.64442,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 839842004,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 40.210404,
@@ -34129,6 +40124,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 839851941,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田県北部老人福祉施設 ほうおう",
+    "name_en": "",
+    "lat": 40.2166101,
+    "lng": 140.6578061,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 839859044,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -34426,6 +40432,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 840953314,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八郎まつり伝承館",
+    "name_en": "",
+    "lat": 39.8688005,
+    "lng": 140.0347277,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 840953316,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -35849,6 +41866,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ユアシス",
+    "name_en": "",
+    "lat": 39.5156738,
+    "lng": 140.217819,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 844460201,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "新波神社",
     "name_en": "",
     "lat": 39.5267703,
@@ -37066,6 +43094,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 861314376,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小池板碑群",
+    "name_en": "",
+    "lat": 39.9537203,
+    "lng": 140.0929809,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 861528253,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -38324,6 +44363,28 @@
     "data_source": "osm"
   },
   {
+    "name": "展示室",
+    "name_en": "",
+    "lat": 39.4267922,
+    "lng": 140.1025461,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 863048480,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東光館",
+    "name_en": "",
+    "lat": 39.426863,
+    "lng": 140.1026983,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 863048481,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "長谷寺",
     "name_en": "",
     "lat": 39.4279911,
@@ -39237,6 +45298,17 @@
     "data_source": "osm"
   },
   {
+    "name": "浜辺の歌音楽館",
+    "name_en": "",
+    "lat": 40.1187072,
+    "lng": 140.3673373,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 867155340,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 40.1198278,
@@ -39453,6 +45525,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 867955529,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大盛館",
+    "name_en": "",
+    "lat": 39.632163,
+    "lng": 140.4004585,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 867955539,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -39952,6 +46035,17 @@
     "data_source": "osm"
   },
   {
+    "name": "千畑温泉",
+    "name_en": "",
+    "lat": 39.4335856,
+    "lng": 140.6191075,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 872295969,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.4468265,
@@ -39959,6 +46053,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 872965718,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "六郷温泉 あったか山",
+    "name_en": "",
+    "lat": 39.4090318,
+    "lng": 140.6133071,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 873032376,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -40531,6 +46636,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 877948314,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "根舟温泉",
+    "name_en": "",
+    "lat": 40.2640369,
+    "lng": 140.5424206,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 877948316,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -41239,6 +47355,17 @@
     "data_source": "osm"
   },
   {
+    "name": "山本ふるさと文化館",
+    "name_en": "",
+    "lat": 40.0880778,
+    "lng": 140.0871815,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 884265384,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "稲荷神社",
     "name_en": "",
     "lat": 40.0799835,
@@ -41433,6 +47560,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 886371582,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "相去パーキング",
+    "name_en": "",
+    "lat": 39.2318057,
+    "lng": 141.0916315,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 886470669,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -41932,6 +48070,17 @@
     "data_source": "osm"
   },
   {
+    "name": "河辺岩見温泉",
+    "name_en": "",
+    "lat": 39.7076856,
+    "lng": 140.2888871,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 894939707,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "両沢神社",
     "name_en": "",
     "lat": 39.7073169,
@@ -42130,6 +48279,17 @@
     "data_source": "osm"
   },
   {
+    "name": "山の駅 昭和の学校",
+    "name_en": "",
+    "lat": 39.4449428,
+    "lng": 141.0064111,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 895554242,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "保食神社",
     "name_en": "",
     "lat": 39.6749887,
@@ -42181,6 +48341,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 895777750,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八森ぶなっこランド",
+    "name_en": "",
+    "lat": 40.391193,
+    "lng": 140.0250633,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 895836313,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -42643,6 +48814,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 903652726,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "栖秀の郷土人形館",
+    "name_en": "",
+    "lat": 39.7334787,
+    "lng": 140.1357258,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 903747445,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -43116,6 +49298,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 908330257,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新浪温泉",
+    "name_en": "",
+    "lat": 39.5302132,
+    "lng": 140.2249304,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 908330391,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -43710,6 +49903,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 909855596,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松尾鉱山資料館",
+    "name_en": "",
+    "lat": 39.9144734,
+    "lng": 140.9781939,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 909886965,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -44381,6 +50585,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 921726072,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "にかほ市 象潟郷土資料館",
+    "name_en": "",
+    "lat": 39.2015842,
+    "lng": 139.9071585,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 921726074,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -45166,6 +51381,17 @@
     "data_source": "osm"
   },
   {
+    "name": "土蔵（資料館）",
+    "name_en": "",
+    "lat": 40.3321249,
+    "lng": 140.5530862,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 938400640,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大森神社",
     "name_en": "",
     "lat": 40.3358453,
@@ -45518,6 +51744,17 @@
     "data_source": "osm"
   },
   {
+    "name": "後三年合戦金沢資料館",
+    "name_en": "Gosan-nen War Kanezawa Archives",
+    "lat": 39.374422,
+    "lng": 140.5695227,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 943246774,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "金澤八幡宮",
     "name_en": "",
     "lat": 39.3735063,
@@ -45701,6 +51938,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 943491618,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本間家旧本邸別館",
+    "name_en": "",
+    "lat": 38.9141086,
+    "lng": 139.839182,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 944036354,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -46002,6 +52250,17 @@
     "data_source": "osm"
   },
   {
+    "name": "くらしの歴史館",
+    "name_en": "",
+    "lat": 39.5660448,
+    "lng": 140.3311908,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 950162151,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "妙泉寺",
     "name_en": "",
     "lat": 39.7084007,
@@ -46277,6 +52536,17 @@
     "data_source": "osm"
   },
   {
+    "name": "深沢紅子野の花美術館",
+    "name_en": "",
+    "lat": 39.7032144,
+    "lng": 141.1559995,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 955189356,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "稲荷神社",
     "name_en": "",
     "lat": 40.2783592,
@@ -46284,6 +52554,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 955269675,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "盛岡市動物公園ZOOMO",
+    "name_en": "",
+    "lat": 39.6975713,
+    "lng": 141.1909831,
+    "category": "zoo",
+    "prefecture": "iwate",
+    "osm_id": 955558624,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -46735,6 +53016,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 962645316,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "喜久の湯",
+    "name_en": "",
+    "lat": 40.2668645,
+    "lng": 140.5594876,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 962933345,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -47531,6 +53823,17 @@
     "data_source": "osm"
   },
   {
+    "name": "別所温泉",
+    "name_en": "",
+    "lat": 40.2038761,
+    "lng": 140.6917497,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 969245665,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "太平山神社",
     "name_en": "",
     "lat": 40.2062123,
@@ -47894,6 +54197,17 @@
     "data_source": "osm"
   },
   {
+    "name": "仙波",
+    "name_en": "",
+    "lat": 40.2135916,
+    "lng": 140.6456851,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 970907537,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鹿島神社",
     "name_en": "",
     "lat": 39.3053967,
@@ -48033,6 +54347,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 973434634,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "碧祥寺博物館",
+    "name_en": "",
+    "lat": 39.4281749,
+    "lng": 140.7483057,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 973885881,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -48213,6 +54538,17 @@
     "data_source": "osm"
   },
   {
+    "name": "川連漆器伝統工芸館",
+    "name_en": "",
+    "lat": 39.1447795,
+    "lng": 140.5680704,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 974911254,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 39.1449735,
@@ -48374,6 +54710,50 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 975143868,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧村田薬局",
+    "name_en": "former Murata drugstore",
+    "lat": 39.2031918,
+    "lng": 140.54559,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 975143913,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐藤三十郎家",
+    "name_en": "House of Sanjurou",
+    "lat": 39.2027172,
+    "lng": 140.5457894,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 975143929,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山中吉助商店",
+    "name_en": "Yamanaka Kichisuke Store",
+    "lat": 39.2035439,
+    "lng": 140.546266,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 975145785,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧石田理吉家",
+    "name_en": "former Ishida Rikichi",
+    "lat": 39.2042447,
+    "lng": 140.5461805,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 975145791,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -48847,6 +55227,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 979743519,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "羽後三埼灯台",
+    "name_en": "",
+    "lat": 39.117802,
+    "lng": 139.8707562,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 980132703,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -49489,6 +55880,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大綱の里伝承館",
+    "name_en": "",
+    "lat": 39.5445993,
+    "lng": 140.3760515,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 984709266,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "普洞院",
     "name_en": "",
     "lat": 39.5430018,
@@ -49918,6 +56320,17 @@
     "data_source": "osm"
   },
   {
+    "name": "チェーン着脱所",
+    "name_en": "",
+    "lat": 39.9752824,
+    "lng": 141.2430026,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 997048172,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "馬頭神社",
     "name_en": "",
     "lat": 39.5988851,
@@ -50002,6 +56415,28 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 1000808505,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南外民俗資料交流館",
+    "name_en": "",
+    "lat": 39.4261932,
+    "lng": 140.3550039,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1000824201,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩倉温泉",
+    "name_en": "",
+    "lat": 39.4200315,
+    "lng": 140.3496407,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 1000824202,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -50299,6 +56734,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 1004433954,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "はなび・アム",
+    "name_en": "",
+    "lat": 39.4597752,
+    "lng": 140.4804034,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1004456843,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -50629,6 +57075,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 1009615628,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ほろわの里資料館",
+    "name_en": "",
+    "lat": 39.3806783,
+    "lng": 140.3610149,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1009615638,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -51909,6 +58366,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大館市民舞伝習館",
+    "name_en": "",
+    "lat": 40.1893376,
+    "lng": 140.6081918,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1027592840,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 40.1896333,
@@ -52224,6 +58692,50 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 1036463818,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "御所湖川村美術館",
+    "name_en": "",
+    "lat": 39.668436,
+    "lng": 140.9723452,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1037153806,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南部屋敷",
+    "name_en": "",
+    "lat": 39.6736556,
+    "lng": 140.9871331,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1037153816,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雫石町歴史民俗資料館",
+    "name_en": "",
+    "lat": 39.6733671,
+    "lng": 140.987256,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1037153817,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小岩井農場資料館",
+    "name_en": "",
+    "lat": 39.7526166,
+    "lng": 141.0131702,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1037153828,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -53086,6 +59598,17 @@
     "data_source": "osm"
   },
   {
+    "name": "石坂洋次郎文学記念館",
+    "name_en": "Yojiro Ishizaka Literature Memorial Museum",
+    "lat": 39.324184,
+    "lng": 140.5657375,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1054143620,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大鳥神社",
     "name_en": "",
     "lat": 39.3272034,
@@ -53746,6 +60269,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.3671292,
+    "lng": 140.0723603,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 1057123603,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "勝軍神社",
     "name_en": "",
     "lat": 39.3901552,
@@ -54186,6 +60720,17 @@
     "data_source": "osm"
   },
   {
+    "name": "湯の台温泉 鶴泉荘",
+    "name_en": "",
+    "lat": 39.1932248,
+    "lng": 139.9619777,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 1057860122,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "才ノ神",
     "name_en": "",
     "lat": 39.1934588,
@@ -54204,6 +60749,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 1058058653,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.0928688,
+    "lng": 139.8783914,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 1058109968,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -54468,6 +61024,17 @@
     "category": "temple",
     "prefecture": "iwate",
     "osm_id": 1080824922,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯とぴあ雁の里温泉",
+    "name_en": "",
+    "lat": 39.3638783,
+    "lng": 140.5472257,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 1081645712,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -55550,6 +62117,17 @@
     "data_source": "osm"
   },
   {
+    "name": "命のらせん階段",
+    "name_en": "",
+    "lat": 38.8929875,
+    "lng": 141.579811,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1153122078,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.334895,
@@ -55979,6 +62557,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大森健康温泉",
+    "name_en": "",
+    "lat": 39.3534852,
+    "lng": 140.4305331,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 1172058856,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 40.316121,
@@ -56342,6 +62931,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ゆりの里郷土資料館",
+    "name_en": "",
+    "lat": 39.2827384,
+    "lng": 140.0703409,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1173241045,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宮比神社",
     "name_en": "",
     "lat": 39.3077124,
@@ -56415,6 +63015,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 1173561360,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平鹿農村文化伝承館",
+    "name_en": "",
+    "lat": 39.2581666,
+    "lng": 140.4935833,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1173686194,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -57343,6 +63954,17 @@
     "data_source": "osm"
   },
   {
+    "name": "陸前高田市立博物館",
+    "name_en": "",
+    "lat": 39.0152899,
+    "lng": 141.6282041,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1225267387,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.3442774,
@@ -57416,6 +64038,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 1228559773,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "谷藤家",
+    "name_en": "House of Tanifuji",
+    "lat": 39.2000662,
+    "lng": 140.5462346,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1228862608,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -59015,6 +65648,17 @@
     "data_source": "osm"
   },
   {
+    "name": "フットスパ あしほっと",
+    "name_en": "",
+    "lat": 39.2196822,
+    "lng": 139.900359,
+    "category": "onsen",
+    "prefecture": "iwate",
+    "osm_id": 1297289693,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "等心寺",
     "name_en": "",
     "lat": 39.3906879,
@@ -59158,6 +65802,17 @@
     "data_source": "osm"
   },
   {
+    "name": "遠野ふるさと村 自然資料館",
+    "name_en": "Tōno Furusato Village Natural History Museum",
+    "lat": 39.3959248,
+    "lng": 141.5413515,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1301634952,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.4489143,
@@ -59165,6 +65820,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 1302630473,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.3122785,
+    "lng": 140.3522079,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 1303503917,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -59242,6 +65908,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 1305339068,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "とおの物語の館",
+    "name_en": "Tono Folktale Museum",
+    "lat": 39.3292981,
+    "lng": 141.5285554,
+    "category": "museum",
+    "prefecture": "iwate",
+    "osm_id": 1306419425,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -59534,6 +66211,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 40.2176329,
+    "lng": 141.5379261,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 1394070918,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 39.4388934,
     "lng": 140.5123664,
     "category": "shrine",
@@ -59719,6 +66407,17 @@
     "data_source": "osm"
   },
   {
+    "name": "トイレパークつか",
+    "name_en": "",
+    "lat": 39.4360012,
+    "lng": 140.5638227,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 1433192830,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.4390492,
@@ -59807,6 +66506,17 @@
     "data_source": "osm"
   },
   {
+    "name": "もしもしピット",
+    "name_en": "",
+    "lat": 39.4789315,
+    "lng": 140.410538,
+    "category": "rest_area",
+    "prefecture": "iwate",
+    "osm_id": 1465457148,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.4706566,
@@ -59825,6 +66535,17 @@
     "category": "shrine",
     "prefecture": "iwate",
     "osm_id": 1473872010,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "碁石崎灯台",
+    "name_en": "",
+    "lat": 38.9860693,
+    "lng": 141.7417326,
+    "category": "lighthouse",
+    "prefecture": "iwate",
+    "osm_id": 1474037637,
     "spot_type": "data_spot",
     "data_source": "osm"
   },

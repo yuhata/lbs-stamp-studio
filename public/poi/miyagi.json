@@ -946,6 +946,17 @@
     "data_source": "osm"
   },
   {
+    "name": "秋乃宮博物館",
+    "name_en": "Akinomiya Museum",
+    "lat": 38.9601409,
+    "lng": 140.5301006,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 863048026,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "郷社刈田峯神社",
     "name_en": "",
     "lat": 38.1246085,
@@ -953,6 +964,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 864725679,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "こけし館",
+    "name_en": "Kokeshi Museum",
+    "lat": 38.120475,
+    "lng": 140.573216,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 864725692,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -979,6 +1001,17 @@
     "data_source": "osm"
   },
   {
+    "name": "岩切城跡",
+    "name_en": "",
+    "lat": 38.3138095,
+    "lng": 140.939726,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 1001085154,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "円通院",
     "name_en": "Entsu-in",
     "lat": 38.3712885,
@@ -986,6 +1019,83 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 1209848627,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.2964174,
+    "lng": 141.4270602,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 1211619428,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "石ノ森萬画館",
+    "name_en": "Ishinomori Manga Museum",
+    "lat": 38.4295754,
+    "lng": 141.3107621,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 1217256687,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧堀切邸",
+    "name_en": "",
+    "lat": 37.8332669,
+    "lng": 140.4524253,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 1727693689,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東北大学植物園",
+    "name_en": "Tohoku University Botanical Gardens",
+    "lat": 38.2559755,
+    "lng": 140.851464,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 1744460187,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.3759348,
+    "lng": 141.0718685,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 1945208975,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ベルギーオルゲールミュージアム",
+    "name_en": "Belgium Orgel Museum",
+    "lat": 38.3721757,
+    "lng": 141.0668269,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 1945208982,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "塩釜神社博物館",
+    "name_en": "Shiogama Shrine Museum",
+    "lat": 38.3181987,
+    "lng": 141.0150931,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 2148806975,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1056,6 +1166,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ラドンサウナ石巻",
+    "name_en": "",
+    "lat": 38.4352851,
+    "lng": 141.3112458,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 2265516147,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大島神社",
     "name_en": "",
     "lat": 38.4339921,
@@ -1107,6 +1228,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 2271179658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "温麺の館 うーめん・こけし・白石和紙",
+    "name_en": "",
+    "lat": 37.995593,
+    "lng": 140.63315,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 2285176669,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "弥次郎こけし村",
+    "name_en": "",
+    "lat": 38.035397,
+    "lng": 140.572714,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 2285228481,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1166,6 +1309,61 @@
     "data_source": "osm"
   },
   {
+    "name": "神の湯",
+    "name_en": "",
+    "lat": 38.124205,
+    "lng": 140.577237,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 2286379666,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯",
+    "name_en": "",
+    "lat": 38.124016,
+    "lng": 140.577143,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 2286379801,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "壽の湯",
+    "name_en": "",
+    "lat": 38.123244,
+    "lng": 140.578612,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 2286395814,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯",
+    "name_en": "",
+    "lat": 38.2254129,
+    "lng": 140.7269037,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 2287622953,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "カメイ美術館",
+    "name_en": "Kamei Museum",
+    "lat": 38.2548262,
+    "lng": 140.8813435,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 2288615204,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "湯神神社",
     "name_en": "",
     "lat": 38.333916,
@@ -1188,6 +1386,50 @@
     "data_source": "osm"
   },
   {
+    "name": "日本こけし館",
+    "name_en": "",
+    "lat": 38.7363431,
+    "lng": 140.6975382,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 2289949971,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯",
+    "name_en": "",
+    "lat": 38.744539,
+    "lng": 140.719127,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 2290060752,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯めぐり広場 手湯",
+    "name_en": "",
+    "lat": 38.7431214,
+    "lng": 140.7171206,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 2290064455,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "滝の湯",
+    "name_en": "Taki no Yu",
+    "lat": 38.7415436,
+    "lng": 140.7178562,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 2290111025,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "温泉神社",
     "name_en": "",
     "lat": 38.7408037,
@@ -1199,6 +1441,50 @@
     "data_source": "osm"
   },
   {
+    "name": "ぽっぽの足湯",
+    "name_en": "",
+    "lat": 38.743184,
+    "lng": 140.7160605,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 2290259198,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ほっとパーク足湯",
+    "name_en": "",
+    "lat": 38.7426396,
+    "lng": 140.7162472,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 2290280538,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯",
+    "name_en": "",
+    "lat": 38.74447,
+    "lng": 140.718012,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 2290735004,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯",
+    "name_en": "",
+    "lat": 38.748221,
+    "lng": 140.727135,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 2290739395,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "賀茂神社",
     "name_en": "",
     "lat": 38.9627838,
@@ -1206,6 +1492,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 2364922568,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "村田城",
+    "name_en": "",
+    "lat": 38.1182653,
+    "lng": 140.7207058,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 2483243930,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1239,6 +1536,17 @@
     "category": "station",
     "prefecture": "miyagi",
     "osm_id": 2493411817,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仙台市戦災復興記念館",
+    "name_en": "",
+    "lat": 38.2608558,
+    "lng": 140.8670616,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 2494582238,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1397,6 +1705,17 @@
     "data_source": "osm"
   },
   {
+    "name": "相馬市歴史民俗資料館",
+    "name_en": "",
+    "lat": 37.796374,
+    "lng": 140.919882,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 2834551401,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "北野天満宮",
     "name_en": "",
     "lat": 37.7966314,
@@ -1463,6 +1782,17 @@
     "data_source": "osm"
   },
   {
+    "name": "亘理町立郷土資料館",
+    "name_en": "",
+    "lat": 38.0400722,
+    "lng": 140.8615588,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 2834837501,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.4789562,
@@ -1470,6 +1800,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 2959552855,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南三陸ストーリー",
+    "name_en": "",
+    "lat": 38.6857366,
+    "lng": 141.4403197,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 2982084643,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1503,6 +1844,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 3090575055,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仙台アンパンマンこどもミュージアム&モール",
+    "name_en": "Sendai Anpanman Children's Museum and Mall",
+    "lat": 38.2641806,
+    "lng": 140.8875014,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 3090575056,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1595,6 +1947,28 @@
     "data_source": "osm"
   },
   {
+    "name": "しばたの郷土館",
+    "name_en": "",
+    "lat": 38.0556464,
+    "lng": 140.7624365,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 3380626444,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伝承館",
+    "name_en": "",
+    "lat": 38.0550318,
+    "lng": 140.762465,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 3380626445,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "法源寺",
     "name_en": "",
     "lat": 38.0514096,
@@ -1639,6 +2013,17 @@
     "data_source": "osm"
   },
   {
+    "name": "女川温泉ゆぽっぽ",
+    "name_en": "yupo'po",
+    "lat": 38.4468865,
+    "lng": 141.4440051,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 3420763658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.4286561,
@@ -1646,6 +2031,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 3420763666,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯",
+    "name_en": "",
+    "lat": 38.4467629,
+    "lng": 141.444032,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 3420765003,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2035,6 +2431,17 @@
     "data_source": "osm"
   },
   {
+    "name": "陸前大島灯台",
+    "name_en": "",
+    "lat": 38.8305865,
+    "lng": 141.6245401,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 3663139078,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "曹洞宗 東月山 西光寺",
     "name_en": "",
     "lat": 38.8452481,
@@ -2042,6 +2449,28 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 3663139530,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.8534321,
+    "lng": 141.6262436,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 3663139657,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.884601,
+    "lng": 141.6195282,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 3663140754,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2108,6 +2537,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 3665922241,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "シャークミュージアム",
+    "name_en": "",
+    "lat": 38.9000998,
+    "lng": 141.5792178,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 3666892545,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2926,6 +3366,17 @@
     "data_source": "osm"
   },
   {
+    "name": "松島博物館",
+    "name_en": "",
+    "lat": 38.3694876,
+    "lng": 141.0613672,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4331653906,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.2727158,
@@ -2966,6 +3417,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 4405213190,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "竹駒神社馬事博物館",
+    "name_en": "",
+    "lat": 38.1048022,
+    "lng": 140.8639326,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4419179248,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3278,6 +3740,17 @@
     "data_source": "osm"
   },
   {
+    "name": "金華山灯台",
+    "name_en": "Kinkasan Lighthouse",
+    "lat": 38.276594,
+    "lng": 141.584055,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 4520597005,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "賀茂皇大神社",
     "name_en": "",
     "lat": 38.2561789,
@@ -3366,6 +3839,17 @@
     "data_source": "osm"
   },
   {
+    "name": "塩竈市杉村惇美術館",
+    "name_en": "Shiogama Sugimura Jun Museum of Art",
+    "lat": 38.3158067,
+    "lng": 141.0166124,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4528178706,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "愛宕神社",
     "name_en": "",
     "lat": 38.3162673,
@@ -3384,6 +3868,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 4528178709,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "菅野美術館",
+    "name_en": "Kanno Museum",
+    "lat": 38.3114141,
+    "lng": 141.0056234,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4528209293,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3461,6 +3956,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 4530080692,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "七ヶ浜 歴史資料館",
+    "name_en": "",
+    "lat": 38.3025878,
+    "lng": 141.0449321,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4530094989,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4103,6 +4609,28 @@
     "data_source": "osm"
   },
   {
+    "name": "歴史民俗資料館",
+    "name_en": "",
+    "lat": 37.9619851,
+    "lng": 140.8788129,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4549017462,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "夢海庵　鈴倭人形美術館",
+    "name_en": "",
+    "lat": 37.8428495,
+    "lng": 140.9221692,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4549220667,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "雷神社",
     "name_en": "",
     "lat": 38.1165883,
@@ -4587,6 +5115,17 @@
     "data_source": "osm"
   },
   {
+    "name": "登米市立髙倉勝子美術館",
+    "name_en": "",
+    "lat": 38.6539086,
+    "lng": 141.2816942,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4564949692,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "ぜん荷神社",
     "name_en": "",
     "lat": 38.7085086,
@@ -4653,6 +5192,17 @@
     "data_source": "osm"
   },
   {
+    "name": "陸前大泊港防波堤灯台",
+    "name_en": "Rikuzen-Ōdomari Port Breakwater Lighthouse",
+    "lat": 38.3052025,
+    "lng": 141.4217563,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 4564967893,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "光明寺",
     "name_en": "",
     "lat": 38.7050854,
@@ -4708,6 +5258,28 @@
     "data_source": "osm"
   },
   {
+    "name": "蔵の資料館",
+    "name_en": "",
+    "lat": 38.6543926,
+    "lng": 141.2829124,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4564984593,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "二鬼城埼灯台",
+    "name_en": "Cape Nikijō Lighthouse",
+    "lat": 38.3112409,
+    "lng": 141.4180065,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 4566648690,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "専称寺",
     "name_en": "",
     "lat": 38.6502218,
@@ -4737,6 +5309,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 4566758503,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "警察資料館",
+    "name_en": "",
+    "lat": 38.6513735,
+    "lng": 141.2813267,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4566758791,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水沢県庁記念館",
+    "name_en": "",
+    "lat": 38.6542123,
+    "lng": 141.2807585,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4566759989,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5280,6 +5874,39 @@
     "data_source": "osm"
   },
   {
+    "name": "かんぽの宿一関",
+    "name_en": "",
+    "lat": 38.9428032,
+    "lng": 141.0650782,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 4586821207,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いつくし園",
+    "name_en": "",
+    "lat": 38.9445478,
+    "lng": 141.0433845,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 4586821221,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "渓泉閣",
+    "name_en": "",
+    "lat": 38.9442771,
+    "lng": 141.045254,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 4586821222,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白山神社",
     "name_en": "",
     "lat": 38.0959032,
@@ -5458,6 +6085,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 38.3978422,
+    "lng": 141.593207,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 4594265230,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 38.39789,
     "lng": 141.5921891,
     "category": "shrine",
@@ -5522,6 +6160,28 @@
     "data_source": "osm"
   },
   {
+    "name": "岩手サファリパーク",
+    "name_en": "",
+    "lat": 38.810509,
+    "lng": 141.2594353,
+    "category": "zoo",
+    "prefecture": "miyagi",
+    "osm_id": 4601402442,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "舘ヶ森アーク牧場",
+    "name_en": "",
+    "lat": 38.8187379,
+    "lng": 141.2739442,
+    "category": "zoo",
+    "prefecture": "miyagi",
+    "osm_id": 4601405867,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "赤城神社",
     "name_en": "",
     "lat": 38.039163,
@@ -5551,6 +6211,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 4613940990,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中鉢美術館",
+    "name_en": "Chubachi Museum",
+    "lat": 38.6583411,
+    "lng": 140.8633055,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4613963392,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5764,6 +6435,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大衡村ふるさと美術館",
+    "name_en": "",
+    "lat": 38.4688744,
+    "lng": 140.8815081,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4621916696,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "天皇寺",
     "name_en": "",
     "lat": 38.4406494,
@@ -5804,6 +6486,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 4623139592,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三本木亜炭記念館",
+    "name_en": "",
+    "lat": 38.5215903,
+    "lng": 140.9383946,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4623139596,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6127,6 +6820,17 @@
     "data_source": "osm"
   },
   {
+    "name": "縄文芸術館",
+    "name_en": "",
+    "lat": 38.5653606,
+    "lng": 140.857862,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4634557996,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "瑞雲寺",
     "name_en": "",
     "lat": 38.5744834,
@@ -6156,6 +6860,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 4634570790,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中新田城跡",
+    "name_en": "",
+    "lat": 38.5742388,
+    "lng": 140.8597319,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 4634570989,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6369,6 +7084,17 @@
     "data_source": "osm"
   },
   {
+    "name": "墨雪墨絵美術館",
+    "name_en": "",
+    "lat": 38.5741772,
+    "lng": 140.8517629,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4643855090,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "城泉院",
     "name_en": "",
     "lat": 38.5890652,
@@ -6398,6 +7124,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 4643855294,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "原阿佐緒記念館",
+    "name_en": "Hara Asao Kinenkan",
+    "lat": 38.4053391,
+    "lng": 140.8468503,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4643985893,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6677,6 +7414,17 @@
     "data_source": "osm"
   },
   {
+    "name": "美里町役場 近代文学館",
+    "name_en": "",
+    "lat": 38.5435723,
+    "lng": 141.0560805,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4664960305,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "厳島神社",
     "name_en": "",
     "lat": 38.4294433,
@@ -6750,6 +7498,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 4665029196,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吉野作造記念館",
+    "name_en": "",
+    "lat": 38.5815767,
+    "lng": 140.9731538,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4665045091,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6886,6 +7645,17 @@
     "data_source": "osm"
   },
   {
+    "name": "栗原市立金成歴史民俗資料館",
+    "name_en": "",
+    "lat": 38.811183,
+    "lng": 141.0738606,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4671565299,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "道祖神社",
     "name_en": "",
     "lat": 38.7679137,
@@ -6963,6 +7733,17 @@
     "data_source": "osm"
   },
   {
+    "name": "細倉鉱山資料館",
+    "name_en": "",
+    "lat": 38.8026096,
+    "lng": 140.8985365,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4674346992,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "皇太神社",
     "name_en": "",
     "lat": 38.768304,
@@ -6992,6 +7773,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 4674346996,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "一迫埋蔵文化財センター",
+    "name_en": "",
+    "lat": 38.7420174,
+    "lng": 140.9472149,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4674356893,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山王考古館",
+    "name_en": "",
+    "lat": 38.7403729,
+    "lng": 140.9484234,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4674358091,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7073,6 +7876,17 @@
     "data_source": "osm"
   },
   {
+    "name": "鳴子温泉;早稲田桟敷湯",
+    "name_en": "Naruko Waseda Sajiki Yu",
+    "lat": 38.7436838,
+    "lng": 140.7174681,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 4676445093,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "駒形根神社",
     "name_en": "",
     "lat": 38.7950352,
@@ -7091,6 +7905,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 4676447689,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "北目城跡",
+    "name_en": "Site of Kitame Castle",
+    "lat": 38.2234268,
+    "lng": 140.8973436,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 4677679591,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7282,6 +8107,17 @@
     "data_source": "osm"
   },
   {
+    "name": "仙台文学館",
+    "name_en": "Sendai Literature Museum",
+    "lat": 38.2964999,
+    "lng": 140.8761426,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4684907291,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "堤町天神社",
     "name_en": "",
     "lat": 38.2847328,
@@ -7333,6 +8169,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 4693248002,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "角田市郷土資料館",
+    "name_en": "",
+    "lat": 37.9711486,
+    "lng": 140.7849393,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4693248696,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7443,6 +8290,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 4697128390,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "齋理屋敷",
+    "name_en": "Sairi Yashiki",
+    "lat": 37.9134332,
+    "lng": 140.7621465,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4697128395,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7601,6 +8459,17 @@
     "data_source": "osm"
   },
   {
+    "name": "東松島市 健康増進センターゆ・ぷ・と",
+    "name_en": "",
+    "lat": 38.4198068,
+    "lng": 141.2091571,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 4698983197,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "稲荷神社",
     "name_en": "",
     "lat": 38.4225772,
@@ -7652,6 +8521,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 4701204494,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "杜の都れんが下水洞窟",
+    "name_en": "",
+    "lat": 38.2642929,
+    "lng": 140.86301,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4701205798,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7986,6 +8866,17 @@
     "data_source": "osm"
   },
   {
+    "name": "寺浜灯台",
+    "name_en": "",
+    "lat": 38.6360886,
+    "lng": 141.5276242,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 4744753780,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "深山神社",
     "name_en": "",
     "lat": 38.278386,
@@ -8173,6 +9064,17 @@
     "data_source": "osm"
   },
   {
+    "name": "鶴の湯",
+    "name_en": "Tsuru no Yu",
+    "lat": 38.2295315,
+    "lng": 140.8834285,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 4759336255,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "舞台八幡神社",
     "name_en": "",
     "lat": 38.2303497,
@@ -8272,6 +9174,17 @@
     "data_source": "osm"
   },
   {
+    "name": "友の湯",
+    "name_en": "Tomo no Yu",
+    "lat": 38.906565,
+    "lng": 141.5632089,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 4782509826,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "青龍禅寺",
     "name_en": "",
     "lat": 38.9065231,
@@ -8349,6 +9262,17 @@
     "data_source": "osm"
   },
   {
+    "name": "阿部次郎記念館",
+    "name_en": "",
+    "lat": 38.2478821,
+    "lng": 140.8720661,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4796454421,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "館岡山神社",
     "name_en": "",
     "lat": 38.7948412,
@@ -8411,6 +9335,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 4811335122,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩手県立平泉世界遺産ガイダンスセンター",
+    "name_en": "",
+    "lat": 38.9922676,
+    "lng": 141.1207298,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4819252204,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8521,6 +9456,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 4831901160,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "石と賢治のミュージアム",
+    "name_en": "",
+    "lat": 38.9787383,
+    "lng": 141.238544,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 4833663292,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8745,6 +9691,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ゆ処悠々",
+    "name_en": "Yuyu",
+    "lat": 38.2912773,
+    "lng": 141.0124857,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 4996585825,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "正楽寺",
     "name_en": "",
     "lat": 38.2467915,
@@ -8763,6 +9720,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 5001262937,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山形県産業科学館",
+    "name_en": "",
+    "lat": 38.2498408,
+    "lng": 140.3262947,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5002314521,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8844,6 +9812,17 @@
     "data_source": "osm"
   },
   {
+    "name": "天童市将棋博物館",
+    "name_en": "Tendo Municipal Shogi Museum",
+    "lat": 38.3601761,
+    "lng": 140.3697206,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5004395222,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "加茂神社",
     "name_en": "",
     "lat": 38.3639799,
@@ -8884,6 +9863,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 5004510221,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天童民芸館",
+    "name_en": "",
+    "lat": 38.356328,
+    "lng": 140.378513,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5004637624,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広重美術館",
+    "name_en": "Hiroshige Museum",
+    "lat": 38.3596563,
+    "lng": 140.3804346,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5004638023,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9141,6 +10142,17 @@
     "data_source": "osm"
   },
   {
+    "name": "出羽桜美術館",
+    "name_en": "Dewazakura Art Museum",
+    "lat": 38.3496426,
+    "lng": 140.3708457,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5006955747,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "薬師神社",
     "name_en": "",
     "lat": 38.3509247,
@@ -9361,6 +10373,28 @@
     "data_source": "osm"
   },
   {
+    "name": "金澤翔子記念館",
+    "name_en": "",
+    "lat": 38.3088507,
+    "lng": 140.438461,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5008959428,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "後藤美術館",
+    "name_en": "Goto Museum",
+    "lat": 38.3086259,
+    "lng": 140.4394621,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5008959429,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "千手院",
     "name_en": "",
     "lat": 38.3159283,
@@ -9379,6 +10413,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 5008989125,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山寺芭蕉記念館",
+    "name_en": "Yamadera Basho Memorial Museum",
+    "lat": 38.3094776,
+    "lng": 140.439155,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5008989129,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9698,6 +10743,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 5013577423,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新庄城址",
+    "name_en": "",
+    "lat": 38.7658169,
+    "lng": 140.2935961,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 5013577439,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10109,6 +11165,28 @@
     "data_source": "osm"
   },
   {
+    "name": "玄昌石の館",
+    "name_en": "",
+    "lat": 38.6514887,
+    "lng": 141.2815265,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5047437827,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "町屋ミュージアム 菅勘資料館",
+    "name_en": "Kan Kan",
+    "lat": 38.6515284,
+    "lng": 141.2801719,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5047451925,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "本源寺",
     "name_en": "Hongenji",
     "lat": 38.6769955,
@@ -10153,6 +11231,17 @@
     "data_source": "osm"
   },
   {
+    "name": "芭蕉・清風歴史資料館",
+    "name_en": "",
+    "lat": 38.6064124,
+    "lng": 140.4044537,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5050137326,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "諏訪神社",
     "name_en": "",
     "lat": 38.607776,
@@ -10160,6 +11249,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 5050137823,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "酒の民俗文化博物館",
+    "name_en": "",
+    "lat": 38.9312365,
+    "lng": 141.1324766,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5050189351,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いちのせき文学の蔵",
+    "name_en": "",
+    "lat": 38.9311693,
+    "lng": 141.1325585,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5050196932,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10259,6 +11370,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 5052753524,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大石田町立歴史民俗資料館",
+    "name_en": "",
+    "lat": 38.5888542,
+    "lng": 140.3730784,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5052753526,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10391,6 +11513,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 5055307221,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "おもかげ湯",
+    "name_en": "",
+    "lat": 38.5692108,
+    "lng": 140.5320292,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 5055307621,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10703,6 +11836,17 @@
     "data_source": "osm"
   },
   {
+    "name": "最上徳内記念館",
+    "name_en": "",
+    "lat": 38.4830536,
+    "lng": 140.3821474,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5057859635,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "荷渡神社",
     "name_en": "",
     "lat": 38.5459729,
@@ -10908,6 +12052,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 5059791527,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "真下慶治郎記念美術館",
+    "name_en": "",
+    "lat": 38.5177926,
+    "lng": 140.353834,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5059791529,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11187,6 +12342,17 @@
     "data_source": "osm"
   },
   {
+    "name": "東根城跡",
+    "name_en": "",
+    "lat": 38.4414697,
+    "lng": 140.4019392,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 5065890544,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "本照寺",
     "name_en": "",
     "lat": 38.4427112,
@@ -11194,6 +12360,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 5065890545,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東根市東の杜資料館",
+    "name_en": "",
+    "lat": 38.4417695,
+    "lng": 140.4055031,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5065890546,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11847,6 +13024,17 @@
     "data_source": "osm"
   },
   {
+    "name": "平泉文化館",
+    "name_en": "",
+    "lat": 38.9990492,
+    "lng": 141.1083022,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5091098548,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "清水川神社",
     "name_en": "",
     "lat": 38.5691064,
@@ -12041,6 +13229,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 5100149339,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "古澤酒造資料館",
+    "name_en": "",
+    "lat": 38.3765222,
+    "lng": 140.2826894,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5100149723,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12353,6 +13552,17 @@
     "data_source": "osm"
   },
   {
+    "name": "金山城址",
+    "name_en": "",
+    "lat": 37.898525,
+    "lng": 140.8014365,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 5114513132,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "七夕神社",
     "name_en": "Tanabata Jinja",
     "lat": 37.8905936,
@@ -12393,6 +13603,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 5114515121,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "坂元城跡",
+    "name_en": "",
+    "lat": 37.9174549,
+    "lng": 140.8930363,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 5114515321,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "丸山城址",
+    "name_en": "",
+    "lat": 37.9110308,
+    "lng": 140.774113,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 5114589021,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12507,6 +13739,17 @@
     "data_source": "osm"
   },
   {
+    "name": "利府城跡（館山公園）",
+    "name_en": "",
+    "lat": 38.3362656,
+    "lng": 140.9811241,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 5124049836,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "多賀神社",
     "name_en": "",
     "lat": 38.3092857,
@@ -12525,6 +13768,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 5127925259,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蟹仙洞",
+    "name_en": "",
+    "lat": 38.1491379,
+    "lng": 140.278858,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5130287224,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12613,6 +13867,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 5132412337,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新湯の足湯",
+    "name_en": "",
+    "lat": 38.1572703,
+    "lng": 140.2728276,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 5132412342,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12738,6 +14003,17 @@
     "data_source": "osm"
   },
   {
+    "name": "斎藤茂吉記念館",
+    "name_en": "",
+    "lat": 38.1720859,
+    "lng": 140.299211,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5134665840,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "寿仙院",
     "name_en": "",
     "lat": 38.1633287,
@@ -12848,6 +14124,39 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.6704237,
+    "lng": 141.0083904,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 5151385024,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.830473,
+    "lng": 141.0825716,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 5151430123,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.9674971,
+    "lng": 140.6126977,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 5156202421,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "平野神社",
     "name_en": "",
     "lat": 38.7767833,
@@ -12910,6 +14219,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 5158472223,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧沼田家武家住宅",
+    "name_en": "",
+    "lat": 38.9290955,
+    "lng": 141.1321126,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5158476422,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13134,6 +14454,17 @@
     "data_source": "osm"
   },
   {
+    "name": "茂庭温泉",
+    "name_en": "",
+    "lat": 38.2118879,
+    "lng": 140.8076801,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 5209728829,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "威徳寺",
     "name_en": "",
     "lat": 38.4200327,
@@ -13233,6 +14564,17 @@
     "data_source": "osm"
   },
   {
+    "name": "秋保温泉共同浴場",
+    "name_en": "Akiu Onsen Public Bath",
+    "lat": 38.2266493,
+    "lng": 140.7197858,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 5263683121,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "慈明寺",
     "name_en": "",
     "lat": 38.483283,
@@ -13262,6 +14604,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 5265084902,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中本誠司現代美術館",
+    "name_en": "",
+    "lat": 38.2945852,
+    "lng": 140.8629172,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5267545849,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13504,6 +14857,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 5306285830,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長井勝一 漫画美術館",
+    "name_en": "",
+    "lat": 38.3104352,
+    "lng": 141.0109237,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5306370321,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14179,6 +15543,17 @@
     "data_source": "osm"
   },
   {
+    "name": "涛波岐埼灯台",
+    "name_en": "",
+    "lat": 38.2466026,
+    "lng": 141.500584,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 5518858065,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大金神社",
     "name_en": "",
     "lat": 38.2529288,
@@ -14186,6 +15561,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 5518860508,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三居沢電気百年館",
+    "name_en": "",
+    "lat": 38.2670886,
+    "lng": 140.8402672,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5519537634,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14307,6 +15693,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 5585615222,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "サン・ファン・バウティスタパーク",
+    "name_en": "Sant Juan Bautista Park",
+    "lat": 38.4095266,
+    "lng": 141.3696459,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5586549595,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15070,6 +16467,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大沢温泉旅館",
+    "name_en": "",
+    "lat": 38.9873164,
+    "lng": 141.1007248,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 5698213112,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大沢山神社",
     "name_en": "",
     "lat": 38.9870358,
@@ -15099,6 +16507,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 5698227344,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山形県立博物館教育資料館",
+    "name_en": "Yamagata Kenritsu Hakubutsukankyoiku Museum",
+    "lat": 38.2543663,
+    "lng": 140.348048,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5700379723,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15154,6 +16573,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 5703713844,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯の花茶屋 新左衛門の湯",
+    "name_en": "Shinzaemon no Yu",
+    "lat": 38.1644971,
+    "lng": 140.3948432,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 5710742557,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15367,6 +16797,28 @@
     "data_source": "osm"
   },
   {
+    "name": "松山ふるさと歴史館",
+    "name_en": "",
+    "lat": 38.5118044,
+    "lng": 141.0517029,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5810437712,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大崎市松山酒ミュージアム",
+    "name_en": "",
+    "lat": 38.5116613,
+    "lng": 141.0520485,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5810437713,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鹿島台",
     "name_en": "Kashimadai",
     "lat": 38.4746891,
@@ -15455,6 +16907,17 @@
     "data_source": "osm"
   },
   {
+    "name": "せんだい3.11 メモリアル交流館",
+    "name_en": "Sendai3.11 Memorial",
+    "lat": 38.2449249,
+    "lng": 140.9478416,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5903397715,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "春日神社",
     "name_en": "",
     "lat": 38.2726456,
@@ -15462,6 +16925,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 5905846927,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八幡杜の館",
+    "name_en": "",
+    "lat": 38.2689337,
+    "lng": 140.8504685,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 5905867688,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15484,6 +16958,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 5956685600,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "陸前黒埼灯台",
+    "name_en": "",
+    "lat": 38.2726791,
+    "lng": 141.5187222,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 5956686693,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15517,6 +17002,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 5963474079,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桃生城跡",
+    "name_en": "",
+    "lat": 38.5345803,
+    "lng": 141.2765485,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 5963474081,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15697,6 +17193,28 @@
     "data_source": "osm"
   },
   {
+    "name": "文覚館跡",
+    "name_en": "",
+    "lat": 38.4695398,
+    "lng": 141.0898676,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 5990655917,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平渡館跡",
+    "name_en": "",
+    "lat": 38.4869154,
+    "lng": 141.0975183,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 5990658931,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.8049887,
@@ -15748,6 +17266,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 6039173280,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広長城跡",
+    "name_en": "",
+    "lat": 38.4904978,
+    "lng": 141.0789646,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 6068908942,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16335,6 +17864,17 @@
     "data_source": "osm"
   },
   {
+    "name": "蔵王温泉 源七露天の湯",
+    "name_en": "Zaoonsen Genshichiroten",
+    "lat": 38.166633,
+    "lng": 140.3989427,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 6189288085,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "東周院",
     "name_en": "",
     "lat": 38.4455361,
@@ -16412,6 +17952,28 @@
     "data_source": "osm"
   },
   {
+    "name": "みいずみ温泉;吉乃ゆ",
+    "name_en": "",
+    "lat": 38.4010487,
+    "lng": 140.2873648,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 6311041315,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "やまびこの湯",
+    "name_en": "",
+    "lat": 38.2192486,
+    "lng": 140.8495406,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 6311934690,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "寺",
     "name_en": "",
     "lat": 38.86163,
@@ -16445,6 +18007,28 @@
     "data_source": "osm"
   },
   {
+    "name": "ゆ",
+    "name_en": "",
+    "lat": 38.1658342,
+    "lng": 140.395601,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 6342192289,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Sake museum",
+    "name_en": "",
+    "lat": 38.1666761,
+    "lng": 140.3970521,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 6342192300,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "願成寺",
     "name_en": "Ganjoji",
     "lat": 38.3122461,
@@ -16463,6 +18047,28 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 6355859418,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "多賀城史遊館",
+    "name_en": "",
+    "lat": 38.296551,
+    "lng": 141.0059714,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 6355859428,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "多賀城市埋蔵文化財調査センター 展示室",
+    "name_en": "",
+    "lat": 38.2956622,
+    "lng": 141.0051794,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 6355859429,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16566,6 +18172,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ディスカバリーセンター",
+    "name_en": "",
+    "lat": 38.4019112,
+    "lng": 141.1644564,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 6419988101,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白山神社",
     "name_en": "",
     "lat": 38.410448,
@@ -16606,6 +18223,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 6438173875,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "青龍殿",
+    "name_en": "Seiryuden Museum",
+    "lat": 38.3718821,
+    "lng": 141.0607884,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 6441688812,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "七ヶ浜健康スポーツセンター;アクアリーナ",
+    "name_en": "",
+    "lat": 38.3028563,
+    "lng": 141.0642671,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 6445923900,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16874,6 +18513,28 @@
     "data_source": "osm"
   },
   {
+    "name": "大崎市 竹工芸館",
+    "name_en": "",
+    "lat": 38.6543587,
+    "lng": 140.8664119,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 6463738886,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.2780794,
+    "lng": 141.4803706,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 6481859386,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "新山神社",
     "name_en": "",
     "lat": 38.4437567,
@@ -17017,6 +18678,61 @@
     "data_source": "osm"
   },
   {
+    "name": "国民宿舎 あぶくま荘",
+    "name_en": "",
+    "lat": 37.8725551,
+    "lng": 140.7833336,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 6505641719,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荒谷原温泉;山形県総合運動公園",
+    "name_en": "",
+    "lat": 38.3355153,
+    "lng": 140.3763041,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 6539413639,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵王四季のホテル 離れ湯百八歩",
+    "name_en": "",
+    "lat": 38.1616505,
+    "lng": 140.3922872,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 6539488157,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵王温泉;ろばた",
+    "name_en": "",
+    "lat": 38.167662,
+    "lng": 140.396972,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 6539524644,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "瑞鳳殿資料館",
+    "name_en": "Mausoleum Zuihoden",
+    "lat": 38.2506487,
+    "lng": 140.8663906,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 6544831391,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "水天宮",
     "name_en": "",
     "lat": 38.9319251,
@@ -17057,6 +18773,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 6598402893,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅上品の郷;ふたごの湯",
+    "name_en": "",
+    "lat": 38.5011577,
+    "lng": 141.2960988,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 6633347312,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17222,6 +18949,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 6765533131,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仙臺箪笥歴史工芸館",
+    "name_en": "Sendai Tansu Museum",
+    "lat": 38.2642803,
+    "lng": 140.8748114,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 6765673990,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17622,6 +19360,17 @@
     "data_source": "osm"
   },
   {
+    "name": "郷六城跡",
+    "name_en": "",
+    "lat": 38.2616274,
+    "lng": 140.8140524,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 6859196590,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "龍聖寺",
     "name_en": "Ryūseiji",
     "lat": 38.3120345,
@@ -17673,6 +19422,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 6859370986,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "地底の森ミュージアム",
+    "name_en": "Sendai City Tomizawa Site Museum",
+    "lat": 38.2227753,
+    "lng": 140.8725352,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 6863131655,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17754,6 +19514,17 @@
     "data_source": "osm"
   },
   {
+    "name": "花淵灯台",
+    "name_en": "",
+    "lat": 38.2941894,
+    "lng": 141.0846093,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 6896337206,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鼻節神社",
     "name_en": "",
     "lat": 38.2959385,
@@ -17805,6 +19576,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 6904675787,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いわぬまひつじ村",
+    "name_en": "Iwanuma sheep villeage",
+    "lat": 38.1018684,
+    "lng": 140.9270941,
+    "category": "zoo",
+    "prefecture": "miyagi",
+    "osm_id": 6905184384,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17981,6 +19763,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 6931131049,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "江尻排水ポンプ展示館",
+    "name_en": "",
+    "lat": 37.9715045,
+    "lng": 140.7746361,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 6931168282,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18469,6 +20262,17 @@
     "data_source": "osm"
   },
   {
+    "name": "新月パーキング",
+    "name_en": "",
+    "lat": 38.9162521,
+    "lng": 141.5214036,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 7171010570,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "御崎神社",
     "name_en": "",
     "lat": 38.8611009,
@@ -18476,6 +20280,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 7171040345,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "氷の水族館",
+    "name_en": "",
+    "lat": 38.9002477,
+    "lng": 141.5792441,
+    "category": "zoo",
+    "prefecture": "miyagi",
+    "osm_id": 7181952802,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18535,6 +20350,28 @@
     "data_source": "osm"
   },
   {
+    "name": "鶴亀の湯(男湯)",
+    "name_en": "",
+    "lat": 38.8990703,
+    "lng": 141.5805647,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 7247164856,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鶴亀の湯(女湯)",
+    "name_en": "",
+    "lat": 38.8991037,
+    "lng": 141.5804145,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 7247164857,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "愛宕社",
     "name_en": "",
     "lat": 38.1891321,
@@ -18542,6 +20379,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 7286489659,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "自然共生情報館",
+    "name_en": "",
+    "lat": 38.1956579,
+    "lng": 140.6640128,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 7286489775,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18575,6 +20423,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 7287824685,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小野城跡",
+    "name_en": "",
+    "lat": 38.1874998,
+    "lng": 140.6637391,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 7287824824,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荻ノ館跡",
+    "name_en": "",
+    "lat": 38.1971967,
+    "lng": 140.6889811,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 7287824825,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18641,6 +20511,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 7311191389,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊達家伯記念會",
+    "name_en": "Date Kahaku Kinenkai",
+    "lat": 38.2562335,
+    "lng": 140.8622216,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 7350325185,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18740,6 +20621,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 7521953590,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮床宝蔵",
+    "name_en": "",
+    "lat": 38.4030975,
+    "lng": 140.8486372,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 7521953598,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -19063,6 +20955,17 @@
     "data_source": "osm"
   },
   {
+    "name": "岩井埼灯台",
+    "name_en": "",
+    "lat": 38.8283852,
+    "lng": 141.6033692,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 7594055713,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.9754223,
@@ -19081,6 +20984,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 7595062689,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉 仙台コロナの湯",
+    "name_en": "Sendai Korona no Yu",
+    "lat": 38.260336,
+    "lng": 140.9695401,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 7595062788,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.4331578,
+    "lng": 140.28415,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 7597278385,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -19283,6 +21208,17 @@
     "data_source": "osm"
   },
   {
+    "name": "河北町紅花資料館",
+    "name_en": "",
+    "lat": 38.4386476,
+    "lng": 140.2994675,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 7602335285,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "弥勒院",
     "name_en": "",
     "lat": 38.4430343,
@@ -19345,6 +21281,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 7623177790,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "感覚ミュージアム",
+    "name_en": "",
+    "lat": 38.6566076,
+    "lng": 140.8707409,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 7624355814,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -19943,6 +21890,17 @@
     "data_source": "osm"
   },
   {
+    "name": "南三陸 海のビジターセンター",
+    "name_en": "Kawa to Umi no Visitor Center",
+    "lat": 38.6438083,
+    "lng": 141.4741241,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 7720652588,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 38.67258,
@@ -19983,6 +21941,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 7746162393,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "栗原市サンクチュアリセンターつきだて館 (昆虫館)",
+    "name_en": "Kurihara City Sanctuary Center Tsukidate Hall (Insectarium)",
+    "lat": 38.7137607,
+    "lng": 141.0824929,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 7746162589,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20115,6 +22084,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 7777520328,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仙台市天文台",
+    "name_en": "Sendai Astromical Observatory",
+    "lat": 38.256951,
+    "lng": 140.755257,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 7791143085,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20262,6 +22242,17 @@
     "data_source": "osm"
   },
   {
+    "name": "今泉城跡",
+    "name_en": "",
+    "lat": 38.2119717,
+    "lng": 140.9282633,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 7825174088,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "浪分神社",
     "name_en": "Namiwake Jinja",
     "lat": 38.235294,
@@ -20313,6 +22304,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 7885546487,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "多夢多夢舎 中山工房",
+    "name_en": "TamuTamusha",
+    "lat": 38.2879389,
+    "lng": 140.846559,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 7891626586,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20533,6 +22535,17 @@
     "category": "station",
     "prefecture": "miyagi",
     "osm_id": 8035287752,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "タイムシップ 塩竈歴史展示室",
+    "name_en": "",
+    "lat": 38.3173647,
+    "lng": 141.020138,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8061615386,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20944,6 +22957,17 @@
     "data_source": "osm"
   },
   {
+    "name": "佐藤屋敷",
+    "name_en": "Satō Yashiki",
+    "lat": 38.048493,
+    "lng": 140.7349339,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8190236617,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "とんとん神社",
     "name_en": "",
     "lat": 38.0576662,
@@ -21164,6 +23188,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ミュゼ マエナカ",
+    "name_en": "Musee Maenaka",
+    "lat": 38.1167532,
+    "lng": 140.6015997,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8204066618,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "浄影寺",
     "name_en": "Jōeiji",
     "lat": 38.1219192,
@@ -21182,6 +23217,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8204492024,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "青根洋館",
+    "name_en": "Aone Yōkan",
+    "lat": 38.1459219,
+    "lng": 140.5359253,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8204492120,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21292,6 +23338,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8207994120,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "根城館跡",
+    "name_en": "",
+    "lat": 38.0394047,
+    "lng": 140.6567878,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 8208932422,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21703,6 +23760,17 @@
     "data_source": "osm"
   },
   {
+    "name": "小泉城跡",
+    "name_en": "",
+    "lat": 38.1090619,
+    "lng": 140.7342975,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 8239788020,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "関泉寺",
     "name_en": "",
     "lat": 37.9925703,
@@ -21710,6 +23778,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 8242063418,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "wood & spa や・すまっしぇ",
+    "name_en": "",
+    "lat": 37.9975625,
+    "lng": 140.4384916,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 8242064818,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21798,6 +23877,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8242312919,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "TSUNAMI ハーレー展示館",
+    "name_en": "Tsunami HARLEY Tenjikan",
+    "lat": 37.9227454,
+    "lng": 140.9004552,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8244080417,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22132,6 +24222,17 @@
     "data_source": "osm"
   },
   {
+    "name": "磯崎郷土資料館",
+    "name_en": "",
+    "lat": 38.3796705,
+    "lng": 141.077461,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8280504324,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "石浜神社",
     "name_en": "",
     "lat": 38.332583,
@@ -22150,6 +24251,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8282324725,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "利府町郷土資料館",
+    "name_en": "",
+    "lat": 38.3299728,
+    "lng": 140.9808825,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8282325217,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22341,6 +24453,17 @@
     "data_source": "osm"
   },
   {
+    "name": "馳取城跡",
+    "name_en": "",
+    "lat": 38.4273674,
+    "lng": 140.8854334,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 8299074720,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "古峯神社",
     "name_en": "Furumine Jinja",
     "lat": 38.7279571,
@@ -22381,6 +24504,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8317714118,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "アートスペース 無可有の郷",
+    "name_en": "",
+    "lat": 38.0888433,
+    "lng": 140.7832304,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8317714317,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22495,6 +24629,17 @@
     "data_source": "osm"
   },
   {
+    "name": "民話の里 ふるさとおとぎ苑",
+    "name_en": "",
+    "lat": 38.1321986,
+    "lng": 140.7509986,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8322974821,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "熊野神社",
     "name_en": "Kumano Jinja",
     "lat": 38.1341221,
@@ -22524,6 +24669,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8326541272,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "芹沢長介記念 東北陶磁文化館",
+    "name_en": "",
+    "lat": 38.5679399,
+    "lng": 140.859314,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8326737318,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -22671,6 +24827,17 @@
     "data_source": "osm"
   },
   {
+    "name": "富城跡",
+    "name_en": "",
+    "lat": 38.7828183,
+    "lng": 141.0415668,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 8333998622,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白山神社",
     "name_en": "Hakusan Jinja",
     "lat": 38.7847287,
@@ -22733,6 +24900,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8334000020,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊治城跡",
+    "name_en": "",
+    "lat": 38.7648427,
+    "lng": 141.0383047,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 8334003017,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -23023,6 +25201,17 @@
     "data_source": "osm"
   },
   {
+    "name": "若柳城跡",
+    "name_en": "",
+    "lat": 38.7754586,
+    "lng": 141.114043,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 8347875618,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 38.7751294,
@@ -23129,6 +25318,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8357081618,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あーと硝子 Casa Vaso",
+    "name_en": "",
+    "lat": 38.7581455,
+    "lng": 141.1684908,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8357081720,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -23441,6 +25641,17 @@
     "data_source": "osm"
   },
   {
+    "name": "食農伝承館 和",
+    "name_en": "",
+    "lat": 38.6959188,
+    "lng": 141.2377719,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8385811021,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "報恩寺",
     "name_en": "Hōonji",
     "lat": 38.6928936,
@@ -23617,6 +25828,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.5376272,
+    "lng": 141.0487319,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 8403562120,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "満徳寺",
     "name_en": "Mantokuji",
     "lat": 38.5113328,
@@ -23635,6 +25857,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8404728017,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.5417993,
+    "lng": 141.0673354,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 8410783722,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.5416861,
+    "lng": 141.066707,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 8410783723,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -23683,6 +25927,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.5319081,
+    "lng": 141.0691404,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 8413540819,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "湯殿山神社",
     "name_en": "Yudonosan Jinja",
     "lat": 38.5174339,
@@ -23690,6 +25945,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8413955523,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "フランク永井 展示室",
+    "name_en": "",
+    "lat": 38.511703,
+    "lng": 141.0516642,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8416881417,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24002,6 +26268,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.6244326,
+    "lng": 141.1672035,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 8434332918,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "常楽寺",
     "name_en": "Jōrakuji",
     "lat": 38.6264633,
@@ -24009,6 +26286,28 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 8436356523,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八ツ森新城",
+    "name_en": "",
+    "lat": 38.6369597,
+    "lng": 141.2080706,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 8436356525,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平筒沼農村文化自然学習館",
+    "name_en": "",
+    "lat": 38.6101655,
+    "lng": 141.2394762,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8436764627,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24372,6 +26671,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8451526319,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.4981855,
+    "lng": 141.2923473,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 8451526517,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24750,6 +27060,39 @@
     "data_source": "osm"
   },
   {
+    "name": "山元町震災遺構　中浜小学校",
+    "name_en": "",
+    "lat": 37.9166148,
+    "lng": 140.9177651,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8484566937,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山元町震災遺構　中浜小学校　受付",
+    "name_en": "",
+    "lat": 37.9163501,
+    "lng": 140.9173141,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8484566939,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.4234353,
+    "lng": 141.3432935,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 8485821621,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "満願寺",
     "name_en": "Manganji Temple",
     "lat": 38.2655431,
@@ -24757,6 +27100,83 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 8499863720,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "島川美術館",
+    "name_en": "Shimakawa Art Museum",
+    "lat": 38.2645994,
+    "lng": 140.8737532,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8502616318,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.3990898,
+    "lng": 141.5374198,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 8505941582,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.3960696,
+    "lng": 141.4300074,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 8508769797,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.439218,
+    "lng": 141.5247336,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 8512204100,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.4385656,
+    "lng": 141.528262,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 8515687223,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.500202,
+    "lng": 141.4960326,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 8533126605,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.4886014,
+    "lng": 141.5352693,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 8542718765,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -24812,6 +27232,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8566265325,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "yupo'po",
+    "name_en": "",
+    "lat": 38.4466758,
+    "lng": 141.44387,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 8572037598,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "石巻天然温泉 元気の湯",
+    "name_en": "Genkinoyu",
+    "lat": 38.4316428,
+    "lng": 141.2866808,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 8585235540,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25245,6 +27687,17 @@
     "data_source": "osm"
   },
   {
+    "name": "詩人 梶原しげよギャラリー",
+    "name_en": "",
+    "lat": 38.9024105,
+    "lng": 141.6383095,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8663646518,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "早馬神社奥社",
     "name_en": "",
     "lat": 38.8952119,
@@ -25318,6 +27771,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8663677121,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松楯城跡",
+    "name_en": "",
+    "lat": 38.9303575,
+    "lng": 141.5790416,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 8663679519,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25443,6 +27907,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.7386524,
+    "lng": 140.696934,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 8670288425,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "愛宕神社",
     "name_en": "",
     "lat": 38.6326425,
@@ -25461,6 +27936,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8671506221,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふるさと陶芸館 切込焼記念館",
+    "name_en": "",
+    "lat": 38.6350676,
+    "lng": 140.7099134,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8671510319,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25494,6 +27980,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8674566920,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮崎城跡",
+    "name_en": "",
+    "lat": 38.6232208,
+    "lng": 140.7597356,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 8674567118,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25538,6 +28035,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8674586717,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.611439,
+    "lng": 140.7569817,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 8674652919,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25615,6 +28123,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8686140020,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "市民ギャラリー 緒絶の館",
+    "name_en": "",
+    "lat": 38.5756601,
+    "lng": 140.9551863,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8689305521,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.5649109,
+    "lng": 140.9401106,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 8692089918,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25714,6 +28244,39 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8711272403,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "みやぎ東日本大震災津波伝承館",
+    "name_en": "Miyagi Tsunami Disaster Memorial Museum",
+    "lat": 38.4181775,
+    "lng": 141.3047365,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8712321917,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東松島市震災復興伝承館",
+    "name_en": "Higashi-Matsushima 3.11 Disaster Recovery Memorial Museum",
+    "lat": 38.3749642,
+    "lng": 141.1602268,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8712365254,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.5602697,
+    "lng": 140.9443555,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 8713517521,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25839,6 +28402,28 @@
     "data_source": "osm"
   },
   {
+    "name": "大衡城跡",
+    "name_en": "",
+    "lat": 38.4617656,
+    "lng": 140.8802922,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 8718116518,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.4657148,
+    "lng": 140.8837799,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 8720192320,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白山神社",
     "name_en": "",
     "lat": 38.4632813,
@@ -25927,6 +28512,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.2263835,
+    "lng": 140.9683848,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 8740896036,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大國神社",
     "name_en": "",
     "lat": 38.3188129,
@@ -25949,6 +28545,17 @@
     "data_source": "osm"
   },
   {
+    "name": "仙台市水道記念館",
+    "name_en": "Suidō Kinenkan",
+    "lat": 38.2992954,
+    "lng": 140.6940949,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 8755222719,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "熊野神社",
     "name_en": "",
     "lat": 38.2680406,
@@ -25956,6 +28563,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 8756926144,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.2705534,
+    "lng": 140.7409859,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 8757277417,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.2700861,
+    "lng": 140.7818025,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 8759172420,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26011,6 +28640,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 9125939278,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "極楽湯",
+    "name_en": "Gokurakuyu",
+    "lat": 38.3654444,
+    "lng": 140.8941583,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 9137265268,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26114,6 +28754,17 @@
     "data_source": "osm"
   },
   {
+    "name": "要害城跡",
+    "name_en": "",
+    "lat": 38.8937708,
+    "lng": 141.1284833,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 9279473298,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "正来院",
     "name_en": "",
     "lat": 38.591793,
@@ -26187,6 +28838,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 9342641463,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "千厩酒のくら交流施設",
+    "name_en": "",
+    "lat": 38.9189836,
+    "lng": 141.3335292,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 9348376524,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26279,6 +28941,17 @@
     "data_source": "osm"
   },
   {
+    "name": "東根市美術館",
+    "name_en": "",
+    "lat": 38.4285683,
+    "lng": 140.3898264,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 9407880690,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "報恩寺",
     "name_en": "",
     "lat": 38.256921,
@@ -26286,6 +28959,28 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 9414946824,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "歴史博物館青葉城資料展示館",
+    "name_en": "",
+    "lat": 38.2521021,
+    "lng": 140.8559985,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 9438632323,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "一心美術館",
+    "name_en": "",
+    "lat": 38.2313841,
+    "lng": 140.71497,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 9448794095,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26330,6 +29025,28 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 9452011239,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "教育資料館",
+    "name_en": "",
+    "lat": 38.6553478,
+    "lng": 141.2798739,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 9459428734,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "登米懐古館",
+    "name_en": "",
+    "lat": 38.653321,
+    "lng": 141.2813603,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 9459443043,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26418,6 +29135,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 9622734675,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仙台湯処 サンピアの湯",
+    "name_en": "",
+    "lat": 38.2468033,
+    "lng": 140.9319064,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 9659086775,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26620,6 +29348,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.5010712,
+    "lng": 141.2963114,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 9827070397,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "養昌寺",
     "name_en": "",
     "lat": 38.8539855,
@@ -26752,6 +29491,17 @@
     "data_source": "osm"
   },
   {
+    "name": "スーパー銭湯 極楽湯",
+    "name_en": "Gokurakuyu",
+    "lat": 38.1798706,
+    "lng": 140.8769802,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 9936238310,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "妙音寺",
     "name_en": "Myoonji",
     "lat": 38.670123,
@@ -26770,6 +29520,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 9944208084,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "的場館跡",
+    "name_en": "",
+    "lat": 38.8979511,
+    "lng": 141.1235289,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 9946263315,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26913,6 +29674,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 10033044919,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上黒沢城跡",
+    "name_en": "",
+    "lat": 38.9162725,
+    "lng": 141.0863131,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 10035822182,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -27089,6 +29861,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 10083285984,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大日湯",
+    "name_en": "",
+    "lat": 38.9794006,
+    "lng": 140.7700075,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 10089461261,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -27335,6 +30118,17 @@
     "data_source": "osm"
   },
   {
+    "name": "えんずのわり資料館",
+    "name_en": "",
+    "lat": 38.3255982,
+    "lng": 141.1543223,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 10107636011,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "城皇寺",
     "name_en": "",
     "lat": 38.7576543,
@@ -27357,6 +30151,17 @@
     "data_source": "osm"
   },
   {
+    "name": "川崎町健康福祉センター やすらぎの郷",
+    "name_en": "Kawasaki Town Health and Wealfare Center Yasuragi no Sato",
+    "lat": 38.1820198,
+    "lng": 140.6310791,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 10606743749,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "金神大明神",
     "name_en": "",
     "lat": 38.2639024,
@@ -27364,6 +30169,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 10636689678,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仙台オルゴールサロン",
+    "name_en": "",
+    "lat": 38.2486802,
+    "lng": 140.8861473,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 10677763635,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -27397,6 +30213,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 10711251199,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大川震災伝承館",
+    "name_en": "Okawa Tsunami Memorial Hall",
+    "lat": 38.5456522,
+    "lng": 141.4277229,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 10717367382,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -27599,6 +30426,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ギャラリー梟",
+    "name_en": "",
+    "lat": 37.8273067,
+    "lng": 140.4450337,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 10813126153,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "薬王寺神社",
     "name_en": "",
     "lat": 37.8292828,
@@ -27617,6 +30455,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 10813177161,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あ～しあわせの湯",
+    "name_en": "",
+    "lat": 37.8322322,
+    "lng": 140.452218,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 10813939131,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.8331771,
+    "lng": 140.4527054,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 10813957607,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -27665,6 +30525,17 @@
     "data_source": "osm"
   },
   {
+    "name": "石巻市博物館",
+    "name_en": "",
+    "lat": 38.4594282,
+    "lng": 141.3064982,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 10814021313,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡寺",
     "name_en": "",
     "lat": 37.8326986,
@@ -27683,6 +30554,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 10815515256,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仙気の湯",
+    "name_en": "",
+    "lat": 37.8329954,
+    "lng": 140.456201,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 10815515262,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -27716,6 +30598,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 10815515284,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Komatuya",
+    "name_en": "",
+    "lat": 37.8304471,
+    "lng": 140.4557797,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 10815528907,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -27771,6 +30664,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 10819518265,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.8314717,
+    "lng": 140.4379213,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 10819518266,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -27907,6 +30811,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.8325988,
+    "lng": 140.4530745,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 10831140472,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "愛宕神社",
     "name_en": "",
     "lat": 38.4147046,
@@ -27951,6 +30866,17 @@
     "data_source": "osm"
   },
   {
+    "name": "七ヶ宿町水と歴史の館",
+    "name_en": "",
+    "lat": 37.9829754,
+    "lng": 140.4672943,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 10848325676,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "法圓寺",
     "name_en": "",
     "lat": 38.3703107,
@@ -27962,6 +30888,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大崎市古川出土文化財管理センター",
+    "name_en": "",
+    "lat": 38.6318761,
+    "lng": 140.9538909,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 10878430230,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "化女沼龍神",
     "name_en": "",
     "lat": 38.6263369,
@@ -27969,6 +30906,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 10886416577,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "化女沼ダム観光資料館",
+    "name_en": "",
+    "lat": 38.6272798,
+    "lng": 140.9659256,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 10886416578,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28050,6 +30998,28 @@
     "data_source": "osm"
   },
   {
+    "name": "祥雲閣",
+    "name_en": "",
+    "lat": 38.5819803,
+    "lng": 140.9717569,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 10929055007,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "極楽湯古川店",
+    "name_en": "",
+    "lat": 38.5572338,
+    "lng": 140.9479691,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 10938995921,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鹿嶋神社",
     "name_en": "",
     "lat": 38.5557954,
@@ -28127,6 +31097,28 @@
     "data_source": "osm"
   },
   {
+    "name": "朝日館跡",
+    "name_en": "",
+    "lat": 38.8544244,
+    "lng": 141.178093,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 11019564408,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮城県伊豆沼・内沼サンクチュアリセンター",
+    "name_en": "Miyagi Prefecture Izunuma-Uchinuma Sanctuary Center",
+    "lat": 38.7236983,
+    "lng": 141.0947549,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 11155492142,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "天童南",
     "name_en": "",
     "lat": 38.3415464,
@@ -28149,6 +31141,17 @@
     "data_source": "osm"
   },
   {
+    "name": "スパメッツァ仙台 竜泉寺の湯",
+    "name_en": "Spa Metsa Sendai Ryusenji no Yu",
+    "lat": 38.353128,
+    "lng": 140.8767011,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 11226694932,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大観密寺",
     "name_en": "Daikanmitsuji Temple",
     "lat": 38.3008582,
@@ -28167,6 +31170,28 @@
     "category": "station",
     "prefecture": "miyagi",
     "osm_id": 11282257041,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆっぽ とみや大清水",
+    "name_en": "Yuppo Tomiya",
+    "lat": 38.368632,
+    "lng": 140.8744515,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 11309042366,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "愛子天空の湯 そよぎの杜",
+    "name_en": "",
+    "lat": 38.2611163,
+    "lng": 140.7637856,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 11370572922,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28222,6 +31247,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 11430181047,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雪の里情報館",
+    "name_en": "",
+    "lat": 38.7708939,
+    "lng": 140.2972388,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 11434504710,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28413,6 +31449,17 @@
     "data_source": "osm"
   },
   {
+    "name": "足湯 和楽足湯",
+    "name_en": "Warashi-yu Foot Bath",
+    "lat": 38.5700654,
+    "lng": 140.5304897,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 11576588614,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "萬年寺",
     "name_en": "",
     "lat": 38.5437777,
@@ -28442,6 +31489,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 11648628848,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蒲生なかの郷愁館",
+    "name_en": "",
+    "lat": 38.2564465,
+    "lng": 141.0051569,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 11693035817,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28479,6 +31537,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.2704641,
+    "lng": 140.990041,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 12141526564,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "心性寺",
     "name_en": "",
     "lat": 38.7002023,
@@ -28497,6 +31566,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 12182171482,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山形県芸文美術館",
+    "name_en": "",
+    "lat": 38.2519516,
+    "lng": 140.3380166,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 12194091003,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28545,6 +31625,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.404514,
+    "lng": 141.5058421,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 12404895487,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "自販機神社",
     "name_en": "Jihanki Jinja Shrine",
     "lat": 38.1691861,
@@ -28552,6 +31643,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 12466866059,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.6569752,
+    "lng": 140.8651186,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 12618587904,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28600,6 +31702,28 @@
     "data_source": "osm"
   },
   {
+    "name": "宇宙開発展示室",
+    "name_en": "Space Development Exhibition Room",
+    "lat": 38.0374799,
+    "lng": 140.7721583,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 12700979844,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.167791,
+    "lng": 140.3959533,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 12709848905,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "江渕寺",
     "name_en": "",
     "lat": 38.5771843,
@@ -28622,6 +31746,17 @@
     "data_source": "osm"
   },
   {
+    "name": "東北福祉大学芹沢銈介美術工芸館",
+    "name_en": "Serizawa Keisuke Art and Craft Museum",
+    "lat": 38.2795455,
+    "lng": 140.8473013,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 12836778984,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "仙台大神宮",
     "name_en": "",
     "lat": 38.2581805,
@@ -28640,6 +31775,61 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 13146115465,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "神ケ根温泉",
+    "name_en": "Kankane Onsen",
+    "lat": 38.2429247,
+    "lng": 140.691309,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 13234013268,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鴻の巣温泉",
+    "name_en": "Konosu Onsen",
+    "lat": 38.2438982,
+    "lng": 140.6897375,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 13266853792,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.569579,
+    "lng": 140.5311263,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 13290027982,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.5695993,
+    "lng": 140.5311381,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 13290027984,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.569622,
+    "lng": 140.5311472,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 13290027985,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28721,6 +31911,17 @@
     "data_source": "osm"
   },
   {
+    "name": "藤塚の湯",
+    "name_en": "",
+    "lat": 38.1848268,
+    "lng": 140.9556113,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 13320064648,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.7727306,
@@ -28739,6 +31940,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 13323851382,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆめりあ鉄道ギャラリー",
+    "name_en": "",
+    "lat": 38.7631359,
+    "lng": 140.3054531,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 13411689758,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28798,6 +32010,28 @@
     "data_source": "osm"
   },
   {
+    "name": "仙台城",
+    "name_en": "Sendai Castle",
+    "lat": 38.2526814,
+    "lng": 140.8559824,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 60100947,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仙台市歴史民俗資料館",
+    "name_en": "Sendai City Museum of History and Folkore",
+    "lat": 38.2609629,
+    "lng": 140.8983727,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 61488987,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "榴岡天満宮",
     "name_en": "",
     "lat": 38.2608084,
@@ -28816,6 +32050,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 91481849,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "極楽湯",
+    "name_en": "",
+    "lat": 38.2839065,
+    "lng": 140.9966212,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 103832665,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28842,6 +32087,28 @@
     "data_source": "osm"
   },
   {
+    "name": "スーパー銭湯;テルメ山形",
+    "name_en": "",
+    "lat": 38.2358853,
+    "lng": 140.3467692,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 106602011,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "汗蒸幕の湯",
+    "name_en": "",
+    "lat": 38.3187763,
+    "lng": 140.8965867,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 107017718,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大安寺",
     "name_en": "",
     "lat": 38.2469955,
@@ -28849,6 +32116,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 107663525,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "HOKUSHU仙台市科学館",
+    "name_en": "",
+    "lat": 38.2986803,
+    "lng": 140.8832128,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 107949729,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -29051,6 +32329,17 @@
     "data_source": "osm"
   },
   {
+    "name": "平泉温泉 悠久の湯",
+    "name_en": "",
+    "lat": 38.9909651,
+    "lng": 141.110808,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 160311040,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "山門",
     "name_en": "",
     "lat": 38.9872285,
@@ -29062,6 +32351,28 @@
     "data_source": "osm"
   },
   {
+    "name": "毛通寺宝物館",
+    "name_en": "Mōtsū Temple Treasure Museum",
+    "lat": 38.9869038,
+    "lng": 141.1087678,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 160311126,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Tendo Museum",
+    "name_en": "",
+    "lat": 38.3633135,
+    "lng": 140.379686,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 160728411,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "毛越寺",
     "name_en": "Mōtsū Temple",
     "lat": 38.9882247,
@@ -29069,6 +32380,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 218652547,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "作並温泉;都の湯",
+    "name_en": "",
+    "lat": 38.3288578,
+    "lng": 140.6174879,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 220014071,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -29091,6 +32413,28 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 224101452,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仙台市博物館",
+    "name_en": "Sendai City Museum",
+    "lat": 38.255994,
+    "lng": 140.8568243,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 226829544,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮城県美術館",
+    "name_en": "The Miyagi Museum of Art",
+    "lat": 38.2638856,
+    "lng": 140.8549854,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 226831546,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -29766,6 +33110,17 @@
     "data_source": "osm"
   },
   {
+    "name": "山形城",
+    "name_en": "",
+    "lat": 38.255516,
+    "lng": 140.3282873,
+    "category": "castle",
+    "prefecture": "miyagi",
+    "osm_id": 237928625,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "羽黒神社",
     "name_en": "",
     "lat": 37.7741506,
@@ -29773,6 +33128,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 240249072,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "信夫山ガイドセンター",
+    "name_en": "Shinobuyama Guide Centre",
+    "lat": 37.7731888,
+    "lng": 140.4734025,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 240249118,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -29832,6 +33198,17 @@
     "data_source": "osm"
   },
   {
+    "name": "村田町歴史みらい館",
+    "name_en": "",
+    "lat": 38.1191776,
+    "lng": 140.7185722,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 240601007,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "竹駒神社",
     "name_en": "Takekoma-Jinja Shrine",
     "lat": 38.1051086,
@@ -29839,6 +33216,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 240601719,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白石城歴史探訪ミュージアム",
+    "name_en": "",
+    "lat": 38.0029154,
+    "lng": 140.6179073,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 242787451,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "登米市歴史博物館",
+    "name_en": "",
+    "lat": 38.6939549,
+    "lng": 141.1948962,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 243737612,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -29865,6 +33264,28 @@
     "data_source": "osm"
   },
   {
+    "name": "一関市博物館",
+    "name_en": "",
+    "lat": 38.9466673,
+    "lng": 141.0517299,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 245395408,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "涌谷町立史料館",
+    "name_en": "",
+    "lat": 38.5443971,
+    "lng": 141.1322945,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 245400607,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "涌谷神社",
     "name_en": "",
     "lat": 38.5467568,
@@ -29876,6 +33297,28 @@
     "data_source": "osm"
   },
   {
+    "name": "天平ろまん館",
+    "name_en": "",
+    "lat": 38.5575174,
+    "lng": 141.1367644,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 245400923,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東北歴史博物館",
+    "name_en": "Tohoku Historical Museum",
+    "lat": 38.2998974,
+    "lng": 140.9944914,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 245401596,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "志波彦神社",
     "name_en": "Shiwahiko Shrine",
     "lat": 38.3189555,
@@ -29883,6 +33326,39 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 245402270,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "最上義光歴史館",
+    "name_en": "Mogami Yoshiaki historical museum",
+    "lat": 38.2551153,
+    "lng": 140.333477,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 245403676,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山形県立博物館",
+    "name_en": "Yamagata Prefectural Museum",
+    "lat": 38.2543817,
+    "lng": 140.3296368,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 245403850,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東北学院大学 博物館",
+    "name_en": "Touhoku University Museum",
+    "lat": 38.2488325,
+    "lng": 140.8799358,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 246447101,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -29953,6 +33429,17 @@
     "data_source": "osm"
   },
   {
+    "name": "山形美術館",
+    "name_en": "Yamagata Museum of Art",
+    "lat": 38.2558875,
+    "lng": 140.3323997,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 262671458,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "諏訪神社",
     "name_en": "Suwa Shrine",
     "lat": 38.265565,
@@ -29960,6 +33447,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 296112592,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "べに花温泉;ひなの湯",
+    "name_en": "",
+    "lat": 38.4178113,
+    "lng": 140.3214024,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 304041854,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -29986,6 +33484,17 @@
     "data_source": "osm"
   },
   {
+    "name": "共同浴場 しろがね湯",
+    "name_en": "Public bath Shirogane-yu",
+    "lat": 38.5709989,
+    "lng": 140.5303748,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 339299655,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "長徳寺",
     "name_en": "",
     "lat": 38.2460018,
@@ -30008,6 +33517,39 @@
     "data_source": "osm"
   },
   {
+    "name": "天童最上川温泉;ゆぴあ",
+    "name_en": "",
+    "lat": 38.3641218,
+    "lng": 140.3217998,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 349117766,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八木山動物公園 フジサキの杜",
+    "name_en": "Yagiyama Zoological Park",
+    "lat": 38.2456979,
+    "lng": 140.8449336,
+    "category": "zoo",
+    "prefecture": "miyagi",
+    "osm_id": 353554364,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "自動車の過去・未来館",
+    "name_en": "Automobile Museum",
+    "lat": 38.2541111,
+    "lng": 140.8452567,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 353609679,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.2425011,
@@ -30015,6 +33557,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 354322999,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "芭蕉の湯",
+    "name_en": "",
+    "lat": 38.2727829,
+    "lng": 140.326782,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 354568829,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -30107,6 +33660,17 @@
     "data_source": "osm"
   },
   {
+    "name": "山辺温泉保養センター",
+    "name_en": "",
+    "lat": 38.2794279,
+    "lng": 140.2752635,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 406121507,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "誓亀山 光明寺",
     "name_en": "",
     "lat": 38.8661199,
@@ -30136,6 +33700,39 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 415468696,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.6349273,
+    "lng": 141.5266498,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 436060185,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.6305011,
+    "lng": 141.5263157,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 436060186,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.630949,
+    "lng": 141.5261675,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 436060187,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -30217,6 +33814,17 @@
     "data_source": "osm"
   },
   {
+    "name": "イチノセキ温泉 願叶乃湯",
+    "name_en": "",
+    "lat": 38.9390014,
+    "lng": 141.1556614,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 479659438,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "上山八幡宮",
     "name_en": "",
     "lat": 38.6797672,
@@ -30239,6 +33847,39 @@
     "data_source": "osm"
   },
   {
+    "name": "品井沼干拓資料館",
+    "name_en": "",
+    "lat": 38.426803,
+    "lng": 141.0740339,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 482267262,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "やくらい薬師の湯",
+    "name_en": "",
+    "lat": 38.5722468,
+    "lng": 140.7285961,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 484303361,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "やくらいウォーターパーク",
+    "name_en": "",
+    "lat": 38.5739249,
+    "lng": 140.7268237,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 484303379,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "酢川温泉神社",
     "name_en": "",
     "lat": 38.1694578,
@@ -30246,6 +33887,116 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 484655973,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵王温泉 下湯共同浴場",
+    "name_en": "Shimo-yu",
+    "lat": 38.167792,
+    "lng": 140.396037,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 484659571,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "オオタ湯",
+    "name_en": "",
+    "lat": 38.4560956,
+    "lng": 140.3870043,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 526499579,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "巽の湯",
+    "name_en": "",
+    "lat": 38.4586213,
+    "lng": 140.3864511,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 526499580,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東根温泉;こまつの湯",
+    "name_en": "",
+    "lat": 38.4600148,
+    "lng": 140.3914366,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 526499581,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いしの湯",
+    "name_en": "",
+    "lat": 38.45508,
+    "lng": 140.3921735,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 526505373,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桃の湯",
+    "name_en": "",
+    "lat": 38.950419,
+    "lng": 141.1070117,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 528637932,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "波来湯",
+    "name_en": "",
+    "lat": 37.8312864,
+    "lng": 140.4550153,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 533920855,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "十綱湯",
+    "name_en": "",
+    "lat": 37.8278763,
+    "lng": 140.4520318,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 537038015,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "導専の湯",
+    "name_en": "",
+    "lat": 37.830756,
+    "lng": 140.4569185,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 537343620,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平泉文化遺産センター",
+    "name_en": "",
+    "lat": 38.9929303,
+    "lng": 141.111127,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 542362422,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -30290,6 +34041,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 549402912,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上山城",
+    "name_en": "",
+    "lat": 38.1575004,
+    "lng": 140.2762528,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 553585206,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -30400,6 +34162,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 582144646,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "七ヶ浜町歴史資料館",
+    "name_en": "",
+    "lat": 38.302614,
+    "lng": 141.0449,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 589746247,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -30701,6 +34474,61 @@
     "data_source": "osm"
   },
   {
+    "name": "登米市伊豆沼・内沼サンクチュアリセンター (淡水漁館)",
+    "name_en": "Tome City Izunuma-Uchinuma Sanctuary Center (Fresh Water Aquarium)",
+    "lat": 38.7139351,
+    "lng": 141.122134,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 644238571,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.934909,
+    "lng": 140.830979,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 644780528,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山脈ハウス",
+    "name_en": "",
+    "lat": 38.9344118,
+    "lng": 140.8328563,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 644780530,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "駒の湯温泉",
+    "name_en": "",
+    "lat": 38.9385401,
+    "lng": 140.8366568,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 644780545,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天王寺穴原湯",
+    "name_en": "",
+    "lat": 37.8432101,
+    "lng": 140.4395549,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 648437998,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.1214449,
@@ -30741,6 +34569,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 653176100,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鯖湖湯",
+    "name_en": "",
+    "lat": 37.8326421,
+    "lng": 140.4521802,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 660617853,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -30811,6 +34650,50 @@
     "data_source": "osm"
   },
   {
+    "name": "極楽湯古川店",
+    "name_en": "",
+    "lat": 38.5572015,
+    "lng": 140.9478777,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 673898665,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "しみずの湯",
+    "name_en": "",
+    "lat": 38.7695681,
+    "lng": 140.3072014,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 673901075,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "健康天然温泉;八百坊",
+    "name_en": "",
+    "lat": 38.2213564,
+    "lng": 140.3330336,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 673906205,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東日本健康ランド;カッパ王国",
+    "name_en": "",
+    "lat": 37.8230082,
+    "lng": 140.5083461,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 673924594,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.8739569,
@@ -30818,6 +34701,281 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 674094747,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "つるしの湯",
+    "name_en": "",
+    "lat": 37.8806107,
+    "lng": 140.9246651,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 674225193,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桑折温泉;うぶかの郷",
+    "name_en": "",
+    "lat": 37.8582136,
+    "lng": 140.5076368,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 683576504,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山形うわの温泉;天神乃湯",
+    "name_en": "",
+    "lat": 38.1706954,
+    "lng": 140.329812,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 683632354,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山形市老福センター;黒沢いこい荘",
+    "name_en": "",
+    "lat": 38.194535,
+    "lng": 140.305459,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 683632744,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "百目鬼温泉",
+    "name_en": "",
+    "lat": 38.2275747,
+    "lng": 140.2811048,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 683632961,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "沼木温泉;辻ヶ花",
+    "name_en": "",
+    "lat": 38.2444438,
+    "lng": 140.2980556,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 683633078,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "青田健康ランド",
+    "name_en": "",
+    "lat": 38.2212112,
+    "lng": 140.330417,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 683637377,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "老人福祉センター;鈴川ことぶき荘",
+    "name_en": "",
+    "lat": 38.269319,
+    "lng": 140.3623051,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 683640711,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "老人福祉センター;漆山やすらぎ荘",
+    "name_en": "",
+    "lat": 38.3114544,
+    "lng": 140.3513565,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 683641645,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "成安温泉;いきいきの郷",
+    "name_en": "",
+    "lat": 38.3230264,
+    "lng": 140.311008,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 683645274,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ひまわり温泉;ゆらら",
+    "name_en": "",
+    "lat": 38.341321,
+    "lng": 140.27553,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 683648267,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "寒河江市;市民浴場",
+    "name_en": "",
+    "lat": 38.3606984,
+    "lng": 140.2703212,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 683648845,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ラ・フォーレ天童;のぞみ",
+    "name_en": "",
+    "lat": 38.3918847,
+    "lng": 140.3866055,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 683680084,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "やすらぎの湯;ゆっぽ",
+    "name_en": "",
+    "lat": 37.9964275,
+    "lng": 140.6100221,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 685792620,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "老人憩いの家;黄金川温泉;白鳥荘",
+    "name_en": "",
+    "lat": 38.0656228,
+    "lng": 140.6566016,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 685800698,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ひまわり温泉;花おりの湯",
+    "name_en": "",
+    "lat": 38.5172225,
+    "lng": 140.9145065,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 685806235,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "豆坂温泉;三峰荘",
+    "name_en": "",
+    "lat": 38.5349271,
+    "lng": 140.9328062,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 685807742,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天然温泉;たかもりの湯",
+    "name_en": "",
+    "lat": 38.7139,
+    "lng": 140.9792987,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 685810658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "金成延年閣",
+    "name_en": "",
+    "lat": 38.8312614,
+    "lng": 141.0844879,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 685831613,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長沼温泉;ヴィーナスの湯",
+    "name_en": "",
+    "lat": 38.6998961,
+    "lng": 141.1470053,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 686231294,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋の宮山荘",
+    "name_en": "",
+    "lat": 38.9557218,
+    "lng": 140.5417272,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 686588043,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鵜ノ尾埼灯台",
+    "name_en": "",
+    "lat": 37.8235222,
+    "lng": 140.9861371,
+    "category": "lighthouse",
+    "prefecture": "miyagi",
+    "osm_id": 687255741,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "青根温泉 じゃっぽの湯",
+    "name_en": "",
+    "lat": 38.1461606,
+    "lng": 140.5353938,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 687283175,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "まほろばの湯",
+    "name_en": "",
+    "lat": 38.1175002,
+    "lng": 140.5805803,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 687284454,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天守閣自然公園 市太郎の湯",
+    "name_en": "",
+    "lat": 38.2310452,
+    "lng": 140.7089488,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 687304199,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -30844,6 +35002,116 @@
     "data_source": "osm"
   },
   {
+    "name": "明日の湯温泉",
+    "name_en": "",
+    "lat": 38.3388372,
+    "lng": 140.8000321,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 687361737,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "花の杜ゴルフクラブ",
+    "name_en": "",
+    "lat": 38.4694919,
+    "lng": 140.8368358,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 687496998,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "色麻平沢温泉;かっぱのゆ",
+    "name_en": "",
+    "lat": 38.5474882,
+    "lng": 140.778168,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 687499744,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "芭蕉の湯",
+    "name_en": "",
+    "lat": 38.3715442,
+    "lng": 141.0508406,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 687606931,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "夢実の国",
+    "name_en": "",
+    "lat": 38.3858669,
+    "lng": 140.9769827,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 687692937,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "わくや天平の湯",
+    "name_en": "",
+    "lat": 38.539398,
+    "lng": 141.1512912,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 687739460,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "加護坊温泉;さくらの湯",
+    "name_en": "",
+    "lat": 38.5899683,
+    "lng": 141.0727653,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 687740953,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.280563,
+    "lng": 141.5187836,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 687794518,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.2848344,
+    "lng": 141.5176591,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 687794519,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "神室温泉;ホットハウス;カムロ",
+    "name_en": "",
+    "lat": 38.9171065,
+    "lng": 140.3929667,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 687886811,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "夕顔観音",
     "name_en": "",
     "lat": 37.8227243,
@@ -30851,6 +35119,193 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 693744972,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "気仙沼ほっこり湯",
+    "name_en": "",
+    "lat": 38.8555269,
+    "lng": 141.5792301,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 695929420,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.7111688,
+    "lng": 140.3394214,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 696323415,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "舟形若あゆ温泉;清流センター",
+    "name_en": "",
+    "lat": 38.7110454,
+    "lng": 140.3399713,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 696323416,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大堀温泉 おらだずの宿;りんどう",
+    "name_en": "",
+    "lat": 38.7531711,
+    "lng": 140.4703483,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 696327089,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "前森温泉;清流",
+    "name_en": "",
+    "lat": 38.7790868,
+    "lng": 140.5318644,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 696330645,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "おくのほそ道;赤倉ゆけむり館",
+    "name_en": "",
+    "lat": 38.7103893,
+    "lng": 140.5550462,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 696336743,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大石田温泉;あったまりランド深堀",
+    "name_en": "",
+    "lat": 38.5995901,
+    "lng": 140.3567979,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 696344169,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "花笠温泉;ふくの湯",
+    "name_en": "",
+    "lat": 38.6098986,
+    "lng": 140.422999,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 696345914,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "徳良湖温泉;花笠の湯",
+    "name_en": "",
+    "lat": 38.5965057,
+    "lng": 140.4366648,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 696347069,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天童市市民いこいの家;ふれあい荘",
+    "name_en": "",
+    "lat": 38.3594486,
+    "lng": 140.3870006,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 696366375,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "海神の湯",
+    "name_en": "",
+    "lat": 38.2706817,
+    "lng": 140.9900255,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 696612946,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "おおがわら天然温泉;いい湯",
+    "name_en": "",
+    "lat": 38.0570158,
+    "lng": 140.7025073,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 696651960,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吹上高原;すぱ鬼首の湯",
+    "name_en": "",
+    "lat": 38.801913,
+    "lng": 140.6658755,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 696665059,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "しんとろの湯",
+    "name_en": "Shintoronoyu",
+    "lat": 38.7277932,
+    "lng": 140.6770011,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 696674632,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "そうま温泉　天宝の湯",
+    "name_en": "",
+    "lat": 37.8084117,
+    "lng": 140.9188216,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 696709993,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いいざか;花ももの湯",
+    "name_en": "",
+    "lat": 37.8351365,
+    "lng": 140.4514293,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 696794467,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.9793004,
+    "lng": 140.7701189,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 697899841,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -30976,6 +35431,17 @@
     "data_source": "osm"
   },
   {
+    "name": "気仙沼市東日本大震災遺構・伝承館",
+    "name_en": "Kesennuma City Memorial Museum",
+    "lat": 38.8314364,
+    "lng": 141.591458,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 761169347,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.8312496,
@@ -30994,6 +35460,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 761242055,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "リアス・アーク美術館",
+    "name_en": "Rias Ark Museum of Art",
+    "lat": 38.8810431,
+    "lng": 141.5499119,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 761761293,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -31163,6 +35640,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.9065782,
+    "lng": 141.5631383,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 768704360,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "講法院",
     "name_en": "",
     "lat": 38.9075674,
@@ -31170,6 +35658,28 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 768704980,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.6430117,
+    "lng": 141.4444871,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 769096203,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.6429667,
+    "lng": 141.4444978,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 769096204,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -31286,6 +35796,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 38.8020274,
+    "lng": 141.5379512,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 776727675,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 38.64378,
     "lng": 141.465449,
     "category": "shrine",
@@ -31330,6 +35851,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 38.1959436,
+    "lng": 140.6890482,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 780460521,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 38.9914225,
     "lng": 141.6733928,
     "category": "shrine",
@@ -31346,6 +35878,28 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 785639368,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "みちのく伊達政宗歴史館",
+    "name_en": "Michinoku Date Masamune Historical Museum",
+    "lat": 38.3716625,
+    "lng": 141.0655905,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 787794121,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仙台市電保存館",
+    "name_en": "Sendai Tram Museum",
+    "lat": 38.2091641,
+    "lng": 140.8650569,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 790771870,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -31379,6 +35933,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 813026980,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鹿折金山資料館",
+    "name_en": "",
+    "lat": 38.9754025,
+    "lng": 141.5595345,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 813046162,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -31482,6 +36047,28 @@
     "data_source": "osm"
   },
   {
+    "name": "史跡陸奥国分寺・尼寺跡ガイダンス施設",
+    "name_en": "",
+    "lat": 38.2498279,
+    "lng": 140.9021585,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 833211473,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名取市歴史民俗資料館",
+    "name_en": "Natori City Museum of History and Folklore",
+    "lat": 38.1654334,
+    "lng": 140.8881349,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 835220218,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.2480125,
@@ -31522,6 +36109,105 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 854814596,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山形酒のミュージアム＆湯けむり屋台つまみ",
+    "name_en": "",
+    "lat": 38.1666479,
+    "lng": 140.3969325,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 854848615,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵王温泉 上湯共同浴場",
+    "name_en": "Kami-yu",
+    "lat": 38.1686764,
+    "lng": 140.3974455,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 854848652,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵王温泉大露天風呂",
+    "name_en": "Dai-Rotenburo",
+    "lat": 38.1660875,
+    "lng": 140.4018808,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 854909175,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵王温泉 源七露天の湯",
+    "name_en": "",
+    "lat": 38.1666247,
+    "lng": 140.3989149,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 854909192,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.166618,
+    "lng": 140.3990469,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 854909193,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.1665324,
+    "lng": 140.3989366,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 854909194,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵王温泉 川原湯共同浴場",
+    "name_en": "Kawara-yu",
+    "lat": 38.1676206,
+    "lng": 140.3972425,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 855381866,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "すのこの湯 かわらや",
+    "name_en": "",
+    "lat": 38.1675917,
+    "lng": 140.3973687,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 855381867,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ポケットパーク足湯",
+    "name_en": "",
+    "lat": 38.4580013,
+    "lng": 140.3913645,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 858025388,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -31621,6 +36307,17 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 866498252,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山の村美術館",
+    "name_en": "",
+    "lat": 38.2192167,
+    "lng": 140.3414597,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 866549356,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -32226,6 +36923,28 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 909682587,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鹿狼の湯",
+    "name_en": "Karou no Yu",
+    "lat": 37.8579041,
+    "lng": 140.8705777,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 911299482,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名取市震災復興伝承館",
+    "name_en": "Natori City Earthquake Reconstruction Museum",
+    "lat": 38.1768072,
+    "lng": 140.9538417,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 915688181,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -32934,6 +37653,17 @@
     "data_source": "osm"
   },
   {
+    "name": "塩竈市津波防災センター",
+    "name_en": "Shiogama City Tsunami Disaster Prevention Center",
+    "lat": 38.3193275,
+    "lng": 141.0308053,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 993755164,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "常源寺",
     "name_en": "",
     "lat": 38.232407,
@@ -33154,6 +37884,28 @@
     "data_source": "osm"
   },
   {
+    "name": "河北町児童動物園",
+    "name_en": "",
+    "lat": 38.4267167,
+    "lng": 140.3138486,
+    "category": "zoo",
+    "prefecture": "miyagi",
+    "osm_id": 1019993015,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.3596359,
+    "lng": 140.3804755,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 1020113034,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.5468277,
@@ -33198,6 +37950,28 @@
     "data_source": "osm"
   },
   {
+    "name": "水沢県庁記念館",
+    "name_en": "",
+    "lat": 38.6542379,
+    "lng": 141.2807282,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 1025996447,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅ふくしま",
+    "name_en": "",
+    "lat": 37.8045129,
+    "lng": 140.4111168,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 1037493552,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "須賀神社",
     "name_en": "",
     "lat": 38.4188827,
@@ -33216,6 +37990,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 1043639213,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅さんさん南三陸",
+    "name_en": "",
+    "lat": 38.6785146,
+    "lng": 141.4479465,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 1053272808,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -33506,6 +38291,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ひと休みパーキング",
+    "name_en": "Parking for a break",
+    "lat": 38.6713758,
+    "lng": 141.0093546,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 1088959779,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "月岡神社",
     "name_en": "",
     "lat": 38.1581184,
@@ -33535,6 +38331,72 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 1090934151,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "色麻町農業伝承館",
+    "name_en": "Shikama Town Nogyo Densho-kan",
+    "lat": 38.5304862,
+    "lng": 140.8655294,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 1093473947,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.670026,
+    "lng": 141.0086452,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 1093702164,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仙台万華鏡美術館",
+    "name_en": "Sendai Kaleidoscopes Art Museum",
+    "lat": 38.2213605,
+    "lng": 140.7400276,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 1097414233,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "赤石パーキング",
+    "name_en": "Akaishi Parking",
+    "lat": 38.2115663,
+    "lng": 140.7479197,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 1097601613,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "民話の里ふるさとおとぎ苑 月のひろば",
+    "name_en": "",
+    "lat": 38.1304842,
+    "lng": 140.7478814,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 1099466510,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南三陸311メモリアル",
+    "name_en": "",
+    "lat": 38.6790531,
+    "lng": 141.4477528,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 1099679387,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -33605,6 +38467,17 @@
     "data_source": "osm"
   },
   {
+    "name": "命のらせん階段",
+    "name_en": "",
+    "lat": 38.8929875,
+    "lng": 141.579811,
+    "category": "museum",
+    "prefecture": "miyagi",
+    "osm_id": 1153122078,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.1778313,
@@ -33634,6 +38507,50 @@
     "category": "temple",
     "prefecture": "miyagi",
     "osm_id": 1165321815,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玉の木原水芭蕉群生地駐車場",
+    "name_en": "",
+    "lat": 38.0176934,
+    "lng": 140.2952755,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 1167239162,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旬の市七ヶ宿 農林産物直売所",
+    "name_en": "",
+    "lat": 38.0148698,
+    "lng": 140.3979241,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 1167459811,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中山平無料駐車場",
+    "name_en": "",
+    "lat": 38.7285645,
+    "lng": 140.6744971,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 1172664060,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.7373189,
+    "lng": 140.7055955,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 1173553826,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -33748,6 +38665,39 @@
     "data_source": "osm"
   },
   {
+    "name": "上山城の足湯",
+    "name_en": "",
+    "lat": 38.1578875,
+    "lng": 140.2765064,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 1240748250,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "前川足湯",
+    "name_en": "",
+    "lat": 38.1547292,
+    "lng": 140.2774828,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 1240754908,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "チェーン着脱場",
+    "name_en": "",
+    "lat": 38.3084342,
+    "lng": 140.8437598,
+    "category": "rest_area",
+    "prefecture": "miyagi",
+    "osm_id": 1258972906,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "伊豆神社",
     "name_en": "",
     "lat": 38.2759746,
@@ -33755,6 +38705,17 @@
     "category": "shrine",
     "prefecture": "miyagi",
     "osm_id": 1303180484,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.1647191,
+    "lng": 140.3949395,
+    "category": "onsen",
+    "prefecture": "miyagi",
+    "osm_id": 1305099761,
     "spot_type": "data_spot",
     "data_source": "osm"
   },

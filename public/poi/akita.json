@@ -836,6 +836,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.1887645,
+    "lng": 140.1889068,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 1308375828,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "北野神社",
     "name_en": "",
     "lat": 39.8337812,
@@ -847,6 +858,17 @@
     "data_source": "osm"
   },
   {
+    "name": "道の駅にしめ (Nishime Rest Area)",
+    "name_en": "Nishime Rest Area",
+    "lat": 39.3628739,
+    "lng": 140.0148696,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 1403325977,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "あきた白神",
     "name_en": "Akitashirakami",
     "lat": 40.3866983,
@@ -854,6 +876,61 @@
     "category": "station",
     "prefecture": "akita",
     "osm_id": 1842264396,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田県立近代美術館 (Akita Museum of Modern Art)",
+    "name_en": "Akita Museum of Modern Art",
+    "lat": 39.2924778,
+    "lng": 140.5475726,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 2163503387,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田城跡",
+    "name_en": "",
+    "lat": 39.7403081,
+    "lng": 140.0792214,
+    "category": "castle",
+    "prefecture": "akita",
+    "osm_id": 2501411119,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "かくのだて温泉",
+    "name_en": "Kakunodate Onsen",
+    "lat": 39.5925725,
+    "lng": 140.5629423,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 2598309169,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "古城山城跡",
+    "name_en": "",
+    "lat": 39.6047474,
+    "lng": 140.5609195,
+    "category": "castle",
+    "prefecture": "akita",
+    "osm_id": 2598309170,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ブルーホール",
+    "name_en": "photo gallery bluehole",
+    "lat": 39.8973676,
+    "lng": 140.0770734,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 2847995017,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -876,6 +953,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 2951571863,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "国見温泉",
+    "name_en": "",
+    "lat": 39.7273334,
+    "lng": 140.7929429,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 2964285770,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -935,6 +1023,17 @@
     "data_source": "osm"
   },
   {
+    "name": "本荘郷土資料館",
+    "name_en": "Honjo Museum",
+    "lat": 39.3984459,
+    "lng": 140.0490404,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 3611520435,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "富根",
     "name_en": "Tomine",
     "lat": 40.218041,
@@ -942,6 +1041,17 @@
     "category": "station",
     "prefecture": "akita",
     "osm_id": 3746971968,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "入道埼灯台",
+    "name_en": "",
+    "lat": 40.0050922,
+    "lng": 139.7017071,
+    "category": "lighthouse",
+    "prefecture": "akita",
+    "osm_id": 3756878551,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1111,6 +1221,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8034455,
+    "lng": 140.7975041,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 4148430256,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "久保田",
     "name_en": "Kubota",
     "lat": 39.2959524,
@@ -1201,6 +1322,50 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 39.7958412,
+    "lng": 140.7688419,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 4535362661,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.80485,
+    "lng": 140.7795053,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 4535362806,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8007612,
+    "lng": 140.7947224,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 4535410684,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田市立千秋美術館",
+    "name_en": "",
+    "lat": 39.7172596,
+    "lng": 140.1243828,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 4568671983,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 39.7279285,
     "lng": 140.0915989,
     "category": "shrine",
@@ -1254,6 +1419,17 @@
     "data_source": "osm"
   },
   {
+    "name": "奥奥八九郎温泉",
+    "name_en": "",
+    "lat": 40.4079014,
+    "lng": 140.7551714,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 4916963622,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "寳恩寺",
     "name_en": "",
     "lat": 39.0395344,
@@ -1272,6 +1448,28 @@
     "category": "temple",
     "prefecture": "akita",
     "osm_id": 5021916129,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "貝の沢温泉",
+    "name_en": "Kainosawaonsen",
+    "lat": 39.7210673,
+    "lng": 140.2608995,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 5095192835,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.4252901,
+    "lng": 140.6561541,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 5144071825,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1661,6 +1859,17 @@
     "data_source": "osm"
   },
   {
+    "name": "矢島城址",
+    "name_en": "",
+    "lat": 39.2299834,
+    "lng": 140.1334493,
+    "category": "castle",
+    "prefecture": "akita",
+    "osm_id": 5179425331,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白山神社",
     "name_en": "",
     "lat": 39.2227166,
@@ -1679,6 +1888,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 5179439926,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大内歴史民俗資料館",
+    "name_en": "",
+    "lat": 39.4440163,
+    "lng": 140.096533,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 5181041440,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1936,6 +2156,17 @@
     "data_source": "osm"
   },
   {
+    "name": "岩崎城址",
+    "name_en": "",
+    "lat": 39.2056283,
+    "lng": 140.5134259,
+    "category": "castle",
+    "prefecture": "akita",
+    "osm_id": 5201541523,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三吉神社",
     "name_en": "",
     "lat": 39.1703486,
@@ -2064,6 +2295,17 @@
     "category": "temple",
     "prefecture": "akita",
     "osm_id": 5289257425,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湊城跡",
+    "name_en": "",
+    "lat": 39.7573907,
+    "lng": 140.0713604,
+    "category": "castle",
+    "prefecture": "akita",
+    "osm_id": 5289408026,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2332,6 +2574,17 @@
     "data_source": "osm"
   },
   {
+    "name": "潟上市 昭和歴史民俗資料館",
+    "name_en": "",
+    "lat": 39.8625975,
+    "lng": 140.0682405,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 5498130424,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "玄心寺",
     "name_en": "",
     "lat": 39.7042123,
@@ -2339,6 +2592,17 @@
     "category": "temple",
     "prefecture": "akita",
     "osm_id": 5567912625,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "灯台資料館展示室",
+    "name_en": "",
+    "lat": 40.0049008,
+    "lng": 139.7016814,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 5595683266,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2662,6 +2926,17 @@
     "data_source": "osm"
   },
   {
+    "name": "横手市増田まんが美術館",
+    "name_en": "Yokote Masuda Manga Museum",
+    "lat": 39.2045713,
+    "lng": 140.5504976,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 6117731383,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "飯詰",
     "name_en": "Iizume",
     "lat": 39.4065098,
@@ -2871,6 +3146,83 @@
     "data_source": "osm"
   },
   {
+    "name": "にしめ湯っ娘ランド",
+    "name_en": "",
+    "lat": 39.3631803,
+    "lng": 140.0141918,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 6310689143,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯沢市リフレッシュ交流センター;ほっと館",
+    "name_en": "",
+    "lat": 39.049232,
+    "lng": 140.4163394,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 6448934108,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鹿角市大湯温泉保養センター;湯都里",
+    "name_en": "",
+    "lat": 40.2964006,
+    "lng": 140.8232691,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 6532270391,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "クウィンス森吉",
+    "name_en": "",
+    "lat": 40.0613239,
+    "lng": 140.4175889,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 6533296039,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "展望温泉 眺海の湯",
+    "name_en": "",
+    "lat": 39.2202669,
+    "lng": 139.9001828,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 6534594866,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅;雫石あねっこ",
+    "name_en": "",
+    "lat": 39.7067738,
+    "lng": 140.8745487,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 6534898934,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "川尻温泉;ほっとゆだ",
+    "name_en": "",
+    "lat": 39.3146203,
+    "lng": 140.776094,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 6632803574,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "浄土真宗 碧祥寺",
     "name_en": "",
     "lat": 39.4274956,
@@ -2900,6 +3252,28 @@
     "category": "station",
     "prefecture": "akita",
     "osm_id": 6778335232,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8050894,
+    "lng": 140.7805314,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 6813373050,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8055123,
+    "lng": 140.7805372,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 6813373078,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3157,6 +3531,17 @@
     "data_source": "osm"
   },
   {
+    "name": "五城目城",
+    "name_en": "",
+    "lat": 39.9569306,
+    "lng": 140.1261106,
+    "category": "castle",
+    "prefecture": "akita",
+    "osm_id": 7035209470,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "感応寺",
     "name_en": "",
     "lat": 40.2075538,
@@ -3278,6 +3663,17 @@
     "data_source": "osm"
   },
   {
+    "name": "郷土資料室",
+    "name_en": "",
+    "lat": 39.3863889,
+    "lng": 140.0533805,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 7059761598,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白神不動尊",
     "name_en": "",
     "lat": 39.9452861,
@@ -3296,6 +3692,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 7072381185,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "一本松温泉　一本松たっこの湯",
+    "name_en": "",
+    "lat": 39.8009686,
+    "lng": 140.8176343,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 7109234774,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3417,6 +3824,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 7185936755,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "むかしがたり館 (羽後町民話伝承館)",
+    "name_en": "",
+    "lat": 39.1904668,
+    "lng": 140.4475466,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 7185939541,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3663,6 +4081,17 @@
     "data_source": "osm"
   },
   {
+    "name": "本堂城跡",
+    "name_en": "",
+    "lat": 39.4782341,
+    "lng": 140.5618684,
+    "category": "castle",
+    "prefecture": "akita",
+    "osm_id": 7232625182,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鎌川八幡神社",
     "name_en": "",
     "lat": 39.6430262,
@@ -3725,6 +4154,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 7235324118,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "美郷町歴史民俗資料館・佐々木毅記念室",
+    "name_en": "Misato Museum of History and Folklore;Takeshi Sasaki Memorial Room",
+    "lat": 39.4346999,
+    "lng": 140.5635596,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 7235324132,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3795,6 +4235,17 @@
     "data_source": "osm"
   },
   {
+    "name": "餅の館",
+    "name_en": "",
+    "lat": 39.4739699,
+    "lng": 140.5363336,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 7236593587,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "堀見内神社",
     "name_en": "",
     "lat": 39.4801669,
@@ -3824,6 +4275,17 @@
     "category": "temple",
     "prefecture": "akita",
     "osm_id": 7236708717,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "脇本城跡",
+    "name_en": "",
+    "lat": 39.9021813,
+    "lng": 139.8892311,
+    "category": "castle",
+    "prefecture": "akita",
+    "osm_id": 7236789113,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3868,6 +4330,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 7237034417,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ひない温泉比内のゆ",
+    "name_en": "",
+    "lat": 40.2282843,
+    "lng": 140.5724322,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 7238189072,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4103,6 +4576,17 @@
     "data_source": "osm"
   },
   {
+    "name": "Michinoku Onsen",
+    "name_en": "",
+    "lat": 39.8726991,
+    "lng": 140.9246242,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 7294210242,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.1732436,
@@ -4290,6 +4774,50 @@
     "data_source": "osm"
   },
   {
+    "name": "鎌鼬美術館",
+    "name_en": "",
+    "lat": 39.2053835,
+    "lng": 140.3119233,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 7417001784,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "マタギ資料館",
+    "name_en": "",
+    "lat": 39.9212437,
+    "lng": 140.5369386,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 7418414782,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "打当温泉 マタギの湯",
+    "name_en": "",
+    "lat": 39.9211072,
+    "lng": 140.5363333,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 7418414783,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "打当温泉共同湯",
+    "name_en": "",
+    "lat": 39.9214895,
+    "lng": 140.5371967,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 7418414784,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.5246788,
@@ -4303,11 +4831,44 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 39.3991692,
+    "lng": 140.0338746,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 7419480379,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 40.0394715,
     "lng": 140.4477152,
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 7424323442,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.0538386,
+    "lng": 140.5812127,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 7424323723,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "森吉山野生鳥獣センター",
+    "name_en": "",
+    "lat": 39.98831,
+    "lng": 140.614169,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 7424323734,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4330,6 +4891,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 7425122386,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.1880162,
+    "lng": 140.8221677,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 7425333212,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4455,6 +5027,17 @@
     "data_source": "osm"
   },
   {
+    "name": "山下太郎記念館",
+    "name_en": "",
+    "lat": 39.3425592,
+    "lng": 140.4272703,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 7434422180,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 40.0446794,
@@ -4473,6 +5056,28 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 7436384802,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田県環境と文化のむら",
+    "name_en": "",
+    "lat": 39.9302132,
+    "lng": 140.1187937,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 7440170115,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東北石油 豊川油田 展示室",
+    "name_en": "",
+    "lat": 39.8554357,
+    "lng": 140.0790506,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 7441336738,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4554,6 +5159,17 @@
     "data_source": "osm"
   },
   {
+    "name": "東兵衛温泉",
+    "name_en": "",
+    "lat": 39.6907201,
+    "lng": 140.4100335,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 7466947620,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.1906089,
@@ -4583,6 +5199,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 7473322590,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8588672,
+    "lng": 139.8195934,
+    "category": "lighthouse",
+    "prefecture": "akita",
+    "osm_id": 7500318316,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4840,6 +5467,50 @@
     "data_source": "osm"
   },
   {
+    "name": "新鳩ノ湯温泉",
+    "name_en": "",
+    "lat": 39.9105907,
+    "lng": 140.6976249,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 7615163631,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "見張りの湯",
+    "name_en": "",
+    "lat": 39.9262832,
+    "lng": 140.7827477,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 7615169937,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩盤浴",
+    "name_en": "",
+    "lat": 39.9621057,
+    "lng": 140.728898,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 7615424234,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水の博物館",
+    "name_en": "",
+    "lat": 39.4229486,
+    "lng": 140.5485224,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 7617599070,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大廣目神社",
     "name_en": "",
     "lat": 39.5318694,
@@ -4858,6 +5529,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 7669521366,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9661499,
+    "lng": 139.7462053,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 7687918594,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4957,6 +5639,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 7771623598,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "北上市立博物館 和賀分館",
+    "name_en": "",
+    "lat": 39.3066232,
+    "lng": 140.9793326,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 7774563484,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5368,6 +6061,17 @@
     "data_source": "osm"
   },
   {
+    "name": "秋田犬ステーション",
+    "name_en": "",
+    "lat": 39.7170717,
+    "lng": 140.1218278,
+    "category": "zoo",
+    "prefecture": "akita",
+    "osm_id": 7868757246,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.7484046,
@@ -5628,6 +6332,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 8040116073,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9472201,
+    "lng": 139.7008556,
+    "category": "lighthouse",
+    "prefecture": "akita",
+    "osm_id": 8042038740,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6875,6 +7590,17 @@
     "data_source": "osm"
   },
   {
+    "name": "久保田城跡",
+    "name_en": "",
+    "lat": 39.721897,
+    "lng": 140.1237623,
+    "category": "castle",
+    "prefecture": "akita",
+    "osm_id": 8553116272,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "古峰神社碑",
     "name_en": "",
     "lat": 39.2041172,
@@ -6915,6 +7641,17 @@
     "category": "station",
     "prefecture": "akita",
     "osm_id": 8617420335,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9415653,
+    "lng": 140.8614766,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 8639099266,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7317,6 +8054,28 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 39.8943074,
+    "lng": 140.9742704,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 8889094546,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Matsukawa Onsen",
+    "name_en": "",
+    "lat": 39.8715402,
+    "lng": 140.9260002,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 8889127397,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 40.2432478,
     "lng": 140.5835396,
     "category": "shrine",
@@ -7410,6 +8169,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 8977359672,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.1702198,
+    "lng": 140.609627,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 8982696441,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8690,6 +9460,17 @@
     "data_source": "osm"
   },
   {
+    "name": "猛禽類保護センター 鳥海イヌワシみらい館",
+    "name_en": "",
+    "lat": 39.0327359,
+    "lng": 140.029937,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 9483061604,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "山神社",
     "name_en": "",
     "lat": 40.1757863,
@@ -8910,6 +9691,17 @@
     "data_source": "osm"
   },
   {
+    "name": "みんなのひろば くぅ",
+    "name_en": "",
+    "lat": 39.6119619,
+    "lng": 140.2197799,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 9999304123,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "城野岡三十三観音",
     "name_en": "",
     "lat": 39.3104508,
@@ -8994,6 +9786,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 10120744265,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "工芸展示館",
+    "name_en": "Craft Exhibition Hall",
+    "lat": 39.2930165,
+    "lng": 140.546441,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 10720493540,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9372,6 +10175,28 @@
     "data_source": "osm"
   },
   {
+    "name": "歴史民俗資料コーナー",
+    "name_en": "",
+    "lat": 40.2160927,
+    "lng": 140.2595526,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 11078755658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雄物川民家苑木戸五郎兵衛村",
+    "name_en": "",
+    "lat": 39.2982401,
+    "lng": 140.4327054,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 11359797231,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "南形稲荷神社",
     "name_en": "",
     "lat": 39.2769123,
@@ -9383,6 +10208,17 @@
     "data_source": "osm"
   },
   {
+    "name": "花火伝統文化継承資料館はなび・アム",
+    "name_en": "",
+    "lat": 39.4597629,
+    "lng": 140.4803709,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 11848735693,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "ゆうゆう神社",
     "name_en": "",
     "lat": 39.308764,
@@ -9390,6 +10226,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 12050647042,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "横手駅前温泉ゆうゆうプラザ",
+    "name_en": "",
+    "lat": 39.308556,
+    "lng": 140.5614112,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 12050647043,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9460,6 +10307,17 @@
     "data_source": "osm"
   },
   {
+    "name": "髙橋茶舗座敷蔵",
+    "name_en": "",
+    "lat": 39.2023131,
+    "lng": 140.5457226,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 12246225917,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "永伝寺",
     "name_en": "",
     "lat": 39.1791787,
@@ -9467,6 +10325,17 @@
     "category": "temple",
     "prefecture": "akita",
     "osm_id": 12875171390,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "郷土文化保存伝習施設 ふる里館",
+    "name_en": "",
+    "lat": 39.1791846,
+    "lng": 140.6543554,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 12875233714,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9504,6 +10373,17 @@
     "data_source": "osm"
   },
   {
+    "name": "夏油高原温泉 兎森の湯",
+    "name_en": "",
+    "lat": 39.237968,
+    "lng": 140.9059256,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 13506242851,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.5203573,
@@ -9537,6 +10417,116 @@
     "data_source": "osm"
   },
   {
+    "name": "大森山動物園",
+    "name_en": "",
+    "lat": 39.6711903,
+    "lng": 140.0750875,
+    "category": "zoo",
+    "prefecture": "akita",
+    "osm_id": 238017346,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "軽井沢温泉",
+    "name_en": "",
+    "lat": 40.2164641,
+    "lng": 140.6438447,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 242170122,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田県埋蔵文化財センター",
+    "name_en": "Akita Archaeological Center",
+    "lat": 39.4646272,
+    "lng": 140.5484168,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 242683448,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大湯ストーンサークル館",
+    "name_en": "",
+    "lat": 40.274012,
+    "lng": 140.8064448,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 245391534,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田県立博物館",
+    "name_en": "Akita Prefectural Museum",
+    "lat": 39.8173386,
+    "lng": 140.0659993,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 245392656,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新潮社記念文学館",
+    "name_en": "",
+    "lat": 39.5928775,
+    "lng": 140.5655625,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 253970106,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平福記念美術館",
+    "name_en": "Hirahuku Memorial Art Museum",
+    "lat": 39.6019413,
+    "lng": 140.5601866,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 253970113,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大村美術館",
+    "name_en": "",
+    "lat": 39.599204,
+    "lng": 140.563019,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 253970115,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ANA Crowne Plaza Appi Kogen Onsen",
+    "name_en": "ANA Crowne Plaza Appi Kogen Onsen",
+    "lat": 40.0023854,
+    "lng": 140.969065,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 261303582,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "安比温泉白樺の湯",
+    "name_en": "Shirakaba Onsen",
+    "lat": 40.0000684,
+    "lng": 140.9741282,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 261525399,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "全良寺",
     "name_en": "Zenryoh-ji temple",
     "lat": 39.7258882,
@@ -9544,6 +10534,50 @@
     "category": "temple",
     "prefecture": "akita",
     "osm_id": 266469929,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "黄桜温泉 湯楽里",
+    "name_en": "",
+    "lat": 39.301632,
+    "lng": 140.2849688,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 279126436,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "思い出の潟分校(旧田沢湖町立生保内小学校潟分校)",
+    "name_en": "",
+    "lat": 39.6969719,
+    "lng": 140.6728147,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 279356305,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仙北市役所　西木山の幸資料館",
+    "name_en": "",
+    "lat": 39.7173218,
+    "lng": 140.6280152,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 279358418,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天王温泉くらら",
+    "name_en": "",
+    "lat": 39.8570404,
+    "lng": 140.009092,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 280764622,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9559,6 +10593,17 @@
     "data_source": "osm"
   },
   {
+    "name": "岩城温泉 港の湯",
+    "name_en": "",
+    "lat": 39.5429984,
+    "lng": 140.0529777,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 293391838,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鶴潟神社",
     "name_en": "",
     "lat": 39.5409952,
@@ -9566,6 +10611,105 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 293391854,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白瀬南極探検隊記念館",
+    "name_en": "",
+    "lat": 39.2681834,
+    "lng": 139.9253852,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 293479515,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "フェライト子ども科学館",
+    "name_en": "Children's Ferrite & Science Museum",
+    "lat": 39.2848569,
+    "lng": 139.9610723,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 293480826,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大潟村干拓博物館",
+    "name_en": "Polder Museum of Ogata Village",
+    "lat": 40.0160707,
+    "lng": 139.9513946,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 293490350,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "植物園",
+    "name_en": "",
+    "lat": 40.0146711,
+    "lng": 139.9622911,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 293493480,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "男鹿水族館 GAO",
+    "name_en": "Oga Aquarium GAO",
+    "lat": 39.9422905,
+    "lng": 139.7046184,
+    "category": "zoo",
+    "prefecture": "akita",
+    "osm_id": 293606115,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "錦秋湖温泉穴ゆっこ",
+    "name_en": "Anayukko (Kinshuko Hot Spring)",
+    "lat": 39.2965439,
+    "lng": 140.8366711,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 293711762,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯川温泉「四季彩の宿・ふる里」",
+    "name_en": "",
+    "lat": 39.2883345,
+    "lng": 140.7696873,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 293717800,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "内陸線資料館",
+    "name_en": "",
+    "lat": 40.0003313,
+    "lng": 140.40181,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 294609253,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "沼館温泉会館 ぬまだてのゆっこ",
+    "name_en": "",
+    "lat": 40.2851144,
+    "lng": 140.5400869,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 295246579,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9581,6 +10725,50 @@
     "data_source": "osm"
   },
   {
+    "name": "クアドーム;ザ・ブーン",
+    "name_en": "Theboon",
+    "lat": 39.7948461,
+    "lng": 140.2230388,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 295632268,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仁別森林博物館",
+    "name_en": "Nibetsu Forest Museum",
+    "lat": 39.8032818,
+    "lng": 140.2626169,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 295647911,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "機関車庫",
+    "name_en": "",
+    "lat": 40.3243498,
+    "lng": 140.7452212,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 297486003,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小坂駅舎",
+    "name_en": "",
+    "lat": 40.3238167,
+    "lng": 140.745587,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 297486007,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鳥海山大物忌神社",
     "name_en": "",
     "lat": 39.0977038,
@@ -9588,6 +10776,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 370068010,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大滝山温泉;神の湯",
+    "name_en": "",
+    "lat": 39.7813609,
+    "lng": 140.1480518,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 375770121,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9614,6 +10813,17 @@
     "data_source": "osm"
   },
   {
+    "name": "曲屋",
+    "name_en": "",
+    "lat": 39.4349815,
+    "lng": 140.44008,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 386726543,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "北野神社",
     "name_en": "Kitano shrine",
     "lat": 39.435822,
@@ -9621,6 +10831,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 386728143,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田県立農業科学館",
+    "name_en": "Akita Prefectural Museum of Agricultural Science",
+    "lat": 39.4368097,
+    "lng": 140.4389802,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 386728145,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9658,6 +10879,28 @@
     "data_source": "osm"
   },
   {
+    "name": "ポルダー潟の湯",
+    "name_en": "",
+    "lat": 40.0270283,
+    "lng": 139.9544517,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 405631305,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゼロダテアートセンター",
+    "name_en": "Zero Date Art Center",
+    "lat": 40.2714219,
+    "lng": 140.5589951,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 410407665,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "仁叟寺",
     "name_en": "",
     "lat": 40.2744563,
@@ -9665,6 +10908,17 @@
     "category": "temple",
     "prefecture": "akita",
     "osm_id": 413232625,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鹿角市 先人顕彰館",
+    "name_en": "",
+    "lat": 40.2732415,
+    "lng": 140.7702445,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 413232626,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9680,6 +10934,160 @@
     "data_source": "osm"
   },
   {
+    "name": "羽後町 歴史民俗資料館",
+    "name_en": "",
+    "lat": 39.1981319,
+    "lng": 140.4011628,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 426576830,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧長谷山邸",
+    "name_en": "",
+    "lat": 39.2054541,
+    "lng": 140.3117977,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 426576837,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "むかしがたり館 (羽後町民話伝承館)",
+    "name_en": "",
+    "lat": 39.1904677,
+    "lng": 140.4475389,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 426576844,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "五輪坂温泉としとらんど",
+    "name_en": "",
+    "lat": 39.2172394,
+    "lng": 140.395866,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 426576867,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯瀬ふれあいセンター",
+    "name_en": "",
+    "lat": 40.1231284,
+    "lng": 140.8368822,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 437094096,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八幡平温泉;ゆらら",
+    "name_en": "",
+    "lat": 39.9803568,
+    "lng": 140.8013423,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 438261048,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯沢市リフレッシュ交流センター;ほっと館",
+    "name_en": "",
+    "lat": 39.0491512,
+    "lng": 140.4161618,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 439267657,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大太鼓の館",
+    "name_en": "",
+    "lat": 40.2510747,
+    "lng": 140.3760961,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 439879750,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "北秋田市阿仁郷土文化保存伝承館",
+    "name_en": "",
+    "lat": 39.9989037,
+    "lng": 140.4018062,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 444437469,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "北秋田市阿仁異人館",
+    "name_en": "",
+    "lat": 39.9991651,
+    "lng": 140.4018694,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 444437470,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "田沢湖クニマス未来館",
+    "name_en": "",
+    "lat": 39.7001791,
+    "lng": 140.6629266,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 446785311,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小坂鉱山事務所",
+    "name_en": "",
+    "lat": 40.3285837,
+    "lng": 140.7442476,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 449152083,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小坂町立総合博物館・郷土館",
+    "name_en": "",
+    "lat": 40.3237324,
+    "lng": 140.7409534,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 449153685,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小坂町立総合博物館・郷土館",
+    "name_en": "",
+    "lat": 40.3236153,
+    "lng": 140.740553,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 449153686,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "滝の沢神社",
     "name_en": "",
     "lat": 40.3198763,
@@ -9687,6 +11095,28 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 450184870,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "環境省白神山地世界遺産センター・藤里館",
+    "name_en": "",
+    "lat": 40.3089827,
+    "lng": 140.2871946,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 450185776,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "藤里町歴史民俗資料館",
+    "name_en": "",
+    "lat": 40.3073581,
+    "lng": 140.2906718,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 450185780,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9746,6 +11176,72 @@
     "data_source": "osm"
   },
   {
+    "name": "秋田温泉さとみ温泉センター;りらっくす",
+    "name_en": "",
+    "lat": 39.7485234,
+    "lng": 140.1312281,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 456603590,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "アルパこまくさ",
+    "name_en": "",
+    "lat": 39.7771077,
+    "lng": 140.7639906,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 457377725,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田市立佐竹資料館",
+    "name_en": "Satake Historical Museum",
+    "lat": 39.7198647,
+    "lng": 140.124768,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 461359313,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田県立美術館",
+    "name_en": "Akita Museum of Art",
+    "lat": 39.7174099,
+    "lng": 140.121533,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 461361664,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田大学大学院国際資源学研究科附属鉱業博物館",
+    "name_en": "Mining Museum of Akita University",
+    "lat": 39.7291829,
+    "lng": 140.1365972,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 461649476,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8831225,
+    "lng": 139.7412149,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 462715813,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "日吉八幡神社",
     "name_en": "",
     "lat": 39.7225777,
@@ -9753,6 +11249,28 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 463019756,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田市民俗芸能伝承館",
+    "name_en": "Akita Folklore and Performing Arts Museum",
+    "lat": 39.7203664,
+    "lng": 140.1169838,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 463211300,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧金子家住宅",
+    "name_en": "Former Kaneko family residence",
+    "lat": 39.7202322,
+    "lng": 140.1170054,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 463216615,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9944,6 +11462,17 @@
     "data_source": "osm"
   },
   {
+    "name": "伝承館 潟上パークセンター",
+    "name_en": "",
+    "lat": 39.8553231,
+    "lng": 140.0087722,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 482791073,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宇津巻天神社",
     "name_en": "",
     "lat": 39.5865431,
@@ -9951,6 +11480,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 491694502,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雄物川郷土史料館",
+    "name_en": "Omonogawa Local Museum",
+    "lat": 39.2976012,
+    "lng": 140.4315573,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 498693107,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10010,6 +11550,17 @@
     "data_source": "osm"
   },
   {
+    "name": "桜温泉;さくらさくら",
+    "name_en": "Sakura Onsen",
+    "lat": 39.706443,
+    "lng": 140.1519542,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 542700641,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "白馬寺",
     "name_en": "",
     "lat": 39.7300997,
@@ -10065,6 +11616,28 @@
     "data_source": "osm"
   },
   {
+    "name": "秋田県立博物館　分館　旧奈良家住宅",
+    "name_en": "",
+    "lat": 39.8232641,
+    "lng": 140.065242,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 554913754,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "伊勢堂岱縄文館",
+    "name_en": "",
+    "lat": 40.202024,
+    "lng": 140.3508273,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 557614180,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三輪神社・白山神社",
     "name_en": "",
     "lat": 39.8192114,
@@ -10072,6 +11645,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 558108300,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "紙風船館",
+    "name_en": "",
+    "lat": 39.8155907,
+    "lng": 140.5840752,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 563594621,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10285,6 +11869,28 @@
     "data_source": "osm"
   },
   {
+    "name": "こけし館",
+    "name_en": "Kokeshi Museum",
+    "lat": 40.2935866,
+    "lng": 140.8267296,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 591532567,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "すもう湯",
+    "name_en": "",
+    "lat": 40.2965339,
+    "lng": 140.8274263,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 591532570,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.3132784,
@@ -10347,6 +11953,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 596153228,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "横手Embroidery美術館",
+    "name_en": "",
+    "lat": 39.3105281,
+    "lng": 140.5692289,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 596153250,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10483,6 +12100,28 @@
     "data_source": "osm"
   },
   {
+    "name": "八森;湯っこランド",
+    "name_en": "",
+    "lat": 40.3836261,
+    "lng": 139.9894802,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 672718288,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆたろう",
+    "name_en": "",
+    "lat": 40.1947179,
+    "lng": 140.7809125,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 672904373,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 39.1372161,
@@ -10490,6 +12129,402 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 673014029,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鳥海温泉保養センター;あぽん西浜",
+    "name_en": "",
+    "lat": 39.0660999,
+    "lng": 139.8747348,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 683725624,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "にかほ市老人憩の家;午ノ浜温泉",
+    "name_en": "",
+    "lat": 39.2868554,
+    "lng": 139.9429451,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 683729759,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "かしわ温泉",
+    "name_en": "",
+    "lat": 39.3307656,
+    "lng": 140.0313521,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 683732705,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "由利の里交流センター;ゆりえもん",
+    "name_en": "",
+    "lat": 39.3168367,
+    "lng": 140.1115502,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 683747798,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鶴舞温泉",
+    "name_en": "",
+    "lat": 39.3818857,
+    "lng": 140.0470963,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 683753404,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ぱいんすぱ新山",
+    "name_en": "",
+    "lat": 39.4031772,
+    "lng": 140.025426,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 683808567,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高齢者コミュニティーセンター;伝兵衛湯荘",
+    "name_en": "",
+    "lat": 39.5008153,
+    "lng": 140.084739,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 683837460,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福祉健康;新屋温泉",
+    "name_en": "",
+    "lat": 39.6828616,
+    "lng": 140.0893138,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 683838020,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "夕陽温泉WAO",
+    "name_en": "",
+    "lat": 40.0373581,
+    "lng": 139.9242808,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 683840845,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "森岳温泉;ゆうぱる",
+    "name_en": "",
+    "lat": 40.0884359,
+    "lng": 140.0884732,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 683844518,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "船沢温泉",
+    "name_en": "",
+    "lat": 40.1688957,
+    "lng": 140.0421604,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 683845387,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高齢者ふれあい交流施設;ゆっちゃん",
+    "name_en": "",
+    "lat": 40.2087669,
+    "lng": 140.2386279,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 683860456,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "久吉たけのこ温泉",
+    "name_en": "",
+    "lat": 40.4452101,
+    "lng": 140.6486981,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 684133205,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "碇ヶ関温泉会館",
+    "name_en": "",
+    "lat": 40.4740027,
+    "lng": 140.6296266,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 684135329,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "森林浴交流センターしまだ",
+    "name_en": "",
+    "lat": 40.4713679,
+    "lng": 140.5807387,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 684142415,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "温浴ランドおが;なまはげのゆっこ",
+    "name_en": "",
+    "lat": 39.9516383,
+    "lng": 139.7537683,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 684178427,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水沢世代交流福祉館",
+    "name_en": "",
+    "lat": 39.6104938,
+    "lng": 140.4290146,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 684187751,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "綿帽子温泉;あずみの湯",
+    "name_en": "",
+    "lat": 40.0248739,
+    "lng": 140.979991,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685196299,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "フロンティアの湯",
+    "name_en": "",
+    "lat": 40.0257346,
+    "lng": 140.9790861,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685196339,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八幡平温泉館;森乃湯",
+    "name_en": "",
+    "lat": 39.8979193,
+    "lng": 140.9739019,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685203194,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "毛馬内七滝温泉",
+    "name_en": "",
+    "lat": 40.2822178,
+    "lng": 140.7678258,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685208591,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中野温泉 大館市高齢者生産活動施設",
+    "name_en": "",
+    "lat": 40.1756724,
+    "lng": 140.605496,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685216786,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ひない温泉;比内のゆ",
+    "name_en": "",
+    "lat": 40.2282757,
+    "lng": 140.5724649,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685222622,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "二井田市民集会所;ハチ公荘",
+    "name_en": "",
+    "lat": 40.2259397,
+    "lng": 140.5639595,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685235539,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大館東台温泉 東の湯",
+    "name_en": "",
+    "lat": 40.2706471,
+    "lng": 140.5738152,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685236459,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "露天とガーデンの温泉 ほうおう庭",
+    "name_en": "",
+    "lat": 40.2798706,
+    "lng": 140.5786533,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685238065,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長瀞温泉",
+    "name_en": "",
+    "lat": 40.2814219,
+    "lng": 140.5183055,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685263453,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "長寿の湯",
+    "name_en": "",
+    "lat": 40.1777986,
+    "lng": 140.4846551,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685272867,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯の岱温泉",
+    "name_en": "",
+    "lat": 40.1757767,
+    "lng": 140.4765373,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685273623,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆう林館",
+    "name_en": "",
+    "lat": 39.3364572,
+    "lng": 140.7837209,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685329462,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "丑の湯",
+    "name_en": "",
+    "lat": 39.3439589,
+    "lng": 140.7725088,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685329685,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "槻沢温泉 砂ゆっこ",
+    "name_en": "",
+    "lat": 39.3568215,
+    "lng": 140.7699692,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685329843,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "老人憩の家 福寿荘",
+    "name_en": "",
+    "lat": 39.2797589,
+    "lng": 140.7225894,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685335070,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯田温泉郷巣郷温泉;峠の湯",
+    "name_en": "",
+    "lat": 39.2782849,
+    "lng": 140.7213737,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685335121,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "仙北市民浴場 東風の湯",
+    "name_en": "",
+    "lat": 39.7059744,
+    "lng": 140.7309882,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685336001,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "国見温泉町営;国見山荘",
+    "name_en": "",
+    "lat": 39.7249354,
+    "lng": 140.7962098,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 685336185,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10505,6 +12540,160 @@
     "data_source": "osm"
   },
   {
+    "name": "老人福祉センター;緑風荘",
+    "name_en": "",
+    "lat": 39.1612353,
+    "lng": 140.5440537,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 687887704,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大滝温泉;湯夢湯夢の湯",
+    "name_en": "",
+    "lat": 40.2115249,
+    "lng": 140.6468579,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 688332968,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "金沢温泉",
+    "name_en": "",
+    "lat": 40.183194,
+    "lng": 140.3516523,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 688341767,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上小阿仁村役場コミュニティセンター;山ふじ温泉",
+    "name_en": "",
+    "lat": 40.0224093,
+    "lng": 140.3124278,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 688349229,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大湯温泉;いずみの湯",
+    "name_en": "",
+    "lat": 40.2949801,
+    "lng": 140.8316919,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 695645455,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "四十八瀧温泉;大館市立老人福祉センター",
+    "name_en": "",
+    "lat": 40.2958743,
+    "lng": 140.6369438,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 695760200,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "釈迦内温泉",
+    "name_en": "",
+    "lat": 40.3079768,
+    "lng": 140.5703046,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 695760436,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "網張温泉館;薬師の湯",
+    "name_en": "",
+    "lat": 39.8217276,
+    "lng": 140.9407586,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 695839526,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "網張温泉;ありね山荘",
+    "name_en": "",
+    "lat": 39.8148735,
+    "lng": 140.9348392,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 695840047,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "スーパー健康ランド;華のゆ",
+    "name_en": "",
+    "lat": 39.7129442,
+    "lng": 140.1176502,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 695893868,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふれあいゆう星館",
+    "name_en": "",
+    "lat": 39.3701569,
+    "lng": 140.7233349,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 705915439,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あきた文学資料館",
+    "name_en": "",
+    "lat": 39.7133594,
+    "lng": 140.124348,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 707560606,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "修身館",
+    "name_en": "",
+    "lat": 39.3849421,
+    "lng": 140.0473621,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 708390196,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本丸の館",
+    "name_en": "",
+    "lat": 39.3852263,
+    "lng": 140.0473574,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 708390197,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "正一位稲荷神社",
     "name_en": "",
     "lat": 39.2737642,
@@ -10512,6 +12701,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 713065681,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田犬会館",
+    "name_en": "Akitainu Kaikan",
+    "lat": 40.2731863,
+    "lng": 140.5640254,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 729440119,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10626,6 +12826,17 @@
     "data_source": "osm"
   },
   {
+    "name": "網張温泉",
+    "name_en": "",
+    "lat": 39.8220347,
+    "lng": 140.9369428,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 737877697,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.6250828,
@@ -10681,6 +12892,28 @@
     "data_source": "osm"
   },
   {
+    "name": "くまくま園",
+    "name_en": "",
+    "lat": 39.9138262,
+    "lng": 140.5359721,
+    "category": "zoo",
+    "prefecture": "akita",
+    "osm_id": 738827950,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "やぎ園",
+    "name_en": "",
+    "lat": 40.4968697,
+    "lng": 140.5746819,
+    "category": "zoo",
+    "prefecture": "akita",
+    "osm_id": 739099508,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "和井内神社",
     "name_en": "",
     "lat": 40.4583186,
@@ -10688,6 +12921,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 739518720,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白沢休憩所",
+    "name_en": "",
+    "lat": 40.3694019,
+    "lng": 140.8682225,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 739518769,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10736,6 +12980,39 @@
     "data_source": "osm"
   },
   {
+    "name": "沢内バーデン",
+    "name_en": "",
+    "lat": 39.3943556,
+    "lng": 140.7712156,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 741801380,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "無料足湯",
+    "name_en": "",
+    "lat": 39.3444045,
+    "lng": 140.7715473,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 741802412,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "無料足湯",
+    "name_en": "",
+    "lat": 39.3143623,
+    "lng": 140.7764879,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 741802413,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三吉神社",
     "name_en": "",
     "lat": 40.2079411,
@@ -10776,6 +13053,39 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 743762767,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "エナジアムパーク",
+    "name_en": "",
+    "lat": 40.1910751,
+    "lng": 139.9962166,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 743814683,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "エナジアムパーク",
+    "name_en": "",
+    "lat": 40.1909778,
+    "lng": 139.9961723,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 743814684,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "エナジアムパーク",
+    "name_en": "",
+    "lat": 40.1910648,
+    "lng": 139.9959303,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 743814685,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10956,6 +13266,28 @@
     "data_source": "osm"
   },
   {
+    "name": "赤れんが郷土館（旧秋田銀行本店本館）",
+    "name_en": "",
+    "lat": 39.7167196,
+    "lng": 140.1157685,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 748909188,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "勝平得之記念館",
+    "name_en": "",
+    "lat": 39.7167424,
+    "lng": 140.1154838,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 748909189,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三吉神社総本宮",
     "name_en": "",
     "lat": 39.7261477,
@@ -11110,6 +13442,17 @@
     "data_source": "osm"
   },
   {
+    "name": "井坂記念館",
+    "name_en": "",
+    "lat": 40.2109368,
+    "lng": 140.0358538,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 751590718,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "御指南神社",
     "name_en": "",
     "lat": 40.2105423,
@@ -11205,6 +13548,28 @@
     "category": "temple",
     "prefecture": "akita",
     "osm_id": 752143347,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9569563,
+    "lng": 140.1261495,
+    "category": "castle",
+    "prefecture": "akita",
+    "osm_id": 752910768,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "漢方薬温泉　静療館",
+    "name_en": "",
+    "lat": 40.2363455,
+    "lng": 140.0131733,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 753007827,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11321,6 +13686,28 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 39.9080758,
+    "lng": 139.733115,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 756250756,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "はまなす温泉",
+    "name_en": "",
+    "lat": 40.235003,
+    "lng": 140.013932,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 757315567,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 40.428538,
     "lng": 140.4088345,
     "category": "shrine",
@@ -11396,6 +13783,72 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.2741183,
+    "lng": 140.7193735,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 761930650,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.2759263,
+    "lng": 140.7189697,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 761930658,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "巣郷温泉 静山荘",
+    "name_en": "",
+    "lat": 39.2758341,
+    "lng": 140.7188387,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 761930661,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "巣郷温泉（湯田温泉峡）",
+    "name_en": "",
+    "lat": 39.2754999,
+    "lng": 140.7195691,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 761930667,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "巣郷温泉（湯田温泉峡）",
+    "name_en": "",
+    "lat": 39.2755833,
+    "lng": 140.719469,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 761930669,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "TDK 歴史みらい館",
+    "name_en": "",
+    "lat": 39.2916587,
+    "lng": 139.9573041,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 762774112,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "光明寺",
     "name_en": "",
     "lat": 39.3337842,
@@ -11414,6 +13867,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 763125323,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.7012764,
+    "lng": 140.7430561,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 763156435,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11638,6 +14102,17 @@
     "data_source": "osm"
   },
   {
+    "name": "刑務所作業品展示場",
+    "name_en": "",
+    "lat": 39.709428,
+    "lng": 140.0983786,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 766411370,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "地主稲荷神社",
     "name_en": "",
     "lat": 39.7588918,
@@ -11645,6 +14120,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 766592476,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "土崎みなと歴史伝承館",
+    "name_en": "Tsuchizaki Minato Port Area Historical Museam",
+    "lat": 39.7562954,
+    "lng": 140.0669195,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 766598484,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11880,6 +14366,50 @@
     "data_source": "osm"
   },
   {
+    "name": "佐藤多三郎家",
+    "name_en": "House of Tasaburou",
+    "lat": 39.2032614,
+    "lng": 140.5463596,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 770615955,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧松浦家住宅",
+    "name_en": "former Matsuura",
+    "lat": 39.2033474,
+    "lng": 140.5462457,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 770615956,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐藤又六家",
+    "name_en": "House of Mataroku",
+    "lat": 39.2033675,
+    "lng": 140.5455382,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 770618740,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐藤養助 漆蔵資料館",
+    "name_en": "",
+    "lat": 39.2052055,
+    "lng": 140.5450326,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 770618816,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "月山神社",
     "name_en": "",
     "lat": 39.199766,
@@ -11942,6 +14472,50 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 770792336,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雄勝郡会議事堂記念館",
+    "name_en": "",
+    "lat": 39.1646345,
+    "lng": 140.4933016,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 770965910,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8627896,
+    "lng": 139.7636634,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 772598366,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8625711,
+    "lng": 139.76216,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 772598367,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鉱山資料館",
+    "name_en": "",
+    "lat": 40.1861636,
+    "lng": 140.7476693,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 772666168,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12023,6 +14597,28 @@
     "data_source": "osm"
   },
   {
+    "name": "Design Shop 秋田贔屓",
+    "name_en": "",
+    "lat": 39.7191794,
+    "lng": 140.1179887,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 774888907,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "川端角のレトロ博物館",
+    "name_en": "",
+    "lat": 39.7188254,
+    "lng": 140.1182078,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 774888912,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.7144609,
@@ -12041,6 +14637,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 774940132,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.6138615,
+    "lng": 140.5994749,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 774994485,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12111,6 +14718,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.7022043,
+    "lng": 140.7613534,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 775660449,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.7322508,
+    "lng": 140.6986867,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 775662702,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 39.1586906,
@@ -12140,6 +14769,28 @@
     "category": "temple",
     "prefecture": "akita",
     "osm_id": 775720798,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.4988212,
+    "lng": 140.0872742,
+    "category": "castle",
+    "prefecture": "akita",
+    "osm_id": 775720811,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "サンセットビュー",
+    "name_en": "",
+    "lat": 39.3236334,
+    "lng": 139.9872293,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 775979819,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12338,6 +14989,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 781492073,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "井川町歴史民俗資料館",
+    "name_en": "",
+    "lat": 39.9145043,
+    "lng": 140.0816133,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 782602368,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12562,6 +15224,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.8718845,
+    "lng": 139.7446317,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 792126125,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "門前駐車場",
+    "name_en": "",
+    "lat": 39.8646219,
+    "lng": 139.7543361,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 792126126,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "明池山長福院",
     "name_en": "",
     "lat": 40.0008246,
@@ -12597,11 +15281,66 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 39.9211207,
+    "lng": 140.5363408,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 793357659,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9212578,
+    "lng": 140.5369545,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 793357660,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9215354,
+    "lng": 140.5371573,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 793357661,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 39.9031187,
     "lng": 140.4493807,
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 793365884,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三川道路公園",
+    "name_en": "",
+    "lat": 39.4246167,
+    "lng": 140.0272212,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 793489864,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9883225,
+    "lng": 140.6141789,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 793705458,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12716,6 +15455,28 @@
     "data_source": "osm"
   },
   {
+    "name": "秋田県環境と文化のむら",
+    "name_en": "",
+    "lat": 39.9302221,
+    "lng": 140.1187908,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 795483283,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東北石油 豊川油田 展示室",
+    "name_en": "",
+    "lat": 39.8554324,
+    "lng": 140.0790435,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 795583965,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.80861,
@@ -12734,6 +15495,61 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 795852245,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "横手城",
+    "name_en": "Yokote Castle",
+    "lat": 39.3210627,
+    "lng": 140.5692211,
+    "category": "castle",
+    "prefecture": "akita",
+    "osm_id": 796370106,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "史料館たてつ",
+    "name_en": "",
+    "lat": 39.5940401,
+    "lng": 140.5625857,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 797047638,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐竹歴史文化博物館",
+    "name_en": "",
+    "lat": 39.5989887,
+    "lng": 140.5603797,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 797116800,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大葛金山 ふるさと館",
+    "name_en": "",
+    "lat": 40.126398,
+    "lng": 140.6771591,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 798415376,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大葛温泉",
+    "name_en": "",
+    "lat": 40.1280568,
+    "lng": 140.6788484,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 798415388,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13585,6 +16401,17 @@
     "data_source": "osm"
   },
   {
+    "name": "郷土文化保存伝習施設",
+    "name_en": "",
+    "lat": 39.1821642,
+    "lng": 139.9428385,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 810491346,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.1818174,
@@ -13592,6 +16419,28 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 810491349,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝物殿",
+    "name_en": "",
+    "lat": 39.1820665,
+    "lng": 139.9433446,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 810491363,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "忠猫神社",
+    "name_en": "",
+    "lat": 39.2608278,
+    "lng": 140.4904194,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 810493062,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13680,6 +16529,28 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 810630089,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "なまはげ館",
+    "name_en": "Namahage Museum",
+    "lat": 39.9292299,
+    "lng": 139.7665832,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 810700577,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "男鹿真山伝承館",
+    "name_en": "",
+    "lat": 39.9288853,
+    "lng": 139.7665757,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 810700578,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13959,6 +16830,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.9865389,
+    "lng": 140.4057634,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 813427165,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "荒瀬神社",
     "name_en": "",
     "lat": 39.9822018,
@@ -13977,6 +16859,28 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 813521760,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "出羽伝承館（大内公民館図書室）",
+    "name_en": "",
+    "lat": 39.4426671,
+    "lng": 140.0905931,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 814130436,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ぽぽろっこ",
+    "name_en": "",
+    "lat": 39.4434734,
+    "lng": 140.0904253,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 814130444,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14080,6 +16984,28 @@
     "data_source": "osm"
   },
   {
+    "name": "荒瀬共同浴場",
+    "name_en": "",
+    "lat": 40.2973284,
+    "lng": 140.8368769,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 814941636,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.2977838,
+    "lng": 140.8375178,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 814941643,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "薬師神社",
     "name_en": "",
     "lat": 40.2921062,
@@ -14087,6 +17013,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 814962095,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "下の湯共同浴場",
+    "name_en": "",
+    "lat": 40.2921891,
+    "lng": 140.8217011,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 814962107,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14153,6 +17090,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 815153406,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鹿角市歴史民族資料館",
+    "name_en": "",
+    "lat": 40.1907459,
+    "lng": 140.7919918,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 815162885,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14938,6 +17886,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.890215,
+    "lng": 139.7394734,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 822884882,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宇賀神社",
     "name_en": "",
     "lat": 39.9696534,
@@ -15345,6 +18304,17 @@
     "data_source": "osm"
   },
   {
+    "name": "福田獅子舞伝承館",
+    "name_en": "",
+    "lat": 40.1494445,
+    "lng": 140.3168676,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 825364901,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "曹洞宗 殻城山 新田寺",
     "name_en": "",
     "lat": 40.1468021,
@@ -15741,6 +18711,17 @@
     "data_source": "osm"
   },
   {
+    "name": "胡桃館遺跡出土品収蔵庫",
+    "name_en": "",
+    "lat": 40.2357693,
+    "lng": 140.3569753,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 829496718,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "斗和多神社",
     "name_en": "",
     "lat": 40.2409149,
@@ -15748,6 +18729,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 829657414,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.2184332,
+    "lng": 140.2409867,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 829699806,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15908,6 +18900,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 40.2130547,
+    "lng": 140.3035077,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 830719595,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 40.2160504,
     "lng": 140.2890737,
     "category": "shrine",
@@ -15994,6 +18997,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.2136004,
+    "lng": 140.2205434,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 831739699,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "七村稲荷神社",
     "name_en": "",
     "lat": 40.1056787,
@@ -16045,6 +19059,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 832251624,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.2202101,
+    "lng": 140.1825042,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 832271455,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16243,6 +19268,17 @@
     "category": "temple",
     "prefecture": "akita",
     "osm_id": 832833129,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.0494504,
+    "lng": 140.4268861,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 832833177,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16489,6 +19525,28 @@
     "data_source": "osm"
   },
   {
+    "name": "みちくさ広場",
+    "name_en": "",
+    "lat": 39.1102458,
+    "lng": 140.719424,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 833195217,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.1124893,
+    "lng": 140.7181477,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 833196668,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "椿川山神社",
     "name_en": "",
     "lat": 39.1254339,
@@ -16672,6 +19730,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 833804837,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あかしや荘",
+    "name_en": "",
+    "lat": 40.3363199,
+    "lng": 140.7361443,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 833804852,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17215,6 +20284,17 @@
     "data_source": "osm"
   },
   {
+    "name": "渡辺家",
+    "name_en": "",
+    "lat": 40.149749,
+    "lng": 140.7780477,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 834725089,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 40.1590168,
@@ -17457,6 +20537,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大湯温泉",
+    "name_en": "",
+    "lat": 40.2950261,
+    "lng": 140.8330919,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 835235144,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "浅間神社",
     "name_en": "",
     "lat": 40.270071,
@@ -17508,6 +20599,28 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 835319188,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上の湯浴場",
+    "name_en": "",
+    "lat": 40.2951571,
+    "lng": 140.8320739,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 835322893,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "共同温泉 川原の湯浴場",
+    "name_en": "",
+    "lat": 40.2937875,
+    "lng": 140.8209205,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 835408104,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18295,6 +21408,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 40.2385414,
+    "lng": 140.8075956,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 836492519,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 40.2471354,
     "lng": 140.7420377,
     "category": "shrine",
@@ -18377,6 +21501,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 836740100,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.2938538,
+    "lng": 140.8266604,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 836961905,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -19195,6 +22330,28 @@
     "data_source": "osm"
   },
   {
+    "name": "西和賀町立川村美術館",
+    "name_en": "",
+    "lat": 39.3137305,
+    "lng": 140.7782088,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 839072241,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西和賀町 歴史民俗資料館",
+    "name_en": "",
+    "lat": 39.3135755,
+    "lng": 140.7780317,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 839072242,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.2659188,
@@ -19338,6 +22495,17 @@
     "data_source": "osm"
   },
   {
+    "name": "あいのり",
+    "name_en": "",
+    "lat": 40.4266691,
+    "lng": 140.6345102,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 839645745,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.3050285,
@@ -19371,6 +22539,17 @@
     "data_source": "osm"
   },
   {
+    "name": "共同温泉 桜の湯",
+    "name_en": "",
+    "lat": 40.2135917,
+    "lng": 140.6406883,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 839841937,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大瀧薬師神社",
     "name_en": "",
     "lat": 40.2129094,
@@ -19382,6 +22561,17 @@
     "data_source": "osm"
   },
   {
+    "name": "鶴癒の足湯",
+    "name_en": "",
+    "lat": 40.2130805,
+    "lng": 140.64442,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 839842004,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 40.210404,
@@ -19389,6 +22579,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 839851941,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋田県北部老人福祉施設 ほうおう",
+    "name_en": "",
+    "lat": 40.2166101,
+    "lng": 140.6578061,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 839859044,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -19686,6 +22887,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 840953314,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八郎まつり伝承館",
+    "name_en": "",
+    "lat": 39.8688005,
+    "lng": 140.0347277,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 840953316,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21109,6 +24321,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ユアシス",
+    "name_en": "",
+    "lat": 39.5156738,
+    "lng": 140.217819,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 844460201,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "新波神社",
     "name_en": "",
     "lat": 39.5267703,
@@ -22315,6 +25538,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 861314376,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小池板碑群",
+    "name_en": "",
+    "lat": 39.9537203,
+    "lng": 140.0929809,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 861528253,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -23573,6 +26807,28 @@
     "data_source": "osm"
   },
   {
+    "name": "展示室",
+    "name_en": "",
+    "lat": 39.4267922,
+    "lng": 140.1025461,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 863048480,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東光館",
+    "name_en": "",
+    "lat": 39.426863,
+    "lng": 140.1026983,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 863048481,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "長谷寺",
     "name_en": "",
     "lat": 39.4279911,
@@ -24464,6 +27720,17 @@
     "data_source": "osm"
   },
   {
+    "name": "浜辺の歌音楽館",
+    "name_en": "",
+    "lat": 40.1187072,
+    "lng": 140.3673373,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 867155340,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 40.1198278,
@@ -24680,6 +27947,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 867955529,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大盛館",
+    "name_en": "",
+    "lat": 39.632163,
+    "lng": 140.4004585,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 867955539,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25157,6 +28435,17 @@
     "data_source": "osm"
   },
   {
+    "name": "千畑温泉",
+    "name_en": "",
+    "lat": 39.4335856,
+    "lng": 140.6191075,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 872295969,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.4468265,
@@ -25164,6 +28453,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 872965718,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "六郷温泉 あったか山",
+    "name_en": "",
+    "lat": 39.4090318,
+    "lng": 140.6133071,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 873032376,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -25681,6 +28981,17 @@
     "category": "temple",
     "prefecture": "akita",
     "osm_id": 877948314,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "根舟温泉",
+    "name_en": "",
+    "lat": 40.2640369,
+    "lng": 140.5424206,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 877948316,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -26352,6 +29663,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 884116515,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山本ふるさと文化館",
+    "name_en": "",
+    "lat": 40.0880778,
+    "lng": 140.0871815,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 884265384,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -27038,6 +30360,17 @@
     "data_source": "osm"
   },
   {
+    "name": "河辺岩見温泉",
+    "name_en": "",
+    "lat": 39.7076856,
+    "lng": 140.2888871,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 894939707,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "両沢神社",
     "name_en": "",
     "lat": 39.7073169,
@@ -27287,6 +30620,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 895777750,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八森ぶなっこランド",
+    "name_en": "",
+    "lat": 40.391193,
+    "lng": 140.0250633,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 895836313,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -27738,6 +31082,17 @@
     "category": "temple",
     "prefecture": "akita",
     "osm_id": 903652726,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "栖秀の郷土人形館",
+    "name_en": "",
+    "lat": 39.7334787,
+    "lng": 140.1357258,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 903747445,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28211,6 +31566,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 908330257,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新浪温泉",
+    "name_en": "",
+    "lat": 39.5302132,
+    "lng": 140.2249304,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 908330391,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -28805,6 +32171,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 909855596,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "松尾鉱山資料館",
+    "name_en": "",
+    "lat": 39.9144734,
+    "lng": 140.9781939,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 909886965,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -29432,6 +32809,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 921726072,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "にかほ市 象潟郷土資料館",
+    "name_en": "",
+    "lat": 39.2015842,
+    "lng": 139.9071585,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 921726074,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -30151,6 +33539,17 @@
     "data_source": "osm"
   },
   {
+    "name": "土蔵（資料館）",
+    "name_en": "",
+    "lat": 40.3321249,
+    "lng": 140.5530862,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 938400640,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大森神社",
     "name_en": "",
     "lat": 40.3358453,
@@ -30499,6 +33898,17 @@
     "category": "temple",
     "prefecture": "akita",
     "osm_id": 943246766,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "後三年合戦金沢資料館",
+    "name_en": "Gosan-nen War Kanezawa Archives",
+    "lat": 39.374422,
+    "lng": 140.5695227,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 943246774,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -30961,6 +34371,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 948589844,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "くらしの歴史館",
+    "name_en": "",
+    "lat": 39.5660448,
+    "lng": 140.3311908,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 950162151,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -31610,6 +35031,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 962645316,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "喜久の湯",
+    "name_en": "",
+    "lat": 40.2668645,
+    "lng": 140.5594876,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 962933345,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -32406,6 +35838,17 @@
     "data_source": "osm"
   },
   {
+    "name": "別所温泉",
+    "name_en": "",
+    "lat": 40.2038761,
+    "lng": 140.6917497,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 969245665,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "太平山神社",
     "name_en": "",
     "lat": 40.2062123,
@@ -32769,6 +36212,17 @@
     "data_source": "osm"
   },
   {
+    "name": "仙波",
+    "name_en": "",
+    "lat": 40.2135916,
+    "lng": 140.6456851,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 970907537,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鹿島神社",
     "name_en": "",
     "lat": 39.3053967,
@@ -32908,6 +36362,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 973434634,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "碧祥寺博物館",
+    "name_en": "",
+    "lat": 39.4281749,
+    "lng": 140.7483057,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 973885881,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -33088,6 +36553,17 @@
     "data_source": "osm"
   },
   {
+    "name": "川連漆器伝統工芸館",
+    "name_en": "",
+    "lat": 39.1447795,
+    "lng": 140.5680704,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 974911254,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 39.1449735,
@@ -33249,6 +36725,50 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 975143868,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧村田薬局",
+    "name_en": "former Murata drugstore",
+    "lat": 39.2031918,
+    "lng": 140.54559,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 975143913,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐藤三十郎家",
+    "name_en": "House of Sanjurou",
+    "lat": 39.2027172,
+    "lng": 140.5457894,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 975143929,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山中吉助商店",
+    "name_en": "Yamanaka Kichisuke Store",
+    "lat": 39.2035439,
+    "lng": 140.546266,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 975145785,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧石田理吉家",
+    "name_en": "former Ishida Rikichi",
+    "lat": 39.2042447,
+    "lng": 140.5461805,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 975145791,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -33722,6 +37242,17 @@
     "category": "temple",
     "prefecture": "akita",
     "osm_id": 979743519,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "羽後三埼灯台",
+    "name_en": "",
+    "lat": 39.117802,
+    "lng": 139.8707562,
+    "category": "lighthouse",
+    "prefecture": "akita",
+    "osm_id": 980132703,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -34364,6 +37895,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大綱の里伝承館",
+    "name_en": "",
+    "lat": 39.5445993,
+    "lng": 140.3760515,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 984709266,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "普洞院",
     "name_en": "",
     "lat": 39.5430018,
@@ -34848,6 +38390,28 @@
     "data_source": "osm"
   },
   {
+    "name": "南外民俗資料交流館",
+    "name_en": "",
+    "lat": 39.4261932,
+    "lng": 140.3550039,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 1000824201,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩倉温泉",
+    "name_en": "",
+    "lat": 39.4200315,
+    "lng": 140.3496407,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 1000824202,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "薬師神社",
     "name_en": "",
     "lat": 39.4199244,
@@ -35075,6 +38639,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 1004433954,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "はなび・アム",
+    "name_en": "",
+    "lat": 39.4597752,
+    "lng": 140.4804034,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 1004456843,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -35405,6 +38980,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 1009615628,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ほろわの里資料館",
+    "name_en": "",
+    "lat": 39.3806783,
+    "lng": 140.3610149,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 1009615638,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -36641,6 +40227,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大館市民舞伝習館",
+    "name_en": "",
+    "lat": 40.1893376,
+    "lng": 140.6081918,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 1027592840,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 40.1896333,
@@ -36949,6 +40546,17 @@
     "data_source": "osm"
   },
   {
+    "name": "御所湖川村美術館",
+    "name_en": "",
+    "lat": 39.668436,
+    "lng": 140.9723452,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 1037153806,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 40.1590735,
@@ -37165,6 +40773,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 1043622200,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 40.4811689,
+    "lng": 140.6224903,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 1046219751,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -37807,6 +41426,17 @@
     "data_source": "osm"
   },
   {
+    "name": "石坂洋次郎文学記念館",
+    "name_en": "Yojiro Ishizaka Literature Memorial Museum",
+    "lat": 39.324184,
+    "lng": 140.5657375,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 1054143620,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大鳥神社",
     "name_en": "",
     "lat": 39.3272034,
@@ -38423,6 +42053,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.3671292,
+    "lng": 140.0723603,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 1057123603,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "勝軍神社",
     "name_en": "",
     "lat": 39.3901552,
@@ -38863,6 +42504,17 @@
     "data_source": "osm"
   },
   {
+    "name": "湯の台温泉 鶴泉荘",
+    "name_en": "",
+    "lat": 39.1932248,
+    "lng": 139.9619777,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 1057860122,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "才ノ神",
     "name_en": "",
     "lat": 39.1934588,
@@ -38881,6 +42533,17 @@
     "category": "temple",
     "prefecture": "akita",
     "osm_id": 1058058653,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.0928688,
+    "lng": 139.8783914,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 1058109968,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -39112,6 +42775,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 1080164337,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯とぴあ雁の里温泉",
+    "name_en": "",
+    "lat": 39.3638783,
+    "lng": 140.5472257,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 1081645712,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -40535,6 +44209,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大森健康温泉",
+    "name_en": "",
+    "lat": 39.3534852,
+    "lng": 140.4305331,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 1172058856,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 40.316121,
@@ -40898,6 +44583,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ゆりの里郷土資料館",
+    "name_en": "",
+    "lat": 39.2827384,
+    "lng": 140.0703409,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 1173241045,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宮比神社",
     "name_en": "",
     "lat": 39.3077124,
@@ -40971,6 +44667,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 1173561360,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "平鹿農村文化伝承館",
+    "name_en": "",
+    "lat": 39.2581666,
+    "lng": 140.4935833,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 1173686194,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -41829,6 +45536,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 1228411744,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "谷藤家",
+    "name_en": "House of Tanifuji",
+    "lat": 39.2000662,
+    "lng": 140.5462346,
+    "category": "museum",
+    "prefecture": "akita",
+    "osm_id": 1228862608,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -43362,6 +47080,17 @@
     "data_source": "osm"
   },
   {
+    "name": "フットスパ あしほっと",
+    "name_en": "",
+    "lat": 39.2196822,
+    "lng": 139.900359,
+    "category": "onsen",
+    "prefecture": "akita",
+    "osm_id": 1297289693,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "等心寺",
     "name_en": "",
     "lat": 39.3906879,
@@ -43501,6 +47230,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 1302630473,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.3122785,
+    "lng": 140.3522079,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 1303503917,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -43758,6 +47498,17 @@
     "data_source": "osm"
   },
   {
+    "name": "トイレパークつか",
+    "name_en": "",
+    "lat": 39.4360012,
+    "lng": 140.5638227,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 1433192830,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.4390492,
@@ -43842,6 +47593,17 @@
     "category": "shrine",
     "prefecture": "akita",
     "osm_id": 1464093750,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "もしもしピット",
+    "name_en": "",
+    "lat": 39.4789315,
+    "lng": 140.410538,
+    "category": "rest_area",
+    "prefecture": "akita",
+    "osm_id": 1465457148,
     "spot_type": "data_spot",
     "data_source": "osm"
   },

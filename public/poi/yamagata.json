@@ -341,6 +341,17 @@
     "data_source": "osm"
   },
   {
+    "name": "秋乃宮博物館",
+    "name_en": "Akinomiya Museum",
+    "lat": 38.9601409,
+    "lng": 140.5301006,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 863048026,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "郷社刈田峯神社",
     "name_en": "",
     "lat": 38.1246085,
@@ -348,6 +359,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 864725679,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "こけし館",
+    "name_en": "Kokeshi Museum",
+    "lat": 38.120475,
+    "lng": 140.573216,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 864725692,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -374,6 +396,39 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.1887645,
+    "lng": 140.1889068,
+    "category": "rest_area",
+    "prefecture": "yamagata",
+    "osm_id": 1308375828,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧堀切邸",
+    "name_en": "",
+    "lat": 37.8332669,
+    "lng": 140.4524253,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 1727693689,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "稽照殿",
+    "name_en": "",
+    "lat": 37.9096087,
+    "lng": 140.1044884,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 1962665090,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "東安寺",
     "name_en": "",
     "lat": 37.7524166,
@@ -396,6 +451,17 @@
     "data_source": "osm"
   },
   {
+    "name": "古関裕而記念館",
+    "name_en": "",
+    "lat": 37.769632,
+    "lng": 140.4791391,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 2036194060,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "乗蓮寺",
     "name_en": "",
     "lat": 37.7572348,
@@ -414,6 +480,28 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 2064605130,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "温麺の館 うーめん・こけし・白石和紙",
+    "name_en": "",
+    "lat": 37.995593,
+    "lng": 140.63315,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 2285176669,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "弥次郎こけし村",
+    "name_en": "",
+    "lat": 38.035397,
+    "lng": 140.572714,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 2285228481,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -469,6 +557,39 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 2286350118,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "神の湯",
+    "name_en": "",
+    "lat": 38.124205,
+    "lng": 140.577237,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 2286379666,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯",
+    "name_en": "",
+    "lat": 38.124016,
+    "lng": 140.577143,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 2286379801,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "壽の湯",
+    "name_en": "",
+    "lat": 38.123244,
+    "lng": 140.578612,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 2286395814,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -909,6 +1030,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 3060756375,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Motoazobu gallery",
+    "name_en": "",
+    "lat": 37.75761,
+    "lng": 140.46092,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 3098570696,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1463,6 +1595,28 @@
     "data_source": "osm"
   },
   {
+    "name": "丹羽式サンドバス鶴岡癒の蔵",
+    "name_en": "",
+    "lat": 38.7376369,
+    "lng": 139.8332971,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 4047237831,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "内藤秀因水彩画記念館",
+    "name_en": "Naito Shuin Memorial Museum of Watercolors",
+    "lat": 38.8487163,
+    "lng": 139.9044402,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 4079646818,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "蓮乘寺",
     "name_en": "",
     "lat": 38.7368131,
@@ -1485,6 +1639,28 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.1843142,
+    "lng": 139.5515969,
+    "category": "lighthouse",
+    "prefecture": "yamagata",
+    "osm_id": 4269822360,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.1847187,
+    "lng": 139.5481789,
+    "category": "lighthouse",
+    "prefecture": "yamagata",
+    "osm_id": 4269822365,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "圓福院",
     "name_en": "",
     "lat": 39.1902221,
@@ -1492,6 +1668,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 4269822383,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "飛島灯台",
+    "name_en": "",
+    "lat": 39.2000851,
+    "lng": 139.5562643,
+    "category": "lighthouse",
+    "prefecture": "yamagata",
+    "osm_id": 4269823005,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2002,6 +2189,17 @@
     "data_source": "osm"
   },
   {
+    "name": "山形県産業科学館",
+    "name_en": "",
+    "lat": 38.2498408,
+    "lng": 140.3262947,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5002314521,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "耕雲寺",
     "name_en": "",
     "lat": 38.2626956,
@@ -2079,6 +2277,17 @@
     "data_source": "osm"
   },
   {
+    "name": "天童市将棋博物館",
+    "name_en": "Tendo Municipal Shogi Museum",
+    "lat": 38.3601761,
+    "lng": 140.3697206,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5004395222,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "加茂神社",
     "name_en": "",
     "lat": 38.3639799,
@@ -2119,6 +2328,28 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 5004510221,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天童民芸館",
+    "name_en": "",
+    "lat": 38.356328,
+    "lng": 140.378513,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5004637624,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "広重美術館",
+    "name_en": "Hiroshige Museum",
+    "lat": 38.3596563,
+    "lng": 140.3804346,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5004638023,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2376,6 +2607,17 @@
     "data_source": "osm"
   },
   {
+    "name": "出羽桜美術館",
+    "name_en": "Dewazakura Art Museum",
+    "lat": 38.3496426,
+    "lng": 140.3708457,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5006955747,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "薬師神社",
     "name_en": "",
     "lat": 38.3509247,
@@ -2596,6 +2838,28 @@
     "data_source": "osm"
   },
   {
+    "name": "金澤翔子記念館",
+    "name_en": "",
+    "lat": 38.3088507,
+    "lng": 140.438461,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5008959428,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "後藤美術館",
+    "name_en": "Goto Museum",
+    "lat": 38.3086259,
+    "lng": 140.4394621,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5008959429,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "千手院",
     "name_en": "",
     "lat": 38.3159283,
@@ -2614,6 +2878,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 5008989125,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山寺芭蕉記念館",
+    "name_en": "Yamadera Basho Memorial Museum",
+    "lat": 38.3094776,
+    "lng": 140.439155,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5008989129,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2889,6 +3164,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 5013577423,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新庄城址",
+    "name_en": "",
+    "lat": 38.7658169,
+    "lng": 140.2935961,
+    "category": "castle",
+    "prefecture": "yamagata",
+    "osm_id": 5013577439,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3212,6 +3498,17 @@
     "data_source": "osm"
   },
   {
+    "name": "真室川町立歴史民俗資料館",
+    "name_en": "",
+    "lat": 38.8575901,
+    "lng": 140.2502281,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5019614128,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "妙倉寺",
     "name_en": "",
     "lat": 38.8578638,
@@ -3285,6 +3582,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 5021640231,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "真室川町ふるさと伝承館",
+    "name_en": "",
+    "lat": 38.9395759,
+    "lng": 140.1797721,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5021640234,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3982,6 +4290,17 @@
     "data_source": "osm"
   },
   {
+    "name": "酒田市立資料館",
+    "name_en": "",
+    "lat": 38.9152097,
+    "lng": 139.8417672,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5024056804,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "薬師神社",
     "name_en": "",
     "lat": 38.9910958,
@@ -4059,6 +4378,17 @@
     "data_source": "osm"
   },
   {
+    "name": "旧鐙屋",
+    "name_en": "Abumiya",
+    "lat": 38.9152629,
+    "lng": 139.8371927,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5024073039,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "湯殿山神社",
     "name_en": "",
     "lat": 38.9226371,
@@ -4092,6 +4422,17 @@
     "data_source": "osm"
   },
   {
+    "name": "木造六角灯台",
+    "name_en": "",
+    "lat": 38.9186985,
+    "lng": 139.8274687,
+    "category": "lighthouse",
+    "prefecture": "yamagata",
+    "osm_id": 5024075423,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "秋葉神社",
     "name_en": "",
     "lat": 38.9125995,
@@ -4121,6 +4462,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 5026244725,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山王くらぶ（料亭跡）",
+    "name_en": "Sanno Club",
+    "lat": 38.9184686,
+    "lng": 139.8322174,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5026244731,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4165,6 +4517,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 5026244832,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "相馬樓",
+    "name_en": "Somaro",
+    "lat": 38.9194709,
+    "lng": 139.833401,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5026244866,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4341,6 +4704,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 5026251922,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本間美術館",
+    "name_en": "Homma Museum",
+    "lat": 38.9234743,
+    "lng": 139.8419988,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5026257021,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4539,6 +4913,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 5031705647,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "酒田市美術館",
+    "name_en": "Sakata City Museum of Art",
+    "lat": 38.8930827,
+    "lng": 139.8158552,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5031740124,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5995,6 +6380,17 @@
     "data_source": "osm"
   },
   {
+    "name": "芭蕉・清風歴史資料館",
+    "name_en": "",
+    "lat": 38.6064124,
+    "lng": 140.4044537,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5050137326,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "諏訪神社",
     "name_en": "",
     "lat": 38.607776,
@@ -6101,6 +6497,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 5052753524,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大石田町立歴史民俗資料館",
+    "name_en": "",
+    "lat": 38.5888542,
+    "lng": 140.3730784,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5052753526,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6281,6 +6688,17 @@
     "data_source": "osm"
   },
   {
+    "name": "清水城址",
+    "name_en": "",
+    "lat": 38.6977535,
+    "lng": 140.2249477,
+    "category": "castle",
+    "prefecture": "yamagata",
+    "osm_id": 5053027229,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "光明寺",
     "name_en": "",
     "lat": 38.7051804,
@@ -6310,6 +6728,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 5055307221,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "おもかげ湯",
+    "name_en": "",
+    "lat": 38.5692108,
+    "lng": 140.5320292,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 5055307621,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6600,6 +7029,17 @@
     "data_source": "osm"
   },
   {
+    "name": "最上徳内記念館",
+    "name_en": "",
+    "lat": 38.4830536,
+    "lng": 140.3821474,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5057859635,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "荷渡神社",
     "name_en": "",
     "lat": 38.5459729,
@@ -6798,6 +7238,17 @@
     "data_source": "osm"
   },
   {
+    "name": "真下慶治郎記念美術館",
+    "name_en": "",
+    "lat": 38.5177926,
+    "lng": 140.353834,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5059791529,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "正福寺",
     "name_en": "",
     "lat": 38.4283034,
@@ -6886,6 +7337,17 @@
     "data_source": "osm"
   },
   {
+    "name": "東根城跡",
+    "name_en": "",
+    "lat": 38.4414697,
+    "lng": 140.4019392,
+    "category": "castle",
+    "prefecture": "yamagata",
+    "osm_id": 5065890544,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "本照寺",
     "name_en": "",
     "lat": 38.4427112,
@@ -6893,6 +7355,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 5065890545,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東根市東の杜資料館",
+    "name_en": "",
+    "lat": 38.4417695,
+    "lng": 140.4055031,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5065890546,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7502,6 +7975,17 @@
     "data_source": "osm"
   },
   {
+    "name": "山辺町 ふるさと資料館",
+    "name_en": "",
+    "lat": 38.2935442,
+    "lng": 140.2687955,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5088033531,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "龍徳寺",
     "name_en": "",
     "lat": 38.3006866,
@@ -7696,6 +8180,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 5100149339,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "古澤酒造資料館",
+    "name_en": "",
+    "lat": 38.3765222,
+    "lng": 140.2826894,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5100149723,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8118,6 +8613,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大江町 歴史民俗資料館",
+    "name_en": "",
+    "lat": 38.3793785,
+    "lng": 140.1966954,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5106991937,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 38.3774018,
@@ -8202,6 +8708,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 5108865657,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "エコミュージアム コアセンター創遊館",
+    "name_en": "",
+    "lat": 38.2983165,
+    "lng": 140.1459644,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5108873928,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8437,6 +8954,17 @@
     "data_source": "osm"
   },
   {
+    "name": "長沼孝三彫塑館",
+    "name_en": "",
+    "lat": 38.1115603,
+    "lng": 140.0361756,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5110630737,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "遍照寺",
     "name_en": "",
     "lat": 38.1150233,
@@ -8481,6 +9009,17 @@
     "data_source": "osm"
   },
   {
+    "name": "丸大扇屋",
+    "name_en": "",
+    "lat": 38.1118018,
+    "lng": 140.0362957,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5110637225,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "片田稲荷神社",
     "name_en": "",
     "lat": 38.1038491,
@@ -8499,6 +9038,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 5112313928,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "やませ蔵",
+    "name_en": "",
+    "lat": 38.1018939,
+    "lng": 140.0390449,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5112313943,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8976,6 +9526,17 @@
     "data_source": "osm"
   },
   {
+    "name": "小松城址",
+    "name_en": "",
+    "lat": 38.0103525,
+    "lng": 140.0481233,
+    "category": "castle",
+    "prefecture": "yamagata",
+    "osm_id": 5121436155,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "春光寺",
     "name_en": "",
     "lat": 38.0125499,
@@ -8983,6 +9544,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 5121436156,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "掬粋巧芸館",
+    "name_en": "",
+    "lat": 38.013716,
+    "lng": 140.0507564,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5121436161,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9031,6 +9603,17 @@
     "data_source": "osm"
   },
   {
+    "name": "遅筆堂文庫",
+    "name_en": "",
+    "lat": 38.0060142,
+    "lng": 140.0513533,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5121439122,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "等順寺",
     "name_en": "",
     "lat": 38.0080635,
@@ -9038,6 +9621,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 5121439143,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧竹田写真館",
+    "name_en": "",
+    "lat": 38.0073883,
+    "lng": 140.0482888,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5121439145,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9174,6 +9768,50 @@
     "data_source": "osm"
   },
   {
+    "name": "烏帽子の湯",
+    "name_en": "",
+    "lat": 38.0483481,
+    "lng": 140.1632019,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 5126103930,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "とわの湯",
+    "name_en": "",
+    "lat": 38.0471493,
+    "lng": 140.1658174,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 5126103933,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あずま湯",
+    "name_en": "",
+    "lat": 38.0468525,
+    "lng": 140.1700302,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 5126103940,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "結城豊太郎記念館",
+    "name_en": "",
+    "lat": 38.048422,
+    "lng": 140.1650875,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5126105423,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "蝦夷神社",
     "name_en": "",
     "lat": 38.0549782,
@@ -9181,6 +9819,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 5126105655,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "今昔館",
+    "name_en": "",
+    "lat": 38.0640998,
+    "lng": 140.1392557,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5127924131,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9449,6 +10098,17 @@
     "data_source": "osm"
   },
   {
+    "name": "蟹仙洞",
+    "name_en": "",
+    "lat": 38.1491379,
+    "lng": 140.278858,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5130287224,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三本松稲荷神社",
     "name_en": "",
     "lat": 38.1348834,
@@ -9533,6 +10193,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 5132412337,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新湯の足湯",
+    "name_en": "",
+    "lat": 38.1572703,
+    "lng": 140.2728276,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 5132412342,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9702,6 +10373,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高松和紙民俗資料館",
+    "name_en": "",
+    "lat": 38.1401769,
+    "lng": 140.2595556,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5132589423,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "福澤熊野神社",
     "name_en": "",
     "lat": 37.9974567,
@@ -9790,6 +10472,17 @@
     "data_source": "osm"
   },
   {
+    "name": "浜田広介記念館",
+    "name_en": "",
+    "lat": 38.005732,
+    "lng": 140.1625489,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5134495037,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "熊野神社",
     "name_en": "",
     "lat": 37.999682,
@@ -9823,6 +10516,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高畠城跡",
+    "name_en": "",
+    "lat": 38.0010026,
+    "lng": 140.1994179,
+    "category": "castle",
+    "prefecture": "yamagata",
+    "osm_id": 5134612125,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八坂神社",
     "name_en": "",
     "lat": 38.0221044,
@@ -9852,6 +10556,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 5134665830,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "斎藤茂吉記念館",
+    "name_en": "",
+    "lat": 38.1720859,
+    "lng": 140.299211,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5134665840,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10021,6 +10736,17 @@
     "data_source": "osm"
   },
   {
+    "name": "米沢市埋蔵文化財資料室",
+    "name_en": "",
+    "lat": 37.9134267,
+    "lng": 140.1254084,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5142588141,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "佐氏泉弁財天",
     "name_en": "",
     "lat": 37.9111684,
@@ -10076,6 +10802,17 @@
     "data_source": "osm"
   },
   {
+    "name": "蔵探訪館",
+    "name_en": "",
+    "lat": 38.8778734,
+    "lng": 139.8112419,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5144478722,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "熊野神社",
     "name_en": "",
     "lat": 37.9169646,
@@ -10120,6 +10857,28 @@
     "data_source": "osm"
   },
   {
+    "name": "米沢織物歴史資料館",
+    "name_en": "",
+    "lat": 37.9075648,
+    "lng": 140.1112765,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5146743651,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "酒造資料館 東光の酒蔵",
+    "name_en": "",
+    "lat": 37.9058325,
+    "lng": 140.1121549,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5146743652,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "皇大神宮",
     "name_en": "",
     "lat": 37.9083042,
@@ -10127,6 +10886,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 5146876629,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鈴木晋美術館",
+    "name_en": "",
+    "lat": 37.9100819,
+    "lng": 140.1117157,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5146998533,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10259,6 +11029,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 5154861040,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.9674971,
+    "lng": 140.6126977,
+    "category": "rest_area",
+    "prefecture": "yamagata",
+    "osm_id": 5156202421,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10490,6 +11271,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 5201541325,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "岩崎城址",
+    "name_en": "",
+    "lat": 39.2056283,
+    "lng": 140.5134259,
+    "category": "castle",
+    "prefecture": "yamagata",
+    "osm_id": 5201541523,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11462,6 +12254,28 @@
     "data_source": "osm"
   },
   {
+    "name": "山形県立博物館教育資料館",
+    "name_en": "Yamagata Kenritsu Hakubutsukankyoiku Museum",
+    "lat": 38.2543663,
+    "lng": 140.348048,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5700379723,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯の花茶屋 新左衛門の湯",
+    "name_en": "Shinzaemon no Yu",
+    "lat": 38.1644971,
+    "lng": 140.3948432,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 5710742557,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "楊柳寺",
     "name_en": "",
     "lat": 38.2557458,
@@ -11612,6 +12426,28 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 5891726558,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "地域資料館 島のミュージアム 澗",
+    "name_en": "Shima museum NIMA",
+    "lat": 39.1895815,
+    "lng": 139.549217,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 5923665303,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "飛島南灯台",
+    "name_en": "",
+    "lat": 39.1858903,
+    "lng": 139.5412159,
+    "category": "lighthouse",
+    "prefecture": "yamagata",
+    "osm_id": 5925680415,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11821,6 +12657,17 @@
     "category": "station",
     "prefecture": "yamagata",
     "osm_id": 6110184508,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "横手市増田まんが美術館",
+    "name_en": "Yokote Masuda Manga Museum",
+    "lat": 39.2045713,
+    "lng": 140.5504976,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 6117731383,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12463,6 +13310,17 @@
     "data_source": "osm"
   },
   {
+    "name": "蔵王温泉 源七露天の湯",
+    "name_en": "Zaoonsen Genshichiroten",
+    "lat": 38.166633,
+    "lng": 140.3989427,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 6189288085,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大堀",
     "name_en": "Ohori",
     "lat": 38.7659809,
@@ -12470,6 +13328,39 @@
     "category": "station",
     "prefecture": "yamagata",
     "osm_id": 6204970551,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "みいずみ温泉;吉乃ゆ",
+    "name_en": "",
+    "lat": 38.4010487,
+    "lng": 140.2873648,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 6311041315,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆ",
+    "name_en": "",
+    "lat": 38.1658342,
+    "lng": 140.395601,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 6342192289,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Sake museum",
+    "name_en": "",
+    "lat": 38.1666761,
+    "lng": 140.3970521,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 6342192300,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12518,6 +13409,39 @@
     "data_source": "osm"
   },
   {
+    "name": "まほろば温泉 高畠町太陽館",
+    "name_en": "",
+    "lat": 37.9924679,
+    "lng": 140.1530493,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 6448914615,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯沢市リフレッシュ交流センター;ほっと館",
+    "name_en": "",
+    "lat": 39.049232,
+    "lng": 140.4163394,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 6448934108,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "光が丘公園プール",
+    "name_en": "",
+    "lat": 38.9350229,
+    "lng": 139.829185,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 6449240083,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 37.9299685,
@@ -12529,6 +13453,17 @@
     "data_source": "osm"
   },
   {
+    "name": "高湯温泉共同浴場 あったか湯",
+    "name_en": "",
+    "lat": 37.7523826,
+    "lng": 140.3049903,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 6512057685,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.1912856,
@@ -12536,6 +13471,50 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 6522114256,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "荒谷原温泉;山形県総合運動公園",
+    "name_en": "",
+    "lat": 38.3355153,
+    "lng": 140.3763041,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 6539413639,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵王四季のホテル 離れ湯百八歩",
+    "name_en": "",
+    "lat": 38.1616505,
+    "lng": 140.3922872,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 6539488157,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵王温泉;ろばた",
+    "name_en": "",
+    "lat": 38.167662,
+    "lng": 140.396972,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 6539524644,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "極楽湯福島店",
+    "name_en": "",
+    "lat": 37.753157,
+    "lng": 140.4583962,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 6544480150,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12569,6 +13548,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 6549137078,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.7414561,
+    "lng": 140.4571967,
+    "category": "rest_area",
+    "prefecture": "yamagata",
+    "osm_id": 6579905888,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12646,6 +13636,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 6914198136,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "浜泉荘",
+    "name_en": "",
+    "lat": 38.7835052,
+    "lng": 139.754227,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 6917398462,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12756,6 +13757,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 7003895538,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "アマゾン資料館",
+    "name_en": "",
+    "lat": 38.7216984,
+    "lng": 139.8150959,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 7025601576,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12899,6 +13911,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 7185936755,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "むかしがたり館 (羽後町民話伝承館)",
+    "name_en": "",
+    "lat": 39.1904668,
+    "lng": 140.4475466,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 7185939541,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13079,6 +14102,17 @@
     "data_source": "osm"
   },
   {
+    "name": "鎌鼬美術館",
+    "name_en": "",
+    "lat": 39.2053835,
+    "lng": 140.3119233,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 7417001784,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.2007956,
@@ -13119,6 +14153,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 7550357657,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.4331578,
+    "lng": 140.28415,
+    "category": "rest_area",
+    "prefecture": "yamagata",
+    "osm_id": 7597278385,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13251,6 +14296,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 7602317885,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "河北町紅花資料館",
+    "name_en": "",
+    "lat": 38.4386476,
+    "lng": 140.2994675,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 7602335285,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13541,6 +14597,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ミュゼ マエナカ",
+    "name_en": "Musee Maenaka",
+    "lat": 38.1167532,
+    "lng": 140.6015997,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 8204066618,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "浄影寺",
     "name_en": "Jōeiji",
     "lat": 38.1219192,
@@ -13559,6 +14626,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 8204492024,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "青根洋館",
+    "name_en": "Aone Yōkan",
+    "lat": 38.1459219,
+    "lng": 140.5359253,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 8204492120,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13658,6 +14736,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 8242063418,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "wood & spa や・すまっしぇ",
+    "name_en": "",
+    "lat": 37.9975625,
+    "lng": 140.4384916,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 8242064818,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14289,6 +15378,17 @@
     "data_source": "osm"
   },
   {
+    "name": "東根市美術館",
+    "name_en": "",
+    "lat": 38.4285683,
+    "lng": 140.3898264,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 9407880690,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.1329438,
@@ -14410,6 +15510,17 @@
     "data_source": "osm"
   },
   {
+    "name": "猛禽類保護センター 鳥海イヌワシみらい館",
+    "name_en": "",
+    "lat": 39.0327359,
+    "lng": 140.029937,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 9483061604,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鹿島神社",
     "name_en": "",
     "lat": 37.7830432,
@@ -14443,6 +15554,83 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.5582411,
+    "lng": 139.53986,
+    "category": "lighthouse",
+    "prefecture": "yamagata",
+    "osm_id": 10180328122,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.5620845,
+    "lng": 139.5422539,
+    "category": "lighthouse",
+    "prefecture": "yamagata",
+    "osm_id": 10180328123,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.5621747,
+    "lng": 139.5432571,
+    "category": "lighthouse",
+    "prefecture": "yamagata",
+    "osm_id": 10180328124,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.7215512,
+    "lng": 139.6752978,
+    "category": "lighthouse",
+    "prefecture": "yamagata",
+    "osm_id": 10180363759,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.7197183,
+    "lng": 139.6775424,
+    "category": "lighthouse",
+    "prefecture": "yamagata",
+    "osm_id": 10180363760,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.7244221,
+    "lng": 139.6736422,
+    "category": "lighthouse",
+    "prefecture": "yamagata",
+    "osm_id": 10180363761,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "川崎町健康福祉センター やすらぎの郷",
+    "name_en": "Kawasaki Town Health and Wealfare Center Yasuragi no Sato",
+    "lat": 38.1820198,
+    "lng": 140.6310791,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 10606743749,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "十王堂",
     "name_en": "",
     "lat": 38.916829,
@@ -14465,6 +15653,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ギャラリー梟",
+    "name_en": "",
+    "lat": 37.8273067,
+    "lng": 140.4450337,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 10813126153,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "薬王寺神社",
     "name_en": "",
     "lat": 37.8292828,
@@ -14483,6 +15682,28 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 10813177161,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あ～しあわせの湯",
+    "name_en": "",
+    "lat": 37.8322322,
+    "lng": 140.452218,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 10813939131,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.8331771,
+    "lng": 140.4527054,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 10813957607,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14553,6 +15774,17 @@
     "data_source": "osm"
   },
   {
+    "name": "仙気の湯",
+    "name_en": "",
+    "lat": 37.8329954,
+    "lng": 140.456201,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 10815515262,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "西根神社",
     "name_en": "",
     "lat": 37.8310368,
@@ -14582,6 +15814,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 10815515284,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Komatuya",
+    "name_en": "",
+    "lat": 37.8304471,
+    "lng": 140.4557797,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 10815528907,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14626,6 +15869,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 10819518265,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.8314717,
+    "lng": 140.4379213,
+    "category": "castle",
+    "prefecture": "yamagata",
+    "osm_id": 10819518266,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14762,6 +16016,39 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.8325988,
+    "lng": 140.4530745,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 10831140472,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "七ヶ宿町水と歴史の館",
+    "name_en": "",
+    "lat": 37.9829754,
+    "lng": 140.4672943,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 10848325676,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧白幡邸",
+    "name_en": "",
+    "lat": 38.6936925,
+    "lng": 139.7703597,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 10874885715,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "常安寺",
     "name_en": "",
     "lat": 38.3682299,
@@ -14883,6 +16170,17 @@
     "data_source": "osm"
   },
   {
+    "name": "雪の里情報館",
+    "name_en": "",
+    "lat": 38.7708939,
+    "lng": 140.2972388,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 11434504710,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "福田院",
     "name_en": "",
     "lat": 38.7470783,
@@ -14960,6 +16258,17 @@
     "data_source": "osm"
   },
   {
+    "name": "足湯 和楽足湯",
+    "name_en": "Warashi-yu Foot Bath",
+    "lat": 38.5700654,
+    "lng": 140.5304897,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 11576588614,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 38.7789722,
@@ -15026,6 +16335,17 @@
     "data_source": "osm"
   },
   {
+    "name": "山形県芸文美術館",
+    "name_en": "",
+    "lat": 38.2519516,
+    "lng": 140.3380166,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 12194091003,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大儀寺",
     "name_en": "",
     "lat": 38.2565295,
@@ -15033,6 +16353,28 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 12210276222,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "共同浴場 正面湯",
+    "name_en": "",
+    "lat": 38.6932232,
+    "lng": 139.7696986,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 12231167493,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "髙橋茶舗座敷蔵",
+    "name_en": "",
+    "lat": 39.2023131,
+    "lng": 140.5457226,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 12246225917,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15081,6 +16423,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.167791,
+    "lng": 140.3959533,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 12709848905,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "Funasaka Jizo",
     "name_en": "",
     "lat": 37.8473059,
@@ -15099,6 +16452,39 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 12795263433,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.569579,
+    "lng": 140.5311263,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 13290027982,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.5695993,
+    "lng": 140.5311381,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 13290027984,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.569622,
+    "lng": 140.5311472,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 13290027985,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15147,6 +16533,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ゆめりあ鉄道ギャラリー",
+    "name_en": "",
+    "lat": 38.7631359,
+    "lng": 140.3054531,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 13411689758,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "皇大神社",
     "name_en": "",
     "lat": 38.7604339,
@@ -15191,6 +16588,39 @@
     "data_source": "osm"
   },
   {
+    "name": "スーパー銭湯;テルメ山形",
+    "name_en": "",
+    "lat": 38.2358853,
+    "lng": 140.3467692,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 106602011,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Tendo Museum",
+    "name_en": "",
+    "lat": 38.3633135,
+    "lng": 140.379686,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 160728411,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "米沢市上杉博物館",
+    "name_en": "",
+    "lat": 37.90758,
+    "lng": 140.1066872,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 179243819,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "杉妻稲荷神社",
     "name_en": "",
     "lat": 37.7501148,
@@ -15198,6 +16628,28 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 187427467,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "我妻榮記念館",
+    "name_en": "",
+    "lat": 37.9155764,
+    "lng": 140.1124317,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 196235451,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "作並温泉;都の湯",
+    "name_en": "",
+    "lat": 38.3288578,
+    "lng": 140.6174879,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 220014071,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15224,6 +16676,39 @@
     "data_source": "osm"
   },
   {
+    "name": "土門拳記念館",
+    "name_en": "Ken Domon Museum of Photography",
+    "lat": 38.8913443,
+    "lng": 139.8237225,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 236402665,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福島県立美術館",
+    "name_en": "Fukushima Prefectural Museum of Art",
+    "lat": 37.768309,
+    "lng": 140.4565042,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 236804433,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山形城",
+    "name_en": "",
+    "lat": 38.255516,
+    "lng": 140.3282873,
+    "category": "castle",
+    "prefecture": "yamagata",
+    "osm_id": 237928625,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "黒沼神社",
     "name_en": "Kuronuma Shrine",
     "lat": 37.7675322,
@@ -15235,6 +16720,17 @@
     "data_source": "osm"
   },
   {
+    "name": "福島市写真美術館",
+    "name_en": "Fukushima City Museum of Photography",
+    "lat": 37.7644288,
+    "lng": 140.463196,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 239521776,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "羽黒神社",
     "name_en": "",
     "lat": 37.7741506,
@@ -15242,6 +16738,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 240249072,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "信夫山ガイドセンター",
+    "name_en": "Shinobuyama Guide Centre",
+    "lat": 37.7731888,
+    "lng": 140.4734025,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 240249118,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15301,6 +16808,50 @@
     "data_source": "osm"
   },
   {
+    "name": "白石城歴史探訪ミュージアム",
+    "name_en": "",
+    "lat": 38.0029154,
+    "lng": 140.6179073,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 242787451,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "最上義光歴史館",
+    "name_en": "Mogami Yoshiaki historical museum",
+    "lat": 38.2551153,
+    "lng": 140.333477,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 245403676,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山形県立博物館",
+    "name_en": "Yamagata Prefectural Museum",
+    "lat": 38.2543817,
+    "lng": 140.3296368,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 245403850,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山形美術館",
+    "name_en": "Yamagata Museum of Art",
+    "lat": 38.2558875,
+    "lng": 140.3323997,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 262671458,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "地蔵倉",
     "name_en": "",
     "lat": 38.603557,
@@ -15308,6 +16859,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 263309735,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "八森温泉;;ゆりんこ",
+    "name_en": "",
+    "lat": 38.966429,
+    "lng": 139.9457911,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 285624124,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15330,6 +16892,39 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 285648520,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "むくどりの夢館 温もりの湯",
+    "name_en": "",
+    "lat": 38.0049353,
+    "lng": 140.1621845,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 292716102,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "とわの湯",
+    "name_en": "",
+    "lat": 38.047134,
+    "lng": 140.1657867,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 292985026,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "海洋センター",
+    "name_en": "",
+    "lat": 38.9145484,
+    "lng": 139.8294453,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 293812438,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15389,6 +16984,17 @@
     "data_source": "osm"
   },
   {
+    "name": "いでは文化記念館",
+    "name_en": "Ideha Cultural Museum",
+    "lat": 38.7043282,
+    "lng": 139.9646164,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 297007477,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "祓川神社",
     "name_en": "Haraigawa Shrine",
     "lat": 38.7055177,
@@ -15400,6 +17006,17 @@
     "data_source": "osm"
   },
   {
+    "name": "べに花温泉;ひなの湯",
+    "name_en": "",
+    "lat": 38.4178113,
+    "lng": 140.3214024,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 304041854,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "春日神社",
     "name_en": "",
     "lat": 37.7442423,
@@ -15407,6 +17024,39 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 337932446,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大宝館",
+    "name_en": "",
+    "lat": 38.727521,
+    "lng": 139.8249743,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 338760293,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鶴岡市立藤沢周平記念館",
+    "name_en": "",
+    "lat": 38.7278109,
+    "lng": 139.8250755,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 338760294,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "寶物殿",
+    "name_en": "",
+    "lat": 38.7284581,
+    "lng": 139.8244993,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 338760297,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15429,6 +17079,61 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 338764548,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "共同浴場 しろがね湯",
+    "name_en": "Public bath Shirogane-yu",
+    "lat": 38.5709989,
+    "lng": 140.5303748,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 339299655,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "りんご温泉",
+    "name_en": "",
+    "lat": 38.3076857,
+    "lng": 140.1620093,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 347240701,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天童最上川温泉;ゆぴあ",
+    "name_en": "",
+    "lat": 38.3641218,
+    "lng": 140.3217998,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 349117766,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "芭蕉の湯",
+    "name_en": "",
+    "lat": 38.2727829,
+    "lng": 140.326782,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 354568829,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "せきかわ歴史とみちの館",
+    "name_en": "",
+    "lat": 38.091188,
+    "lng": 139.5653633,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 364833400,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15466,6 +17171,28 @@
     "data_source": "osm"
   },
   {
+    "name": "なの花温泉;田田",
+    "name_en": "Nanohana Hot Spring - Denden",
+    "lat": 38.7836782,
+    "lng": 139.8469245,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 387273867,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山辺温泉保養センター",
+    "name_en": "",
+    "lat": 38.2794279,
+    "lng": 140.2752635,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 406121507,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "長泉寺",
     "name_en": "",
     "lat": 38.7372333,
@@ -15488,6 +17215,17 @@
     "data_source": "osm"
   },
   {
+    "name": "庄内おばこの里;こまぎの湯",
+    "name_en": "Natural Hot Spring \"Komagi no Yu\"",
+    "lat": 38.711427,
+    "lng": 139.8136555,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 409273997,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "禅龍寺",
     "name_en": "Zenryuji",
     "lat": 38.7303411,
@@ -15506,6 +17244,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 411588387,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆ～チェリー",
+    "name_en": "",
+    "lat": 38.3639843,
+    "lng": 140.2588743,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 412869873,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15543,6 +17292,17 @@
     "data_source": "osm"
   },
   {
+    "name": "東田川文化記念館",
+    "name_en": "Higashitagawa Cultural Center",
+    "lat": 38.7661605,
+    "lng": 139.9025839,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 418456494,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "種耕院",
     "name_en": "",
     "lat": 38.7644663,
@@ -15565,6 +17325,61 @@
     "data_source": "osm"
   },
   {
+    "name": "羽後町 歴史民俗資料館",
+    "name_en": "",
+    "lat": 39.1981319,
+    "lng": 140.4011628,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 426576830,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧長谷山邸",
+    "name_en": "",
+    "lat": 39.2054541,
+    "lng": 140.3117977,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 426576837,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "むかしがたり館 (羽後町民話伝承館)",
+    "name_en": "",
+    "lat": 39.1904677,
+    "lng": 140.4475389,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 426576844,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯沢市リフレッシュ交流センター;ほっと館",
+    "name_en": "",
+    "lat": 39.0491512,
+    "lng": 140.4161618,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 439267657,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桂の関温泉;ゆ～む",
+    "name_en": "",
+    "lat": 38.0923583,
+    "lng": 139.5657938,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 440569058,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "石船神社",
     "name_en": "",
     "lat": 38.8267798,
@@ -15576,6 +17391,28 @@
     "data_source": "osm"
   },
   {
+    "name": "朝日まほろばふれあいセンター;まほろば温泉",
+    "name_en": "",
+    "lat": 38.2815584,
+    "lng": 139.5234468,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 456477102,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "朝日きれい館",
+    "name_en": "",
+    "lat": 38.2831444,
+    "lng": 139.5241067,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 456477106,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "伊達八幡宮",
     "name_en": "",
     "lat": 37.8112428,
@@ -15583,6 +17420,39 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 461166603,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "泡の湯温泉 三好荘",
+    "name_en": "",
+    "lat": 37.9534819,
+    "lng": 139.6976999,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 466221597,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "よねおりかんこうセンター",
+    "name_en": "",
+    "lat": 38.0021929,
+    "lng": 140.1447475,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 474894145,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯沼温泉",
+    "name_en": "",
+    "lat": 38.0379128,
+    "lng": 140.200447,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 475696783,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15620,6 +17490,83 @@
     "data_source": "osm"
   },
   {
+    "name": "蔵王温泉 下湯共同浴場",
+    "name_en": "Shimo-yu",
+    "lat": 38.167792,
+    "lng": 140.396037,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 484659571,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山都温泉保養センター いいでのゆ",
+    "name_en": "",
+    "lat": 37.7349524,
+    "lng": 139.7804085,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 489095895,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "致道博物館",
+    "name_en": "Chido Museum",
+    "lat": 38.728195,
+    "lng": 139.821352,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 516619820,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "オオタ湯",
+    "name_en": "",
+    "lat": 38.4560956,
+    "lng": 140.3870043,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 526499579,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "巽の湯",
+    "name_en": "",
+    "lat": 38.4586213,
+    "lng": 140.3864511,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 526499580,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東根温泉;こまつの湯",
+    "name_en": "",
+    "lat": 38.4600148,
+    "lng": 140.3914366,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 526499581,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いしの湯",
+    "name_en": "",
+    "lat": 38.45508,
+    "lng": 140.3921735,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 526505373,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "法眼寺",
     "name_en": "Hogenji",
     "lat": 38.7658413,
@@ -15638,6 +17585,50 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 532729726,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "波来湯",
+    "name_en": "",
+    "lat": 37.8312864,
+    "lng": 140.4550153,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 533920855,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "十綱湯",
+    "name_en": "",
+    "lat": 37.8278763,
+    "lng": 140.4520318,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 537038015,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "導専の湯",
+    "name_en": "",
+    "lat": 37.830756,
+    "lng": 140.4569185,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 537343620,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "くしびきおんせん;ゆ～Town",
+    "name_en": "",
+    "lat": 38.6795442,
+    "lng": 139.8575232,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 544742437,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15697,6 +17688,28 @@
     "data_source": "osm"
   },
   {
+    "name": "横綱柏戸記念館",
+    "name_en": "",
+    "lat": 38.6804837,
+    "lng": 139.8570709,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 551535548,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "かたくり温泉;ぼんぼ",
+    "name_en": "",
+    "lat": 38.6343202,
+    "lng": 139.849709,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 551535552,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "吉祥寺",
     "name_en": "",
     "lat": 38.6416859,
@@ -15704,6 +17717,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 552864772,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上山城",
+    "name_en": "",
+    "lat": 38.1575004,
+    "lng": 140.2762528,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 553585206,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15737,6 +17761,28 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 556490731,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.580916,
+    "lng": 139.9377293,
+    "category": "rest_area",
+    "prefecture": "yamagata",
+    "osm_id": 566428844,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅たかはた",
+    "name_en": "",
+    "lat": 38.0068715,
+    "lng": 140.2173988,
+    "category": "rest_area",
+    "prefecture": "yamagata",
+    "osm_id": 568624873,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15818,6 +17864,39 @@
     "data_source": "osm"
   },
   {
+    "name": "庄内町ギャラリー温泉;町湯",
+    "name_en": "",
+    "lat": 38.8420204,
+    "lng": 139.9054144,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 620522728,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "悠々の杜温泉;アイアイひらた",
+    "name_en": "",
+    "lat": 38.8988363,
+    "lng": 139.9454188,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 620523090,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.8893078,
+    "lng": 140.0544311,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 620957788,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "飛鳥神社",
     "name_en": "",
     "lat": 38.8869125,
@@ -15880,6 +17959,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 628274605,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本間家本邸",
+    "name_en": "",
+    "lat": 38.9146635,
+    "lng": 139.83944,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 628274617,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16181,6 +18271,17 @@
     "data_source": "osm"
   },
   {
+    "name": "卯の花温泉 はぎの湯",
+    "name_en": "",
+    "lat": 38.1202994,
+    "lng": 140.0332032,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 641546883,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.2432881,
@@ -16192,6 +18293,17 @@
     "data_source": "osm"
   },
   {
+    "name": "天王寺穴原湯",
+    "name_en": "",
+    "lat": 37.8432101,
+    "lng": 140.4395549,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 648437998,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "雲母神社",
     "name_en": "Kira Jinja Shrine",
     "lat": 38.0770617,
@@ -16199,6 +18311,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 655675257,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鯖湖湯",
+    "name_en": "",
+    "lat": 37.8326421,
+    "lng": 140.4521802,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 660617853,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16236,6 +18359,358 @@
     "data_source": "osm"
   },
   {
+    "name": "しみずの湯",
+    "name_en": "",
+    "lat": 38.7695681,
+    "lng": 140.3072014,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 673901075,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "健康天然温泉;八百坊",
+    "name_en": "",
+    "lat": 38.2213564,
+    "lng": 140.3330336,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 673906205,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "極楽湯鷹山の湯",
+    "name_en": "",
+    "lat": 37.9366046,
+    "lng": 140.1235247,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 673911185,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "米沢温泉 平安の湯",
+    "name_en": "",
+    "lat": 37.9361668,
+    "lng": 140.1170442,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 673912070,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東日本健康ランド;カッパ王国",
+    "name_en": "",
+    "lat": 37.8230082,
+    "lng": 140.5083461,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 673924594,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桑折温泉;うぶかの郷",
+    "name_en": "",
+    "lat": 37.8582136,
+    "lng": 140.5076368,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683576504,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山形うわの温泉;天神乃湯",
+    "name_en": "",
+    "lat": 38.1706954,
+    "lng": 140.329812,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683632354,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山形市老福センター;黒沢いこい荘",
+    "name_en": "",
+    "lat": 38.194535,
+    "lng": 140.305459,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683632744,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "百目鬼温泉",
+    "name_en": "",
+    "lat": 38.2275747,
+    "lng": 140.2811048,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683632961,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "沼木温泉;辻ヶ花",
+    "name_en": "",
+    "lat": 38.2444438,
+    "lng": 140.2980556,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683633078,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "青田健康ランド",
+    "name_en": "",
+    "lat": 38.2212112,
+    "lng": 140.330417,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683637377,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "老人福祉センター;鈴川ことぶき荘",
+    "name_en": "",
+    "lat": 38.269319,
+    "lng": 140.3623051,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683640711,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "老人福祉センター;漆山やすらぎ荘",
+    "name_en": "",
+    "lat": 38.3114544,
+    "lng": 140.3513565,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683641645,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "成安温泉;いきいきの郷",
+    "name_en": "",
+    "lat": 38.3230264,
+    "lng": 140.311008,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683645274,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ひまわり温泉;ゆらら",
+    "name_en": "",
+    "lat": 38.341321,
+    "lng": 140.27553,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683648267,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "寒河江市;市民浴場",
+    "name_en": "",
+    "lat": 38.3606984,
+    "lng": 140.2703212,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683648845,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "寒河江市;老人福祉センター",
+    "name_en": "",
+    "lat": 38.4096638,
+    "lng": 140.2215693,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683651137,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "老人福祉センター;柏陵荘",
+    "name_en": "",
+    "lat": 38.3675798,
+    "lng": 140.2145249,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683651919,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "テルメ柏陵;健康温泉館",
+    "name_en": "",
+    "lat": 38.3674666,
+    "lng": 140.2155082,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683651920,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "海味温泉;西川町老人福祉センター",
+    "name_en": "",
+    "lat": 38.424537,
+    "lng": 140.1502502,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683656947,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水沢温泉館",
+    "name_en": "",
+    "lat": 38.436094,
+    "lng": 140.1004746,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683657724,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大井沢温泉;湯ったり館",
+    "name_en": "",
+    "lat": 38.3922201,
+    "lng": 139.994889,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683663482,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いもがわ温泉",
+    "name_en": "",
+    "lat": 38.2969066,
+    "lng": 140.1057166,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683676746,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ラ・フォーレ天童;のぞみ",
+    "name_en": "",
+    "lat": 38.3918847,
+    "lng": 140.3866055,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683680084,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鳥海温泉保養センター;あぽん西浜",
+    "name_en": "",
+    "lat": 39.0660999,
+    "lng": 139.8747348,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 683725624,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "勝木ゆり花温泉;ゆり花会館",
+    "name_en": "",
+    "lat": 38.4911473,
+    "lng": 139.5214778,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 684191049,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "やすらぎの湯;ゆっぽ",
+    "name_en": "",
+    "lat": 37.9964275,
+    "lng": 140.6100221,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 685792620,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秋の宮山荘",
+    "name_en": "",
+    "lat": 38.9557218,
+    "lng": 140.5417272,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 686588043,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "青根温泉 じゃっぽの湯",
+    "name_en": "",
+    "lat": 38.1461606,
+    "lng": 140.5353938,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 687283175,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "まほろばの湯",
+    "name_en": "",
+    "lat": 38.1175002,
+    "lng": 140.5805803,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 687284454,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "神室温泉;ホットハウス;カムロ",
+    "name_en": "",
+    "lat": 38.9171065,
+    "lng": 140.3929667,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 687886811,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "老人福祉センター;緑風荘",
+    "name_en": "",
+    "lat": 39.1612353,
+    "lng": 140.5440537,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 687887704,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.6061975,
@@ -16243,6 +18718,160 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 690546102,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いきいきランド;ぽんぽ館",
+    "name_en": "",
+    "lat": 38.7834403,
+    "lng": 140.1836788,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 696320165,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.7111688,
+    "lng": 140.3394214,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 696323415,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "舟形若あゆ温泉;清流センター",
+    "name_en": "",
+    "lat": 38.7110454,
+    "lng": 140.3399713,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 696323416,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大堀温泉 おらだずの宿;りんどう",
+    "name_en": "",
+    "lat": 38.7531711,
+    "lng": 140.4703483,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 696327089,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "前森温泉;清流",
+    "name_en": "",
+    "lat": 38.7790868,
+    "lng": 140.5318644,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 696330645,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "おくのほそ道;赤倉ゆけむり館",
+    "name_en": "",
+    "lat": 38.7103893,
+    "lng": 140.5550462,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 696336743,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大石田温泉;あったまりランド深堀",
+    "name_en": "",
+    "lat": 38.5995901,
+    "lng": 140.3567979,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 696344169,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "花笠温泉;ふくの湯",
+    "name_en": "",
+    "lat": 38.6098986,
+    "lng": 140.422999,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 696345914,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "徳良湖温泉;花笠の湯",
+    "name_en": "",
+    "lat": 38.5965057,
+    "lng": 140.4366648,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 696347069,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天童市市民いこいの家;ふれあい荘",
+    "name_en": "",
+    "lat": 38.3594486,
+    "lng": 140.3870006,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 696366375,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "肘折いでゆ館",
+    "name_en": "",
+    "lat": 38.6111313,
+    "lng": 140.1696963,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 696385833,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "カルデラ温泉館",
+    "name_en": "",
+    "lat": 38.6078756,
+    "lng": 140.1517351,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 696388587,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いいざか;花ももの湯",
+    "name_en": "",
+    "lat": 37.8351365,
+    "lng": 140.4514293,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 696794467,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "葉山共同浴場",
+    "name_en": "",
+    "lat": 38.1488504,
+    "lng": 140.2635892,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 699018742,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16533,6 +19162,17 @@
     "data_source": "osm"
   },
   {
+    "name": "石井梅蔵記念館",
+    "name_en": "",
+    "lat": 38.8493242,
+    "lng": 139.8798596,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 751346227,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "光学寺",
     "name_en": "",
     "lat": 38.7240657,
@@ -16654,6 +19294,50 @@
     "data_source": "osm"
   },
   {
+    "name": "佐藤多三郎家",
+    "name_en": "House of Tasaburou",
+    "lat": 39.2032614,
+    "lng": 140.5463596,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 770615955,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧松浦家住宅",
+    "name_en": "former Matsuura",
+    "lat": 39.2033474,
+    "lng": 140.5462457,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 770615956,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐藤又六家",
+    "name_en": "House of Mataroku",
+    "lat": 39.2033675,
+    "lng": 140.5455382,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 770618740,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐藤養助 漆蔵資料館",
+    "name_en": "",
+    "lat": 39.2052055,
+    "lng": 140.5450326,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 770618816,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "月山神社",
     "name_en": "",
     "lat": 39.199766,
@@ -16727,6 +19411,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 770792336,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "雄勝郡会議事堂記念館",
+    "name_en": "",
+    "lat": 39.1646345,
+    "lng": 140.4933016,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 770965910,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16852,6 +19547,17 @@
     "data_source": "osm"
   },
   {
+    "name": "荒埼灯台",
+    "name_en": "Arasaki Lighthouse",
+    "lat": 38.762526,
+    "lng": 139.7239553,
+    "category": "lighthouse",
+    "prefecture": "yamagata",
+    "osm_id": 804906045,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "新山神社",
     "name_en": "",
     "lat": 38.7592138,
@@ -16885,6 +19591,17 @@
     "data_source": "osm"
   },
   {
+    "name": "郷土文化保存伝習施設",
+    "name_en": "",
+    "lat": 39.1821642,
+    "lng": 139.9428385,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 810491346,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.1818174,
@@ -16892,6 +19609,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 810491349,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宝物殿",
+    "name_en": "",
+    "lat": 39.1820665,
+    "lng": 139.9433446,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 810491363,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17006,6 +19734,17 @@
     "data_source": "osm"
   },
   {
+    "name": "やまぶし温泉;ゆぽか",
+    "name_en": "Yamabushi Hot Spring Yupoka",
+    "lat": 38.7154325,
+    "lng": 139.8820186,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 850006085,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 38.9731637,
@@ -17035,6 +19774,105 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 854814596,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山形酒のミュージアム＆湯けむり屋台つまみ",
+    "name_en": "",
+    "lat": 38.1666479,
+    "lng": 140.3969325,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 854848615,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵王温泉 上湯共同浴場",
+    "name_en": "Kami-yu",
+    "lat": 38.1686764,
+    "lng": 140.3974455,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 854848652,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵王温泉大露天風呂",
+    "name_en": "Dai-Rotenburo",
+    "lat": 38.1660875,
+    "lng": 140.4018808,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 854909175,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵王温泉 源七露天の湯",
+    "name_en": "",
+    "lat": 38.1666247,
+    "lng": 140.3989149,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 854909192,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.166618,
+    "lng": 140.3990469,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 854909193,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.1665324,
+    "lng": 140.3989366,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 854909194,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "蔵王温泉 川原湯共同浴場",
+    "name_en": "Kawara-yu",
+    "lat": 38.1676206,
+    "lng": 140.3972425,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 855381866,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "すのこの湯 かわらや",
+    "name_en": "",
+    "lat": 38.1675917,
+    "lng": 140.3973687,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 855381867,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ポケットパーク足湯",
+    "name_en": "",
+    "lat": 38.4580013,
+    "lng": 140.3913645,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 858025388,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17156,6 +19994,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 866498252,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山の村美術館",
+    "name_en": "",
+    "lat": 38.2192167,
+    "lng": 140.3414597,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 866549356,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17303,6 +20152,17 @@
     "data_source": "osm"
   },
   {
+    "name": "福島市民家園",
+    "name_en": "",
+    "lat": 37.730319,
+    "lng": 140.3734278,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 907704293,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "水神社",
     "name_en": "",
     "lat": 38.0773102,
@@ -17343,6 +20203,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 908048277,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊野考古館",
+    "name_en": "",
+    "lat": 38.0778938,
+    "lng": 140.1374334,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 908048280,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18535,6 +21406,17 @@
     "data_source": "osm"
   },
   {
+    "name": "にかほ市 象潟郷土資料館",
+    "name_en": "",
+    "lat": 39.2015842,
+    "lng": 139.9071585,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 921726074,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大宰府天満宮",
     "name_en": "",
     "lat": 39.2017718,
@@ -18729,6 +21611,28 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 943675414,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本間家旧本邸別館",
+    "name_en": "",
+    "lat": 38.9141086,
+    "lng": 139.839182,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 944036354,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "風土記の丘考古資料館",
+    "name_en": "",
+    "lat": 38.0079419,
+    "lng": 140.2145564,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 954104859,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18931,6 +21835,17 @@
     "data_source": "osm"
   },
   {
+    "name": "川連漆器伝統工芸館",
+    "name_en": "",
+    "lat": 39.1447795,
+    "lng": 140.5680704,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 974911254,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 39.1449735,
@@ -19096,6 +22011,50 @@
     "data_source": "osm"
   },
   {
+    "name": "旧村田薬局",
+    "name_en": "former Murata drugstore",
+    "lat": 39.2031918,
+    "lng": 140.54559,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 975143913,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "佐藤三十郎家",
+    "name_en": "House of Sanjurou",
+    "lat": 39.2027172,
+    "lng": 140.5457894,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 975143929,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山中吉助商店",
+    "name_en": "Yamanaka Kichisuke Store",
+    "lat": 39.2035439,
+    "lng": 140.546266,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 975145785,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旧石田理吉家",
+    "name_en": "former Ishida Rikichi",
+    "lat": 39.2042447,
+    "lng": 140.5461805,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 975145791,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "三吉神社",
     "name_en": "",
     "lat": 39.205685,
@@ -19224,6 +22183,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 976522908,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "羽後三埼灯台",
+    "name_en": "",
+    "lat": 39.117802,
+    "lng": 139.8707562,
+    "category": "lighthouse",
+    "prefecture": "yamagata",
+    "osm_id": 980132703,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -19499,6 +22469,28 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 1003888406,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "河北町児童動物園",
+    "name_en": "",
+    "lat": 38.4267167,
+    "lng": 140.3138486,
+    "category": "zoo",
+    "prefecture": "yamagata",
+    "osm_id": 1019993015,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.3596359,
+    "lng": 140.3804755,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 1020113034,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -19899,6 +22891,17 @@
     "data_source": "osm"
   },
   {
+    "name": "道の駅ふくしま",
+    "name_en": "",
+    "lat": 37.8045129,
+    "lng": 140.4111168,
+    "category": "rest_area",
+    "prefecture": "yamagata",
+    "osm_id": 1037493552,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "丸池神社",
     "name_en": "",
     "lat": 39.0730721,
@@ -20174,6 +23177,17 @@
     "data_source": "osm"
   },
   {
+    "name": "湯の台温泉 鶴泉荘",
+    "name_en": "",
+    "lat": 39.1932248,
+    "lng": 139.9619777,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 1057860122,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "才ノ神",
     "name_en": "",
     "lat": 39.1934588,
@@ -20181,6 +23195,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 1057860149,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 39.0928688,
+    "lng": 139.8783914,
+    "category": "rest_area",
+    "prefecture": "yamagata",
+    "osm_id": 1058109968,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20236,6 +23261,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 1071069425,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅「いいで」",
+    "name_en": "",
+    "lat": 38.0259336,
+    "lng": 139.9938212,
+    "category": "rest_area",
+    "prefecture": "yamagata",
+    "osm_id": 1071871808,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20350,6 +23386,17 @@
     "data_source": "osm"
   },
   {
+    "name": "上ノ湯",
+    "name_en": "Kami-no-Yu",
+    "lat": 38.6068695,
+    "lng": 140.1660081,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 1111781276,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "医王寺",
     "name_en": "",
     "lat": 37.822642,
@@ -20368,6 +23415,39 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 1165321815,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玉の木原水芭蕉群生地駐車場",
+    "name_en": "",
+    "lat": 38.0176934,
+    "lng": 140.2952755,
+    "category": "rest_area",
+    "prefecture": "yamagata",
+    "osm_id": 1167239162,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "旬の市七ヶ宿 農林産物直売所",
+    "name_en": "",
+    "lat": 38.0148698,
+    "lng": 140.3979241,
+    "category": "rest_area",
+    "prefecture": "yamagata",
+    "osm_id": 1167459811,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "共同浴場 正面湯",
+    "name_en": "",
+    "lat": 38.6931999,
+    "lng": 139.769769,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 1169513132,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20515,6 +23595,17 @@
     "data_source": "osm"
   },
   {
+    "name": "谷藤家",
+    "name_en": "House of Tanifuji",
+    "lat": 39.2000662,
+    "lng": 140.5462346,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 1228862608,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.2010715,
@@ -20581,6 +23672,28 @@
     "data_source": "osm"
   },
   {
+    "name": "上山城の足湯",
+    "name_en": "",
+    "lat": 38.1578875,
+    "lng": 140.2765064,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 1240748250,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "前川足湯",
+    "name_en": "",
+    "lat": 38.1547292,
+    "lng": 140.2774828,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 1240754908,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 39.2084708,
@@ -20588,6 +23701,50 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 1252796050,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ぬくもり館",
+    "name_en": "",
+    "lat": 38.5175898,
+    "lng": 139.6773778,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 1253617665,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.6051978,
+    "lng": 139.7174374,
+    "category": "rest_area",
+    "prefecture": "yamagata",
+    "osm_id": 1253621207,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.6337858,
+    "lng": 139.7298985,
+    "category": "rest_area",
+    "prefecture": "yamagata",
+    "osm_id": 1253622750,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.6391812,
+    "lng": 139.7353723,
+    "category": "rest_area",
+    "prefecture": "yamagata",
+    "osm_id": 1253622751,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20636,6 +23793,17 @@
     "data_source": "osm"
   },
   {
+    "name": "長井あやめ温泉 ニュー桜湯",
+    "name_en": "",
+    "lat": 38.1202973,
+    "lng": 139.9898767,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 1294628595,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "伊豆神社",
     "name_en": "",
     "lat": 38.2759746,
@@ -20654,6 +23822,17 @@
     "category": "shrine",
     "prefecture": "yamagata",
     "osm_id": 1304386201,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 38.1647191,
+    "lng": 140.3949395,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 1305099761,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -20823,6 +24002,17 @@
     "data_source": "osm"
   },
   {
+    "name": "出羽三山歴史博物館",
+    "name_en": "Dewa Sanzan History Museum",
+    "lat": 38.7016566,
+    "lng": 139.9829844,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 1389763057,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "永巖寺",
     "name_en": "",
     "lat": 39.1972668,
@@ -20852,6 +24042,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 1431110528,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮坂考古館",
+    "name_en": "",
+    "lat": 37.9056011,
+    "lng": 140.1270346,
+    "category": "museum",
+    "prefecture": "yamagata",
+    "osm_id": 1431437930,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21072,6 +24273,28 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 1431880571,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "共同浴場 滝の湯",
+    "name_en": "",
+    "lat": 37.8815631,
+    "lng": 140.0540479,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 1431892884,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "尼湯温泉枡",
+    "name_en": "",
+    "lat": 37.8799774,
+    "lng": 140.0548342,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 1431897115,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -21688,6 +24911,17 @@
     "category": "temple",
     "prefecture": "yamagata",
     "osm_id": 1442039580,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "おいたま温泉 賜の湯",
+    "name_en": "",
+    "lat": 37.9526712,
+    "lng": 140.1376295,
+    "category": "onsen",
+    "prefecture": "yamagata",
+    "osm_id": 1442059129,
     "spot_type": "data_spot",
     "data_source": "osm"
   },

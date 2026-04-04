@@ -1452,6 +1452,28 @@
     "data_source": "osm"
   },
   {
+    "name": "Kusano Shimpei Memorial Literature Centre",
+    "name_en": "",
+    "lat": 37.1290363,
+    "lng": 140.8326483,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 267616237,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "からむし織の里",
+    "name_en": "",
+    "lat": 37.3261906,
+    "lng": 139.6298178,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 309824103,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "上杉神社",
     "name_en": "Uesugi Shrine",
     "lat": 37.9092747,
@@ -1485,6 +1507,17 @@
     "data_source": "osm"
   },
   {
+    "name": "福島県立博物館",
+    "name_en": "Fukushima Museum",
+    "lat": 37.4888744,
+    "lng": 139.9346302,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 423793540,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "息栖神社",
     "name_en": "",
     "lat": 37.7221748,
@@ -1492,6 +1525,28 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 469173451,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "諸橋近代美術館",
+    "name_en": "",
+    "lat": 37.6538545,
+    "lng": 140.0965274,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 506510055,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "神指城",
+    "name_en": "",
+    "lat": 37.5119637,
+    "lng": 139.8925234,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 583529448,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1639,6 +1694,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ふるさと館 田子倉",
+    "name_en": "",
+    "lat": 37.3483602,
+    "lng": 139.3172193,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 862075621,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "古峯神社",
     "name_en": "",
     "lat": 37.4818501,
@@ -1646,6 +1712,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 864117860,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "喜多方蔵の里",
+    "name_en": "",
+    "lat": 37.6514401,
+    "lng": 139.8610809,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 871928854,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1815,6 +1892,17 @@
     "data_source": "osm"
   },
   {
+    "name": "なかがわ水遊園",
+    "name_en": "",
+    "lat": 36.790729,
+    "lng": 140.1290038,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 975680177,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "小野屋さくらホール門田斎苑",
     "name_en": "",
     "lat": 37.4784814,
@@ -1844,6 +1932,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 983908135,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.0350174,
+    "lng": 140.4466726,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 1231872660,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -1936,6 +2035,17 @@
     "data_source": "osm"
   },
   {
+    "name": "旧堀切邸",
+    "name_en": "",
+    "lat": 37.8332669,
+    "lng": 140.4524253,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 1727693689,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "平石神社 (Hiraishi Shrine)",
     "name_en": "",
     "lat": 37.7012011,
@@ -1969,6 +2079,28 @@
     "data_source": "osm"
   },
   {
+    "name": "小峰城 Komine-jō",
+    "name_en": "Komine Castle",
+    "lat": 37.1327408,
+    "lng": 140.2138267,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 1945096249,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新発田城",
+    "name_en": "Shibata Castle",
+    "lat": 37.9548019,
+    "lng": 139.3255546,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 1948762674,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "淡嶋神社",
     "name_en": "",
     "lat": 36.9549808,
@@ -1976,6 +2108,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 1955826957,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "稽照殿",
+    "name_en": "",
+    "lat": 37.9096087,
+    "lng": 140.1044884,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 1962665090,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2024,6 +2167,28 @@
     "data_source": "osm"
   },
   {
+    "name": "仲の湯",
+    "name_en": "",
+    "lat": 37.0549295,
+    "lng": 140.8917792,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 2008177750,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "おさるの山",
+    "name_en": "Monkey mountain",
+    "lat": 36.8407681,
+    "lng": 139.7137251,
+    "category": "zoo",
+    "prefecture": "fukushima",
+    "osm_id": 2034734059,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "温泉神社",
     "name_en": "Onsen Shrine",
     "lat": 36.8412089,
@@ -2046,6 +2211,17 @@
     "data_source": "osm"
   },
   {
+    "name": "古関裕而記念館",
+    "name_en": "",
+    "lat": 37.769632,
+    "lng": 140.4791391,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 2036194060,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "阿弥陀寺",
     "name_en": "",
     "lat": 37.5007968,
@@ -2064,6 +2240,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 2047600100,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白虎隊伝承史学館",
+    "name_en": "",
+    "lat": 37.505122,
+    "lng": 139.9523272,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 2052420627,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2097,6 +2284,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 2214190715,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ネパール博物館",
+    "name_en": "",
+    "lat": 37.4840863,
+    "lng": 139.9542774,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 2224748661,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2141,6 +2339,28 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 2272221918,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "會津藩校日新館",
+    "name_en": "",
+    "lat": 37.5584004,
+    "lng": 139.9446011,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 2332604152,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小田山城",
+    "name_en": "",
+    "lat": 37.4810461,
+    "lng": 139.9436707,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 2375816536,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2233,6 +2453,28 @@
     "data_source": "osm"
   },
   {
+    "name": "水久保城跡",
+    "name_en": "",
+    "lat": 37.3562486,
+    "lng": 139.309205,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 2400976694,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小峰城歴史館",
+    "name_en": "Komine-jo Castle History Museum",
+    "lat": 37.131222,
+    "lng": 140.2126112,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 2458092628,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "川辺八幡神社",
     "name_en": "",
     "lat": 37.2014852,
@@ -2277,6 +2519,28 @@
     "data_source": "osm"
   },
   {
+    "name": "黒羽城",
+    "name_en": "",
+    "lat": 36.8693665,
+    "lng": 140.121377,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 2493427828,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三春城",
+    "name_en": "",
+    "lat": 37.4421372,
+    "lng": 140.4960145,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 2493496615,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "一ノ堰六地蔵尊",
     "name_en": "",
     "lat": 37.4497209,
@@ -2284,6 +2548,28 @@
     "category": "station",
     "prefecture": "fukushima",
     "osm_id": 2494792852,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "猪苗代城",
+    "name_en": "",
+    "lat": 37.5620514,
+    "lng": 140.1038433,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 2496113970,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いわき市勿来関文学歴史館",
+    "name_en": "",
+    "lat": 36.8667823,
+    "lng": 140.7804,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 2502326140,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2442,6 +2728,17 @@
     "data_source": "osm"
   },
   {
+    "name": "喜多方蔵品美術館",
+    "name_en": "",
+    "lat": 37.6502172,
+    "lng": 139.8746893,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 2669948956,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "稲荷神社",
     "name_en": "",
     "lat": 37.6283038,
@@ -2482,6 +2779,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 2830645190,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "相馬市歴史民俗資料館",
+    "name_en": "",
+    "lat": 37.796374,
+    "lng": 140.919882,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 2834551401,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2585,6 +2893,17 @@
     "data_source": "osm"
   },
   {
+    "name": "砂子原共同湯",
+    "name_en": "",
+    "lat": 37.4453093,
+    "lng": 139.6914728,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 2843000451,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "旭稲荷神社",
     "name_en": "",
     "lat": 37.2818074,
@@ -2607,6 +2926,39 @@
     "data_source": "osm"
   },
   {
+    "name": "巌山城跡",
+    "name_en": "",
+    "lat": 37.7121202,
+    "lng": 140.0525774,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 2875009176,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "会津米沢街道桧原歴史館",
+    "name_en": "",
+    "lat": 37.7273534,
+    "lng": 140.0460095,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 2926990039,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "らんぷの館",
+    "name_en": "",
+    "lat": 37.6537304,
+    "lng": 140.0906324,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 2930551092,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.5563727,
@@ -2625,6 +2977,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 2960495675,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "リフレッシュ館",
+    "name_en": "",
+    "lat": 37.2347917,
+    "lng": 141.0008621,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 2971197100,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2706,6 +3069,28 @@
     "data_source": "osm"
   },
   {
+    "name": "会津民俗館",
+    "name_en": "Aizu Folklore Museum",
+    "lat": 37.5356039,
+    "lng": 140.0751439,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 3007945884,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天鏡閣",
+    "name_en": "",
+    "lat": 37.5212863,
+    "lng": 140.043482,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 3008117481,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "開成山大神宮",
     "name_en": "",
     "lat": 37.3979737,
@@ -2713,6 +3098,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 3092426272,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Motoazobu gallery",
+    "name_en": "",
+    "lat": 37.75761,
+    "lng": 140.46092,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 3098570696,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2735,6 +3131,28 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 3123376129,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯「親子地蔵の湯」",
+    "name_en": "",
+    "lat": 37.303395,
+    "lng": 139.8956111,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 3129179544,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大内宿町並み展示館",
+    "name_en": "",
+    "lat": 37.3341941,
+    "lng": 139.8607706,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 3175887061,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -2768,6 +3186,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 3178437128,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "郷さくら美術館",
+    "name_en": "",
+    "lat": 37.3990885,
+    "lng": 140.3665008,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 3224711276,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3223,6 +3652,17 @@
     "data_source": "osm"
   },
   {
+    "name": "喜多方市美術館",
+    "name_en": "",
+    "lat": 37.6511769,
+    "lng": 139.8618548,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 3491231408,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.1254158,
@@ -3333,6 +3773,17 @@
     "data_source": "osm"
   },
   {
+    "name": "ようそろー",
+    "name_en": "",
+    "lat": 36.829016,
+    "lng": 140.7846044,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 3597966916,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.1118679,
@@ -3340,6 +3791,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 3605459315,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南湖神社 宝物館",
+    "name_en": "",
+    "lat": 37.1120903,
+    "lng": 140.2189295,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 3605459367,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3707,6 +4169,17 @@
     "data_source": "osm"
   },
   {
+    "name": "エミール ガレ美術館",
+    "name_en": "",
+    "lat": 37.049401,
+    "lng": 140.029736,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 3812140331,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "経塚稲荷神社",
     "name_en": "",
     "lat": 36.8735573,
@@ -3740,6 +4213,17 @@
     "data_source": "osm"
   },
   {
+    "name": "那須オルゴール美術館",
+    "name_en": "",
+    "lat": 37.0438563,
+    "lng": 140.0276907,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 3844183788,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.206084,
@@ -3747,6 +4231,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 3905935476,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "第二資料館",
+    "name_en": "",
+    "lat": 37.4858018,
+    "lng": 139.9533427,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 4005187080,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3784,6 +4279,17 @@
     "data_source": "osm"
   },
   {
+    "name": "さくら湖自然観察ステーション",
+    "name_en": "",
+    "lat": 37.4121761,
+    "lng": 140.4722123,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 4071958244,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "金精神社",
     "name_en": "Konsei-jinja Shrine",
     "lat": 36.8188622,
@@ -3813,6 +4319,28 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 4109088393,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "那須歴史探訪館",
+    "name_en": "",
+    "lat": 36.9891042,
+    "lng": 140.1641394,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 4127206714,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "芭蕉の館",
+    "name_en": "",
+    "lat": 36.868724,
+    "lng": 140.122642,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 4127223359,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -3982,6 +4510,17 @@
     "data_source": "osm"
   },
   {
+    "name": "那須ステンドグラス美術館",
+    "name_en": "",
+    "lat": 37.0655152,
+    "lng": 140.0248935,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 4162758648,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "飯野八幡宮",
     "name_en": "",
     "lat": 37.0603435,
@@ -4000,6 +4539,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 4235793560,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大川ダム資料館",
+    "name_en": "",
+    "lat": 37.3456111,
+    "lng": 139.9122931,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 4238799789,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4268,6 +4818,17 @@
     "data_source": "osm"
   },
   {
+    "name": "小浜城跡",
+    "name_en": "",
+    "lat": 37.5642139,
+    "lng": 140.5121493,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 4408330965,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.5708773,
@@ -4297,6 +4858,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 4421480794,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福島さくら遊学舎",
+    "name_en": "Fukushima Sakura Yugakusha",
+    "lat": 37.4150849,
+    "lng": 140.4720483,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 4423159293,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -4385,6 +4957,28 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 4548717829,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "歴史民俗資料館",
+    "name_en": "",
+    "lat": 37.9619851,
+    "lng": 140.8788129,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 4549017462,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "夢海庵　鈴倭人形美術館",
+    "name_en": "",
+    "lat": 37.8428495,
+    "lng": 140.9221692,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 4549220667,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5225,6 +5819,17 @@
     "data_source": "osm"
   },
   {
+    "name": "齋理屋敷",
+    "name_en": "Sairi Yashiki",
+    "lat": 37.9134332,
+    "lng": 140.7621465,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 4697128395,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "常照寺",
     "name_en": "",
     "lat": 37.8268448,
@@ -5375,6 +5980,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 4731957047,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "うさぎ小屋",
+    "name_en": "",
+    "lat": 37.4886542,
+    "lng": 139.9230007,
+    "category": "zoo",
+    "prefecture": "fukushima",
+    "osm_id": 4740860073,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5566,6 +6182,17 @@
     "data_source": "osm"
   },
   {
+    "name": "天地人館",
+    "name_en": "",
+    "lat": 37.3433674,
+    "lng": 140.6749763,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 4977185379,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "稲荷神社",
     "name_en": "",
     "lat": 37.7218015,
@@ -5628,6 +6255,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 5031888832,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "暮らしの伝承郷",
+    "name_en": "",
+    "lat": 37.0077699,
+    "lng": 140.9157846,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5033219722,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -5815,6 +6453,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 5052050530,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "バイパスサウナ",
+    "name_en": "",
+    "lat": 37.5716965,
+    "lng": 140.4188052,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 5052050927,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6050,6 +6699,17 @@
     "data_source": "osm"
   },
   {
+    "name": "金山城址",
+    "name_en": "",
+    "lat": 37.898525,
+    "lng": 140.8014365,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 5114513132,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "七夕神社",
     "name_en": "Tanabata Jinja",
     "lat": 37.8905936,
@@ -6094,6 +6754,28 @@
     "data_source": "osm"
   },
   {
+    "name": "坂元城跡",
+    "name_en": "",
+    "lat": 37.9174549,
+    "lng": 140.8930363,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 5114515321,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "丸山城址",
+    "name_en": "",
+    "lat": 37.9110308,
+    "lng": 140.774113,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 5114589021,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "日吉神社",
     "name_en": "",
     "lat": 37.927818,
@@ -6123,6 +6805,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 5114647131,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白河市歴史民俗資料館",
+    "name_en": "",
+    "lat": 37.1206737,
+    "lng": 140.2287258,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5129702621,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6226,6 +6919,17 @@
     "data_source": "osm"
   },
   {
+    "name": "米沢市埋蔵文化財資料室",
+    "name_en": "",
+    "lat": 37.9134267,
+    "lng": 140.1254084,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5142588141,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "佐氏泉弁財天",
     "name_en": "",
     "lat": 37.9111684,
@@ -6281,6 +6985,28 @@
     "data_source": "osm"
   },
   {
+    "name": "米沢織物歴史資料館",
+    "name_en": "",
+    "lat": 37.9075648,
+    "lng": 140.1112765,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5146743651,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "酒造資料館 東光の酒蔵",
+    "name_en": "",
+    "lat": 37.9058325,
+    "lng": 140.1121549,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5146743652,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "皇大神宮",
     "name_en": "",
     "lat": 37.9083042,
@@ -6288,6 +7014,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 5146876629,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鈴木晋美術館",
+    "name_en": "",
+    "lat": 37.9100819,
+    "lng": 140.1117157,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5146998533,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6424,6 +7161,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.9674971,
+    "lng": 140.6126977,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 5156202421,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "塩井神社",
     "name_en": "",
     "lat": 37.9313553,
@@ -6490,6 +7238,50 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.5723781,
+    "lng": 140.4195183,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 5158194139,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "Foot Onsen",
+    "lat": 36.8068465,
+    "lng": 139.4245995,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 5160785821,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 36.8054348,
+    "lng": 139.4213819,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 5160785822,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "那須テディベアミュージアム",
+    "name_en": "",
+    "lat": 37.0492155,
+    "lng": 140.03934,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5240430429,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "お稲荷様",
     "name_en": "",
     "lat": 37.7675444,
@@ -6519,6 +7311,28 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 5314308551,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山口温泉　きらら289",
+    "name_en": "",
+    "lat": 37.2219692,
+    "lng": 139.5427595,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 5318299644,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 36.8592693,
+    "lng": 139.7223915,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 5329574650,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -6853,6 +7667,17 @@
     "data_source": "osm"
   },
   {
+    "name": "田人おふくろの宿",
+    "name_en": "",
+    "lat": 36.9413743,
+    "lng": 140.6619089,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 5537870457,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "諏訪神社",
     "name_en": "",
     "lat": 37.9445148,
@@ -6926,6 +7751,28 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 5582123042,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "堀部安兵衛伝承館",
+    "name_en": "",
+    "lat": 37.9436126,
+    "lng": 139.3279722,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5586484010,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "郷土資料館",
+    "name_en": "",
+    "lat": 37.9434942,
+    "lng": 139.3279521,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5586484011,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7106,6 +7953,17 @@
     "data_source": "osm"
   },
   {
+    "name": "藤沼温泉やまゆり荘",
+    "name_en": "",
+    "lat": 37.3011098,
+    "lng": 140.1908788,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 5704347808,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "広野",
     "name_en": "Hirono",
     "lat": 37.2120753,
@@ -7249,6 +8107,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "Nasunogahara hakubutukan",
+    "lat": 36.8995745,
+    "lng": 139.9689898,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5814272553,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "越河",
     "name_en": "Kosugo",
     "lat": 37.9341752,
@@ -7370,6 +8239,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.1287594,
+    "lng": 140.037667,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 5843368602,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鬼越神社",
     "name_en": "",
     "lat": 36.9123388,
@@ -7414,6 +8294,182 @@
     "data_source": "osm"
   },
   {
+    "name": "喜多方カイギュウランドたかさと",
+    "name_en": "",
+    "lat": 37.6008223,
+    "lng": 139.75558,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5887045031,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "３Ｄメルヘン水族館",
+    "name_en": "",
+    "lat": 37.0146009,
+    "lng": 140.0302889,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5898506310,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "戦争博物館",
+    "name_en": "",
+    "lat": 37.0608594,
+    "lng": 140.0131134,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5901135471,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "みちのく諸国郷土民芸館",
+    "name_en": "",
+    "lat": 37.0691399,
+    "lng": 140.0129752,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5901137133,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "サンバレー美術館",
+    "name_en": "",
+    "lat": 37.0872575,
+    "lng": 140.0044696,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5905537837,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯こんばいろの湯",
+    "name_en": "",
+    "lat": 37.097722,
+    "lng": 140.0002626,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 5905777755,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "滝乃湯",
+    "name_en": "",
+    "lat": 37.0968855,
+    "lng": 140.00153,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 5905777768,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "那須とりっくあーとぴあ",
+    "name_en": "",
+    "lat": 37.0313873,
+    "lng": 140.0359861,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5913206351,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "トリックアート 迷宮?館",
+    "name_en": "",
+    "lat": 37.0310966,
+    "lng": 140.0354029,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5913206352,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "人力車＆昭和レトロ館",
+    "name_en": "",
+    "lat": 37.0335197,
+    "lng": 140.0420417,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5913228318,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "トリックアートの館",
+    "name_en": "",
+    "lat": 37.0263498,
+    "lng": 140.0307936,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5913228358,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "那須クラシックカー博物館",
+    "name_en": "",
+    "lat": 37.0262824,
+    "lng": 140.0336312,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5913228363,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ダイアナガーデンエンジェル美術館",
+    "name_en": "",
+    "lat": 37.0351747,
+    "lng": 140.0271174,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5913833883,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "私の美術館",
+    "name_en": "",
+    "lat": 37.0234778,
+    "lng": 140.05023,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5919771693,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "木の美術館",
+    "name_en": "",
+    "lat": 37.0592782,
+    "lng": 140.0127481,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5919771784,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "那須おもちゃ博物館",
+    "name_en": "",
+    "lat": 37.0829213,
+    "lng": 140.0147297,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 5919771971,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "普賢寺",
     "name_en": "",
     "lat": 36.9169405,
@@ -7454,6 +8510,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 6018553085,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "那須昆虫ワールド",
+    "name_en": "",
+    "lat": 37.0391296,
+    "lng": 140.0163268,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 6021373894,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -7531,6 +8598,17 @@
     "category": "station",
     "prefecture": "fukushima",
     "osm_id": 6069856868,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "向羽黒山城跡",
+    "name_en": "",
+    "lat": 37.444576,
+    "lng": 139.9005081,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 6094726882,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8426,6 +9504,17 @@
     "data_source": "osm"
   },
   {
+    "name": "笹岡城址",
+    "name_en": "",
+    "lat": 37.8441729,
+    "lng": 139.2705488,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 6155025619,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宗寿寺",
     "name_en": "",
     "lat": 37.7735409,
@@ -8444,6 +9533,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 6155025904,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "安田城址",
+    "name_en": "",
+    "lat": 37.7739893,
+    "lng": 139.2373511,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 6155026010,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8547,6 +9647,39 @@
     "data_source": "osm"
   },
   {
+    "name": "みろく沢炭鉱資料館",
+    "name_en": "",
+    "lat": 37.0338189,
+    "lng": 140.8292891,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 6244542842,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ドライブイン那須の湯温泉",
+    "name_en": "",
+    "lat": 37.0194734,
+    "lng": 140.0854445,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6285165791,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "郡山湯処;まねきの湯",
+    "name_en": "",
+    "lat": 37.4023959,
+    "lng": 140.3946179,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6312225901,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "Ｊヴィレッジ",
     "name_en": "J-village",
     "lat": 37.2419456,
@@ -8591,6 +9724,61 @@
     "data_source": "osm"
   },
   {
+    "name": "蕗谷虹児記念館",
+    "name_en": "",
+    "lat": 37.9517823,
+    "lng": 139.3272856,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 6409898244,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小高の歴史コーナー",
+    "name_en": "",
+    "lat": 37.5641382,
+    "lng": 140.9920949,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 6433578374,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "須賀川市民温泉",
+    "name_en": "",
+    "lat": 37.292902,
+    "lng": 140.361742,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6434766249,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "弘法不動の湯",
+    "name_en": "",
+    "lat": 37.2545042,
+    "lng": 140.3390234,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6434775653,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "きつねうち温泉",
+    "name_en": "",
+    "lat": 37.104975,
+    "lng": 140.3645528,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6434805700,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "蹴球神社",
     "name_en": "",
     "lat": 37.245158,
@@ -8602,6 +9790,28 @@
     "data_source": "osm"
   },
   {
+    "name": "Ｊヴィレッジ;湯遊ならは;道の駅ならは",
+    "name_en": "",
+    "lat": 37.2500513,
+    "lng": 140.997709,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6439914032,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "芦の牧;ドライブ温泉",
+    "name_en": "",
+    "lat": 37.366787,
+    "lng": 139.9173058,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6448702085,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 37.9299685,
@@ -8609,6 +9819,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 6482443989,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "国民宿舎 あぶくま荘",
+    "name_en": "",
+    "lat": 37.8725551,
+    "lng": 140.7833336,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6505641719,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8646,6 +9867,83 @@
     "data_source": "osm"
   },
   {
+    "name": "甲斐本家蔵座敷 Kai Residence",
+    "name_en": "",
+    "lat": 37.6565615,
+    "lng": 139.8717843,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 6511256386,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高湯温泉共同浴場 あったか湯",
+    "name_en": "",
+    "lat": 37.7523826,
+    "lng": 140.3049903,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6512057685,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "極楽湯福島店",
+    "name_en": "",
+    "lat": 37.753157,
+    "lng": 140.4583962,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6544480150,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あづま温泉",
+    "name_en": "",
+    "lat": 37.7095184,
+    "lng": 140.3386443,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6544492453,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "秘湯 不動湯温泉",
+    "name_en": "",
+    "lat": 37.6799927,
+    "lng": 140.3166808,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6544708305,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "郡山ユラックス熱海",
+    "name_en": "",
+    "lat": 37.4808058,
+    "lng": 140.2781586,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6544901552,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅湯西川 湯の郷",
+    "name_en": "",
+    "lat": 36.9299045,
+    "lng": 139.6871009,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6549480831,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "郡山貨物ターミナル",
     "name_en": "",
     "lat": 37.3695415,
@@ -8653,6 +9951,50 @@
     "category": "station",
     "prefecture": "fukushima",
     "osm_id": 6549784706,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "那須塩原市健康長寿センター",
+    "name_en": "",
+    "lat": 36.8977267,
+    "lng": 139.9878979,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6549799974,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "太陽の湯",
+    "name_en": "",
+    "lat": 36.8693154,
+    "lng": 140.0376182,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6549848539,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "会津新選組記念館 Aizu Shinsengumi Museum",
+    "name_en": "",
+    "lat": 37.5005391,
+    "lng": 139.9213181,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 6577069585,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.7414561,
+    "lng": 140.4571967,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 6579905888,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -8741,6 +10083,28 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 6779680181,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.4820765,
+    "lng": 140.2692761,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6815343870,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Footbath",
+    "name_en": "",
+    "lat": 37.482054,
+    "lng": 140.2695371,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6815358199,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9130,6 +10494,17 @@
     "data_source": "osm"
   },
   {
+    "name": "狐の嫁入り屋敷",
+    "name_en": "Fox Wedding Pavilion",
+    "lat": 37.6837747,
+    "lng": 139.4537088,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 6899544597,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "王老杉稲荷神社",
     "name_en": "orosugi inari jinnjya",
     "lat": 37.7596716,
@@ -9148,6 +10523,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 6912085404,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "本宮市立歴史民俗資料館",
+    "name_en": "",
+    "lat": 37.5161866,
+    "lng": 140.4006084,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 6912085429,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9273,6 +10659,17 @@
     "data_source": "osm"
   },
   {
+    "name": "岳温泉 岳の湯",
+    "name_en": "",
+    "lat": 37.605799,
+    "lng": 140.3575272,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 6920541345,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "岳温泉神社",
     "name_en": "",
     "lat": 37.6072155,
@@ -9357,6 +10754,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 6948771080,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.5543586,
+    "lng": 139.9525553,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 6962935585,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9478,6 +10886,28 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 7094898052,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "戸倉の湯",
+    "name_en": "",
+    "lat": 36.8395773,
+    "lng": 139.2494385,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 7095010637,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "原ノ町驛陣屋",
+    "name_en": "",
+    "lat": 37.6376566,
+    "lng": 140.9711715,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 7144746537,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -9676,6 +11106,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 7653251630,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "村松城跡",
+    "name_en": "",
+    "lat": 37.6931468,
+    "lng": 139.1696763,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 7653251678,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10186,6 +11627,17 @@
     "data_source": "osm"
   },
   {
+    "name": "TSUNAMI ハーレー展示館",
+    "name_en": "Tsunami HARLEY Tenjikan",
+    "lat": 37.9227454,
+    "lng": 140.9004552,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 8244080417,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "天神社",
     "name_en": "",
     "lat": 37.9416018,
@@ -10254,6 +11706,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 37.5305311,
+    "lng": 139.7242745,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 8266987845,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 37.3259383,
     "lng": 139.8865744,
     "category": "shrine",
@@ -10270,6 +11733,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 8283204210,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あだたらふるさとホール",
+    "name_en": "",
+    "lat": 37.5357671,
+    "lng": 140.3641941,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 8353731657,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10336,6 +11810,28 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 8432097099,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山元町震災遺構　中浜小学校",
+    "name_en": "",
+    "lat": 37.9166148,
+    "lng": 140.9177651,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 8484566937,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山元町震災遺構　中浜小学校　受付",
+    "name_en": "",
+    "lat": 37.9163501,
+    "lng": 140.9173141,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 8484566939,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10417,6 +11913,17 @@
     "data_source": "osm"
   },
   {
+    "name": "那須野が原博物館 黒磯郷土館",
+    "name_en": "",
+    "lat": 36.9768339,
+    "lng": 140.0554604,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 9186306842,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.188873,
@@ -10450,6 +11957,17 @@
     "data_source": "osm"
   },
   {
+    "name": "東北電力奥会津水力館 みお里",
+    "name_en": "",
+    "lat": 37.4717821,
+    "lng": 139.5292962,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 9557062048,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "鹿島神社",
     "name_en": "",
     "lat": 37.7830432,
@@ -10457,6 +11975,28 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 9622734675,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "皆幸乃湯",
+    "name_en": "",
+    "lat": 36.9557732,
+    "lng": 140.0715151,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 9663662318,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あいづぎゃらりー",
+    "name_en": "",
+    "lat": 37.504209,
+    "lng": 139.9478935,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 9706239115,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10512,6 +12052,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 9899719933,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東山道那須温泉",
+    "name_en": "",
+    "lat": 36.9483471,
+    "lng": 140.1519336,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 9938525394,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10604,6 +12155,28 @@
     "data_source": "osm"
   },
   {
+    "name": "江戸情話与市",
+    "name_en": "",
+    "lat": 36.9929843,
+    "lng": 140.8159323,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 10293467006,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "スパガーデンパレオ",
+    "name_en": "",
+    "lat": 36.9925996,
+    "lng": 140.8149761,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 10293467007,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.5096429,
@@ -10615,6 +12188,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大麻博物館",
+    "name_en": "",
+    "lat": 37.0214411,
+    "lng": 140.0287704,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 10728992604,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "貴船神社",
     "name_en": "",
     "lat": 37.8223443,
@@ -10622,6 +12206,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 10813075066,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ギャラリー梟",
+    "name_en": "",
+    "lat": 37.8273067,
+    "lng": 140.4450337,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 10813126153,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10644,6 +12239,28 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 10813177161,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あ～しあわせの湯",
+    "name_en": "",
+    "lat": 37.8322322,
+    "lng": 140.452218,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 10813939131,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.8331771,
+    "lng": 140.4527054,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 10813957607,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10714,6 +12331,17 @@
     "data_source": "osm"
   },
   {
+    "name": "仙気の湯",
+    "name_en": "",
+    "lat": 37.8329954,
+    "lng": 140.456201,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 10815515262,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "西根神社",
     "name_en": "",
     "lat": 37.8310368,
@@ -10743,6 +12371,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 10815515284,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Komatuya",
+    "name_en": "",
+    "lat": 37.8304471,
+    "lng": 140.4557797,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 10815528907,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10787,6 +12426,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 10819518265,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.8314717,
+    "lng": 140.4379213,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 10819518266,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -10919,6 +12569,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 10825673333,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.8325988,
+    "lng": 140.4530745,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 10831140472,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11077,6 +12738,17 @@
     "data_source": "osm"
   },
   {
+    "name": "Kanazawa Shoko Art Museum 金澤翔子美術館",
+    "name_en": "",
+    "lat": 37.0092473,
+    "lng": 140.7360435,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 11054631075,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "Entsuji 円通寺",
     "name_en": "",
     "lat": 37.0101641,
@@ -11187,6 +12859,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 36.9693415,
+    "lng": 139.8205661,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 11218598103,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "上三依塩原温泉口",
     "name_en": "Kamimiyori-Shiobara-Onsenguchi",
     "lat": 37.013896,
@@ -11282,6 +12965,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 11577124642,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 36.8942682,
+    "lng": 139.7069902,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 11868287216,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11451,6 +13145,17 @@
     "data_source": "osm"
   },
   {
+    "name": "二本松市和紙伝承館",
+    "name_en": "",
+    "lat": 37.6353605,
+    "lng": 140.483398,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 12133343317,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "中黒山神明宮",
     "name_en": "",
     "lat": 37.931539,
@@ -11469,6 +13174,28 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 12247307996,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "特撮アーカイブセンター",
+    "name_en": "",
+    "lat": 37.3180804,
+    "lng": 140.2770665,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 12290029161,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "Yumori Onsen",
+    "name_en": "",
+    "lat": 37.6816448,
+    "lng": 140.323635,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 12336457001,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11649,6 +13376,50 @@
     "data_source": "osm"
   },
   {
+    "name": "中間貯蔵事業情報センター",
+    "name_en": "",
+    "lat": 37.4110489,
+    "lng": 140.9834383,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 12799700173,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "JAEA ALNALYSiS LAB.",
+    "name_en": "",
+    "lat": 37.4110585,
+    "lng": 140.9830427,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 12799700174,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "双葉の湯 祐",
+    "name_en": "",
+    "lat": 37.4561406,
+    "lng": 141.0258159,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 12799744910,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.4560682,
+    "lng": 141.0200974,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 12799744930,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.0525859,
@@ -11726,6 +13497,39 @@
     "data_source": "osm"
   },
   {
+    "name": "足湯",
+    "name_en": "",
+    "lat": 37.5286902,
+    "lng": 139.7232144,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 13124363145,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.528219,
+    "lng": 139.7218807,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 13124380403,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "微温湯温泉",
+    "name_en": "",
+    "lat": 37.7289843,
+    "lng": 140.2929004,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 13201180472,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "聖徳太子堂",
     "name_en": "Shotoku Taishi-do",
     "lat": 37.6816451,
@@ -11781,6 +13585,61 @@
     "data_source": "osm"
   },
   {
+    "name": "鶴ヶ城",
+    "name_en": "Wakamatsu Castle",
+    "lat": 37.4877072,
+    "lng": 139.9297586,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 24270507,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "浄土平レストハウス",
+    "name_en": "Jododaira Rest House",
+    "lat": 37.7240939,
+    "lng": 140.2556154,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 26211375,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "浄土平天文台",
+    "name_en": "",
+    "lat": 37.7234243,
+    "lng": 140.2542903,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 26211857,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.3261298,
+    "lng": 139.629997,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 28208228,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.3257227,
+    "lng": 139.6296779,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 28208231,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "熊野神社",
     "name_en": "",
     "lat": 37.4993788,
@@ -11788,6 +13647,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 81056070,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "茨城県天心記念五浦美術館 - Tenshin Memorial Museum of Art",
+    "name_en": "Tenshin Memorial Museum of Art, Ibaraki",
+    "lat": 36.8392782,
+    "lng": 140.7998518,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 104372765,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11803,6 +13673,17 @@
     "data_source": "osm"
   },
   {
+    "name": "天神岬温泉;しおかぜ荘",
+    "name_en": "Shiokaze-sou",
+    "lat": 37.2692119,
+    "lng": 141.0146237,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 105291101,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "勝縁寺",
     "name_en": "",
     "lat": 37.7049865,
@@ -11814,6 +13695,28 @@
     "data_source": "osm"
   },
   {
+    "name": "太平洋健康センター;いわき蟹洗温泉",
+    "name_en": "",
+    "lat": 37.1121998,
+    "lng": 140.9993455,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 106048355,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いわき健康センター;北投の湯",
+    "name_en": "",
+    "lat": 36.9213616,
+    "lng": 140.8390535,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 107486832,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 36.9785081,
@@ -11821,6 +13724,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 108255631,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いわき市美術館",
+    "name_en": "",
+    "lat": 37.0517627,
+    "lng": 140.8895943,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 112004696,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11858,6 +13772,39 @@
     "data_source": "osm"
   },
   {
+    "name": "水とエネルギー 只見展示館",
+    "name_en": "",
+    "lat": 37.3369666,
+    "lng": 139.2980121,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 158064655,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.2851961,
+    "lng": 140.9867625,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 165555811,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "米沢市上杉博物館",
+    "name_en": "",
+    "lat": 37.90758,
+    "lng": 140.1066872,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 179243819,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "杉妻稲荷神社",
     "name_en": "",
     "lat": 37.7501148,
@@ -11865,6 +13812,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 187427467,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "勿来温泉;関の湯",
+    "name_en": "",
+    "lat": 36.8747429,
+    "lng": 140.7892657,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 190594224,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11891,6 +13849,17 @@
     "data_source": "osm"
   },
   {
+    "name": "我妻榮記念館",
+    "name_en": "",
+    "lat": 37.9155764,
+    "lng": 140.1124317,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 196235451,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "龍巌山長福寺(chofukuji)",
     "name_en": "",
     "lat": 37.3422635,
@@ -11898,6 +13867,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 198706804,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "昭和漫画館青虫",
+    "name_en": "",
+    "lat": 37.3457281,
+    "lng": 139.3159502,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 198706815,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -11913,6 +13893,17 @@
     "data_source": "osm"
   },
   {
+    "name": "会津若松市歴史資料センター「まなべこ」",
+    "name_en": "",
+    "lat": 37.4892582,
+    "lng": 139.9363079,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 207440161,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.5054395,
@@ -11920,6 +13911,39 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 211223849,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "青龍",
+    "name_en": "",
+    "lat": 37.4856315,
+    "lng": 139.9541307,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 212220129,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "会津歴史資料館",
+    "name_en": "",
+    "lat": 37.4861734,
+    "lng": 139.9527928,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 212220175,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "会津くらしの歴史館",
+    "name_en": "Aizu Bukeyashiki",
+    "lat": 37.4853393,
+    "lng": 139.9538852,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 212220216,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12023,6 +14047,17 @@
     "data_source": "osm"
   },
   {
+    "name": "白虎隊記念館",
+    "name_en": "White Tigers Memorial Hall",
+    "lat": 37.504513,
+    "lng": 139.9532878,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 215188469,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "霊牛神堂",
     "name_en": "",
     "lat": 37.5050321,
@@ -12063,6 +14098,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 215188680,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆうゆう日帰りの湯;富士の湯",
+    "name_en": "Fuji no Yu",
+    "lat": 37.5058363,
+    "lng": 139.9289546,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 217617400,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12140,6 +14186,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 219728367,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "アートフォトギャラリー三遊",
+    "name_en": "",
+    "lat": 37.5027882,
+    "lng": 139.9469579,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 219757601,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12276,6 +14333,17 @@
     "data_source": "osm"
   },
   {
+    "name": "霊寶殿",
+    "name_en": "",
+    "lat": 37.5337158,
+    "lng": 139.7254598,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 223402004,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "羽黒山神社",
     "name_en": "",
     "lat": 37.4486002,
@@ -12294,6 +14362,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 224291725,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "会津美里町歴史資料収蔵室",
+    "name_en": "",
+    "lat": 37.4521588,
+    "lng": 139.8910482,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 224462099,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12496,6 +14575,17 @@
     "data_source": "osm"
   },
   {
+    "name": "会津芦ノ牧温泉 大川荘",
+    "name_en": "Ashinomaki Onsen Ookawaso",
+    "lat": 37.3669867,
+    "lng": 139.9139677,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 229567027,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "稲荷神社",
     "name_en": "",
     "lat": 37.4770303,
@@ -12503,6 +14593,39 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 230296253,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "アミーゴ",
+    "name_en": "amigo",
+    "lat": 37.5108851,
+    "lng": 139.9310253,
+    "category": "zoo",
+    "prefecture": "fukushima",
+    "osm_id": 230531663,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "只見保養センター;ひとっぷろまち湯",
+    "name_en": "",
+    "lat": 37.3473809,
+    "lng": 139.3214868,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 232217434,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ただみブナと川のミュージアム",
+    "name_en": "",
+    "lat": 37.3414052,
+    "lng": 139.3118447,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 232273695,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12650,6 +14773,17 @@
     "data_source": "osm"
   },
   {
+    "name": "福島県立美術館",
+    "name_en": "Fukushima Prefectural Museum of Art",
+    "lat": 37.768309,
+    "lng": 140.4565042,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 236804433,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "黒沼神社",
     "name_en": "Kuronuma Shrine",
     "lat": 37.7675322,
@@ -12657,6 +14791,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 239521652,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福島市写真美術館",
+    "name_en": "Fukushima City Museum of Photography",
+    "lat": 37.7644288,
+    "lng": 140.463196,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 239521776,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12679,6 +14824,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 240249072,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "信夫山ガイドセンター",
+    "name_en": "Shinobuyama Guide Centre",
+    "lat": 37.7731888,
+    "lng": 140.4734025,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 240249118,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12771,6 +14927,17 @@
     "data_source": "osm"
   },
   {
+    "name": "大塩温泉",
+    "name_en": "Oshio Onsen",
+    "lat": 37.3924365,
+    "lng": 139.4283594,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 243639731,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "仁王門",
     "name_en": "",
     "lat": 37.5683763,
@@ -12778,6 +14945,28 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 243736093,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "早戸温泉つるの湯",
+    "name_en": "Hayato Onsen Tsuru no Yu",
+    "lat": 37.4649207,
+    "lng": 139.5926822,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 244649545,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "金山町老人福祉センター;ゆうゆう館",
+    "name_en": "",
+    "lat": 37.4744427,
+    "lng": 139.5301705,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 244649755,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12793,6 +14982,17 @@
     "data_source": "osm"
   },
   {
+    "name": "保養センター;ひだまり",
+    "name_en": "",
+    "lat": 37.4742853,
+    "lng": 139.6475405,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 244664934,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.5140785,
@@ -12800,6 +15000,116 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 245090851,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.3562613,
+    "lng": 140.4025135,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 245301358,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "磐梯山噴火記念館",
+    "name_en": "",
+    "lat": 37.6597852,
+    "lng": 140.079341,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 245404237,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "南相馬市博物館",
+    "name_en": "",
+    "lat": 37.6233965,
+    "lng": 140.963076,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 245404540,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "三春町歴史民俗資料館",
+    "name_en": "",
+    "lat": 37.4400833,
+    "lng": 140.4919117,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 245405046,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "須賀川市立博物館",
+    "name_en": "",
+    "lat": 37.2911514,
+    "lng": 140.3792416,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 245405642,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福島県文化財センター白河館まほろん",
+    "name_en": "",
+    "lat": 37.0989558,
+    "lng": 140.2054472,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 245406461,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大田原市歴史民俗資料館",
+    "name_en": "",
+    "lat": 36.8119714,
+    "lng": 140.1221723,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 245408406,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "栃木県立なす風土記の丘資料館湯津上館",
+    "name_en": "",
+    "lat": 36.8117523,
+    "lng": 140.1217827,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 245408407,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大田原市那須与一伝承館",
+    "name_en": "",
+    "lat": 36.8633732,
+    "lng": 140.0870145,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 245409768,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "北茨城市歴史民俗資料館・野口雨情記念館",
+    "name_en": "",
+    "lat": 36.7973744,
+    "lng": 140.7572845,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 245412730,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12848,6 +15158,17 @@
     "data_source": "osm"
   },
   {
+    "name": "柳津西山地熱発電所PR館",
+    "name_en": "",
+    "lat": 37.4408557,
+    "lng": 139.6945665,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 246596654,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.5787064,
@@ -12888,6 +15209,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 252417851,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "野口英世記念館",
+    "name_en": "Dr.Noguchi Memorial Hall",
+    "lat": 37.5361051,
+    "lng": 140.0738429,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 255400461,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -12936,6 +15268,17 @@
     "data_source": "osm"
   },
   {
+    "name": "安積歴史博物館",
+    "name_en": "",
+    "lat": 37.3916859,
+    "lng": 140.3506485,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 264256286,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "熊野神社",
     "name_en": "",
     "lat": 37.4828355,
@@ -12954,6 +15297,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 265838893,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "糸桜里の湯;ばんげ",
+    "name_en": "",
+    "lat": 37.5886439,
+    "lng": 139.7993964,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 266745950,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13020,6 +15374,28 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 269073452,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ムシテックワールド",
+    "name_en": "",
+    "lat": 37.2508402,
+    "lng": 140.4630992,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 273696944,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.2914051,
+    "lng": 140.3792209,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 278511146,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13145,6 +15521,28 @@
     "data_source": "osm"
   },
   {
+    "name": "サンスカイつちゆ;こけし湯",
+    "name_en": "",
+    "lat": 37.6823079,
+    "lng": 140.331957,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 288244851,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.6544136,
+    "lng": 140.3213106,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 288346568,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "早戸温泉神社",
     "name_en": "",
     "lat": 37.4647246,
@@ -13152,6 +15550,50 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 288460708,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桧原ふれあい温泉;湖望",
+    "name_en": "",
+    "lat": 37.7169061,
+    "lng": 140.0373487,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 289366339,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "高田温泉;あやめの湯",
+    "name_en": "",
+    "lat": 37.4583688,
+    "lng": 139.8448981,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 291991533,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "昭和レトロミュージアム",
+    "name_en": "",
+    "lat": 37.6518696,
+    "lng": 139.8716887,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 292402026,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "喜多方蔵座敷美術館",
+    "name_en": "",
+    "lat": 37.6504336,
+    "lng": 139.8711629,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 292402073,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13174,6 +15616,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 292446969,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "昭和レトロミュージアム 2号館",
+    "name_en": "",
+    "lat": 37.6521954,
+    "lng": 139.8721602,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 293027176,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13244,6 +15697,28 @@
     "data_source": "osm"
   },
   {
+    "name": "深沢温泉;むら湯",
+    "name_en": "",
+    "lat": 37.308823,
+    "lng": 139.4239636,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 298236649,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "会津みなみ温泉 里の湯",
+    "name_en": "",
+    "lat": 37.2216521,
+    "lng": 139.5371007,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 302216584,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "如宝寺",
     "name_en": "",
     "lat": 37.395894,
@@ -13266,6 +15741,17 @@
     "data_source": "osm"
   },
   {
+    "name": "スーパー銭湯遊湯ランド",
+    "name_en": "",
+    "lat": 37.4008949,
+    "lng": 140.3523209,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 304932502,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "春日神社",
     "name_en": "Kasuga Jinja shrine",
     "lat": 37.508033,
@@ -13284,6 +15770,39 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 307972366,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "会津田島祇園会館",
+    "name_en": "",
+    "lat": 37.2053342,
+    "lng": 139.7749061,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 310366191,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅あいづ 湯川・会津坂下",
+    "name_en": "",
+    "lat": 37.5573786,
+    "lng": 139.8624317,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 311152706,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "弥五島温泉;郷の湯",
+    "name_en": "",
+    "lat": 37.2674186,
+    "lng": 139.8876079,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 318177241,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13339,6 +15858,94 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 319045802,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.0373907,
+    "lng": 140.4492892,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 320334766,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "共同浴場 弘法の湯",
+    "name_en": "",
+    "lat": 37.0678147,
+    "lng": 139.5278992,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 321564836,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "共同浴場 天神の湯",
+    "name_en": "",
+    "lat": 37.0669586,
+    "lng": 139.5271434,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 321564837,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "共同浴場 石湯",
+    "name_en": "",
+    "lat": 37.0687377,
+    "lng": 139.5270856,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 321564838,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "共同浴場 湯端の湯",
+    "name_en": "",
+    "lat": 37.0637254,
+    "lng": 139.5276026,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 321564839,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "共同浴場 広瀬の湯",
+    "name_en": "",
+    "lat": 37.0638418,
+    "lng": 139.4860905,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 321564843,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "共同浴場 岩風呂",
+    "name_en": "",
+    "lat": 37.0600376,
+    "lng": 139.4836058,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 321564844,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "曲家資料館",
+    "name_en": "Museum of L-shaped Old Folk House",
+    "lat": 37.1022748,
+    "lng": 139.5206721,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 321565521,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13427,6 +16034,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 332053471,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "極楽湯福島いわき店",
+    "name_en": "",
+    "lat": 36.9653591,
+    "lng": 140.8711799,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 335168650,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13629,6 +16247,17 @@
     "data_source": "osm"
   },
   {
+    "name": "四季の湯",
+    "name_en": "",
+    "lat": 36.8677244,
+    "lng": 139.6051092,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 342005927,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.0731495,
@@ -13684,6 +16313,17 @@
     "data_source": "osm"
   },
   {
+    "name": "妖精美術館",
+    "name_en": "",
+    "lat": 37.4523372,
+    "lng": 139.588005,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 354115655,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.0159821,
@@ -13713,6 +16353,39 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 358447488,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "塩屋埼灯台",
+    "name_en": "Shioyasaki Lighthouse",
+    "lat": 36.9950761,
+    "lng": 140.981753,
+    "category": "lighthouse",
+    "prefecture": "fukushima",
+    "osm_id": 358960917,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "塩屋埼灯台展示室",
+    "name_en": "",
+    "lat": 36.9950436,
+    "lng": 140.9810875,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 358960920,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 36.9915689,
+    "lng": 140.9835386,
+    "category": "lighthouse",
+    "prefecture": "fukushima",
+    "osm_id": 359228203,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13750,6 +16423,17 @@
     "data_source": "osm"
   },
   {
+    "name": "天空の足湯",
+    "name_en": "Tenkunoashiyu",
+    "lat": 36.8064915,
+    "lng": 139.354697,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 363488690,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "龍雲寺",
     "name_en": "",
     "lat": 37.0653058,
@@ -13757,6 +16441,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 365228388,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新田川温泉;はらまちユッサ",
+    "name_en": "",
+    "lat": 37.6670408,
+    "lng": 140.9163204,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 365875950,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -13790,6 +16485,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 365992465,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新鶴温泉健康センター",
+    "name_en": "",
+    "lat": 37.5074028,
+    "lng": 139.8133279,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 370604026,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14003,6 +16709,50 @@
     "data_source": "osm"
   },
   {
+    "name": "湯津上温泉;やすらぎの湯",
+    "name_en": "",
+    "lat": 36.8227086,
+    "lng": 140.1037996,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 377817257,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "那須野が原博物館",
+    "name_en": "",
+    "lat": 36.899713,
+    "lng": 139.9690089,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 379038541,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "みかえり温泉 彩花の湯",
+    "name_en": "",
+    "lat": 36.9595859,
+    "lng": 139.8804167,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 380025957,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "喜多の郷;蔵の湯",
+    "name_en": "",
+    "lat": 37.7023681,
+    "lng": 139.8787829,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 383753613,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.4862835,
@@ -14104,11 +16854,55 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 37.2552705,
+    "lng": 139.7733603,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 386059110,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "華の湯",
+    "name_en": "",
+    "lat": 36.9823415,
+    "lng": 139.785212,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 386612003,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 36.9788311,
     "lng": 140.885516,
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 388563697,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新潟市北区郷土博物館",
+    "name_en": "",
+    "lat": 37.9161051,
+    "lng": 139.2256911,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 392794838,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "水の駅ビュー福島潟",
+    "name_en": "View Fukushimagata",
+    "lat": 37.9136385,
+    "lng": 139.2403784,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 392794856,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14179,6 +16973,17 @@
     "data_source": "osm"
   },
   {
+    "name": "いわき市アンモナイトセンター",
+    "name_en": "",
+    "lat": 37.1756185,
+    "lng": 140.9433768,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 396404565,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "北目観音",
     "name_en": "",
     "lat": 37.0661891,
@@ -14212,6 +17017,39 @@
     "data_source": "osm"
   },
   {
+    "name": "会津武家屋敷",
+    "name_en": "",
+    "lat": 37.4855266,
+    "lng": 139.9534108,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 397739223,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ピラミッド元氣温泉",
+    "name_en": "",
+    "lat": 36.929358,
+    "lng": 139.958259,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 404084481,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "黒羽温泉;五峰の湯",
+    "name_en": "",
+    "lat": 36.8846563,
+    "lng": 140.1315418,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 409013589,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.079973,
@@ -14219,6 +17057,39 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 410677453,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふれあいの丘自然観察館",
+    "name_en": "",
+    "lat": 36.8015524,
+    "lng": 140.0502032,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 414304784,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふれあいの丘天文館",
+    "name_en": "",
+    "lat": 36.8013535,
+    "lng": 140.0514359,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 414304793,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "那須大丸ガーデン",
+    "name_en": "",
+    "lat": 37.1214281,
+    "lng": 139.9846859,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 414892449,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14256,6 +17127,61 @@
     "data_source": "osm"
   },
   {
+    "name": "中三依温泉 男鹿の湯",
+    "name_en": "",
+    "lat": 36.9862353,
+    "lng": 139.7004979,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 420048792,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "那須サファリパーク",
+    "name_en": "",
+    "lat": 37.0587011,
+    "lng": 140.0044133,
+    "category": "zoo",
+    "prefecture": "fukushima",
+    "osm_id": 422424309,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "矢板市立郷土資料館",
+    "name_en": "",
+    "lat": 36.8731783,
+    "lng": 139.908007,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 422428834,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "住友ミュージアム",
+    "name_en": "",
+    "lat": 36.8842173,
+    "lng": 139.8799661,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 422429436,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "癒の刻白河店",
+    "name_en": "",
+    "lat": 37.1334452,
+    "lng": 140.2005932,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 426066682,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大山祇神社",
     "name_en": "",
     "lat": 37.5381672,
@@ -14278,6 +17204,17 @@
     "data_source": "osm"
   },
   {
+    "name": "温泉小屋",
+    "name_en": "Onsengoya",
+    "lat": 36.954153,
+    "lng": 139.2514206,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 428022219,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "木幡神社　国指定建造物",
     "name_en": "",
     "lat": 36.7904508,
@@ -14285,6 +17222,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 428466664,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯西川 水の郷",
+    "name_en": "",
+    "lat": 36.967349,
+    "lng": 139.6095573,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 430135620,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14355,6 +17303,17 @@
     "data_source": "osm"
   },
   {
+    "name": "極楽湯福島郡山店",
+    "name_en": "",
+    "lat": 37.4278245,
+    "lng": 140.3686278,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 437898124,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "疣神様",
     "name_en": "ibo kami sama (anti wart shrine)",
     "lat": 37.5042088,
@@ -14406,6 +17365,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 440114469,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "足湯",
+    "name_en": "Ashiyu Foot Spa",
+    "lat": 37.4811113,
+    "lng": 140.2710209,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 440752898,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14564,6 +17534,17 @@
     "data_source": "osm"
   },
   {
+    "name": "宮森城址",
+    "name_en": "",
+    "lat": 37.5474844,
+    "lng": 140.5060898,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 443213309,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "笶取八幡神社",
     "name_en": "",
     "lat": 37.5472218,
@@ -14575,6 +17556,17 @@
     "data_source": "osm"
   },
   {
+    "name": "小浜城本丸跡",
+    "name_en": "",
+    "lat": 37.5640975,
+    "lng": 140.5120154,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 443763648,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "心清水八幡神社 (Kokoro Shimizu Hachiman Jinja shrine)",
     "name_en": "Kokoro Shimizu Hachiman Jinja shrine",
     "lat": 37.5748676,
@@ -14582,6 +17574,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 443903849,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "二本松市歴史資料館",
+    "name_en": "",
+    "lat": 37.5926689,
+    "lng": 140.4360023,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 444095035,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -14714,6 +17717,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 445126731,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小浜パーキング",
+    "name_en": "",
+    "lat": 36.9191232,
+    "lng": 140.838351,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 445178144,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15015,6 +18029,17 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.9620003,
+    "lng": 139.2869153,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 450297511,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "宝積院",
     "name_en": "",
     "lat": 37.9687122,
@@ -15037,6 +18062,17 @@
     "data_source": "osm"
   },
   {
+    "name": "龍王峡Ｐ",
+    "name_en": "",
+    "lat": 36.8604937,
+    "lng": 139.7195711,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 450934346,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "養福寺",
     "name_en": "",
     "lat": 37.945728,
@@ -15044,6 +18080,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 451277035,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "安田民俗資料館",
+    "name_en": "",
+    "lat": 37.75166,
+    "lng": 139.251018,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 451806403,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15246,6 +18293,17 @@
     "data_source": "osm"
   },
   {
+    "name": "桐の里倶楽部宮下温泉;桐の湯",
+    "name_en": "Kiri no Sato Club",
+    "lat": 37.4775433,
+    "lng": 139.650762,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 453353494,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "吉高山福昌寺",
     "name_en": "Kikkouzan Fukushouji Temple",
     "lat": 37.5144097,
@@ -15400,6 +18458,39 @@
     "data_source": "osm"
   },
   {
+    "name": "燧の湯",
+    "name_en": "Hiuchinoyu",
+    "lat": 37.0168977,
+    "lng": 139.3840371,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 461666347,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "駒の湯",
+    "name_en": "Komanoyu",
+    "lat": 37.0233869,
+    "lng": 139.3883337,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 461690487,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "森の温泉館;アルザ尾瀬の郷",
+    "name_en": "",
+    "lat": 37.0336675,
+    "lng": 139.3961339,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 461697733,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "海嶽寺",
     "name_en": "",
     "lat": 37.1050238,
@@ -15411,6 +18502,28 @@
     "data_source": "osm"
   },
   {
+    "name": "泡の湯温泉 三好荘",
+    "name_en": "",
+    "lat": 37.9534819,
+    "lng": 139.6976999,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 466221597,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "環境と人間のふれあい館",
+    "name_en": "Niigata Learning Center For Humans & The Environment",
+    "lat": 37.9128546,
+    "lng": 139.2382654,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 467875142,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.8391538,
@@ -15418,6 +18531,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 470694175,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.8396587,
+    "lng": 139.2314306,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 470694267,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15473,6 +18597,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 477229094,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "小豆温泉 窓明の湯",
+    "name_en": "",
+    "lat": 37.0773692,
+    "lng": 139.4188191,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 479248927,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15576,6 +18711,28 @@
     "data_source": "osm"
   },
   {
+    "name": "あんよの湯",
+    "name_en": "Anyo no Yu",
+    "lat": 36.8068249,
+    "lng": 139.424448,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 484878526,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ゆ処山月五識の湯",
+    "name_en": "Sangetsu Hotel Public Bath",
+    "lat": 36.8067549,
+    "lng": 139.4253566,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 484878534,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "後原稲荷神社",
     "name_en": "",
     "lat": 37.6558458,
@@ -15583,6 +18740,28 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 487559643,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "城の湯やすらぎの里温泉センター",
+    "name_en": "",
+    "lat": 36.7935907,
+    "lng": 139.9177535,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 488795319,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "山都温泉保養センター いいでのゆ",
+    "name_en": "",
+    "lat": 37.7349524,
+    "lng": 139.7804085,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 489095895,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15627,6 +18806,39 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 491077480,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "大子温泉保養センター森林の温泉",
+    "name_en": "",
+    "lat": 36.7954649,
+    "lng": 140.3507366,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 496427750,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ラビスパ裏磐梯",
+    "name_en": "",
+    "lat": 37.6588493,
+    "lng": 140.0133383,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 496763371,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.4959951,
+    "lng": 140.9858177,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 497600521,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15708,6 +18920,50 @@
     "data_source": "osm"
   },
   {
+    "name": "御とめ湯り",
+    "name_en": "",
+    "lat": 37.6835415,
+    "lng": 140.329413,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 524520092,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "波来湯",
+    "name_en": "",
+    "lat": 37.8312864,
+    "lng": 140.4550153,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 533920855,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "十綱湯",
+    "name_en": "",
+    "lat": 37.8278763,
+    "lng": 140.4520318,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 537038015,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "導専の湯",
+    "name_en": "",
+    "lat": 37.830756,
+    "lng": 140.4569185,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 537343620,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "東明寺",
     "name_en": "",
     "lat": 37.4872984,
@@ -15715,6 +18971,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 545783935,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福島市飯野;UFOふれあい館",
+    "name_en": "",
+    "lat": 37.6877706,
+    "lng": 140.5340827,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 548516406,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15774,6 +19041,17 @@
     "data_source": "osm"
   },
   {
+    "name": "郡山市立美術館",
+    "name_en": "",
+    "lat": 37.3926727,
+    "lng": 140.4203105,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 556726582,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "高屋敷稲荷神社",
     "name_en": "",
     "lat": 37.4069681,
@@ -15829,6 +19107,17 @@
     "data_source": "osm"
   },
   {
+    "name": "伊王野まつり伝承館",
+    "name_en": "",
+    "lat": 36.954094,
+    "lng": 140.1573859,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 561193532,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.6266036,
@@ -15840,6 +19129,50 @@
     "data_source": "osm"
   },
   {
+    "name": "森林館",
+    "name_en": "",
+    "lat": 37.9401709,
+    "lng": 139.3574833,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 584619189,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白壁兵舎広報資料館",
+    "name_en": "",
+    "lat": 37.9543432,
+    "lng": 139.3224153,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 584619238,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "王紋酒造",
+    "name_en": "",
+    "lat": 37.9441401,
+    "lng": 139.3306316,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 584896066,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "板室健康のゆグリーングリーン",
+    "name_en": "",
+    "lat": 37.0647669,
+    "lng": 139.9229603,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 595960237,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "八幡神社",
     "name_en": "",
     "lat": 37.7891554,
@@ -15847,6 +19180,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 603165698,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "那須どうぶつ王国;カピバラの湯",
+    "name_en": "",
+    "lat": 37.1290079,
+    "lng": 140.0371661,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 618201267,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15869,6 +19213,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 619596337,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "那須御用邸",
+    "name_en": "Nasu Imperial Villa",
+    "lat": 37.0878747,
+    "lng": 140.0237901,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 620206911,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15897,11 +19252,110 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 37.8893078,
+    "lng": 140.0544311,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 620957788,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熱塩加納保健福祉センター;夢の森",
+    "name_en": "",
+    "lat": 37.7217995,
+    "lng": 139.8714597,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 621688989,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "日中線記念館（旧熱塩駅)",
+    "name_en": "",
+    "lat": 37.7290459,
+    "lng": 139.8805255,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 621689310,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "藤城清治美術館",
+    "name_en": "",
+    "lat": 37.0829776,
+    "lng": 140.0047728,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 623123737,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "洲走の湯",
+    "name_en": "",
+    "lat": 37.5781439,
+    "lng": 139.7547889,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 623988146,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ふれあいランド高郷",
+    "name_en": "",
+    "lat": 37.6275534,
+    "lng": 139.7180001,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 624090562,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 36.8767271,
     "lng": 140.787553,
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 624317626,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "相田みつを那須ギャラリー",
+    "name_en": "",
+    "lat": 37.0379916,
+    "lng": 140.0155495,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 624326745,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "アクアヴィーナス",
+    "name_en": "",
+    "lat": 37.086683,
+    "lng": 140.0056216,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 625473481,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鹿の湯",
+    "name_en": "",
+    "lat": 37.0982628,
+    "lng": 140.0011288,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 625505798,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15928,6 +19382,17 @@
     "data_source": "osm"
   },
   {
+    "name": "那須ワールドモンキーパーク",
+    "name_en": "",
+    "lat": 37.0350666,
+    "lng": 140.0484783,
+    "category": "zoo",
+    "prefecture": "fukushima",
+    "osm_id": 626330760,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 36.9239202,
@@ -15939,6 +19404,116 @@
     "data_source": "osm"
   },
   {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.0125959,
+    "lng": 140.8484321,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 631503839,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.0131456,
+    "lng": 140.8481584,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 631503840,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いわき市石炭・化石館",
+    "name_en": "Iwaki City Coal and Fossil museum",
+    "lat": 37.012731,
+    "lng": 140.8484325,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 631503841,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯かっぺ",
+    "name_en": "",
+    "lat": 36.808504,
+    "lng": 140.762553,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 633864136,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "久ノ浜パーキング",
+    "name_en": "",
+    "lat": 37.1664262,
+    "lng": 140.994429,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 638660187,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "金ちゃん温泉",
+    "name_en": "",
+    "lat": 37.0706742,
+    "lng": 139.9919658,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 647097764,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天王寺穴原湯",
+    "name_en": "",
+    "lat": 37.8432101,
+    "lng": 140.4395549,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 648437998,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "廃炉資料館",
+    "name_en": "",
+    "lat": 37.3408368,
+    "lng": 141.0140326,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 651654215,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いいでの湯",
+    "name_en": "",
+    "lat": 37.9476536,
+    "lng": 139.3243463,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 653735375,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ポピーとよさか",
+    "name_en": "",
+    "lat": 37.9406233,
+    "lng": 139.2007493,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 654475546,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "ばかうけ稲荷",
     "name_en": "Bakauke Inari Shrine",
     "lat": 37.9297472,
@@ -15946,6 +19521,61 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 655638219,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "吉田東伍記念博物館",
+    "name_en": "",
+    "lat": 37.7760363,
+    "lng": 139.2323098,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 657142742,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ほうづきの里",
+    "name_en": "",
+    "lat": 37.8832084,
+    "lng": 139.308572,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 657142769,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "刀剣伝承館・天田昭次記念館",
+    "name_en": "",
+    "lat": 37.8832411,
+    "lng": 139.3079221,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 657142804,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "那須町民俗資料館",
+    "name_en": "",
+    "lat": 37.0204081,
+    "lng": 140.1212216,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 657478533,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鯖湖湯",
+    "name_en": "",
+    "lat": 37.8326421,
+    "lng": 140.4521802,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 660617853,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -15968,6 +19598,94 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 664572893,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "市島邸",
+    "name_en": "Ichishimatei",
+    "lat": 37.8958613,
+    "lng": 139.2692555,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 666016952,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "極楽湯鷹山の湯",
+    "name_en": "",
+    "lat": 37.9366046,
+    "lng": 140.1235247,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 673911185,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "米沢温泉 平安の湯",
+    "name_en": "",
+    "lat": 37.9361668,
+    "lng": 140.1170442,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 673912070,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東日本健康ランド;カッパ王国",
+    "name_en": "",
+    "lat": 37.8230082,
+    "lng": 140.5083461,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 673924594,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "うねめ温泉",
+    "name_en": "",
+    "lat": 37.4081759,
+    "lng": 140.3334271,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 674032104,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "温泉天国 さくら湯",
+    "name_en": "",
+    "lat": 37.3966639,
+    "lng": 140.3473743,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 674032673,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ひばり温泉",
+    "name_en": "",
+    "lat": 37.3259939,
+    "lng": 140.3641942,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 674039085,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "つるしの湯",
+    "name_en": "",
+    "lat": 37.8806107,
+    "lng": 140.9246651,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 674225193,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16027,6 +19745,28 @@
     "data_source": "osm"
   },
   {
+    "name": "源泉 那須山",
+    "name_en": "",
+    "lat": 37.0180819,
+    "lng": 140.0316619,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 679646200,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "玉の湯温泉・玉の湯旅館",
+    "name_en": "",
+    "lat": 37.4147738,
+    "lng": 140.9125439,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 679647618,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "明王寺",
     "name_en": "",
     "lat": 36.8664581,
@@ -16045,6 +19785,424 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 680803324,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あだたら山;奥岳の湯",
+    "name_en": "",
+    "lat": 37.6234715,
+    "lng": 140.3252212,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 683153429,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "スカイピアあだたら",
+    "name_en": "",
+    "lat": 37.6166771,
+    "lng": 140.3739269,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 683158857,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "のんびり温泉",
+    "name_en": "",
+    "lat": 37.3729049,
+    "lng": 140.279539,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 683173879,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東北原温泉",
+    "name_en": "",
+    "lat": 37.4038101,
+    "lng": 140.2974367,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 683178621,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "並木温泉 ゆの郷",
+    "name_en": "",
+    "lat": 37.4087181,
+    "lng": 140.3585533,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 683187165,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "古町温泉;赤岩荘",
+    "name_en": "",
+    "lat": 37.1858705,
+    "lng": 139.5270068,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 683387839,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鬼怒川温泉;湯處すず風",
+    "name_en": "Yu dokoro suzu kaze",
+    "lat": 36.7946467,
+    "lng": 139.7027338,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 683495843,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鬼怒川温泉;あけび",
+    "name_en": "",
+    "lat": 36.7955483,
+    "lng": 139.7012253,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 683496012,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鬼怒川公園岩風呂",
+    "name_en": "",
+    "lat": 36.8402316,
+    "lng": 139.7234503,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 683497235,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "開運の湯",
+    "name_en": "",
+    "lat": 36.8649708,
+    "lng": 139.5837374,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 683502655,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "裏磐梯温泉露天風呂;香の湯",
+    "name_en": "",
+    "lat": 37.6667608,
+    "lng": 140.0781992,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 683561274,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "桑折温泉;うぶかの郷",
+    "name_en": "",
+    "lat": 37.8582136,
+    "lng": 140.5076368,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 683576504,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新発田温泉あやめの湯",
+    "name_en": "",
+    "lat": 37.9535196,
+    "lng": 139.3549618,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 684283409,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "虹の里交流館",
+    "name_en": "",
+    "lat": 37.9200852,
+    "lng": 139.3319077,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 684283581,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "城山温泉",
+    "name_en": "",
+    "lat": 37.9022896,
+    "lng": 139.3439965,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 684284105,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "美人の泉",
+    "name_en": "",
+    "lat": 37.8776728,
+    "lng": 139.3099532,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 684285873,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "熊と森の湯",
+    "name_en": "",
+    "lat": 37.8230932,
+    "lng": 139.2943389,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 684286208,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "五泉市村松;さくらんど温泉",
+    "name_en": "",
+    "lat": 37.7005742,
+    "lng": 139.2063716,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 684288136,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いわき湯本駅前;みゆきの湯",
+    "name_en": "",
+    "lat": 37.0070374,
+    "lng": 140.8488585,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 685788560,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "さはこの湯",
+    "name_en": "",
+    "lat": 37.0102838,
+    "lng": 140.8457573,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 685788877,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "天王川トロン温泉",
+    "name_en": "",
+    "lat": 37.0589763,
+    "lng": 140.7091648,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 685789908,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "聖石温泉;恵の湯",
+    "name_en": "",
+    "lat": 37.4845161,
+    "lng": 140.573788,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 685790991,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "富士の湯",
+    "name_en": "",
+    "lat": 37.4698583,
+    "lng": 140.588255,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 685791309,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "千本松温泉",
+    "name_en": "",
+    "lat": 36.9264898,
+    "lng": 139.9343361,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 686288760,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "塩原ファミリー牧場 りんどうの湯",
+    "name_en": "",
+    "lat": 36.9408944,
+    "lng": 139.9087841,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 686289846,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "塩原温泉 あかつきの湯",
+    "name_en": "",
+    "lat": 36.9590209,
+    "lng": 139.9238001,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 686290322,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "与一温泉ホテル",
+    "name_en": "",
+    "lat": 36.8063656,
+    "lng": 140.0048805,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 686299319,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いわせ悠久の里",
+    "name_en": "",
+    "lat": 37.3060216,
+    "lng": 140.2712365,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 686510187,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "須賀川市民温泉",
+    "name_en": "",
+    "lat": 37.2929536,
+    "lng": 140.3617916,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 686511828,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "弘法不動の湯",
+    "name_en": "",
+    "lat": 37.2544923,
+    "lng": 140.3389153,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 686512793,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あゆり温泉",
+    "name_en": "",
+    "lat": 37.1939047,
+    "lng": 140.3328264,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 686513835,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "中島村総合福祉センター;ふれあいの郷",
+    "name_en": "",
+    "lat": 37.1531154,
+    "lng": 140.3500271,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 686514290,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ルネサンス棚倉",
+    "name_en": "",
+    "lat": 37.0356089,
+    "lng": 140.3983538,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 686516348,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯の田温泉 村民保養施設;さぎり荘",
+    "name_en": "",
+    "lat": 37.033209,
+    "lng": 140.5083363,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 686518425,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "鵜ノ尾埼灯台",
+    "name_en": "",
+    "lat": 37.8235222,
+    "lng": 140.9861371,
+    "category": "lighthouse",
+    "prefecture": "fukushima",
+    "osm_id": 687255741,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "杖忘れの湯 赤湯",
+    "name_en": "",
+    "lat": 37.7084289,
+    "lng": 139.4649669,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 687877506,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名目津温泉",
+    "name_en": "",
+    "lat": 37.5415196,
+    "lng": 140.6330941,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 687883430,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "斎藤清美術館",
+    "name_en": "Saito Kiyoshi Museum of Art",
+    "lat": 37.5284807,
+    "lng": 139.7214422,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 691014447,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16104,6 +20262,94 @@
     "data_source": "osm"
   },
   {
+    "name": "そうま温泉　天宝の湯",
+    "name_en": "",
+    "lat": 37.8084117,
+    "lng": 140.9188216,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 696709993,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "かわうちの湯",
+    "name_en": "",
+    "lat": 37.3352575,
+    "lng": 140.8096092,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 696718322,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いいざか;花ももの湯",
+    "name_en": "",
+    "lat": 37.8351365,
+    "lng": 140.4514293,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 696794467,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "フォレスパ大子",
+    "name_en": "",
+    "lat": 36.7926228,
+    "lng": 140.3480383,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 697260523,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "杣の湯",
+    "name_en": "",
+    "lat": 36.9773208,
+    "lng": 139.8059506,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 697336591,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "箱の森プレイパーク 遊湯センター",
+    "name_en": "",
+    "lat": 36.9857679,
+    "lng": 139.8104313,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 697338859,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "奥塩原温泉 河童",
+    "name_en": "",
+    "lat": 36.9807732,
+    "lng": 139.7864194,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 697341148,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "乃木温泉ホテル;ゆの郷",
+    "name_en": "",
+    "lat": 36.8827582,
+    "lng": 139.9963644,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 697407886,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "上神神社",
     "name_en": "",
     "lat": 37.955912,
@@ -16122,6 +20368,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 709840472,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "白根温泉薬師之湯",
+    "name_en": "",
+    "lat": 36.7957648,
+    "lng": 139.2815231,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 713271163,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16155,6 +20412,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 751826047,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "せせらぎ荘",
+    "name_en": "Seseragiso",
+    "lat": 37.4208214,
+    "lng": 139.5452515,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 759525358,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16269,6 +20537,17 @@
     "data_source": "osm"
   },
   {
+    "name": "福のゆ",
+    "name_en": "Fukunoyu",
+    "lat": 36.9622045,
+    "lng": 139.8437832,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 809845370,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "嶽山箒根神社奥の院",
     "name_en": "",
     "lat": 36.9206585,
@@ -16276,6 +20555,105 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 810104828,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "上人一休の湯",
+    "name_en": "",
+    "lat": 36.8730412,
+    "lng": 139.507966,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 813553113,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ちゃぽランド西郷",
+    "name_en": "",
+    "lat": 37.1776158,
+    "lng": 140.0405877,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 813561632,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東北サファリパーク",
+    "name_en": "Tohoku Safari Park",
+    "lat": 37.6422186,
+    "lng": 140.3633807,
+    "category": "zoo",
+    "prefecture": "fukushima",
+    "osm_id": 814613607,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "サル劇場エリア",
+    "name_en": "",
+    "lat": 37.6441824,
+    "lng": 140.3654909,
+    "category": "zoo",
+    "prefecture": "fukushima",
+    "osm_id": 814613687,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "恐竜館",
+    "name_en": "",
+    "lat": 37.64408,
+    "lng": 140.3646486,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 814613690,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "爬虫類館",
+    "name_en": "",
+    "lat": 37.6420025,
+    "lng": 140.3665289,
+    "category": "zoo",
+    "prefecture": "fukushima",
+    "osm_id": 814613708,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "村松郷土資料館",
+    "name_en": "Gosen City Muramatsu Hometown Museum",
+    "lat": 37.6929606,
+    "lng": 139.1690152,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 819534084,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "シカ園",
+    "name_en": "",
+    "lat": 37.693311,
+    "lng": 139.1893735,
+    "category": "zoo",
+    "prefecture": "fukushima",
+    "osm_id": 819534124,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.6108665,
+    "lng": 140.9677026,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 827798397,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16348,6 +20726,39 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 37.4956735,
+    "lng": 139.6518583,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 834941732,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "ヒーリングヴィラ湯元",
+    "name_en": "",
+    "lat": 37.3826495,
+    "lng": 140.3567716,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 849620692,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "東日本大震災・原子力災害伝承館",
+    "name_en": "The Great East Japan Earthquake and Nuclear Disaster Memorial Museum",
+    "lat": 37.4580802,
+    "lng": 141.0265199,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 851572463,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 36.9854163,
     "lng": 139.695018,
     "category": "shrine",
@@ -16364,6 +20775,61 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 881553550,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "石橋ヘルス温泉",
+    "name_en": "",
+    "lat": 37.3596312,
+    "lng": 140.3437232,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 888803184,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "バーデン温泉",
+    "name_en": "",
+    "lat": 37.3600299,
+    "lng": 140.3428956,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 888803185,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "月見が丘町民センター",
+    "name_en": "",
+    "lat": 37.5304207,
+    "lng": 139.7243565,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 889238215,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "あさかの杜;クア温泉館",
+    "name_en": "",
+    "lat": 37.3594024,
+    "lng": 140.340059,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 889416699,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "福島市民家園",
+    "name_en": "",
+    "lat": 37.730319,
+    "lng": 140.3734278,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 907704293,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16522,6 +20988,17 @@
     "data_source": "osm"
   },
   {
+    "name": "鹿狼の湯",
+    "name_en": "Karou no Yu",
+    "lat": 37.8579041,
+    "lng": 140.8705777,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 911299482,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "龍昌寺",
     "name_en": "",
     "lat": 37.8776318,
@@ -16551,6 +21028,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 948336395,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "石の美術館 STONE PLAZA",
+    "name_en": "",
+    "lat": 36.9908134,
+    "lng": 140.1633908,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 948612356,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16775,6 +21263,39 @@
     "data_source": "osm"
   },
   {
+    "name": "ふるさとの森",
+    "name_en": "",
+    "lat": 37.2171148,
+    "lng": 140.333431,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 1006323843,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "湯倉温泉共同浴場",
+    "name_en": "",
+    "lat": 37.4294982,
+    "lng": 139.4815744,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 1021675764,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "いわき震災伝承みらい館",
+    "name_en": "Iwaki 3.11 Memorial and Revitalisation Museum",
+    "lat": 36.9994582,
+    "lng": 140.9785698,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 1029402268,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "温泉神社",
     "name_en": "",
     "lat": 36.9721137,
@@ -16782,6 +21303,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 1029461522,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "道の駅ふくしま",
+    "name_en": "",
+    "lat": 37.8045129,
+    "lng": 140.4111168,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 1037493552,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16804,6 +21336,28 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 1052434716,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "新発田城",
+    "name_en": "",
+    "lat": 37.954827,
+    "lng": 139.3257785,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 1057150789,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "金枡酒造",
+    "name_en": "",
+    "lat": 37.9381296,
+    "lng": 139.3322245,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 1058035856,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -16953,6 +21507,17 @@
   {
     "name": "名称不明",
     "name_en": "",
+    "lat": 37.3539627,
+    "lng": 140.4764552,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 1093271613,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
     "lat": 37.8403973,
     "lng": 139.2289518,
     "category": "temple",
@@ -16969,6 +21534,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 1095288856,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "奥会津博物館",
+    "name_en": "",
+    "lat": 37.1462072,
+    "lng": 139.720202,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 1108841744,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17072,6 +21648,17 @@
     "data_source": "osm"
   },
   {
+    "name": "二本松城 (Nihonmatsu-jō)",
+    "name_en": "Nihonmatsu Castle",
+    "lat": 37.5997806,
+    "lng": 140.4283016,
+    "category": "castle",
+    "prefecture": "fukushima",
+    "osm_id": 1189149053,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "伊佐須美神社",
     "name_en": "",
     "lat": 37.4564105,
@@ -17112,6 +21699,39 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 1191514370,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.4079623,
+    "lng": 140.4960984,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 1208015451,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 37.4087144,
+    "lng": 140.4956156,
+    "category": "rest_area",
+    "prefecture": "fukushima",
+    "osm_id": 1208015452,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "名称不明",
+    "name_en": "",
+    "lat": 36.96829,
+    "lng": 139.8223267,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 1210842972,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17336,6 +21956,17 @@
     "data_source": "osm"
   },
   {
+    "name": "明治蔵",
+    "name_en": "",
+    "lat": 37.6410768,
+    "lng": 140.9583621,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 1283596639,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "新祥寺",
     "name_en": "",
     "lat": 37.6390691,
@@ -17486,6 +22117,17 @@
     "category": "shrine",
     "prefecture": "fukushima",
     "osm_id": 1296368066,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "でんきや動物園",
+    "name_en": "",
+    "lat": 37.6186996,
+    "lng": 140.9543926,
+    "category": "zoo",
+    "prefecture": "fukushima",
+    "osm_id": 1300234742,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17655,6 +22297,17 @@
     "data_source": "osm"
   },
   {
+    "name": "アクアマリンふくしま",
+    "name_en": "AQUAMARINE FUKUSHIMA",
+    "lat": 36.9429674,
+    "lng": 140.9011649,
+    "category": "zoo",
+    "prefecture": "fukushima",
+    "osm_id": 1382555824,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "大和久妙見神社",
     "name_en": "",
     "lat": 37.4059931,
@@ -17688,6 +22341,17 @@
     "data_source": "osm"
   },
   {
+    "name": "震災遺構 浪江町立請戸小学校",
+    "name_en": "Ukedo Elementary School Memorial",
+    "lat": 37.4750428,
+    "lng": 141.0347369,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 1427667925,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "浪江神社",
     "name_en": "",
     "lat": 37.4950276,
@@ -17717,6 +22381,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 1431110528,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "宮坂考古館",
+    "name_en": "",
+    "lat": 37.9056011,
+    "lng": 140.1270346,
+    "category": "museum",
+    "prefecture": "fukushima",
+    "osm_id": 1431437930,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -17937,6 +22612,28 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 1431880571,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "共同浴場 滝の湯",
+    "name_en": "",
+    "lat": 37.8815631,
+    "lng": 140.0540479,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 1431892884,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "尼湯温泉枡",
+    "name_en": "",
+    "lat": 37.8799774,
+    "lng": 140.0548342,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 1431897115,
     "spot_type": "data_spot",
     "data_source": "osm"
   },
@@ -18557,6 +23254,17 @@
     "data_source": "osm"
   },
   {
+    "name": "おいたま温泉 賜の湯",
+    "name_en": "",
+    "lat": 37.9526712,
+    "lng": 140.1376295,
+    "category": "onsen",
+    "prefecture": "fukushima",
+    "osm_id": 1442059129,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
     "name": "名称不明",
     "name_en": "",
     "lat": 37.8203245,
@@ -18729,6 +23437,17 @@
     "category": "temple",
     "prefecture": "fukushima",
     "osm_id": 1450652433,
+    "spot_type": "data_spot",
+    "data_source": "osm"
+  },
+  {
+    "name": "西光寺",
+    "name_en": "",
+    "lat": 37.6198586,
+    "lng": 139.6298641,
+    "category": "temple",
+    "prefecture": "fukushima",
+    "osm_id": 1495784452,
     "spot_type": "data_spot",
     "data_source": "osm"
   }
