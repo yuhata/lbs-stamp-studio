@@ -15,7 +15,7 @@ const PRESET_PALETTES = [
   { name: '江戸紫（美術館）', colors: ['#745399', '#523A70'] },
 ]
 
-const STORAGE_KEY = 'lbs-stamp-studio-gemini-key'
+const API_URL = 'https://stampiko-api.vercel.app'
 
 export default function BatchForm({ stamps, setStamps, ngReasons }) {
   const [spotName, setSpotName] = useState('')
@@ -27,8 +27,6 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
   const [count, setCount] = useState(4)
   const [generating, setGenerating] = useState(false)
   const [generatedImages, setGeneratedImages] = useState([])
-  const [apiKey, setApiKey] = useState(() => localStorage.getItem(STORAGE_KEY) || '')
-  const [showKeyInput, setShowKeyInput] = useState(false)
 
   const DEFAULT_PROMPT = `Japanese rubber stamp design for a location-based stamp collection app.
 Category: Location Stamp
@@ -57,18 +55,8 @@ Image size: 1024x1024 pixels.`
 
   const [promptTemplate, setPromptTemplate] = useState(DEFAULT_PROMPT)
 
-  const saveApiKey = (key) => {
-    setApiKey(key)
-    if (key) localStorage.setItem(STORAGE_KEY, key)
-    else localStorage.removeItem(STORAGE_KEY)
-  }
-
   const handleGenerate = async () => {
     if (!spotName.trim()) return
-    if (!apiKey) {
-      setShowKeyInput(true)
-      return
-    }
 
     setGenerating(true)
     setGeneratedImages([])
@@ -78,42 +66,30 @@ Image size: 1024x1024 pixels.`
       .replace(/\{PALETTE\}/g, palette.join(', '))
 
     try {
-      // Dynamic import of Gemini SDK
-      const { GoogleGenerativeAI } = await import('@google/generative-ai')
-      const genAI = new GoogleGenerativeAI(apiKey)
-      const model = genAI.getGenerativeModel({
-        model: 'gemini-2.5-flash-image',
-        generationConfig: { responseModalities: ['image', 'text'] },
+      const res = await fetch(`${API_URL}/api/generate-stamp-image`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ prompt, count }),
       })
+      const data = await res.json()
 
-      const results = []
-      for (let i = 0; i < count; i++) {
-        try {
-          const result = await model.generateContent(prompt)
-          for (const candidate of result.response.candidates) {
-            for (const part of candidate.content.parts) {
-              if (part.inlineData) {
-                const dataUrl = `data:image/png;base64,${part.inlineData.data}`
-                results.push({
-                  id: `gen_${Date.now()}_${i}`,
-                  dataUrl,
-                  spotName,
-                  variant: i,
-                })
-              }
-            }
+      if (!res.ok) throw new Error(data.error || 'API error')
+
+      const results = (data.results || []).map((r, i) => {
+        if (r.base64) {
+          return {
+            id: `gen_${Date.now()}_${i}`,
+            dataUrl: `data:${r.mimeType || 'image/png'};base64,${r.base64}`,
+            spotName,
+            variant: r.index,
           }
-          // レート制限対策
-          if (i < count - 1) await new Promise(r => setTimeout(r, 3000))
-        } catch (err) {
-          console.error(`Generation ${i} failed:`, err)
-          results.push({ id: `err_${i}`, error: err.message, variant: i })
         }
-      }
+        return { id: `err_${i}`, error: r.error, variant: r.index }
+      })
 
       setGeneratedImages(results)
     } catch (err) {
-      alert(`Gemini API error: ${err.message}`)
+      alert(`生成エラー: ${err.message}`)
     } finally {
       setGenerating(false)
     }
@@ -121,37 +97,6 @@ Image size: 1024x1024 pixels.`
 
   return (
     <div className="batch-form">
-      {/* API Key設定 */}
-      <div className="form-group">
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <label>Gemini API Key</label>
-          <span style={{ fontSize: 11, color: apiKey ? 'var(--accent-green)' : 'var(--accent-red)' }}>
-            {apiKey ? '✅ 設定済み' : '❌ 未設定'}
-          </span>
-        </div>
-        {(!apiKey || showKeyInput) ? (
-          <div style={{ display: 'flex', gap: 8 }}>
-            <input
-              type="password"
-              placeholder="AIzaSy..."
-              value={apiKey}
-              onChange={e => saveApiKey(e.target.value)}
-              style={{ flex: 1 }}
-            />
-            {showKeyInput && apiKey && (
-              <button className="filter-btn" onClick={() => setShowKeyInput(false)}>OK</button>
-            )}
-          </div>
-        ) : (
-          <button className="filter-btn" onClick={() => setShowKeyInput(true)} style={{ fontSize: 11 }}>
-            キーを変更
-          </button>
-        )}
-        <p style={{ fontSize: 10, color: 'var(--text-muted)', marginTop: 4 }}>
-          Google AI Studio で取得: https://aistudio.google.com/
-        </p>
-      </div>
-
       <div className="form-group">
         <label>スポット名</label>
         <input
