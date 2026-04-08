@@ -4,6 +4,17 @@ const AREA_LABELS = {
   asakusa: '浅草',
   shibuya: '渋谷',
   shinjuku: '新宿',
+  akihabara: '秋葉原',
+  ueno: '上野',
+  harajuku: '原宿',
+  roppongi: '六本木',
+  ginza: '銀座',
+  nihonbashi: '日本橋',
+  tsukiji: '築地',
+  ikebukuro: '池袋',
+  ryogoku: '両国',
+  skytree: 'スカイツリー',
+  tokyotower: '東京タワー',
 }
 
 const STATUS_OPTIONS = [
@@ -60,17 +71,16 @@ export default function StampGallery({
       <div className="filters">
         <div className="filter-group">
           <label>エリア:</label>
-          <button
-            className={`filter-btn ${filterArea === 'all' ? 'active' : ''}`}
-            onClick={() => setFilterArea('all')}
-          >全て</button>
-          {areas.map(a => (
-            <button
-              key={a}
-              className={`filter-btn ${filterArea === a ? 'active' : ''}`}
-              onClick={() => setFilterArea(a)}
-            >{AREA_LABELS[a] || a}</button>
-          ))}
+          <select
+            value={filterArea}
+            onChange={e => setFilterArea(e.target.value)}
+            className="filter-select"
+          >
+            <option value="all">全て</option>
+            {areas.map(a => (
+              <option key={a} value={a}>{AREA_LABELS[a] || a}</option>
+            ))}
+          </select>
         </div>
         <div className="filter-group">
           <label>ステータス:</label>

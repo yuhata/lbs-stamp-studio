@@ -5,6 +5,8 @@ import BatchForm from './components/BatchForm'
 import AreaRules from './components/AreaRules'
 import NGLog from './components/NGLog'
 import AdminPanel from './components/AdminPanel'
+import { collection, getDocs, query, where } from 'firebase/firestore'
+import { db } from './config/firebase'
 import './App.css'
 
 const TABS = [
@@ -25,10 +27,50 @@ function App() {
   const [showAdmin, setShowAdmin] = useState(false)
 
   useEffect(() => {
-    fetch(import.meta.env.BASE_URL + 'stamps/manifest.json')
-      .then(r => r.json())
-      .then(setStamps)
-      .catch(() => setStamps([]))
+    const loadStamps = async () => {
+      // 1. manifest.json（既存の静的スタンプ）
+      let manifestStamps = []
+      try {
+        const res = await fetch(import.meta.env.BASE_URL + 'stamps/manifest.json')
+        manifestStamps = await res.json()
+      } catch {}
+
+      // 2. Firestoreからランドマークスポット（thumbnail_url付き）を取得
+      let firestoreStamps = []
+      try {
+        const snap = await getDocs(query(
+          collection(db, 'spots'),
+          where('spot_type', '==', 'landmark')
+        ))
+        firestoreStamps = snap.docs
+          .map(d => ({ id: d.id, ...d.data() }))
+          .filter(s => s.thumbnail_url)
+          .map(s => ({
+            id: `fs_${s.id}`,
+            spotId: s.id,
+            spotName: s.name,
+            area: s.group_id || 'unknown',
+            lat: s.location?.latitude || 0,
+            lng: s.location?.longitude || 0,
+            variant: 0,
+            path: null,
+            dataUrl: s.thumbnail_url,
+            status: 'draft',
+            designerNote: '',
+            ngTags: [],
+            source: 'firestore',
+          }))
+      } catch (err) {
+        console.warn('[App] Firestore fetch failed:', err.message)
+      }
+
+      // マージ（manifest優先、Firestoreは未登録分のみ追加）
+      const manifestSpotIds = new Set(manifestStamps.map(s => s.spotId))
+      const newFromFirestore = firestoreStamps.filter(s => !manifestSpotIds.has(s.spotId))
+      setStamps([...manifestStamps, ...newFromFirestore])
+    }
+
+    loadStamps()
 
     const saved = localStorage.getItem('lbs-stamp-studio-ng-log')
     if (saved) setNgReasons(JSON.parse(saved))
