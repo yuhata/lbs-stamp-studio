@@ -55,6 +55,50 @@ export const NG_TO_PROMPT_RULES = {
   '写実的すぎる': 'Use FLAT graphic shapes only. NO gradients, NO 3D effects, NO photorealism, NO shading.',
 }
 
+// デザインオプション定数（BatchForm / StampModal 共用）
+export const MOOD_OPTIONS = [
+  { value: '', label: '指定なし' },
+  { value: 'simple', label: 'シンプル', prompt: 'Minimalist design with clean lines and few details.' },
+  { value: 'modern', label: 'モダン', prompt: 'Modern, stylish design with geometric shapes and bold lines.' },
+  { value: 'traditional', label: '伝統的', prompt: 'Traditional Japanese woodblock print style with classic motifs.' },
+  { value: 'cute', label: 'かわいい', prompt: 'Cute, friendly design with soft rounded shapes.' },
+  { value: 'elegant', label: 'エレガント', prompt: 'Refined, elegant design with delicate linework and sophistication.' },
+]
+
+export const COLOR_COUNT_OPTIONS = [
+  { value: '', label: '指定なし', prompt: '' },
+  { value: 'mono', label: '単色', prompt: 'Use ONLY 1 ink color from the palette. Monochrome stamp.' },
+  { value: '2color', label: '2色', prompt: 'Use exactly 2 ink colors from the palette.' },
+  { value: '3color', label: '3色', prompt: 'Use exactly 3 ink colors from the palette.' },
+]
+
+export const ELEMENT_OPTIONS = [
+  { value: 'building', label: '建物' },
+  { value: 'landscape', label: '風景' },
+  { value: 'animal', label: '動物' },
+  { value: 'person', label: '人' },
+  { value: 'food', label: '食べ物' },
+  { value: 'nature', label: '自然' },
+]
+
+export const API_URL = 'https://stampiko-api.vercel.app'
+
+/**
+ * デザインオプションからプロンプト補足ブロックを構築
+ */
+export function buildDesignOptionsBlock({ mood, colorCount, elements }) {
+  const lines = []
+  const moodOpt = MOOD_OPTIONS.find(m => m.value === mood)
+  if (moodOpt?.prompt) lines.push(moodOpt.prompt)
+  const colorOpt = COLOR_COUNT_OPTIONS.find(c => c.value === colorCount)
+  if (colorOpt?.prompt) lines.push(colorOpt.prompt)
+  if (elements && elements.length > 0) {
+    const labels = elements.map(e => ELEMENT_OPTIONS.find(o => o.value === e)?.label || e)
+    lines.push(`Include these visual elements: ${labels.join(', ')}.`)
+  }
+  return lines.length > 0 ? `\n\n=== DESIGN OPTIONS ===\n${lines.join('\n')}` : ''
+}
+
 // localStorage キー
 export const STORAGE_KEYS = {
   PROMPT: 'lbs-stamp-studio-prompt',

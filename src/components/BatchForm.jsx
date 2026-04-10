@@ -1,35 +1,14 @@
 import { useState, useEffect, useCallback } from 'react'
-import { DEFAULT_PROMPT, STORAGE_KEYS } from '../config/promptDefaults'
+import {
+  DEFAULT_PROMPT, STORAGE_KEYS, API_URL,
+  MOOD_OPTIONS, COLOR_COUNT_OPTIONS, ELEMENT_OPTIONS,
+  buildDesignOptionsBlock,
+} from '../config/promptDefaults'
 
 const STYLES = [
   { value: 'circular', label: '円形スタンプ（駅スタンプ風）' },
   { value: 'square', label: '方形スタンプ' },
   { value: 'freeform', label: 'フリーフォーム' },
-]
-
-const MOOD_OPTIONS = [
-  { value: '', label: '指定なし' },
-  { value: 'simple', label: 'シンプル', prompt: 'Minimalist design with clean lines and few details.' },
-  { value: 'modern', label: 'モダン', prompt: 'Modern, stylish design with geometric shapes and bold lines.' },
-  { value: 'traditional', label: '伝統的', prompt: 'Traditional Japanese woodblock print style with classic motifs.' },
-  { value: 'cute', label: 'かわいい', prompt: 'Cute, friendly design with soft rounded shapes.' },
-  { value: 'elegant', label: 'エレガント', prompt: 'Refined, elegant design with delicate linework and sophistication.' },
-]
-
-const COLOR_COUNT_OPTIONS = [
-  { value: '', label: '指定なし（2〜4色）' },
-  { value: 'mono', label: '単色', prompt: 'Use ONLY 1 ink color from the palette. Monochrome stamp.' },
-  { value: '2color', label: '2色', prompt: 'Use exactly 2 ink colors from the palette.' },
-  { value: '3color', label: '3色', prompt: 'Use exactly 3 ink colors from the palette.' },
-]
-
-const ELEMENT_OPTIONS = [
-  { value: 'building', label: '建物' },
-  { value: 'landscape', label: '風景' },
-  { value: 'animal', label: '動物' },
-  { value: 'person', label: '人' },
-  { value: 'food', label: '食べ物' },
-  { value: 'nature', label: '自然' },
 ]
 
 const PRESET_PALETTES = [
@@ -40,8 +19,6 @@ const PRESET_PALETTES = [
   { name: '丁子茶（温泉）', colors: ['#B4866B', '#8B6347'] },
   { name: '江戸紫（美術館）', colors: ['#745399', '#523A70'] },
 ]
-
-const API_URL = 'https://stampiko-api.vercel.app'
 
 export default function BatchForm({ stamps, setStamps, ngReasons }) {
   const [spotName, setSpotName] = useState('')
@@ -97,19 +74,7 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
     setGeneratedImages([])
     setAddedToGallery(false)
 
-    // デザインオプションをプロンプトに追加
-    const optionLines = []
-    const moodOption = MOOD_OPTIONS.find(m => m.value === mood)
-    if (moodOption?.prompt) optionLines.push(moodOption.prompt)
-    const colorOption = COLOR_COUNT_OPTIONS.find(c => c.value === colorCount)
-    if (colorOption?.prompt) optionLines.push(colorOption.prompt)
-    if (elements.length > 0) {
-      const labels = elements.map(e => ELEMENT_OPTIONS.find(o => o.value === e)?.label || e)
-      optionLines.push(`Include these visual elements: ${labels.join(', ')}.`)
-    }
-    const optionBlock = optionLines.length > 0
-      ? `\n\n=== DESIGN OPTIONS ===\n${optionLines.join('\n')}`
-      : ''
+    const optionBlock = buildDesignOptionsBlock({ mood, colorCount, elements })
 
     const prompt = (promptTemplate + optionBlock)
       .replace(/\{SPOT_NAME\}/g, spotName)

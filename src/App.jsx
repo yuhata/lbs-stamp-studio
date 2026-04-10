@@ -157,7 +157,7 @@ function App() {
       )}
       {activeTab === 'gallery' && (
         <StampGallery
-          stamps={stamps} areas={areas}
+          stamps={stamps} setStamps={setStamps} areas={areas}
           filterArea={filterArea} setFilterArea={setFilterArea}
           filterStatus={filterStatus} setFilterStatus={setFilterStatus}
           updateStamp={updateStamp} addNgReason={addNgReason} ngReasons={ngReasons}

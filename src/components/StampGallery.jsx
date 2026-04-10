@@ -1,4 +1,9 @@
-import { useState, useEffect, useRef, useCallback } from 'react'
+import { useState, useEffect, useRef } from 'react'
+import {
+  DEFAULT_PROMPT, STORAGE_KEYS, API_URL,
+  MOOD_OPTIONS, COLOR_COUNT_OPTIONS,
+  buildDesignOptionsBlock,
+} from '../config/promptDefaults'
 
 const AREA_LABELS = {
   asakusa: '浅草',
@@ -38,7 +43,7 @@ const NG_PRESETS = [
 ]
 
 export default function StampGallery({
-  stamps, areas, filterArea, setFilterArea,
+  stamps, setStamps, areas, filterArea, setFilterArea,
   filterStatus, setFilterStatus, updateStamp,
   addNgReason, ngReasons,
   focusSpotId, clearFocusSpot,
@@ -132,6 +137,7 @@ export default function StampGallery({
           addNgReason={addNgReason}
           ngReasons={ngReasons}
           onShowOnMap={onShowOnMap}
+          setStamps={setStamps}
         />
       )}
     </div>
@@ -165,10 +171,63 @@ function StampCard({ stamp, onClick, updateStamp }) {
   )
 }
 
-function StampModal({ stamp, onClose, updateStamp, addNgReason, ngReasons, onShowOnMap }) {
+function StampModal({ stamp, onClose, updateStamp, addNgReason, ngReasons, onShowOnMap, setStamps }) {
   const [note, setNote] = useState(stamp.designerNote || '')
   const [selectedTags, setSelectedTags] = useState(stamp.ngTags || [])
   const [customReason, setCustomReason] = useState('')
+
+  // バリエーション生成
+  const [showVariation, setShowVariation] = useState(false)
+  const [varMood, setVarMood] = useState('')
+  const [varColorCount, setVarColorCount] = useState('')
+  const [varGenerating, setVarGenerating] = useState(false)
+  const [varResults, setVarResults] = useState([])
+
+  const handleGenerateVariation = async () => {
+    setVarGenerating(true)
+    setVarResults([])
+    const basePrompt = localStorage.getItem(STORAGE_KEYS.PROMPT) || DEFAULT_PROMPT
+    const optionBlock = buildDesignOptionsBlock({ mood: varMood, colorCount: varColorCount, elements: [] })
+    const prompt = (basePrompt + optionBlock)
+      .replace(/\{SPOT_NAME\}/g, stamp.spotName)
+      .replace(/\{PALETTE\}/g, '') // パレット情報がスタンプにない場合はAI任せ
+    try {
+      const res = await fetch(`${API_URL}/api/generate-stamp-image`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ prompt, count: 2 }),
+      })
+      const data = await res.json()
+      if (!res.ok) throw new Error(data.error || 'API error')
+      const results = (data.results || []).filter(r => r.base64).map((r, i) => ({
+        id: `var_${Date.now()}_${i}`,
+        dataUrl: `data:${r.mimeType || 'image/png'};base64,${r.base64}`,
+      }))
+      setVarResults(results)
+    } catch (err) {
+      alert(`生成エラー: ${err.message}`)
+    } finally {
+      setVarGenerating(false)
+    }
+  }
+
+  const addVariationToGallery = (varItem) => {
+    const newStamp = {
+      id: varItem.id,
+      spotId: stamp.spotId,
+      spotName: stamp.spotName,
+      area: stamp.area,
+      lat: stamp.lat || 0,
+      lng: stamp.lng || 0,
+      variant: Date.now(),
+      path: null,
+      dataUrl: varItem.dataUrl,
+      status: 'draft',
+      designerNote: '',
+      ngTags: [],
+    }
+    setStamps(prev => [...prev, newStamp])
+  }
 
   const toggleTag = (label) => {
     const next = selectedTags.includes(label)
@@ -299,6 +358,83 @@ function StampModal({ stamp, onClose, updateStamp, addNgReason, ngReasons, onSho
             <button className="action-btn reject" onClick={handleReject}>
               却下{selectedTags.length > 0 ? ` (${selectedTags.length})` : ''}
             </button>
+          </div>
+
+          {/* バリエーション生成 */}
+          <div style={{ marginTop: 14 }}>
+            <button
+              onClick={() => setShowVariation(!showVariation)}
+              style={{
+                padding: '6px 12px', background: 'none',
+                border: '1px solid var(--accent)', borderRadius: 6,
+                color: 'var(--accent)', fontSize: 12, cursor: 'pointer',
+              }}
+            >
+              {showVariation ? '閉じる' : 'バリエーション生成'}
+            </button>
+
+            {showVariation && (
+              <div style={{ marginTop: 10, padding: 12, background: 'var(--bg)', borderRadius: 8 }}>
+                <div style={{ marginBottom: 8 }}>
+                  <label style={{ fontSize: 11, color: 'var(--text-muted)', display: 'block', marginBottom: 4 }}>雰囲気:</label>
+                  <div style={{ display: 'flex', gap: 4, flexWrap: 'wrap' }}>
+                    {MOOD_OPTIONS.map(m => (
+                      <button key={m.value}
+                        className={`filter-btn ${varMood === m.value ? 'active' : ''}`}
+                        style={{ fontSize: 11, padding: '2px 8px' }}
+                        onClick={() => setVarMood(m.value)}>
+                        {m.label}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+                <div style={{ marginBottom: 8 }}>
+                  <label style={{ fontSize: 11, color: 'var(--text-muted)', display: 'block', marginBottom: 4 }}>色数:</label>
+                  <div style={{ display: 'flex', gap: 4, flexWrap: 'wrap' }}>
+                    {COLOR_COUNT_OPTIONS.map(c => (
+                      <button key={c.value}
+                        className={`filter-btn ${varColorCount === c.value ? 'active' : ''}`}
+                        style={{ fontSize: 11, padding: '2px 8px' }}
+                        onClick={() => setVarColorCount(c.value)}>
+                        {c.label}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+                <button
+                  onClick={handleGenerateVariation}
+                  disabled={varGenerating}
+                  style={{
+                    width: '100%', padding: '8px', background: 'var(--accent)',
+                    border: 'none', borderRadius: 6, color: '#fff',
+                    fontSize: 12, fontWeight: 700, cursor: 'pointer',
+                    opacity: varGenerating ? 0.5 : 1,
+                  }}
+                >
+                  {varGenerating ? '生成中...' : '2候補を生成'}
+                </button>
+
+                {varResults.length > 0 && (
+                  <div style={{ display: 'flex', gap: 8, marginTop: 10 }}>
+                    {varResults.map(v => (
+                      <div key={v.id} style={{ flex: 1, textAlign: 'center' }}>
+                        <img src={v.dataUrl} alt="" style={{ width: '100%', borderRadius: 6 }} />
+                        <button
+                          onClick={() => addVariationToGallery(v)}
+                          style={{
+                            marginTop: 4, padding: '4px 8px', background: 'none',
+                            border: '1px solid var(--accent-green)', borderRadius: 4,
+                            color: 'var(--accent-green)', fontSize: 10, cursor: 'pointer',
+                          }}
+                        >
+                          ギャラリーに追加
+                        </button>
+                      </div>
+                    ))}
+                  </div>
+                )}
+              </div>
+            )}
           </div>
 
           {/* 画像上書きアップロード */}
