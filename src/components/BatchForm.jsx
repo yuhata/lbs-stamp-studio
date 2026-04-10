@@ -1,4 +1,5 @@
-import { useState } from 'react'
+import { useState, useEffect, useCallback } from 'react'
+import { DEFAULT_PROMPT, STORAGE_KEYS } from '../config/promptDefaults'
 
 const STYLES = [
   { value: 'circular', label: '円形スタンプ（駅スタンプ風）' },
@@ -29,39 +30,36 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
   const [generatedImages, setGeneratedImages] = useState([])
   const [addedToGallery, setAddedToGallery] = useState(false)
 
-  const DEFAULT_PROMPT = `Japanese rubber stamp design for a location-based stamp collection app.
-Category: Location Stamp
-
-=== BACKGROUND (CRITICAL) ===
-The background outside the stamp circle MUST be PURE WHITE (#FFFFFF).
-NO texture, NO grain, NO off-white outside the circle.
-
-=== STAMP FORMAT ===
-CIRCULAR ink stamp, fills ~90% canvas height. Pure white background outside.
-NO rectangular frames. NOT a postage stamp.
-
-=== INSIDE THE STAMP ===
-Street View perspective of {SPOT_NAME}. Landmark silhouette fills ~45–55% of the circle.
-
-=== INK TEXTURE ===
-Subtle rubber-stamp ink effect. Gentle ink bleed at edges.
-
-=== COLOR ===
-Use 2–4 ink colors from: {PALETTE}.
-Colors appear as absorbed ink, slightly muted. DO NOT use white inside.
-
-=== VISUAL STYLE ===
-Flat graphic shapes, Showa-era retro. NO gradients, NO 3D, NO photorealism.
-Image size: 1024x1024 pixels.`
-
   const [promptTemplate, setPromptTemplate] = useState(() =>
-    localStorage.getItem('lbs-stamp-studio-prompt') || DEFAULT_PROMPT
+    localStorage.getItem(STORAGE_KEYS.PROMPT) || DEFAULT_PROMPT
   )
+
+  // 他タブ（NGLog）でプロンプトがリセット/更新された場合に同期
+  useEffect(() => {
+    const handleStorage = (e) => {
+      if (e.key === STORAGE_KEYS.PROMPT) {
+        setPromptTemplate(e.newValue || DEFAULT_PROMPT)
+      }
+    }
+    window.addEventListener('storage', handleStorage)
+    return () => window.removeEventListener('storage', handleStorage)
+  }, [])
+
+  // タブ切り替え時にlocalStorageから最新値を読み込む
+  const syncPromptFromStorage = useCallback(() => {
+    const stored = localStorage.getItem(STORAGE_KEYS.PROMPT) || DEFAULT_PROMPT
+    setPromptTemplate(stored)
+  }, [])
+
+  useEffect(() => {
+    document.addEventListener('visibilitychange', syncPromptFromStorage)
+    return () => document.removeEventListener('visibilitychange', syncPromptFromStorage)
+  }, [syncPromptFromStorage])
 
   // プロンプト変更時にlocalStorageに保存
   const updatePrompt = (val) => {
     setPromptTemplate(val)
-    localStorage.setItem('lbs-stamp-studio-prompt', val)
+    localStorage.setItem(STORAGE_KEYS.PROMPT, val)
   }
 
   const handleGenerate = async () => {

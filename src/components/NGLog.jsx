@@ -1,4 +1,12 @@
 import { useState } from 'react'
+import {
+  DEFAULT_PROMPT,
+  NG_TO_PROMPT_RULES,
+  STORAGE_KEYS,
+  MAX_LEARNED_RULES,
+  extractBasePrompt,
+  buildPromptWithRules,
+} from '../config/promptDefaults'
 
 const CATEGORY_LABELS = {
   content: 'コンテンツ',
@@ -20,19 +28,6 @@ const CATEGORY_COLORS = {
   background: '#78909c',
   style: '#66bb6a',
   other: '#888899',
-}
-
-// NG理由 → プロンプト追加ルールのマッピング
-const NG_TO_PROMPT_RULES = {
-  'テキスト混入': 'CRITICAL: Absolutely NO text, letters, kanji, kana, numbers, dates, or labels ANYWHERE in the image.',
-  '構図が偏っている': 'Center the main subject. Ensure balanced composition with breathing space on all sides.',
-  '色が規格外': 'Use ONLY the specified palette colors. Do NOT introduce any colors outside the palette.',
-  '透過品質が悪い': 'The area OUTSIDE the stamp circle must be PURE WHITE (#FFFFFF) with zero texture or grain.',
-  'インクテクスチャ不足': 'Add visible rubber-stamp ink texture: slight unevenness, gentle ink bleed at edges, subtle pressure variation.',
-  'デジタル感が強い': 'Avoid clean digital look. Emulate traditional woodblock/rubber stamp printing with organic imperfections.',
-  'ランドマーク不明瞭': 'The landmark must be clearly recognizable as a distinct silhouette. Avoid abstract or generic shapes.',
-  '詰め込みすぎ': 'Keep the design simple. Maximum 3 visual elements inside the stamp circle. Wide spacing between elements.',
-  '写実的すぎる': 'Use FLAT graphic shapes only. NO gradients, NO 3D effects, NO photorealism, NO shading.',
 }
 
 export default function NGLog({ ngReasons, setNgReasons, stamps }) {
@@ -66,48 +61,61 @@ export default function NGLog({ ngReasons, setNgReasons, stamps }) {
 
   const [applied, setApplied] = useState(false)
 
-  // NGログからプロンプトを自動改善
+  // NGログからプロンプトを自動改善（セクション置換方式）
   const handleLearnAndApply = () => {
-    const currentPrompt = localStorage.getItem('lbs-stamp-studio-prompt') || ''
+    const currentPrompt = localStorage.getItem(STORAGE_KEYS.PROMPT) || DEFAULT_PROMPT
 
-    // 2回以上出現したNG理由に対応するルールを収集
-    const rulesToAdd = []
+    // ベースプロンプト（学習ルール部分を除去）を取得
+    const basePrompt = extractBasePrompt(currentPrompt)
+
+    // 2回以上出現したNG理由に対応するルールを頻度順に収集（重複排除）
+    const rulesSet = new Set()
     sortedReasons.forEach(([reason, count]) => {
       if (count < 2) return
-      // NG_TO_PROMPT_RULESから一致するルールを探す
       for (const [ngKey, rule] of Object.entries(NG_TO_PROMPT_RULES)) {
         if (reason.includes(ngKey) || ngKey.includes(reason)) {
-          if (!currentPrompt.includes(rule)) {
-            rulesToAdd.push(rule)
-          }
+          rulesSet.add(rule)
         }
-      }
-      // promptHintがある場合も追加
-      const sample = ngReasons.find(r => r.reason === reason)
-      if (sample?.promptHint && !currentPrompt.includes(sample.promptHint)) {
-        rulesToAdd.push(sample.promptHint)
       }
     })
 
-    if (rulesToAdd.length === 0) {
-      alert('追加できるルールがありません（既に適用済み、または対応するルールがありません）')
+    const rules = [...rulesSet]
+    if (rules.length === 0) {
+      alert('追加できるルールがありません（2回以上のNG理由がないか、対応するルールがありません）')
       return
     }
 
-    // プロンプトの末尾にルールブロックを追加
-    const rulesBlock = `\n\n=== LEARNED RULES (from NG log) ===\n${rulesToAdd.map(r => `- ${r}`).join('\n')}`
-    const newPrompt = currentPrompt + rulesBlock
-    localStorage.setItem('lbs-stamp-studio-prompt', newPrompt)
+    if (rules.length > MAX_LEARNED_RULES) {
+      alert(`NG理由が多いため、頻度上位${MAX_LEARNED_RULES}件のルールのみ適用します。`)
+    }
+
+    // ベースプロンプト + 学習ルールで完成プロンプトを構築（追記ではなく置換）
+    const newPrompt = buildPromptWithRules(basePrompt, rules)
+    localStorage.setItem(STORAGE_KEYS.PROMPT, newPrompt)
 
     setApplied(true)
     setTimeout(() => setApplied(false), 3000)
-    alert(`✅ ${rulesToAdd.length}件のルールをプロンプトに追加しました。\nバッチ生成タブで確認できます。`)
+    alert(`✅ ${Math.min(rules.length, MAX_LEARNED_RULES)}件のルールをプロンプトに適用しました。\n（ベースプロンプトの枠・背景指定は保護されています）\nバッチ生成タブで確認できます。`)
   }
 
   const handleClearLog = () => {
-    if (confirm('NG学習ログを全てクリアしますか？')) {
+    const resetPrompt = confirm(
+      'NG学習ログを全てクリアしますか？\n\n「OK」→ ログをクリアし、プロンプトもデフォルトにリセットします。\n「キャンセル」→ 何もしません。'
+    )
+    if (resetPrompt) {
       setNgReasons([])
-      localStorage.removeItem('lbs-stamp-studio-ng-log')
+      localStorage.removeItem(STORAGE_KEYS.NG_LOG)
+      // プロンプトもデフォルトにリセット
+      localStorage.setItem(STORAGE_KEYS.PROMPT, DEFAULT_PROMPT)
+      alert('NG記録をクリアし、プロンプトをデフォルトにリセットしました。')
+    }
+  }
+
+  // プロンプトのみリセット（NG記録は保持）
+  const handleResetPromptOnly = () => {
+    if (confirm('プロンプトをデフォルトにリセットしますか？\n（NG記録はそのまま残ります）')) {
+      localStorage.setItem(STORAGE_KEYS.PROMPT, DEFAULT_PROMPT)
+      alert('プロンプトをデフォルトにリセットしました。')
     }
   }
 
@@ -210,8 +218,9 @@ export default function NGLog({ ngReasons, setNgReasons, stamps }) {
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 12 }}>
           <h3>NG記録一覧 {filterCategory !== 'all' && `(${CATEGORY_LABELS[filterCategory]})`}</h3>
           <div style={{ display: 'flex', gap: 8 }}>
+            <button className="filter-btn" onClick={handleResetPromptOnly}>プロンプトリセット</button>
             <button className="filter-btn" onClick={handleExport}>エクスポート</button>
-            <button className="filter-btn" style={{ color: 'var(--accent-red)' }} onClick={handleClearLog}>クリア</button>
+            <button className="filter-btn" style={{ color: 'var(--accent-red)' }} onClick={handleClearLog}>全クリア</button>
           </div>
         </div>
 
