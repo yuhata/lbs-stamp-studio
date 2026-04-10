@@ -1,8 +1,16 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
+import tailwindcss from '@tailwindcss/vite'
 
-// https://vite.dev/config/
+// Vercelでは / 、GitHub Pagesでは /lbs-stamp-studio/
+const base = process.env.VERCEL ? '/' : '/lbs-stamp-studio/'
+
 export default defineConfig({
-  plugins: [react()],
-  base: '/lbs-stamp-studio/',
+  plugins: [react(), tailwindcss()],
+  base,
+  test: {
+    environment: 'jsdom',
+    globals: true,
+    setupFiles: './src/test/setup.js',
+  },
 })
