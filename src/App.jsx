@@ -46,7 +46,6 @@ function App() {
         ))
         firestoreStamps = snap.docs
           .map(d => ({ id: d.id, ...d.data() }))
-          .filter(s => s.thumbnail_url)
           .map(s => ({
             id: `fs_${s.id}`,
             spotId: s.id,
@@ -56,8 +55,8 @@ function App() {
             lng: s.location?.longitude || 0,
             variant: 0,
             path: null,
-            dataUrl: s.thumbnail_url,
-            status: 'draft',
+            dataUrl: s.thumbnail_url || null,
+            status: s.thumbnail_url ? 'draft' : 'pending',
             designerNote: '',
             ngTags: [],
             source: 'firestore',
