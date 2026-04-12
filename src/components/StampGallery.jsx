@@ -20,6 +20,20 @@ const AREA_LABELS = {
   ryogoku: '両国',
   skytree: 'スカイツリー',
   tokyotower: '東京タワー',
+  yanesen: '谷中・根津・千駄木',
+  sugamo: '巣鴨・駒込',
+  shimokitazawa: '下北沢',
+  ebisu: '恵比寿・中目黒',
+  iidabashi: '飯田橋・神楽坂',
+  suidobashi: '水道橋・御茶ノ水',
+  tokyo: '東京・丸の内',
+  akabane: '赤羽・王子',
+  akasaka: '赤坂・永田町',
+  yoyogi: '代々木',
+  takadanobaba: '高田馬場・早稲田',
+  hamamatsucho: '浜松町',
+  shinagawa: '品川',
+  odaiba: 'お台場・豊洲',
 }
 
 const STATUS_OPTIONS = [
