@@ -3,17 +3,7 @@ import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 
-const AREA_LABELS = {
-  asakusa: '浅草',
-  shibuya: '渋谷',
-  shinjuku: '新宿',
-}
-
-const AREA_COLORS = {
-  asakusa: '#C0392B',
-  shibuya: '#6A1B9A',
-  shinjuku: '#BF360C',
-}
+import { AREA_LABELS, AREA_COLORS } from '../config/areas'
 
 const CATEGORY_ICONS = {
   shrine: { emoji: '⛩', color: '#888' },

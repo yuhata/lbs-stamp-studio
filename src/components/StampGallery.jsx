@@ -4,37 +4,7 @@ import {
   MOOD_OPTIONS, COLOR_COUNT_OPTIONS,
   buildDesignOptionsBlock,
 } from '../config/promptDefaults'
-
-const AREA_LABELS = {
-  asakusa: '浅草',
-  shibuya: '渋谷',
-  shinjuku: '新宿',
-  akihabara: '秋葉原',
-  ueno: '上野',
-  harajuku: '原宿',
-  roppongi: '六本木',
-  ginza: '銀座',
-  nihonbashi: '日本橋',
-  tsukiji: '築地',
-  ikebukuro: '池袋',
-  ryogoku: '両国',
-  skytree: 'スカイツリー',
-  tokyotower: '東京タワー',
-  yanesen: '谷中・根津・千駄木',
-  sugamo: '巣鴨・駒込',
-  shimokitazawa: '下北沢',
-  ebisu: '恵比寿・中目黒',
-  iidabashi: '飯田橋・神楽坂',
-  suidobashi: '水道橋・御茶ノ水',
-  tokyo: '東京・丸の内',
-  akabane: '赤羽・王子',
-  akasaka: '赤坂・永田町',
-  yoyogi: '代々木',
-  takadanobaba: '高田馬場・早稲田',
-  hamamatsucho: '浜松町',
-  shinagawa: '品川',
-  odaiba: 'お台場・豊洲',
-}
+import { AREA_LABELS, CANONICAL_AREAS } from '../config/areas'
 
 const STATUS_OPTIONS = [
   { value: 'all', label: '全て' },
@@ -97,8 +67,12 @@ export default function StampGallery({
             className="filter-select"
           >
             <option value="all">全て</option>
-            {areas.map(a => (
-              <option key={a} value={a}>{AREA_LABELS[a] || a}</option>
+            {/* 正式な25エリアを常に表示。stampsに含まれない未使用エリアidも（後方互換）末尾に追加 */}
+            {CANONICAL_AREAS.map(a => (
+              <option key={a.id} value={a.id}>{a.name}</option>
+            ))}
+            {areas.filter(a => !AREA_LABELS[a]).map(a => (
+              <option key={a} value={a}>{a}</option>
             ))}
           </select>
         </div>

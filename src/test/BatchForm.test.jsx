@@ -49,6 +49,28 @@ describe('BatchForm - レンダリング', () => {
   })
 })
 
+describe('BatchForm - エリア選択（全25エリア）', () => {
+  const defaultProps = { stamps: [], setStamps: vi.fn(), ngReasons: [] }
+
+  it('エリア <select> に25個の <option> が含まれる', () => {
+    render(<BatchForm {...defaultProps} />)
+    // エリアラベルの次の select を特定
+    const selects = document.querySelectorAll('select')
+    // 1番目が area, 2番目が style（構図スタイル）
+    const areaSelect = selects[0]
+    expect(areaSelect.options.length).toBe(25)
+  })
+
+  it('25エリアに主要エリア（池袋・銀座・上野など）が含まれる', () => {
+    render(<BatchForm {...defaultProps} />)
+    const areaSelect = document.querySelectorAll('select')[0]
+    const values = [...areaSelect.options].map(o => o.value)
+    for (const expected of ['asakusa', 'shibuya', 'shinjuku', 'ikebukuro', 'ueno', 'ginza', 'roppongi']) {
+      expect(values).toContain(expected)
+    }
+  })
+})
+
 describe('BatchForm - デザインオプション', () => {
   const defaultProps = { stamps: [], setStamps: vi.fn(), ngReasons: [] }
 

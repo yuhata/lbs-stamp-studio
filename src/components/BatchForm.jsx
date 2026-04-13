@@ -4,6 +4,7 @@ import {
   MOOD_OPTIONS, COLOR_COUNT_OPTIONS, ELEMENT_OPTIONS,
   buildDesignOptionsBlock,
 } from '../config/promptDefaults'
+import { CANONICAL_AREAS } from '../config/areas'
 
 const STYLES = [
   { value: 'circular', label: '円形スタンプ（駅スタンプ風）' },
@@ -146,9 +147,9 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
       <div className="form-group">
         <label>エリア</label>
         <select value={area} onChange={e => setArea(e.target.value)}>
-          <option value="asakusa">浅草</option>
-          <option value="shibuya">渋谷</option>
-          <option value="shinjuku">新宿</option>
+          {CANONICAL_AREAS.map(a => (
+            <option key={a.id} value={a.id}>{a.name}</option>
+          ))}
         </select>
       </div>
 

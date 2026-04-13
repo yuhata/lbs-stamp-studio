@@ -1,6 +1,9 @@
 import { useState, useEffect } from 'react'
+import { DEFAULT_AREA_CONFIG, CANONICAL_AREAS } from '../config/areas'
 
-const DEFAULT_AREAS = {
+// 旧: 14エリアのデフォルト（後方互換のため一応保持するが未使用）
+// eslint-disable-next-line no-unused-vars
+const LEGACY_DEFAULT_AREAS = {
   asakusa: {
     label: '浅草エリア',
     palette: ['#9E3D3F', '#C8766B', '#2B618F'],
@@ -108,7 +111,18 @@ const CRITERIA_KEY = 'lbs-stamp-studio-criteria'
 export default function AreaRules({ stamps, areas }) {
   const [areaConfig, setAreaConfig] = useState(() => {
     const saved = localStorage.getItem(AREAS_KEY)
-    return saved ? JSON.parse(saved) : DEFAULT_AREAS
+    if (saved) {
+      // 保存済み設定があっても、正式マスターに追加されたエリアは自動でマージ
+      // （既存エリアはユーザー編集を尊重して上書きしない）
+      try {
+        const parsed = JSON.parse(saved)
+        const merged = { ...DEFAULT_AREA_CONFIG, ...parsed }
+        return merged
+      } catch {
+        return { ...DEFAULT_AREA_CONFIG }
+      }
+    }
+    return { ...DEFAULT_AREA_CONFIG }
   })
   const [criteriaList, setCriteriaList] = useState(() => {
     const saved = localStorage.getItem(CRITERIA_KEY)
@@ -128,10 +142,17 @@ export default function AreaRules({ stamps, areas }) {
   }, [criteriaList])
 
   const updateAreaField = (areaKey, field, value) => {
-    setAreaConfig(prev => ({
-      ...prev,
-      [areaKey]: { ...prev[areaKey], [field]: value },
-    }))
+    setAreaConfig(prev => {
+      // prev[areaKey] が未定義の場合でもラベルや他フィールドを失わないように
+      // 正式マスター → 最低限スケルトン の順にフォールバック
+      const existing = prev[areaKey]
+        || DEFAULT_AREA_CONFIG[areaKey]
+        || { label: areaKey, palette: [], style: '円形', description: '' }
+      return {
+        ...prev,
+        [areaKey]: { ...existing, [field]: value },
+      }
+    })
   }
 
   const updateAreaPalette = (areaKey, paletteStr) => {
