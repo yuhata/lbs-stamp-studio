@@ -1,5 +1,6 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { DEFAULT_AREA_CONFIG, CANONICAL_AREAS } from '../config/areas'
+import { saveAreaConfig, saveCriteria } from '../config/studioStorage'
 
 // 旧: 14エリアのデフォルト（後方互換のため一応保持するが未使用）
 // eslint-disable-next-line no-unused-vars
@@ -133,12 +134,18 @@ export default function AreaRules({ stamps, areas }) {
   const [newRow, setNewRow] = useState({ criteria: '', ok: '', ng: '' })
   const [showAdd, setShowAdd] = useState(false)
 
+  // 初回マウント時は不要な書き込みを避ける
+  const firstAreaWrite = useRef(true)
+  const firstCriteriaWrite = useRef(true)
+
   useEffect(() => {
-    localStorage.setItem(AREAS_KEY, JSON.stringify(areaConfig))
+    if (firstAreaWrite.current) { firstAreaWrite.current = false; return }
+    saveAreaConfig(areaConfig)
   }, [areaConfig])
 
   useEffect(() => {
-    localStorage.setItem(CRITERIA_KEY, JSON.stringify(criteriaList))
+    if (firstCriteriaWrite.current) { firstCriteriaWrite.current = false; return }
+    saveCriteria(criteriaList)
   }, [criteriaList])
 
   const updateAreaField = (areaKey, field, value) => {

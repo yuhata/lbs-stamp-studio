@@ -39,4 +39,56 @@ test.describe('バッチ生成（BatchForm）', () => {
     // 生成ボタンが enable されている
     await expect(page.getByRole('button', { name: /候補を生成/ })).toBeEnabled()
   })
+
+  // 回帰: APIをモックして「クリック→生成中→生成完了→ボタン再活性」を完走させる
+  test('生成ボタンクリックで生成フローが完走しボタンが再活性化する', async ({ page }) => {
+    // 1x1 PNG（赤）の base64
+    const TINY_PNG = 'iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg=='
+
+    await page.route('**/api/generate-stamp-image', route =>
+      route.fulfill({
+        status: 200,
+        contentType: 'application/json',
+        body: JSON.stringify({
+          results: [
+            { base64: TINY_PNG, mimeType: 'image/png', index: 0 },
+            { base64: TINY_PNG, mimeType: 'image/png', index: 1 },
+          ],
+        }),
+      })
+    )
+
+    await gotoStudio(page)
+    await gotoTab(page, 'バッチ生成')
+    await page.getByPlaceholder('例: 雷門、渋谷スクランブル交差点').fill('テスト雷門')
+
+    const btn = page.getByRole('button', { name: /候補を生成/ })
+    await expect(btn).toBeEnabled()
+    await btn.click()
+
+    // 生成完了 → ボタンが「N候補を生成」表示に戻る（10秒以内）
+    await expect(page.getByRole('button', { name: /\d+候補を生成/ })).toBeEnabled({ timeout: 10000 })
+
+    // 結果カードが表示される
+    await expect(page.getByText(/生成結果/)).toBeVisible()
+    await expect(page.getByRole('button', { name: /ギャラリーに追加/ })).toBeVisible()
+  })
+
+  // 回帰: APIエラー時もボタンが再活性化する（generating状態が固まらない）
+  test('API失敗時にも生成ボタンが再活性化する', async ({ page }) => {
+    await page.route('**/api/generate-stamp-image', route =>
+      route.fulfill({ status: 500, contentType: 'application/json', body: JSON.stringify({ error: 'mock failure' }) })
+    )
+    page.on('dialog', d => d.dismiss().catch(() => {}))
+
+    await gotoStudio(page)
+    await gotoTab(page, 'バッチ生成')
+    await page.getByPlaceholder('例: 雷門、渋谷スクランブル交差点').fill('テスト')
+
+    const btn = page.getByRole('button', { name: /候補を生成/ })
+    await btn.click()
+
+    // 失敗後もボタンは再活性化（5秒以内）
+    await expect(page.getByRole('button', { name: /\d+候補を生成/ })).toBeEnabled({ timeout: 5000 })
+  })
 })

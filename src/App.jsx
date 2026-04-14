@@ -8,6 +8,7 @@ import UGCQueue from './components/UGCQueue'
 import AdminPanel from './components/AdminPanel'
 import { collection, getDocs, query, where } from 'firebase/firestore'
 import { db, authReady } from './config/firebase'
+import { pullSettingsFromFirestore, loadStampOverrides, saveStampOverride } from './config/studioStorage'
 import './App.css'
 
 const TABS = [
@@ -32,6 +33,10 @@ function App() {
     const loadStamps = async () => {
       // 0. 認証完了を待つ（Firestoreセキュリティルール対応）
       await authReady
+
+      // 0.5. Firestoreから設定（areaConfig/criteria/stampOverrides）をローカルへ復元
+      // cache clear 後でも Firestore に保存済みの設定が戻る
+      await pullSettingsFromFirestore()
 
       // 1. manifest.json（既存の静的スタンプ）
       let manifestStamps = []
@@ -71,7 +76,12 @@ function App() {
       // マージ（manifest優先、Firestoreは未登録分のみ追加）
       const manifestSpotIds = new Set(manifestStamps.map(s => s.spotId))
       const newFromFirestore = firestoreStamps.filter(s => !manifestSpotIds.has(s.spotId))
-      setStamps([...manifestStamps, ...newFromFirestore])
+      const merged = [...manifestStamps, ...newFromFirestore]
+
+      // stampOverrides をマージ（差し替え画像/位置/メモ等を復元）
+      const overrides = loadStampOverrides()
+      const withOverrides = merged.map(s => overrides[s.id] ? { ...s, ...overrides[s.id] } : s)
+      setStamps(withOverrides)
     }
 
     loadStamps()
@@ -86,6 +96,14 @@ function App() {
 
   const updateStamp = (id, updates) => {
     setStamps(prev => prev.map(s => s.id === id ? { ...s, ...updates } : s))
+    // 永続化対象フィールドのみ Firestore + localStorage へ
+    const persistKeys = ['dataUrl', 'status', 'designerNote', 'ngTags', 'lat', 'lng']
+    const persistable = Object.fromEntries(
+      Object.entries(updates).filter(([k]) => persistKeys.includes(k))
+    )
+    if (Object.keys(persistable).length > 0) {
+      saveStampOverride(id, persistable)
+    }
   }
 
   const addNgReason = (reason) => {

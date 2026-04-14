@@ -17,6 +17,33 @@ Object.defineProperty(window, 'localStorage', { value: localStorageMock })
 // fetch モック
 global.fetch = vi.fn()
 
+// Image / Canvas モック（cropToCircle が jsdom 環境で完走するようにする）
+class MockImageForTest {
+  constructor() { this.width = 0; this.height = 0; this.onload = null; this.onerror = null }
+  set src(_v) {
+    queueMicrotask(() => {
+      this.width = 1024
+      this.height = 1024
+      this.onload && this.onload()
+    })
+  }
+}
+globalThis.Image = MockImageForTest
+const _origCreateElement = document.createElement.bind(document)
+document.createElement = (tag) => {
+  if (tag === 'canvas') {
+    return {
+      width: 0, height: 0,
+      getContext: () => ({
+        drawImage: () => {}, beginPath: () => {}, arc: () => {}, closePath: () => {}, fill: () => {},
+        set globalCompositeOperation(_v) {},
+      }),
+      toDataURL: () => 'data:image/png;base64,STUB',
+    }
+  }
+  return _origCreateElement(tag)
+}
+
 beforeEach(() => {
   localStorageMock.clear()
   vi.clearAllMocks()
