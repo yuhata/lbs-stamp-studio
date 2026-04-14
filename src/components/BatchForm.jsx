@@ -1,10 +1,11 @@
-import { useState, useEffect, useCallback } from 'react'
+import { useState, useEffect, useCallback, useMemo } from 'react'
 import {
   DEFAULT_PROMPT, STORAGE_KEYS, API_URL,
   MOOD_OPTIONS, COLOR_COUNT_OPTIONS, ELEMENT_OPTIONS,
   buildDesignOptionsBlock,
 } from '../config/promptDefaults'
-import { CANONICAL_AREAS } from '../config/areas'
+import { CANONICAL_AREAS, DEFAULT_AREA_CONFIG, AREA_COLORS } from '../config/areas'
+import { cropToCircle } from '../utils/imageProcess'
 
 const STYLES = [
   { value: 'circular', label: '円形スタンプ（駅スタンプ風）' },
@@ -12,21 +13,30 @@ const STYLES = [
   { value: 'freeform', label: 'フリーフォーム' },
 ]
 
-const PRESET_PALETTES = [
-  { name: '蘇芳（神社）', colors: ['#9E3D3F', '#6B3A3A'] },
-  { name: '鶸茶（寺院）', colors: ['#8F8667', '#6B6347'] },
-  { name: '縹色（駅）', colors: ['#2B618F', '#1E4460'] },
-  { name: '老竹（道の駅）', colors: ['#769164', '#4D6340'] },
-  { name: '丁子茶（温泉）', colors: ['#B4866B', '#8B6347'] },
-  { name: '江戸紫（美術館）', colors: ['#745399', '#523A70'] },
-]
+const AREAS_KEY = 'lbs-stamp-studio-areas'
+
+// エリアルール(localStorage)から指定エリアのパレットを取得。未設定時はマスターの代表色
+function getAreaPalette(areaId) {
+  try {
+    const saved = localStorage.getItem(AREAS_KEY)
+    if (saved) {
+      const parsed = JSON.parse(saved)
+      const palette = parsed?.[areaId]?.palette
+      if (Array.isArray(palette) && palette.length > 0) return palette
+    }
+  } catch { /* fallthrough */ }
+  const defaults = DEFAULT_AREA_CONFIG[areaId]?.palette
+  if (defaults && defaults.length > 0) return defaults
+  return [AREA_COLORS[areaId] || '#333333']
+}
 
 export default function BatchForm({ stamps, setStamps, ngReasons }) {
   const [spotName, setSpotName] = useState('')
+  const [spotHint, setSpotHint] = useState('')
   const [lat, setLat] = useState('')
   const [lng, setLng] = useState('')
   const [area, setArea] = useState('asakusa')
-  const [palette, setPalette] = useState(['#9E3D3F', '#6B3A3A'])
+  const palette = useMemo(() => getAreaPalette(area), [area])
   const [style, setStyle] = useState('circular')
   const [count, setCount] = useState(4)
   const [mood, setMood] = useState('')
@@ -94,8 +104,11 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
 
     const optionBlock = buildDesignOptionsBlock({ mood, colorCount, elements })
 
+    // 補足テキストが入力されている場合は、それをスポット名の代わりに生成モチーフへ使用
+    // （例: 店名「茄子おやじ」→ 補足「カレー屋」→ カレーのイメージで生成）
+    const motif = spotHint.trim() || spotName
     const prompt = (promptTemplate + optionBlock)
-      .replace(/\{SPOT_NAME\}/g, spotName)
+      .replace(/\{SPOT_NAME\}/g, motif)
       .replace(/\{PALETTE\}/g, palette.join(', '))
 
     try {
@@ -112,7 +125,7 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
 
       if (!res.ok) throw new Error(data.error || 'API error')
 
-      const results = (data.results || []).map((r, i) => {
+      const rawResults = (data.results || []).map((r, i) => {
         if (r.base64) {
           return {
             id: `gen_${Date.now()}_${i}`,
@@ -123,6 +136,19 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
         }
         return { id: `err_${i}`, error: r.error, variant: r.index }
       })
+
+      // 構図スタイルが円形の場合のみ円外を透過トリミング
+      const results = await Promise.all(
+        rawResults.map(async (r) => {
+          if (!r.dataUrl || style !== 'circular') return r
+          try {
+            const cropped = await cropToCircle(r.dataUrl)
+            return { ...r, dataUrl: cropped }
+          } catch {
+            return r
+          }
+        })
+      )
 
       setGeneratedImages(results)
     } catch (err) {
@@ -141,6 +167,20 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
           placeholder="例: 雷門、渋谷スクランブル交差点"
           value={spotName}
           onChange={e => setSpotName(e.target.value)}
+        />
+      </div>
+
+      <div className="form-group">
+        <label>補足テキスト（任意）</label>
+        <div style={{ fontSize: 11, color: 'var(--text-muted)', marginBottom: 6 }}>
+          スポット名からイメージが湧きにくい場合、モチーフを補足（例: 「茄子おやじ」→「カレー屋」）。
+          入力時はこの文字列が優先されて生成されます。
+        </div>
+        <input
+          type="text"
+          placeholder="例: カレー屋、老舗の和菓子店"
+          value={spotHint}
+          onChange={e => setSpotHint(e.target.value)}
         />
       </div>
 
@@ -169,19 +209,16 @@ export default function BatchForm({ stamps, setStamps, ngReasons }) {
       </div>
 
       <div className="form-group">
-        <label>パレットプリセット（日本の伝統色）</label>
-        <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
-          {PRESET_PALETTES.map(p => (
-            <button key={p.name} className="filter-btn"
-              style={{ border: JSON.stringify(palette) === JSON.stringify(p.colors) ? '2px solid var(--accent)' : undefined }}
-              onClick={() => setPalette(p.colors)}>
-              <span style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
-                {p.colors.map((c, i) => (
-                  <span key={i} style={{ width: 12, height: 12, borderRadius: 3, background: c, display: 'inline-block' }} />
-                ))}
-                <span>{p.name}</span>
-              </span>
-            </button>
+        <label>パレット（エリアルールから自動適用）</label>
+        <div style={{ fontSize: 11, color: 'var(--text-muted)', marginBottom: 6 }}>
+          選択中エリアの色を使用します。変更は「エリアルール」タブから。
+        </div>
+        <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', alignItems: 'center' }}>
+          {palette.map((c, i) => (
+            <div key={i} style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
+              <span style={{ width: 18, height: 18, borderRadius: 4, background: c, display: 'inline-block', border: '1px solid var(--border)' }} />
+              <span style={{ fontSize: 11, color: 'var(--text-muted)' }}>{c}</span>
+            </div>
           ))}
         </div>
       </div>

@@ -154,7 +154,7 @@ function App() {
       </nav>
 
       {activeTab === 'map' && (
-        <MapView stamps={stamps} updateStamp={updateStamp} onSelectSpot={handleSelectSpot}
+        <MapView stamps={stamps} updateStamp={updateStamp} setStamps={setStamps} onSelectSpot={handleSelectSpot}
           focusSpotId={focusSpotId} clearFocusSpot={() => setFocusSpotId(null)} />
       )}
       {activeTab === 'gallery' && (

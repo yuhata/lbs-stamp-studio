@@ -93,11 +93,26 @@ export default function StampGallery({
       ) : (
         Object.entries(grouped).map(([spotId, group]) => (
           <div key={spotId}>
-            <div style={{ padding: '12px 24px 0', fontSize: 14, color: '#fff', fontWeight: 600 }}>
-              {group.spotName}
-              <span style={{ fontSize: 11, color: '#ff6b35', marginLeft: 8 }}>
+            <div style={{ padding: '12px 24px 0', fontSize: 14, color: '#fff', fontWeight: 600, display: 'flex', alignItems: 'center', gap: 8 }}>
+              <span>{group.spotName}</span>
+              <span style={{ fontSize: 11, color: '#ff6b35' }}>
                 {AREA_LABELS[group.area] || group.area}
               </span>
+              <button
+                title="このスポットを削除（ローカル状態のみ）"
+                onClick={() => {
+                  if (!confirm(`スポット「${group.spotName}」と、紐づく${group.stamps.length}件のスタンプを削除します。よろしいですか？`)) return
+                  setStamps(prev => prev.filter(s => s.spotId !== spotId))
+                }}
+                style={{
+                  marginLeft: 'auto', background: 'none',
+                  border: '1px solid var(--accent-red)', borderRadius: 4,
+                  color: 'var(--accent-red)', fontSize: 11, padding: '2px 8px',
+                  cursor: 'pointer',
+                }}
+              >
+                スポット削除
+              </button>
             </div>
             <div className="stamp-grid">
               {group.stamps.map(stamp => (
