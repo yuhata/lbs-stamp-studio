@@ -30,6 +30,7 @@ export default function StampGallery({
 }) {
   const [selected, setSelected] = useState(null)
   const [batchSpot, setBatchSpot] = useState(null) // 既存スポットへの追加生成モーダル
+  const [editingSpot, setEditingSpot] = useState(null) // { spotId, spotName, area } — 未分類タグ付け用
   const focusRef = useRef(null)
 
   // マップからのスポット選択時にスクロール
@@ -102,11 +103,92 @@ export default function StampGallery({
       ) : (
         Object.entries(grouped).map(([spotId, group]) => (
           <div key={spotId}>
-            <div style={{ padding: '12px 24px 0', fontSize: 14, color: '#fff', fontWeight: 600, display: 'flex', alignItems: 'center', gap: 8 }}>
-              <span>{group.spotName}</span>
-              <span style={{ fontSize: 11, color: '#ff6b35' }}>
-                {AREA_LABELS[group.area] || group.area}
-              </span>
+            <div style={{ padding: '12px 24px 0', fontSize: 14, color: '#fff', fontWeight: 600, display: 'flex', alignItems: 'center', gap: 8, flexWrap: 'wrap' }}>
+              {editingSpot?.spotId === spotId ? (
+                <>
+                  <input
+                    type="text"
+                    value={editingSpot.spotName}
+                    onChange={e => setEditingSpot(prev => ({ ...prev, spotName: e.target.value }))}
+                    placeholder="スポット名"
+                    style={{
+                      background: 'var(--bg)', border: '1px solid var(--accent)', borderRadius: 4,
+                      color: '#fff', fontSize: 13, padding: '2px 8px', width: 140,
+                    }}
+                    autoFocus
+                  />
+                  <select
+                    value={editingSpot.area}
+                    onChange={e => setEditingSpot(prev => ({ ...prev, area: e.target.value }))}
+                    style={{
+                      background: 'var(--bg)', border: '1px solid var(--border)', borderRadius: 4,
+                      color: '#fff', fontSize: 11, padding: '2px 4px',
+                    }}
+                  >
+                    {CANONICAL_AREAS.map(a => <option key={a.id} value={a.id}>{a.name}</option>)}
+                  </select>
+                  <button
+                    disabled={!editingSpot.spotName.trim()}
+                    onClick={() => {
+                      const newName = editingSpot.spotName.trim()
+                      const newArea = editingSpot.area
+                      const newSpotId = newName.replace(/\s+/g, '_').toLowerCase()
+                      setStamps(prev => prev.map(s =>
+                        s.spotId === spotId
+                          ? { ...s, spotName: newName, area: newArea, spotId: newSpotId }
+                          : s
+                      ))
+                      setEditingSpot(null)
+                    }}
+                    style={{
+                      background: 'var(--accent)', border: 'none', borderRadius: 4,
+                      color: '#fff', fontSize: 11, padding: '2px 10px', cursor: 'pointer',
+                    }}
+                  >
+                    確定
+                  </button>
+                  <button
+                    onClick={() => setEditingSpot(null)}
+                    style={{
+                      background: 'none', border: '1px solid #888', borderRadius: 4,
+                      color: '#888', fontSize: 11, padding: '2px 8px', cursor: 'pointer',
+                    }}
+                  >
+                    取消
+                  </button>
+                </>
+              ) : (
+                <>
+                  <span>{group.spotName}</span>
+                  <span style={{ fontSize: 11, color: '#ff6b35' }}>
+                    {AREA_LABELS[group.area] || group.area}
+                  </span>
+                  {group.spotName === '未分類' && (
+                    <button
+                      title="スポット名・エリアを設定"
+                      onClick={() => setEditingSpot({ spotId, spotName: '', area: 'asakusa' })}
+                      style={{
+                        background: 'none', border: '1px solid #ffc107', borderRadius: 4,
+                        color: '#ffc107', fontSize: 11, padding: '2px 8px', cursor: 'pointer',
+                      }}
+                    >
+                      タグ付け
+                    </button>
+                  )}
+                  {group.spotName !== '未分類' && (
+                    <button
+                      title="スポット名・エリアを編集"
+                      onClick={() => setEditingSpot({ spotId, spotName: group.spotName, area: group.area })}
+                      style={{
+                        background: 'none', border: 'none',
+                        color: '#888', fontSize: 11, padding: '2px 4px', cursor: 'pointer',
+                      }}
+                    >
+                      ✏️
+                    </button>
+                  )}
+                </>
+              )}
               <button
                 title="このスポットに新しいスタンプを生成する"
                 onClick={() => {
@@ -129,7 +211,7 @@ export default function StampGallery({
                 ＋ スタンプ追加生成
               </button>
               <button
-                title="このスポットを削除（ローカル状態のみ）"
+                title="このスポットを削除"
                 onClick={() => {
                   if (!confirm(`スポット「${group.spotName}」と、紐づく${group.stamps.length}件のスタンプを削除します。よろしいですか？`)) return
                   setStamps(prev => prev.filter(s => s.spotId !== spotId))
