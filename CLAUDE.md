@@ -18,7 +18,20 @@ Stampikoのスタンプを生成・管理する管理ツール。
 2. 結果サマリー（n/m passed、失敗があれば内容）
 3. **実Firebase スモーク実施有無**（永続化/外部連携変更時は必須）
 4. 実画面で確認したフロー（UIが絡む場合）
-5. 残課題・既知の制約
+5. **デプロイ後の本番 runtime 反映確認**（ρ: GitHub Pages/Vercel のデプロイ完了 + 本番で新コードが効いていることを実挙動で確認）
+6. 残課題・既知の制約
+
+### ο. 外部依存URL（Storage / Signed URL / CDN）は実到達性まで smoke する
+- 画像/ファイルURLを扱うフローは smoke に「**生成URLを実際に curl 200 まで確認**」を含める
+- upload成功 / metadata書込成功だけでは不十分。**ブラウザが取得する形式**のURLが実際に200を返すか検証
+- 外部依存（Firebase Storage バケット移行 / 署名仕様変更 / CDN ポリシー）は**コード変更ゼロでも破壊される**前提
+- 理由: 2026-04-18 Stampiko本体の PhotoGallery事故（v4署名が本番で `SignatureDoesNotMatch`）の再発防止
+
+### π. 手動テスト依頼の前に Claude 側で自己完結検証を試みる
+- デザイナー/秦さんに画面操作を依頼する前に、**Claude側で同等検証が可能か必ず自問**する
+- 使える検証手段: Firebase Admin SDK + custom token、Playwright headless、smoke-*.mjs、`firebase rules:test`、直接 REST 叩き等
+- 「これ自分でAPIを叩けば分かるのでは？」と一度止まる
+- 理由: 2026-04-18 Stampiko本体の4時間DevTools依頼事故。Studio はユーザーがデザイナー1人なので依頼負荷がさらに重い
 
 ### δ. 事故ログ運用
 - 想定外の事故（バグ・データ消失・UXブロッカー等）が発生したら、改善ログ Notion に必ず記録
