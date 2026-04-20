@@ -123,9 +123,12 @@ export default function BatchForm({ stamps, setStamps, ngReasons, lockedSpot, on
       if (refImage) {
         body.referenceImage = { base64: refImage.base64, mimeType: refImage.mimeType }
       }
+      const headers = { 'Content-Type': 'application/json' }
+      const studioKey = import.meta.env.VITE_STUDIO_API_KEY
+      if (studioKey) headers.Authorization = `Bearer studio:${studioKey}`
       const res = await fetch(`${API_URL}/api/generate-stamp-image`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers,
         body: JSON.stringify(body),
       })
       const data = await res.json()
