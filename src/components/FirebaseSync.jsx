@@ -47,7 +47,11 @@ export default function FirebaseSync({ stamps }) {
           spotName: stamp.spotName,
           name: stamp.spotName,
           groupId: `group_${stamp.area}`,
-          imageUrl: stamp.path ? `${window.location.origin}${import.meta.env.BASE_URL}${stamp.path}` : '',
+          // ver2: Storage downloadURL (stamp.imageUrl) を最優先。
+          // 旧manifest/publicpath 経由の stamp にはまだ imageUrl が無いので path からフォールバック。
+          // どちらもない場合は空文字（publish 側で検知してエラー表示すべきだが現状は許容）。
+          imageUrl: stamp.imageUrl
+            || (stamp.path ? `${window.location.origin}${import.meta.env.BASE_URL}${stamp.path}` : ''),
           rarity: 'common',
         })
         results.push({ stamp, stampId, success: true })
