@@ -43,6 +43,10 @@ export default function AreaRules({ stamps, areas }) {
     return saved ? JSON.parse(saved) : DEFAULT_CRITERIA
   })
   const [editingArea, setEditingArea] = useState(null)
+  // パレット入力欄の一時テキスト状態。
+  // onChange の度にパレット配列へ変換すると末尾カンマが filter(Boolean) で除去されて
+  // input の value が書き換わりカンマを打てなくなるため、onBlur/Enter 時のみ配列へ変換する。
+  const [paletteInputValues, setPaletteInputValues] = useState({})
   const [editingId, setEditingId] = useState(null)
   const [newRow, setNewRow] = useState({ criteria: '', ok: '', ng: '' })
   const [showAdd, setShowAdd] = useState(false)
@@ -78,6 +82,8 @@ export default function AreaRules({ stamps, areas }) {
   const updateAreaPalette = (areaKey, paletteStr) => {
     const colors = paletteStr.split(',').map(c => c.trim()).filter(Boolean)
     updateAreaField(areaKey, 'palette', colors)
+    // onBlur/Enter後: 入力欄も正規化済み文字列に同期（末尾カンマ・余分スペースを整形）
+    setPaletteInputValues(prev => ({ ...prev, [areaKey]: colors.join(', ') }))
   }
 
   // 品質基準
@@ -113,7 +119,16 @@ export default function AreaRules({ stamps, areas }) {
           <div key={area} className="area-section">
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <h2>{config.label}</h2>
-              <button className="criteria-btn edit" onClick={() => setEditingArea(isEditing ? null : area)}>
+              <button className="criteria-btn edit" onClick={() => {
+                if (!isEditing) {
+                  // 編集開始時: 現在のパレット配列をテキストとして初期化
+                  setPaletteInputValues(prev => ({
+                    ...prev,
+                    [area]: config.palette.join(', '),
+                  }))
+                }
+                setEditingArea(isEditing ? null : area)
+              }}>
                 {isEditing ? '完了' : '編集'}
               </button>
             </div>
@@ -122,8 +137,24 @@ export default function AreaRules({ stamps, areas }) {
               <div style={{ display: 'grid', gap: 8, marginBottom: 12 }}>
                 <div>
                   <label style={{ fontSize: 11, color: '#888' }}>パレット（カンマ区切り）</label>
-                  <input className="criteria-input" value={config.palette.join(', ')}
-                    onChange={e => updateAreaPalette(area, e.target.value)} />
+                  <input
+                    className="criteria-input"
+                    value={paletteInputValues[area] ?? config.palette.join(', ')}
+                    onChange={e => {
+                      // 入力中はテキストをそのまま保持（末尾カンマ等を除去しない）
+                      setPaletteInputValues(prev => ({ ...prev, [area]: e.target.value }))
+                    }}
+                    onBlur={e => {
+                      // フォーカスアウト時にパレット配列へ変換・保存
+                      updateAreaPalette(area, e.target.value)
+                    }}
+                    onKeyDown={e => {
+                      if (e.key === 'Enter') {
+                        e.preventDefault()
+                        updateAreaPalette(area, e.currentTarget.value)
+                      }
+                    }}
+                  />
                 </div>
                 <div>
                   <label style={{ fontSize: 11, color: '#888' }}>スタイル</label>

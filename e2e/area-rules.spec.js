@@ -70,6 +70,72 @@ test.describe('localStorage マイグレーション（旧14エリア→25エリ
   })
 })
 
+test.describe('パレット入力欄 末尾カンマ バグ修正検証', () => {
+  test.beforeEach(async ({ page }) => {
+    await clearStudioStorage(page)
+  })
+
+  test('末尾カンマを入力してもブロックされない（入力値が保持される）', async ({ page }) => {
+    await openAreaRules(page)
+
+    const section = await getAreaSection(page, '渋谷エリア')
+    await section.getByRole('button', { name: '編集' }).click()
+
+    const paletteInput = section.locator('input.criteria-input').first()
+
+    // 末尾にカンマを入力
+    await paletteInput.fill('#ff0000, #00ff00,')
+
+    // onBlur 前は末尾カンマが保持されていること
+    await expect(paletteInput).toHaveValue('#ff0000, #00ff00,')
+
+    // フォーカスアウト（onBlur）→ 正規化されてカンマが除去されること
+    await paletteInput.blur()
+    await expect(paletteInput).toHaveValue('#ff0000, #00ff00')
+  })
+
+  test('末尾カンマでフォーカスアウトしても正しい色がパレットに保存される', async ({ page }) => {
+    await openAreaRules(page)
+
+    const section = await getAreaSection(page, '渋谷エリア')
+    await section.getByRole('button', { name: '編集' }).click()
+
+    const paletteInput = section.locator('input.criteria-input').first()
+    await paletteInput.fill('#aa0000, #0000bb,')
+    await paletteInput.blur()
+
+    // 完了ボタンで保存
+    await section.getByRole('button', { name: '完了' }).click()
+
+    // パレット表示に正しい色が反映されていること（空文字要素が入っていないこと）
+    const palette = section.locator('.area-palette')
+    await expect(palette).toContainText('#aa0000')
+    await expect(palette).toContainText('#0000bb')
+    // 空スウォッチが混入していないことを確認（color-swatch の数が2枚）
+    const swatches = section.locator('.color-swatch')
+    await expect(swatches).toHaveCount(2)
+  })
+
+  test('Enter キーで確定してもパレット配列に末尾の空文字が入らない', async ({ page }) => {
+    await openAreaRules(page)
+
+    const section = await getAreaSection(page, '渋谷エリア')
+    await section.getByRole('button', { name: '編集' }).click()
+
+    const paletteInput = section.locator('input.criteria-input').first()
+    await paletteInput.fill('#cc0000,')
+    await paletteInput.press('Enter')
+
+    // Enter後に正規化されていること
+    await expect(paletteInput).toHaveValue('#cc0000')
+
+    // 完了して確認
+    await section.getByRole('button', { name: '完了' }).click()
+    const swatches = section.locator('.color-swatch')
+    await expect(swatches).toHaveCount(1)
+  })
+})
+
 test.describe('クロスタブ状態保持', () => {
   test('エリア編集 → 他タブへ → 戻ると編集内容が保持される', async ({ page }) => {
     await clearStudioStorage(page)
