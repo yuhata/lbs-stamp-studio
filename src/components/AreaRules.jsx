@@ -46,6 +46,7 @@ export default function AreaRules({ stamps, areas }) {
   const [editingId, setEditingId] = useState(null)
   const [newRow, setNewRow] = useState({ criteria: '', ok: '', ng: '' })
   const [showAdd, setShowAdd] = useState(false)
+  const [paletteInputText, setPaletteInputText] = useState({})
 
   // 初回マウント時は不要な書き込みを避ける
   const firstAreaWrite = useRef(true)
@@ -78,6 +79,38 @@ export default function AreaRules({ stamps, areas }) {
   const updateAreaPalette = (areaKey, paletteStr) => {
     const colors = paletteStr.split(',').map(c => c.trim()).filter(Boolean)
     updateAreaField(areaKey, 'palette', colors)
+  }
+
+  const handlePaletteChange = (area, value) => {
+    // 入力中は raw value を保持（末尾のカンマも含める）
+    setPaletteInputText(prev => ({ ...prev, [area]: value }))
+  }
+
+  const handlePaletteBlur = (area) => {
+    // onBlur 時に正規化
+    const rawInput = paletteInputText[area] ?? areaConfig[area]?.palette?.join(', ') ?? ''
+    updateAreaPalette(area, rawInput)
+    // 編集完了後は local state を削除
+    setPaletteInputText(prev => {
+      const next = { ...prev }
+      delete next[area]
+      return next
+    })
+  }
+
+  const handlePaletteKeyDown = (area, e) => {
+    // Enter キーで確定
+    if (e.key === 'Enter') {
+      e.preventDefault()
+      handlePaletteBlur(area)
+    }
+  }
+
+  const getPaletteInputValue = (area) => {
+    // 編集中なら local input text、そうでなら config から表示値を読む
+    return paletteInputText[area] !== undefined
+      ? paletteInputText[area]
+      : (areaConfig[area]?.palette?.join(', ') ?? '')
   }
 
   // 品質基準
@@ -122,8 +155,11 @@ export default function AreaRules({ stamps, areas }) {
               <div style={{ display: 'grid', gap: 8, marginBottom: 12 }}>
                 <div>
                   <label style={{ fontSize: 11, color: '#888' }}>パレット（カンマ区切り）</label>
-                  <input className="criteria-input" value={config.palette.join(', ')}
-                    onChange={e => updateAreaPalette(area, e.target.value)} />
+                  <input className="criteria-input"
+                    value={getPaletteInputValue(area)}
+                    onChange={e => handlePaletteChange(area, e.target.value)}
+                    onBlur={() => handlePaletteBlur(area)}
+                    onKeyDown={e => handlePaletteKeyDown(area, e)} />
                 </div>
                 <div>
                   <label style={{ fontSize: 11, color: '#888' }}>スタイル</label>
